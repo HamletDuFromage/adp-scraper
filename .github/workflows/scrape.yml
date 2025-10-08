@@ -1,4 +1,4 @@
-name: Scrape ADP and Push
+name: scrape & push
 
 on:
   workflow_dispatch:
@@ -8,6 +8,8 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # push changes to repo
 
     steps:
       - name: Checkout repository
