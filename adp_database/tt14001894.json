@@ -1,0 +1,24 @@
+{
+  "Title": "Secret Headquarters",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1641054954"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BJYJMK1Z/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2188557"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Dicktown",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/dicktown-845eca18-d4d6-46a3-a575-212f4b98fea3"
+    }
+  ],
+  "in_theaters": false
+}

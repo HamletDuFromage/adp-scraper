@@ -1,0 +1,20 @@
+{
+  "Title": "The Land Before Time",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a9f773-cb48-31ab-f1dc-f8d3f9c2cbec/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/683101"
+    }
+  ],
+  "in_theaters": false
+}

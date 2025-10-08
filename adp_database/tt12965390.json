@@ -1,0 +1,26 @@
+{
+  "Title": "Perfect Addiction",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04536a91-06ac-4a17-bca1-77be6464c775/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1673578424"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BZFMTRRV/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2280952"
+    }
+  ],
+  "in_theaters": false
+}

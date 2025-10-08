@@ -1,0 +1,17 @@
+{
+  "Title": "Love on Repeat",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eab80146-ff62-b3f3-82c4-8b1940d72768/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

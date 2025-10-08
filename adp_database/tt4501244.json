@@ -1,0 +1,20 @@
+{
+  "Title": "Why Him?",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06b8d423-acfd-502f-6f3e-23a7d6e4522c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1181603503"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI95AC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

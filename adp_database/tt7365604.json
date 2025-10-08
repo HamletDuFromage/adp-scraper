@@ -1,0 +1,16 @@
+{
+  "Title": "Dog Days",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07DKN1DY4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

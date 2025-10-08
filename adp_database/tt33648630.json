@@ -1,0 +1,15 @@
+{
+  "Title": "3 Working Days",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9b422a27-7d44-4f74-aeef-45e22cb3ca9b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

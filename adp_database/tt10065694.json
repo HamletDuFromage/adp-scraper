@@ -1,0 +1,23 @@
+{
+  "Title": "Antebellum",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02ce951b-8958-436f-bac1-b60c469e3488/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1526774097"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08H6QDWJY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

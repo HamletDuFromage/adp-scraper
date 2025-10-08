@@ -1,0 +1,16 @@
+{
+  "Title": "Legacy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/e43ace69-18b5-4ef2-9430-22d48c30d62a"
+    }
+  ],
+  "in_theaters": false
+}

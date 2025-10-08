@@ -1,0 +1,22 @@
+{
+  "Title": "Licorice Pizza",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1607600153"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09M6TG6V5/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5f495034-59f0-435b-a779-70c90fcaa50b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

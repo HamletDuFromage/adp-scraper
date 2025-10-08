@@ -1,0 +1,20 @@
+{
+  "Title": "Now and Then",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2fd35848-42c8-4931-809c-69462e365c7c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1w3e47nmnt4o304oaauh4k2rm"
+    }
+  ],
+  "in_theaters": false
+}

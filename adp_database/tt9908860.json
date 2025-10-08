@@ -1,0 +1,14 @@
+{
+  "Title": "Blown Away",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80215147"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The Choe Show",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Lifestyle & Culture",
+    "TV Variety"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-choe-show-c964e5f4-ab76-429d-8ed5-a0cf5db56cf2"
+    }
+  ],
+  "in_theaters": false
+}

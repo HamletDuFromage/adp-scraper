@@ -1,0 +1,21 @@
+{
+  "Title": "Our Flag Means Death",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Comedy",
+    "History",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8bfe75cc-fbd5-4833-829c-1ab23dff1323/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/86312320-8f2e-4b45-b06f-376224def821"
+    }
+  ],
+  "in_theaters": false
+}

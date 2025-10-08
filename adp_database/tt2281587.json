@@ -1,0 +1,22 @@
+{
+  "Title": "Muppets Most Wanted",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/muppets-most-wanted/5P53FrvtFCEo"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id839850037"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00HNX273K/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

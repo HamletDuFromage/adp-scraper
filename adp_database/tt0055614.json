@@ -1,0 +1,16 @@
+{
+  "Title": "West Side Story",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66a9f716-07d2-e87e-3ef5-761eeb8ab708/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

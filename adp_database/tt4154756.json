@@ -1,0 +1,24 @@
+{
+  "Title": "Avengers: Infinity War",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4eb68101-2b5a-bd28-b375-e926f4b5a8be/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-avengers-infinity-war/1WEuZ7H6y39v"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1370224078"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07BYWVLZR/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "The Automat",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Food & Home",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58200ec3-c015-4b13-96a0-f93306c0cfda/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/05280790-5a2c-4ff8-aea4-d9c5c0f6b325"
+    }
+  ],
+  "in_theaters": false
+}

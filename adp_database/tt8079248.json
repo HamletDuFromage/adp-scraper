@@ -1,0 +1,23 @@
+{
+  "Title": "Yesterday",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Music",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2b5b3b1-0f04-0034-8a1b-f3bd9f227200/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1468912156"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07T4RYGLX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

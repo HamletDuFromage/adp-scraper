@@ -1,0 +1,16 @@
+{
+  "Title": "Duel At Diablo",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Thriller",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0a9f7c1-5051-7127-fc55-c1cee88b603b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

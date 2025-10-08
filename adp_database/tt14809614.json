@@ -1,0 +1,18 @@
+{
+  "Title": "Hart to Heart",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/hart-to-heart/6188944115208130112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c9b06d55-348a-431a-b41e-5e5eeaf577ee/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

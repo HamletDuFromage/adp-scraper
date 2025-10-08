@@ -1,0 +1,16 @@
+{
+  "Title": "Bad Blood",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cca9f78a-614f-e5e4-79d7-145d2d40b21d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

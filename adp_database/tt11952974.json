@@ -1,0 +1,17 @@
+{
+  "Title": "SurrealEstate",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/surrealestate-c730cc12-5074-4e47-b3bc-9910c24c6d6c"
+    }
+  ],
+  "in_theaters": false
+}

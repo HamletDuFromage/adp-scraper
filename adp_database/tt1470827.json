@@ -1,0 +1,16 @@
+{
+  "Title": "Monsters",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bca9f7bc-52b7-c858-ea2e-fca1c1fe7053/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

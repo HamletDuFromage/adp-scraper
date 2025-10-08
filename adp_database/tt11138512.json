@@ -1,0 +1,24 @@
+{
+  "Title": "The Northman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bbaee0ec-3a6f-418f-a11f-d80f31448e64/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/the-northman/91c681ef-20c9-309d-a14a-3ba7c53fd67d"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1621644803"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09YLDPBMZ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

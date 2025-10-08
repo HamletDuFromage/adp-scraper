@@ -1,0 +1,17 @@
+{
+  "Title": "Selenkay",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-c4822a7e-7cff-4f1b-95fd-c37915c56680"
+    }
+  ],
+  "in_theaters": false
+}

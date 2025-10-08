@@ -1,0 +1,20 @@
+{
+  "Title": "Curb Your Enthusiasm",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/18a0993f-209a-4653-8f94-f3fb8422e678"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3113600"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38bc47a1-277f-1083-6aea-f6cb62955368/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

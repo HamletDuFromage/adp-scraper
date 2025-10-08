@@ -1,0 +1,19 @@
+{
+  "Title": "WondLa",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.01a09ab0-dff4-40d3-ac08-039ac33601ff/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2ghd8ombh4fd37rfs27ivfa94"
+    }
+  ],
+  "in_theaters": false
+}

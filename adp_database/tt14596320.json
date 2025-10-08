@@ -1,0 +1,21 @@
+{
+  "Title": "Spin Me Round",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1f239c62-d4e5-4a07-b130-6e7ff4bacdec/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1635242393"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BJY5Q1K3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

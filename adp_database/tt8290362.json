@@ -1,0 +1,19 @@
+{
+  "Title": "The Head",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.01a074c9-f561-426c-b13c-19c30551cdc1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a2606cd3-11f0-4f05-a2ab-fe798f0a00af"
+    }
+  ],
+  "in_theaters": false
+}

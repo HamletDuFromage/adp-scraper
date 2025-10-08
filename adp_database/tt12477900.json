@@ -1,0 +1,16 @@
+{
+  "Title": "Miss S",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/ee88531e-b72f-43e6-86f5-1250aa5abb05"
+    }
+  ],
+  "in_theaters": false
+}

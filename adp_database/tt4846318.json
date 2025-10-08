@@ -1,0 +1,14 @@
+{
+  "Title": "Into the Inferno",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80066073"
+    }
+  ],
+  "in_theaters": false
+}

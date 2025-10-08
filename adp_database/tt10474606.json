@@ -1,0 +1,16 @@
+{
+  "Title": "We Bare Bears: The Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0b930b4-cc2d-458f-9a21-b89314652e00/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

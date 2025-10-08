@@ -1,0 +1,17 @@
+{
+  "Title": "Nature's Half Acre",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/natures-half-acre/NlRZzIPVAhcZ"
+    }
+  ],
+  "in_theaters": false
+}

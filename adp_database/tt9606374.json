@@ -1,0 +1,25 @@
+{
+  "Title": "On the Rocks",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4404c13f-a3a4-4a62-9d00-42799414c320/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.1mydlea6wicrm013138speg6m"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4279120"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1805979868"
+    }
+  ],
+  "in_theaters": false
+}

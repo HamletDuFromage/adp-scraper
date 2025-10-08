@@ -1,0 +1,15 @@
+{
+  "Title": "Alex Rider",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.00c21c67-c7b8-4970-9b06-aecd6a90ed89/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Three Men and a Little Lady",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/three-men-and-a-little-lady/6ikf6pxvNySr"
+    }
+  ],
+  "in_theaters": false
+}

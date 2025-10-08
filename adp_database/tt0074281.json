@@ -1,0 +1,16 @@
+{
+  "Title": "Car Wash",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.caa9f77a-70aa-cb4d-4cc7-06b97018e3fc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

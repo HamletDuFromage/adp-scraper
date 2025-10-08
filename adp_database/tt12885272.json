@@ -1,0 +1,16 @@
+{
+  "Title": "Diana: The Musical",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81323667"
+    }
+  ],
+  "in_theaters": false
+}

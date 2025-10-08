@@ -1,0 +1,23 @@
+{
+  "Title": "Twisters",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9085fc93-9801-4f2e-b769-5c308fc3327e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1756614603"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D8WHMP8R/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3144080"
+    }
+  ],
+  "in_theaters": false
+}

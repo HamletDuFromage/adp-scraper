@@ -1,0 +1,19 @@
+{
+  "Title": "Shaun of the Dead",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id279610304"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/5767"
+    }
+  ],
+  "in_theaters": false
+}

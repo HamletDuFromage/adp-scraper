@@ -1,0 +1,17 @@
+{
+  "Title": "Where the Wild Things Are",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ea9f71c-7728-58af-c936-7b6af6b8a7da/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

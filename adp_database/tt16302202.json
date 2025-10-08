@@ -1,0 +1,14 @@
+{
+  "Title": "The Estate",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2157907"
+    }
+  ],
+  "in_theaters": false
+}

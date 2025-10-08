@@ -1,0 +1,16 @@
+{
+  "Title": "Radioactive",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2b982eb-e65b-eaff-1769-66e380b2a1e6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

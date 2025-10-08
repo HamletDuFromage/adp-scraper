@@ -1,0 +1,25 @@
+{
+  "Title": "School Spirits",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81706088"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/school-spirits/"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4303159"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94baead9-c0f7-4906-8499-a6d89877fc82/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

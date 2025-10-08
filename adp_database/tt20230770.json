@@ -1,0 +1,18 @@
+{
+  "Title": "Life by Ella",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4121cbe1-0ace-43ce-9da8-b91a0f200467/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1suiyueh1ntwjtsstcwldofno"
+    }
+  ],
+  "in_theaters": false
+}

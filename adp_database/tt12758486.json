@@ -1,0 +1,29 @@
+{
+  "Title": "Chevalier",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c677b2b1-6dea-4d7f-9e69-ffb8c7755b1a/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20516629-cb29-4d47-94df-d5350d6248bd/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/chevalier-347e9d80-38a9-42bb-b419-169abac91e09"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1687781725"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2405775"
+    }
+  ],
+  "in_theaters": false
+}

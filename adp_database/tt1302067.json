@@ -1,0 +1,19 @@
+{
+  "Title": "Yogi Bear",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0d21ec54-951c-44a5-9e85-e79d97f0f10d/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d2e35b07-f6c0-4d90-a94f-b58f22079781"
+    }
+  ],
+  "in_theaters": false
+}

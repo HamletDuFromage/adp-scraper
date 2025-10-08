@@ -1,0 +1,17 @@
+{
+  "Title": "Black Doves",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81682935"
+    }
+  ],
+  "in_theaters": false
+}

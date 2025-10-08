@@ -1,0 +1,21 @@
+{
+  "Title": "Atlantis: The Lost Empire",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78a9f750-be2e-5307-6ddc-ee5bfeeadd70/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/atlantis-the-lost-empire/20bTDjr36sfj"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id351757020"
+    }
+  ],
+  "in_theaters": false
+}

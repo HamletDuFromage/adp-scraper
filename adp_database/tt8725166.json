@@ -1,0 +1,14 @@
+{
+  "Title": "Dark Tourist",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80189791"
+    }
+  ],
+  "in_theaters": false
+}

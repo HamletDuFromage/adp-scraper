@@ -1,0 +1,16 @@
+{
+  "Title": "The Art of Self-Defense",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07TLPBDFG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

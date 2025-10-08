@@ -1,0 +1,18 @@
+{
+  "Title": "Samson",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3eb0d834-53a0-d858-b411-e125e223dc24/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B079P9BVJN/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

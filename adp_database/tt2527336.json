@@ -1,0 +1,25 @@
+{
+  "Title": "Star Wars: Episode VIII - The Last Jedi",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54b004e3-04bb-cb47-6235-f7e06ec17ead/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-the-last-jedi/1nCWFK1pmAI0"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1316280891"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B079JGGX3P/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

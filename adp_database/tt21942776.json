@@ -1,0 +1,18 @@
+{
+  "Title": "Circuit Breakers",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f312d8e6-5e34-49a7-9476-d9cfb98b3f3c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.5yhan8dv6gc9ww55ua7z4dq5t"
+    }
+  ],
+  "in_theaters": false
+}

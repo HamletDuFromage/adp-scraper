@@ -1,0 +1,17 @@
+{
+  "Title": "Country Christmas Album",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.91cdcb12-832b-4fa0-9ccc-0677ee5e3116/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

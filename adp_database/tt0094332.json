@@ -1,0 +1,16 @@
+{
+  "Title": "The Witches of Eastwick",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0a9f6cc-7b97-2e4a-72bb-f83802f9dc13/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

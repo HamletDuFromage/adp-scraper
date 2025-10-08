@@ -1,0 +1,16 @@
+{
+  "Title": "Holly Hobbie",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/holly-hobbie-0f29ba2c-5c0e-418e-b1a5-21d7b51acc32"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "In the Heights",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49680095-eb48-4b46-9ec8-48911536d2e9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1570356293"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B091VPG7DJ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

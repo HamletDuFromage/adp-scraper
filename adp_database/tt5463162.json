@@ -1,0 +1,24 @@
+{
+  "Title": "Deadpool 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84b1afca-7203-d4cd-bf2b-2f019b7d908f/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-bdcd5a83-ad6e-428f-8c34-63a9cf695048"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1757956467"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07CF6WFZT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

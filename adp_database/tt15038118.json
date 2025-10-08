@@ -1,0 +1,19 @@
+{
+  "Title": "Blue's Big City Adventure",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/x09QsuMT3xz5BUb8nUrzqQnIgRXaXrl5/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fa587770-a4b8-4758-961d-09f68f178cce/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

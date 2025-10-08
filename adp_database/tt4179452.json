@@ -1,0 +1,16 @@
+{
+  "Title": "The Last Kingdom",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80074249"
+    }
+  ],
+  "in_theaters": false
+}

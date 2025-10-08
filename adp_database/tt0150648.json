@@ -1,0 +1,18 @@
+{
+  "Title": "Popeye: Fright to the Finish",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "YouTube": "https://www.youtube.com/watch?v=iRESSCW0gng"
+    }
+  ],
+  "in_theaters": false
+}

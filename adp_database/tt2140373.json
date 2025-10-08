@@ -1,0 +1,22 @@
+{
+  "Title": "Saving Mr. Banks",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/saving-mr-banks/46xK7HQNMAIy"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id784242503"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00GPWEPZ8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

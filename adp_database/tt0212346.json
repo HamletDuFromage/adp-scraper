@@ -1,0 +1,17 @@
+{
+  "Title": "Miss Congeniality",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fea9f75b-4c8c-d1ef-d26e-46344d49672e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

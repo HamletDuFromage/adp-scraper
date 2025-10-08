@@ -1,0 +1,18 @@
+{
+  "Title": "Bering Sea Gold",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Adventure & Survival",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/3b65c971-18c9-4cbc-b940-63bc7db85a95"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.debc0fe1-0e0c-01d7-c567-93a598701674/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

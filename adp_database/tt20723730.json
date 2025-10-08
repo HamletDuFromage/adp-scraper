@@ -1,0 +1,14 @@
+{
+  "Title": "Amy Schumer Presents: Parental Advisory",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81256504"
+    }
+  ],
+  "in_theaters": false
+}

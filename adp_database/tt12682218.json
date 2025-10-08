@@ -1,0 +1,17 @@
+{
+  "Title": "Scenes from a Marriage",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68c1cddf-4292-4888-8e30-5f6e9ee538e2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/418ccba4-dc5f-4515-9cc5-c9d150d098fd"
+    }
+  ],
+  "in_theaters": false
+}

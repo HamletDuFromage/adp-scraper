@@ -1,0 +1,18 @@
+{
+  "Title": "The Yogurt Shop Murders",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/5a5fea94-4819-4a1d-b66d-9fd2179a7d1c"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccd7f6b0-3842-40ff-9437-d29685f97d00/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

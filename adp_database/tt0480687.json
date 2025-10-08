@@ -1,0 +1,18 @@
+{
+  "Title": "Hall Pass",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0a9f71e-d8da-d14e-ece5-1a28786e42a1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id427735029"
+    }
+  ],
+  "in_theaters": false
+}

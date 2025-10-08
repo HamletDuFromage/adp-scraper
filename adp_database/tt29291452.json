@@ -1,0 +1,15 @@
+{
+  "Title": "Disco Inferno",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81458881"
+    }
+  ],
+  "in_theaters": false
+}

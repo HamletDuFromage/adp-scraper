@@ -1,0 +1,19 @@
+{
+  "Title": "The Twilight Saga: Breaking Dawn - Part 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2eb23174-ff6b-b873-1124-ce9046c45346/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id580268384"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Constellation",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7bdeeb1c-cf27-4443-bc9d-acecc2e4eb19/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.3lvo8a7ezxpysdy3gou3fsns0"
+    }
+  ],
+  "in_theaters": false
+}

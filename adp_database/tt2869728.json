@@ -1,0 +1,22 @@
+{
+  "Title": "Ride Along 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56a9f76a-fe47-6bf9-6c74-ead8059e8472/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01AH3QQ1Q/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80067830"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Freaky Friday",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/freaky-friday-2018/5N17rjR0wml6"
+    }
+  ],
+  "in_theaters": false
+}

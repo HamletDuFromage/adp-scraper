@@ -1,0 +1,23 @@
+{
+  "Title": "The Fabelmans",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cab2baaa-18ea-43da-b423-69fd51f558f7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1655490626"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BMJH917N/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2157929"
+    }
+  ],
+  "in_theaters": false
+}

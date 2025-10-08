@@ -1,0 +1,21 @@
+{
+  "Title": "Shining Girls",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7b9bcb7b-2905-4124-a6ae-55211272a924/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.22xs4xobsimzy5qqdif0rhmdy"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Pitch Perfect 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94a9f79d-7ee3-7421-206d-67dadafa7721/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id973586985"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00NYC3S78/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

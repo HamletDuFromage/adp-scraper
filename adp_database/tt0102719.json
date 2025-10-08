@@ -1,0 +1,15 @@
+{
+  "Title": "Problem Child 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32a9f78d-ef12-38aa-fb2e-5757c7986970/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

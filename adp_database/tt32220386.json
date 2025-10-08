@@ -1,0 +1,18 @@
+{
+  "Title": "Faye",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e1621a6f-e7d8-419a-a40c-665c1c4a9ac6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2d9330c0-d7fd-4f11-abd1-f1847fd192cc"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Trees and Other Entanglements",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Science & Nature"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.79c221a7-0497-4576-9cb2-2620a4677ea7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/612a670f-b49e-47ad-87f1-8a7618bb033d"
+    }
+  ],
+  "in_theaters": false
+}

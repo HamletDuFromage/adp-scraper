@@ -1,0 +1,17 @@
+{
+  "Title": "Shadowland",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/shadowland/4733621905464269112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dd747382-1dae-4c1a-adba-c5874431d196/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

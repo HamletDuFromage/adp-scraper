@@ -1,0 +1,16 @@
+{
+  "Title": "Silverton Siege",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81176353"
+    }
+  ],
+  "in_theaters": false
+}

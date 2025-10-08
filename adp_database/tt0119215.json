@@ -1,0 +1,18 @@
+{
+  "Title": "Good Burger",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ecb6c707-49b8-4951-3edf-75bbfcfec711/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/fJh_kcKDiLy7RRRWFVtV1P_MuJUM6CX_/"
+    }
+  ],
+  "in_theaters": false
+}

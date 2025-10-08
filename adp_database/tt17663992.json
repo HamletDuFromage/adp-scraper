@@ -1,0 +1,28 @@
+{
+  "Title": "Scream VI",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1671150022"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BW2RVMBC/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2274143"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/P1DZtBQ4PfwSJVpEzYDlcu83ulIk_ARL/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a3ce7a0-8121-45c6-b6b6-ed90aedd6673/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

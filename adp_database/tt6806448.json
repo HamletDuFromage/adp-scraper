@@ -1,0 +1,24 @@
+{
+  "Title": "Fast & Furious Presents: Hobbs & Shaw",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52b60c01-eec9-6e4c-dbf2-1a1d5b466a73/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1473845018"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07VGTYC9G/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81073022"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Cinderella",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.925f27c0-472d-4094-abeb-c44d1673b89f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1625795203"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09ZVGFMRF/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

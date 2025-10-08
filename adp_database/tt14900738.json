@@ -1,0 +1,20 @@
+{
+  "Title": "Meet Cute",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/meet-cute/debbfa2d-0120-3481-8b61-ce1f669b0b4d"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2308373"
+    }
+  ],
+  "in_theaters": false
+}

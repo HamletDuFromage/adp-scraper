@@ -1,0 +1,21 @@
+{
+  "Title": "The No. 1 Ladies' Detective Agency",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Kids & Family",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.09028fc3-e646-4ebe-811b-0b5fc6bafeec/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1038cd7e-8a13-4da7-8290-b3f7522ec8e7"
+    }
+  ],
+  "in_theaters": false
+}

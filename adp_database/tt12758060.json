@@ -1,0 +1,26 @@
+{
+  "Title": "Tetris",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3af8ed2f-4fbc-4a03-8248-7ccfb0665c12/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.4evmgcam356pzgxs2l7a18d7b"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4287303"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1806257873"
+    }
+  ],
+  "in_theaters": false
+}

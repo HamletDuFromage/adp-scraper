@@ -1,0 +1,24 @@
+{
+  "Title": "My Animal",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Romance",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e874f733-68ab-4526-855e-4c21b0ad2dc7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1700633202"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2489358"
+    }
+  ],
+  "in_theaters": false
+}

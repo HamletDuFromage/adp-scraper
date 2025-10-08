@@ -1,0 +1,16 @@
+{
+  "Title": "Changing the Game",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "LGBTQ",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/changing-the-game-71bcd7f5-63b4-485c-b4ee-ed41517484d1"
+    }
+  ],
+  "in_theaters": false
+}

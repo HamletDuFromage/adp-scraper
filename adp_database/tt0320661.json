@@ -1,0 +1,26 @@
+{
+  "Title": "Kingdom of Heaven (Roadshow Director's Cut)",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Fandango1": "https://www.vudu.com/content/movies/details/title/650553"
+    },
+    {
+      "Fandango2": "https://www.vudu.com/content/movies/details/title/8936"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1813090330"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eca9f761-56b0-9ff6-d1a6-5451b24d096d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "If You Were the Last",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/if-you-were-the-last/e3aab694-84bd-3d00-9aa5-a38c6f0daf45"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3de0a1c6-29af-44bc-987e-c0cf3bd422ef/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

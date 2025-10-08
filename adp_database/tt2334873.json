@@ -1,0 +1,16 @@
+{
+  "Title": "Blue Jasmine",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8eb4812e-2ad9-67e6-759f-674ef5a596c8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

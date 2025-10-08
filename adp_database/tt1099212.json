@@ -1,0 +1,22 @@
+{
+  "Title": "Twilight",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44a9f666-05ef-c87b-623c-fbb87a10222b/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6eb639c8-c0a9-5ccf-bbec-b06edd86ef18/audiodescriin-20"
+    },
+    {
+      "Prime Video3": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2c64a0a8-effd-477d-a3d0-60ce0d86c2f3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

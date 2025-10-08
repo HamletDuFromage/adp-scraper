@@ -1,0 +1,17 @@
+{
+  "Title": "Cassandra",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81621534"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Party Central",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/party-central/3QONcMZepEOr"
+    }
+  ],
+  "in_theaters": false
+}

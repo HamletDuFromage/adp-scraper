@@ -1,0 +1,23 @@
+{
+  "Title": "Mr. Peabody & Sherman",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ecb0a83d-a20a-6d1b-6f8e-4b7b48254985/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1336679529"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00K1N6DYI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

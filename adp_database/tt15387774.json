@@ -1,0 +1,16 @@
+{
+  "Title": "Scaredy Cats",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81329721"
+    }
+  ],
+  "in_theaters": false
+}

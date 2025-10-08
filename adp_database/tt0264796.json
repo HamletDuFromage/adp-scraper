@@ -1,0 +1,14 @@
+{
+  "Title": "Life as a House",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id452910361"
+    }
+  ],
+  "in_theaters": false
+}

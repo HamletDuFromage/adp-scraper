@@ -1,0 +1,18 @@
+{
+  "Title": "Kill Me Three Times",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48a9f75d-0269-387e-c32f-6978606417f2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

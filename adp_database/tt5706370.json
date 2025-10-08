@@ -1,0 +1,17 @@
+{
+  "Title": "Three Christs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1492041842"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eaa862a8-3d7d-41e2-b450-35c4d5adf810/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

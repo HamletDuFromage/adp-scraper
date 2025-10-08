@@ -1,0 +1,14 @@
+{
+  "Title": "DNA",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81262192"
+    }
+  ],
+  "in_theaters": false
+}

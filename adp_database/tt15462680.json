@@ -1,0 +1,14 @@
+{
+  "Title": "Venus: Death of a Planet",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "MagellanTV": "https://www.magellantv.com/video/venus-death-of-a-planet-"
+    }
+  ],
+  "in_theaters": false
+}

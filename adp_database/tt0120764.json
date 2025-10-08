@@ -1,0 +1,19 @@
+{
+  "Title": "My Favorite Martian",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/my-favorite-martian/1I5OfDBsNawE"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id281011857"
+    }
+  ],
+  "in_theaters": false
+}

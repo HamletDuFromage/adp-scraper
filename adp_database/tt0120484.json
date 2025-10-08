@@ -1,0 +1,15 @@
+{
+  "Title": "The Waterboy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188765177"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "No Time to Die",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bfe2fd05-01b0-4209-b2ff-2b1db2e96e14/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1589483727"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09HJS6YKF/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "My Sesame Street Friends",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dd0e608a-ea19-477e-af50-e5a1999b31b6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/51ea90d5-49c9-4751-8f89-2b4d034f2307"
+    }
+  ],
+  "in_theaters": false
+}

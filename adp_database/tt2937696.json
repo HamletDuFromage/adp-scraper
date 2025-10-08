@@ -1,0 +1,18 @@
+{
+  "Title": "Everybody Wants Some!!",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fab929e1-3807-79da-e938-55f44826fe34/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01CJW3440/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

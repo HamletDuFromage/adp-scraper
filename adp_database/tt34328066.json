@@ -1,0 +1,16 @@
+{
+  "Title": "Love Across Time",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a887fade-c56e-40ee-977f-3269b5539dbd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

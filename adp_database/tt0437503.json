@@ -1,0 +1,20 @@
+{
+  "Title": "Tarzan II",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tarzan-ii/4NC1yoDJXnxj"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id625767229"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The White Lotus",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/14f9834d-bc23-41a8-ab61-5c8abdbea505"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0edcbe32-87f3-4e51-8e05-c996e106f4a7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

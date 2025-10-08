@@ -1,0 +1,19 @@
+{
+  "Title": "Rosie's Rules",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8deb655-dfa4-4501-bc65-e78c5e5daafb/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2135638"
+    }
+  ],
+  "in_theaters": false
+}

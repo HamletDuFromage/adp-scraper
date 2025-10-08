@@ -1,0 +1,17 @@
+{
+  "Title": "Camp Rock",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Music",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/camp-rock/7B1VpYuCyO71"
+    }
+  ],
+  "in_theaters": false
+}

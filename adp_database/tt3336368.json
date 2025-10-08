@@ -1,0 +1,17 @@
+{
+  "Title": "Maya the Bee",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eca9f754-860c-9c3a-cc78-08347322e97b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

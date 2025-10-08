@@ -1,0 +1,21 @@
+{
+  "Title": "Snow White & the Huntsman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34a9f710-eb86-6b2e-6398-886189e8e826/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIHSG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Pride + Prejudice + Zombies",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64a9f713-a419-6c9c-fda5-d31c26fb5d77/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1071477183"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01BI75VX4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

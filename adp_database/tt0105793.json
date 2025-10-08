@@ -1,0 +1,21 @@
+{
+  "Title": "Wayne's World",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.501082fa-3480-4c5c-83de-18fbee2f683a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id315584649"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/22110"
+    }
+  ],
+  "in_theaters": false
+}

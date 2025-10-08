@@ -1,0 +1,15 @@
+{
+  "Title": "Attack of the Hollywood Clichés!",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81440982"
+    }
+  ],
+  "in_theaters": false
+}

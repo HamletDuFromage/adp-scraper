@@ -1,0 +1,20 @@
+{
+  "Title": "Legends of the Fall",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "War",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76a9f689-5c2f-07e5-1da1-1f992e33c69b/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20a9f714-06ee-b2ef-ba59-7f8d366b11cc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

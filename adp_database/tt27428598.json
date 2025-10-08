@@ -1,0 +1,19 @@
+{
+  "Title": "A Really Haunted Loud House",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/V59pE_EKTUC_wOiwGwd3WzoG1uvDtDqe/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.87fae406-1f32-4196-a8ae-dc338cb0ebad/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

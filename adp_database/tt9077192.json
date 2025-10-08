@@ -1,0 +1,15 @@
+{
+  "Title": "Haunted",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80195378"
+    }
+  ],
+  "in_theaters": false
+}

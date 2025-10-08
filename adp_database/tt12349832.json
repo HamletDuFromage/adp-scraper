@@ -1,0 +1,28 @@
+{
+  "Title": "Cuckoo",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fe3e9800-7dac-4ba1-9fff-10555c33c681/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/3b6167d5-5f9f-451e-a82c-b58dbf3138e2"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1761567514"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D9WN3N8P/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3438162"
+    }
+  ],
+  "in_theaters": false
+}

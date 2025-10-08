@@ -1,0 +1,17 @@
+{
+  "Title": "Midnight Family",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52f911e3-bf3b-47ae-953f-c5ce106a86bf/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1xkd0bjglgv5x1jxiteog2833"
+    }
+  ],
+  "in_theaters": false
+}

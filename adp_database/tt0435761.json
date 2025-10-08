@@ -1,0 +1,23 @@
+{
+  "Title": "Toy Story 3",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/toy-story-3/5i3MkHrmohAt"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id381438139"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00275EHJG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

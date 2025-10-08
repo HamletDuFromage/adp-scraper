@@ -1,0 +1,18 @@
+{
+  "Title": "South Park: The Streaming Wars Part 2",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/QwiZqWlp0ZW9krpI4h8lyeAn_hLZhNBp/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.31e98524-623a-4778-9ad8-5f7bc8a84feb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

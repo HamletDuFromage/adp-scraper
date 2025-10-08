@@ -1,0 +1,16 @@
+{
+  "Title": "Grave of the Fireflies",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Anime",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/557010"
+    }
+  ],
+  "in_theaters": false
+}

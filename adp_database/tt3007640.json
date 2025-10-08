@@ -1,0 +1,19 @@
+{
+  "Title": "Naked and Afraid",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Adventure & Survival",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/f54582ad-df6e-4dd3-b98c-0828e07aea10"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0bc484e-5b9e-8f89-916b-7e1c50089e1a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

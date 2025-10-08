@@ -1,0 +1,16 @@
+{
+  "Title": "Guy's Grocery Games",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e24efbe7-618b-4da9-ba61-f0bbb532629c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

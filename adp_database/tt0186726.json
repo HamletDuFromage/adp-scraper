@@ -1,0 +1,18 @@
+{
+  "Title": "Zenon: Girl of the 21st Century",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Coming of Age",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/zenon-girl-of-the-21st-century/5NAZSIdBrtE5"
+    }
+  ],
+  "in_theaters": false
+}

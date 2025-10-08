@@ -1,0 +1,16 @@
+{
+  "Title": "The Jewel Thief",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-jewel-thief-090508a6-68cb-4c6b-86f8-5c4cd6c01f63"
+    }
+  ],
+  "in_theaters": false
+}

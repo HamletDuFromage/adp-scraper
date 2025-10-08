@@ -1,0 +1,16 @@
+{
+  "Title": "A Good Year",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78a9f7b3-9fac-1c9c-9e1c-dbc481e9b399/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

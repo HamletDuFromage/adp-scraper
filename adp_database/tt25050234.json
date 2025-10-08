@@ -1,0 +1,14 @@
+{
+  "Title": "House of Grucci",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/house-of-grucci-7c8dac8a-8480-4f29-8a6d-da7821a15aec"
+    }
+  ],
+  "in_theaters": false
+}

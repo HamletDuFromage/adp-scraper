@@ -1,0 +1,15 @@
+{
+  "Title": "What Just Happened",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ca9f786-9b17-1577-1ab7-3f5d0858dddb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

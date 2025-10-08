@@ -1,0 +1,18 @@
+{
+  "Title": "The Lost King",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7c4c90de-930f-40f4-a1eb-43fe9d7c5e49/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1680252115"
+    }
+  ],
+  "in_theaters": false
+}

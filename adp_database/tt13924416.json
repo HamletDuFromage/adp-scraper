@@ -1,0 +1,17 @@
+{
+  "Title": "Hotel Costiera",
+  "Media Type": "Series",
+  "Rating": "16+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1288d35d-492c-43ee-b0b5-964f952f0655/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

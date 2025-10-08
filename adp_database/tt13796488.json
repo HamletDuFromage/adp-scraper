@@ -1,0 +1,18 @@
+{
+  "Title": "When We Were Bullies",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0a042cbc-c4b3-44a6-a485-e386a02f6e79/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2bb8464a-edab-4e84-88c9-455f2fe9f335"
+    }
+  ],
+  "in_theaters": false
+}

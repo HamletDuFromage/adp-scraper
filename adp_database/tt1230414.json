@@ -1,0 +1,22 @@
+{
+  "Title": "It's Complicated",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.08a9f78c-ff92-5a3b-9abb-bd7e8b7a894f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id353705575"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0038N9WKU/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

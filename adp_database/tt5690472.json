@@ -1,0 +1,16 @@
+{
+  "Title": "Expatriot",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcae3276-cd18-731d-a41f-0c428087d1e9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

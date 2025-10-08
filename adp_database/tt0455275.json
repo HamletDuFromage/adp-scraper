@@ -1,0 +1,21 @@
+{
+  "Title": "Prison Break",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70140425"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/prison-break-d1d023da-ebb7-474c-b858-c4890e2d5757"
+    }
+  ],
+  "in_theaters": false
+}

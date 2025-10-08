@@ -1,0 +1,19 @@
+{
+  "Title": "Fountain of Youth",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.z5xrwbjg3gergiowhrzg61tq"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f9c8fe98-2d64-4d61-b1e7-1ba11d66fc5c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

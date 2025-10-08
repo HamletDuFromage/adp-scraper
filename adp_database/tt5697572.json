@@ -1,0 +1,27 @@
+{
+  "Title": "Cats",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81140928"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cb792fc-1060-147c-4c67-594000f09567/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1490373761"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B082JNSTX1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

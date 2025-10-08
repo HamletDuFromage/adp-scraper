@@ -1,0 +1,16 @@
+{
+  "Title": "Short Circuit",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62a9f734-8022-55a7-2cc1-82315b25108e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

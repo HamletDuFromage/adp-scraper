@@ -1,0 +1,23 @@
+{
+  "Title": "Casablanca",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6e46deb-31db-496e-ad4b-36c3279188cd/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/83b99ff6-56a0-4696-aa68-fdd6d3f31efa"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id582668909"
+    }
+  ],
+  "in_theaters": false
+}

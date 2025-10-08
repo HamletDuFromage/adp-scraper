@@ -1,0 +1,22 @@
+{
+  "Title": "(500) Days of Summer",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5e5885d0-1ed5-4b3a-b30d-4f4c6c93cf04/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id329619072"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B001UV4XUG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

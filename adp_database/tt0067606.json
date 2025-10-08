@@ -1,0 +1,15 @@
+{
+  "Title": "Preacherman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40a9f750-05d2-f899-026e-69988f55501f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

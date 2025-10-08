@@ -1,0 +1,16 @@
+{
+  "Title": "You Cast a Spell on Me",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a50448f2-e320-494e-b033-65a54cc77d9c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "SpongeBob SquarePants",
+  "Media Type": "Series",
+  "Rating": "7+",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fea9f77d-6b39-c3fa-7b27-680835996cb6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

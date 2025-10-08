@@ -1,0 +1,17 @@
+{
+  "Title": "Dolly Parton's Christmas on the Square",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81128934"
+    }
+  ],
+  "in_theaters": false
+}

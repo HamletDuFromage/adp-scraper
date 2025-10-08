@@ -1,0 +1,17 @@
+{
+  "Title": "Palm Springs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Mystery",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/palm-springs-f70dfd4d-dbfb-46b8-abb3-136c841bba11"
+    }
+  ],
+  "in_theaters": false
+}

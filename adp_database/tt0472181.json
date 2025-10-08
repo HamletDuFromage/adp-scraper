@@ -1,0 +1,25 @@
+{
+  "Title": "The Smurfs",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06ae65b8-968c-71ff-2e66-6665426bbd5c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id464226962"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003Y5H5AG/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/Vm_D2d9VC4F5stzcEC8y9u7g9fwmUDvA/"
+    }
+  ],
+  "in_theaters": false
+}

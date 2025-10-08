@@ -1,0 +1,24 @@
+{
+  "Title": "Terminator: Dark Fate",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1483823959"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07YTD2PM2/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.15f32cb5-5ef2-49f4-86d6-c9ddee44cc1e/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/ensHA25pq_Z0Uj_IwRdcb7xk_xpPq7i_/"
+    }
+  ],
+  "in_theaters": false
+}

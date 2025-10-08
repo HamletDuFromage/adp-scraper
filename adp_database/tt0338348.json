@@ -1,0 +1,21 @@
+{
+  "Title": "The Polar Express",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.71df62ca-d7a1-4626-aa07-27836d37e8d9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id562566593"
+    }
+  ],
+  "in_theaters": false
+}

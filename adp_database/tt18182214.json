@@ -1,0 +1,15 @@
+{
+  "Title": "Mash-Up Our Home",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/bd470b0f-4d22-4e3c-8fc7-635754eae1a9"
+    }
+  ],
+  "in_theaters": false
+}

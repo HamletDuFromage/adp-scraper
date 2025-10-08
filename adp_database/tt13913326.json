@@ -1,0 +1,15 @@
+{
+  "Title": "Chernobyl: The Lost Tapes",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/f0a8654e-40fc-4d4e-8eb9-26cf826856f3"
+    }
+  ],
+  "in_theaters": false
+}

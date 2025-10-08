@@ -1,0 +1,14 @@
+{
+  "Title": "A Weekend to Forget",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.df6b3453-fe6b-4f35-8aba-78db2a50c43c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

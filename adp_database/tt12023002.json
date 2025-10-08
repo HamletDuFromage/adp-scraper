@@ -1,0 +1,15 @@
+{
+  "Title": "7th & Union",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a16b57e4-acab-4829-a4d7-196d3561273d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

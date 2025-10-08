@@ -1,0 +1,16 @@
+{
+  "Title": "Good Boy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1841989112"
+    }
+  ],
+  "in_theaters": true
+}

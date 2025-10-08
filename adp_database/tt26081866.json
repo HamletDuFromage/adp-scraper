@@ -1,0 +1,19 @@
+{
+  "Title": "Last Stop Larrimah",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.572ec57a-ab51-4448-af72-5446382076cc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1bd2c9d9-b0f8-4054-9a23-df04878038cc"
+    }
+  ],
+  "in_theaters": false
+}

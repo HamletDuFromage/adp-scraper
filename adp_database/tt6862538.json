@@ -1,0 +1,18 @@
+{
+  "Title": "Yellow Rose",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eaba8eb7-7134-261b-d597-d7da6ad94c98/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1534815984"
+    }
+  ],
+  "in_theaters": false
+}

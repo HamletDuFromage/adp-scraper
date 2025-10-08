@@ -1,0 +1,18 @@
+{
+  "Title": "The DUFF",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4a9f664-d86d-45b1-829e-aeba48aa7c10/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id964745064"
+    }
+  ],
+  "in_theaters": false
+}

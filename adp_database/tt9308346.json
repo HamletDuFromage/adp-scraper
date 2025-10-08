@@ -1,0 +1,18 @@
+{
+  "Title": "The Plot Against America",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ecb8c578-af74-60b3-a473-7db1053eefc6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/7bc1933f-edc9-4c6c-b669-3c8894804536"
+    }
+  ],
+  "in_theaters": false
+}

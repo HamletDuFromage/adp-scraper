@@ -1,0 +1,24 @@
+{
+  "Title": "Rugrats in Paris: The Movie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1fdfdf35-9725-4954-8bdb-09c91b9e9f1e/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/rugrats-in-paris-the-movie/ckBcDdjsDjzmwL8DUg_lCDmg9wlbyCSC/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/movies/5e741e9172552200144700f0"
+    }
+  ],
+  "in_theaters": false
+}

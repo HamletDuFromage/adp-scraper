@@ -1,0 +1,21 @@
+{
+  "Title": "Rent-A-Pal",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92bb7283-515b-185f-0460-3d9af60f1a61/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/rent-a-pal-f20c50a1-1dfd-43b8-9b1c-aecce199e1c3"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1527670515"
+    }
+  ],
+  "in_theaters": false
+}

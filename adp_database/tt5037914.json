@@ -1,0 +1,18 @@
+{
+  "Title": "Crashing",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8d6b64cc-f9dd-425c-9df6-13ae6ed8e348/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3a7e596c-486c-428e-85fd-6497ae100950"
+    }
+  ],
+  "in_theaters": false
+}

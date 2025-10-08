@@ -1,0 +1,17 @@
+{
+  "Title": "Werewolf by Night",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/werewolf-by-night/J1sCDfT3MaDl"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Lion King 1 1/2",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-lion-king-1-1-2/2DCxbUBkW3dc"
+    }
+  ],
+  "in_theaters": false
+}

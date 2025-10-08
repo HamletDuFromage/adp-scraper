@@ -1,0 +1,19 @@
+{
+  "Title": "White House Plumbers",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9849220b-9247-402d-b496-8e7580f2c9a0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/96f3d3b7-ad27-466c-852c-dc8652225938"
+    }
+  ],
+  "in_theaters": false
+}

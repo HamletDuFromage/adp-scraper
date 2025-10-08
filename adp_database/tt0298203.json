@@ -1,0 +1,21 @@
+{
+  "Title": "8 Mile",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f6a9f76a-cfb4-646e-d511-5c8db0a0f650/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id301220634"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60024922"
+    }
+  ],
+  "in_theaters": false
+}

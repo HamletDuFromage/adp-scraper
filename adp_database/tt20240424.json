@@ -1,0 +1,15 @@
+{
+  "Title": "Frankie Meets Jack",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/713166/frankie-meets-jack"
+    }
+  ],
+  "in_theaters": false
+}

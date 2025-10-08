@@ -1,0 +1,16 @@
+{
+  "Title": "The Paloni Show! Halloween Special!",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-paloni-show-halloween-special-4dc463bf-3651-4732-a922-bd0a78026c71"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Mike Birbiglia: The Good Life",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81944037"
+    }
+  ],
+  "in_theaters": false
+}

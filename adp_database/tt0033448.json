@@ -1,0 +1,16 @@
+{
+  "Title": "Canine Caddy",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/canine-caddy/5FLMjqqR6szh"
+    }
+  ],
+  "in_theaters": false
+}

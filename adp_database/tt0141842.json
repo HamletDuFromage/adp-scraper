@@ -1,0 +1,18 @@
+{
+  "Title": "The Sopranos",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8d9f6123-4462-4a5c-b8b6-326e612e7654/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/818c3d9d-1831-48a6-9583-0364a7f98453"
+    }
+  ],
+  "in_theaters": false
+}

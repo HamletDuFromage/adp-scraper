@@ -1,0 +1,19 @@
+{
+  "Title": "Burden of Guilt",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ab137b9-082c-46b0-b162-4b0af3de47ff/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/burden-of-guilt/"
+    }
+  ],
+  "in_theaters": false
+}

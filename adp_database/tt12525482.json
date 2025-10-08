@@ -1,0 +1,18 @@
+{
+  "Title": "Reinventing Elvis: The '68 Comeback",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4e7c1db6-fe55-4406-9683-63ad8f62a81a/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/FMGXP5s7R1iWeCQAiI_FJvA_Zf_NqwOd/"
+    }
+  ],
+  "in_theaters": false
+}

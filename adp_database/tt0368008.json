@@ -1,0 +1,23 @@
+{
+  "Title": "The Manchurian Candidate",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eaa9f75e-88d0-61f0-789b-d37a65b86dd6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id211353953"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/44207"
+    }
+  ],
+  "in_theaters": false
+}

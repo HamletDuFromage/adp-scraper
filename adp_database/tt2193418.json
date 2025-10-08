@@ -1,0 +1,15 @@
+{
+  "Title": "Hammer of the Gods",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ec652692-0c5a-4429-8e21-a95bf6f7335f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

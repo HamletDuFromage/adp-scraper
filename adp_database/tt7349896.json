@@ -1,0 +1,18 @@
+{
+  "Title": "Inherit the Viper",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5eb7ac58-1532-8aa9-b804-e183586907ee/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

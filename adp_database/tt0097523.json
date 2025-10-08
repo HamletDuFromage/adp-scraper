@@ -1,0 +1,20 @@
+{
+  "Title": "Honey, I Shrunk the Kids",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/honey-i-shrunk-the-kids/53dNy2VPeJ8O"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id492260664"
+    }
+  ],
+  "in_theaters": false
+}

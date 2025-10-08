@@ -1,0 +1,19 @@
+{
+  "Title": "Love Spells",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d246d642-3e4b-43bc-905b-d59ec51d7dee/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/b6d9d21a-21f5-42d3-ab54-baf1e7e9e74a"
+    }
+  ],
+  "in_theaters": false
+}

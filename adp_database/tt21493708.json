@@ -1,0 +1,16 @@
+{
+  "Title": "Hysteria!",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/hysteria/6470148172235184112"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Moms' Night Out",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f75d-7407-ddc6-6112-eed0e04b8edd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id897404623"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00KO6EC4A/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "Father of the Bride",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9da66ee0-8123-4a71-b30b-94e84ff6f056/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/c91631a9-59f6-4be4-8adb-3ef9f22fe795"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1626574504"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BMGTFK1R/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

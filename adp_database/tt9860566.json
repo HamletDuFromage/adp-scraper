@@ -1,0 +1,16 @@
+{
+  "Title": "Brothers",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c1a8a152-c36a-45cf-a7bf-c2b8cee5dd9c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

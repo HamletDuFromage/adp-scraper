@@ -1,0 +1,18 @@
+{
+  "Title": "Bob's Burgers",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/bobs-burgers-fdeb1018-4472-442f-ba94-fb087cdea069"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.838cd57e-78fe-49f2-8340-67d772b2c95d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

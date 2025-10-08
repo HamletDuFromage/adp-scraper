@@ -1,0 +1,19 @@
+{
+  "Title": "Deliver Us from Evil",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a9f74a-1e22-134a-873b-2017eb6c354b/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00LH9SD2A/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

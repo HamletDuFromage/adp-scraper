@@ -1,0 +1,20 @@
+{
+  "Title": "The Undoing",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4d0bde88-0679-4b4f-974c-a2f7129b7693/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/32b441d9-77ef-4362-ad18-b1635eb8558d"
+    }
+  ],
+  "in_theaters": false
+}

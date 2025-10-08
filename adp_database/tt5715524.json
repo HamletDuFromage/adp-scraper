@@ -1,0 +1,16 @@
+{
+  "Title": "Mayans M.C.",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/mayans-mc-ea57ec26-db49-499d-aabc-a5dfa23dd96f"
+    }
+  ],
+  "in_theaters": false
+}

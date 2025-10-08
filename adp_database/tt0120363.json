@@ -1,0 +1,26 @@
+{
+  "Title": "Toy Story 2",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9aa9f7c0-28a3-ac53-8daf-b424921de1ad/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/toy-story-2/6eunXQzaXkGr"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id268793231"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0030IIYYS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

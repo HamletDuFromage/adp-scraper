@@ -1,0 +1,22 @@
+{
+  "Title": "Star Wars: Episode III - Revenge of the Sith",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-revenge-of-the-sith/4WvbqLFumNvi"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id975521762"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013JAFVY2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

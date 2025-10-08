@@ -1,0 +1,18 @@
+{
+  "Title": "Island Life",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0bc2411-1b88-43b3-a25f-ad407a348462/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c35c19c4-ebe4-4d17-88dd-aa65e804317a"
+    }
+  ],
+  "in_theaters": false
+}

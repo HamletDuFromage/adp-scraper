@@ -1,0 +1,21 @@
+{
+  "Title": "The Good Fight",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56b00533-ce64-e316-1be9-4cbd713f87e9/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-good-fight/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/66eb1ece46be430013c2d0d2"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Downhill",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4cb91800-8fd5-4ce6-ea97-352f1855908a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1496476256"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B085RRGNVC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Carpool Karaoke: The Series",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a18855d6-0138-426a-98db-a580f98c8feb/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/us/show/carpool-karaoke-the-series/umc.cmc.2wyy7chw6bmy46fekqlqq1ulb?ctx_brand=tvs.sbd.4000"
+    }
+  ],
+  "in_theaters": false
+}

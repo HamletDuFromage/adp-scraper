@@ -1,0 +1,14 @@
+{
+  "Title": "Tacoma FD",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81629935"
+    }
+  ],
+  "in_theaters": false
+}

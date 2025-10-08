@@ -1,0 +1,15 @@
+{
+  "Title": "Prince Avalanche",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4a9f6fe-18e8-15a7-e7df-5cf0d07c79b0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

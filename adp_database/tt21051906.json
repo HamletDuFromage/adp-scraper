@@ -1,0 +1,16 @@
+{
+  "Title": "A Family Affair",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81361154"
+    }
+  ],
+  "in_theaters": false
+}

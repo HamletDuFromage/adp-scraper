@@ -1,0 +1,17 @@
+{
+  "Title": "Ricky Velez: Here's Everything",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b556917-a995-4aea-84ac-9356884b6e08/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/861c7cf2-0a28-4b60-9b23-405f2f7d793f"
+    }
+  ],
+  "in_theaters": false
+}

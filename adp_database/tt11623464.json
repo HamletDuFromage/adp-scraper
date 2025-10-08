@@ -1,0 +1,20 @@
+{
+  "Title": "Paradise",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e57a322f-a708-4986-9aca-43ab0a8042e3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f9b644d2-efe6-4fcd-9a2e-584f96bdf486"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Four Hours at the Capitol",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0b2d9845-8326-4ac5-8776-475193ece60e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/54e44f60-a327-4b17-a93c-b3e488bbf79c"
+    }
+  ],
+  "in_theaters": false
+}

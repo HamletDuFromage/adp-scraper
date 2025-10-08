@@ -1,0 +1,22 @@
+{
+  "Title": "Barbarian",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1645325133"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2122582"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fb0f7d97-71e2-4d3a-bb9b-2d3ab58597d4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

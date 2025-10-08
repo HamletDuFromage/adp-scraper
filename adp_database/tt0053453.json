@@ -1,0 +1,15 @@
+{
+  "Title": "The Wonderful Country",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Romance",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7cae7d50-ba23-3f1f-4aba-cc2f25884cb8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

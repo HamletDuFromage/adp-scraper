@@ -1,0 +1,14 @@
+{
+  "Title": "Lethal Seduction",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eaa9f722-e6c8-1827-b0b0-634457ea4101/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

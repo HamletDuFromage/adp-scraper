@@ -1,0 +1,16 @@
+{
+  "Title": "Garage Sale Mystery: All That Glitters",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.69d3c1b9-3003-4afa-8ec1-4b867ea55f3e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

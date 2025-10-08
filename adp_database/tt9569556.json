@@ -1,0 +1,17 @@
+{
+  "Title": "Dream Raider",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/367ca4b0-a8b2-4fbf-969b-1b24dc06eb67"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Marc Maron: Panicked",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fff353dc-758a-4ae7-bfc4-1da03584364d/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/c51673a8-5d0a-4ae9-a213-4f378bf0ad3b"
+    }
+  ],
+  "in_theaters": false
+}

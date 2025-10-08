@@ -1,0 +1,19 @@
+{
+  "Title": "Noughts + Crosses",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/noughts--crosses/6365584887585835112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c07b4356-4649-4cfa-9455-fb5213cfc293/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "The Hustle",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7eb8e97b-1eee-d256-ebf0-4364ae810e63/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1460029690"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07RJ9R9K9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

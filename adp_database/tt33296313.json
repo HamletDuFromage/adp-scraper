@@ -1,0 +1,17 @@
+{
+  "Title": "Coming from America",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e80d52d7-c24b-4457-a7bf-6a835457c95a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/aed6dbc0-420e-471c-840c-149cecb5702c"
+    }
+  ],
+  "in_theaters": false
+}

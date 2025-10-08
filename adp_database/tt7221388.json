@@ -1,0 +1,17 @@
+{
+  "Title": "Cobra Kai",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81002370"
+    }
+  ],
+  "in_theaters": false
+}

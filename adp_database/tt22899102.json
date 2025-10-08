@@ -1,0 +1,18 @@
+{
+  "Title": "Mickey Saves Christmas",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Holiday",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/mickey-saves-christmas-073ae5bd-cf94-4cc5-8df2-f7dd048d723e"
+    }
+  ],
+  "in_theaters": false
+}

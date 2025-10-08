@@ -1,0 +1,24 @@
+{
+  "Title": "Spider-Man: Into the Spider-Verse",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8cb3d0d2-8276-69ba-e66b-f200871aacf7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1444695454"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317632456/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

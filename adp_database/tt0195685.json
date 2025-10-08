@@ -1,0 +1,18 @@
+{
+  "Title": "Erin Brockovich",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2a9f743-f2cf-e932-9480-1b3f25a90223/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id280700731"
+    }
+  ],
+  "in_theaters": false
+}

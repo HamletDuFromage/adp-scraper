@@ -1,0 +1,14 @@
+{
+  "Title": "American Pie Presents: Band Camp",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea9f72a-48c5-cdb7-b857-059a6dc16d26/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

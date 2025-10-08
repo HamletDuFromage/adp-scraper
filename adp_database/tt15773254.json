@@ -1,0 +1,21 @@
+{
+  "Title": "The Invisible Pilot",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary",
+    "History",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.91501370-c803-4251-85e5-78d7c382dc35/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/003bad74-fe80-4afe-83ad-459ad2a29874"
+    }
+  ],
+  "in_theaters": false
+}

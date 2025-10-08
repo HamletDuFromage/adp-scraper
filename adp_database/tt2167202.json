@@ -1,0 +1,15 @@
+{
+  "Title": "Getaway",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44a9f7b9-8f47-294a-f7d0-e7cfe46c7bc9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

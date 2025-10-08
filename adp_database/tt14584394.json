@@ -1,0 +1,14 @@
+{
+  "Title": "Primo",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c9e7762b-81c2-42dd-992a-e6f09129fb1d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

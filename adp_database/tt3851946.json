@@ -1,0 +1,19 @@
+{
+  "Title": "House Hunters: Amazing Water Homes",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Lifestyle & Culture",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5bbc8bb6-b970-4d1f-9780-e7ad2889b5a9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/affdc798-2b72-478b-a0c8-b85db20654a7"
+    }
+  ],
+  "in_theaters": false
+}

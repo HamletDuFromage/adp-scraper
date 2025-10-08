@@ -1,0 +1,18 @@
+{
+  "Title": "Contagion",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62a9f674-0f57-3449-46a3-f00a167caf3e/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8a9f75d-7426-5f19-77df-c5d195fb6b1a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

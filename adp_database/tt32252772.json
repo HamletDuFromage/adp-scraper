@@ -1,0 +1,22 @@
+{
+  "Title": "Dexter: Original Sin",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9d49109f-ce2e-4236-b92e-3ac37fb9ded3/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4057471"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/dexter-original-sin/"
+    }
+  ],
+  "in_theaters": false
+}

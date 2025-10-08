@@ -1,0 +1,17 @@
+{
+  "Title": "Filth",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88a9f734-d4db-9641-3455-237e5ef36e7e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

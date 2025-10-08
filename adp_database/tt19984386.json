@@ -1,0 +1,22 @@
+{
+  "Title": "American Star",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fece7f97-dd1e-46b0-9a08-e64932fb724b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1721021541"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CTCZBK25/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

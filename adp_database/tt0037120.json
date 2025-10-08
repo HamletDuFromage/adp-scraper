@@ -1,0 +1,19 @@
+{
+  "Title": "National Velvet",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id645378912"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/bccbc3d6-c3a9-4888-90d9-c08be74eb4a9"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Capote",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "History",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8a9f66e-4782-f998-b0f9-4ed45e6937c9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

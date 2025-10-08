@@ -1,0 +1,16 @@
+{
+  "Title": "What Happened to Monday",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80146805"
+    }
+  ],
+  "in_theaters": false
+}

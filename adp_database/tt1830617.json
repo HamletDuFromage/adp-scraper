@@ -1,0 +1,16 @@
+{
+  "Title": "Grimm",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a9f7a1-6079-ffa4-9cf7-f7ff6bf2f9f2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

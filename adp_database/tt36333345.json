@@ -1,0 +1,18 @@
+{
+  "Title": "The Children of October 7",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1144c544-6e07-4c40-8cca-56daece3af6d/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/C3COr43yl99oKdjeWNsuo2Ma2OP4zvGv/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "BRATS",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/3c92789a-4a02-418b-b896-28f9799be387"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-3c92789a-4a02-418b-b896-28f9799be387"
+    }
+  ],
+  "in_theaters": false
+}

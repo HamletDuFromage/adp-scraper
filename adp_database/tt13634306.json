@@ -1,0 +1,18 @@
+{
+  "Title": "Mystery at Blind Frog Ranch",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/ede60b7d-ac87-4560-b0c5-cc7184f6816d"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98d4a47f-58fb-4023-b96c-db4bce384cee/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "The Angry Birds Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12aa6a3f-6948-16c8-6f36-b185d62a31fd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1100915157"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01EK44KXE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

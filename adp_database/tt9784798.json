@@ -1,0 +1,22 @@
+{
+  "Title": "Judas and the Black Messiah",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2e57c4d-8087-426f-be19-45a62c938615/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1550170784"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08ZW3TCCL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

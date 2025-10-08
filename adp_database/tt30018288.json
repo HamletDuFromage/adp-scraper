@@ -1,0 +1,18 @@
+{
+  "Title": "Born in Synanon",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c1640a3d-7ca7-49b1-a576-8abe144ee252/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/born-in-synanon/"
+    }
+  ],
+  "in_theaters": false
+}

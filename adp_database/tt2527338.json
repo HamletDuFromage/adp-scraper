@@ -1,0 +1,25 @@
+{
+  "Title": "Star Wars: Episode IX - The Rise of Skywalker",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0b8c2d4-8a9c-ecb8-cef6-a8073e64c49b/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-the-rise-of-skywalker-episode-ix/5e8JThYwCYgw"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1490359713"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B083XRCD6F/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

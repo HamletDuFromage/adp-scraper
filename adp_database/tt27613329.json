@@ -1,0 +1,16 @@
+{
+  "Title": "Étoile",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Dance",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ed62b583-0291-449a-bf1b-832eca11cfbc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

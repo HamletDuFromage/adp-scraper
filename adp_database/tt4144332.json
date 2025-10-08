@@ -1,0 +1,16 @@
+{
+  "Title": "Deidra & Laney Rob a Train",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80108984"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,27 @@
+{
+  "Title": "The Ring",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28a9f74e-686f-d220-ab1b-019c0e32277b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id295256274"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B007LSCY9Y/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/326539"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/ring/nQLTWjR4DC_CnxiT6IG2zjhbP98SmhQ0/"
+    }
+  ],
+  "in_theaters": false
+}

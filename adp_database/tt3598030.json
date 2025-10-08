@@ -1,0 +1,19 @@
+{
+  "Title": "K.C. Undercover",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/kc-undercover-fa7b8300-8574-465b-a853-542502592767"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/disney-kc-undercover/2g1sNNPfmU6b"
+    }
+  ],
+  "in_theaters": false
+}

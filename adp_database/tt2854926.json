@@ -1,0 +1,21 @@
+{
+  "Title": "Tag",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06b288af-1f9c-5f38-cccf-377dcc592fdf/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1393360066"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07F7W7SV7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

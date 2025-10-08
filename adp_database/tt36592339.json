@@ -1,0 +1,21 @@
+{
+  "Title": "Dakar: Race Against the Desert",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1810757332"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3993293"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6d903f35-19d0-4aab-8d54-22319fcfc387/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

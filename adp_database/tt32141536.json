@@ -1,0 +1,21 @@
+{
+  "Title": "McVeigh",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b5912caa-3fc6-495d-929a-2d8fa009a44c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1792036132"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3852979"
+    }
+  ],
+  "in_theaters": false
+}

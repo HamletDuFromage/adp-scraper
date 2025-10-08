@@ -1,0 +1,18 @@
+{
+  "Title": "Wolf King",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Horror",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81133419"
+    }
+  ],
+  "in_theaters": false
+}

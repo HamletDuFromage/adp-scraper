@@ -1,0 +1,24 @@
+{
+  "Title": "The Addams Family 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1b855aad-c580-4dfe-85a2-37d5bce5af41/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1583979232"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09GDWKZK1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

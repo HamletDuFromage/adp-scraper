@@ -1,0 +1,27 @@
+{
+  "Title": "Last Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81115192"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9cb702a9-fea3-17e4-0571-289b976f3964/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1485014756"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07ZW8WTH3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

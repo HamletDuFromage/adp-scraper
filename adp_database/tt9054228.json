@@ -1,0 +1,19 @@
+{
+  "Title": "Lucas the Spider",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ba0a916-8ca6-4694-97b0-b7e05e136bbd/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f9388968-c633-4692-821a-b8e2d0731a78"
+    }
+  ],
+  "in_theaters": false
+}

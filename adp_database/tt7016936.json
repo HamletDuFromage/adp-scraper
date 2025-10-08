@@ -1,0 +1,16 @@
+{
+  "Title": "Killing Eve",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b5c42709-e8e1-4c46-9b3c-bf3eff0c707c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

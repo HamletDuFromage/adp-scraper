@@ -1,0 +1,18 @@
+{
+  "Title": "Down Home Fab",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/007e3b71-3772-4438-9133-531a3b4fe505"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.968d427e-3a55-42fe-a341-751e09574574/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

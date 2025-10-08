@@ -1,0 +1,19 @@
+{
+  "Title": "Greyfriars Bobby",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animals & Nature",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/greyfriars-bobby/1AGgepCyiR9F"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id439494634"
+    }
+  ],
+  "in_theaters": false
+}

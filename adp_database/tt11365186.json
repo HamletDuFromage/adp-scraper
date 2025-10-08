@@ -1,0 +1,22 @@
+{
+  "Title": "Redeeming Love",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dffe7ca6-3e51-492d-9197-d993c04644b6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1607358445"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81522433"
+    }
+  ],
+  "in_theaters": false
+}

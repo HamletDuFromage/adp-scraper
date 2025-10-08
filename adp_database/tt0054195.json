@@ -1,0 +1,19 @@
+{
+  "Title": "Pollyanna",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/pollyanna/1v5fZhJ9RxeO"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id281120117"
+    }
+  ],
+  "in_theaters": false
+}

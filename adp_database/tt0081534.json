@@ -1,0 +1,16 @@
+{
+  "Title": "Somewhere in Time",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36a9f65d-16fd-d255-69b4-26202e0571fc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

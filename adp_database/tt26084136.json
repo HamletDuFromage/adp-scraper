@@ -1,0 +1,14 @@
+{
+  "Title": "Being Mary Tyler Moore",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/9b7a537c-7512-49d3-92b6-d8e91ef7ae2d"
+    }
+  ],
+  "in_theaters": false
+}

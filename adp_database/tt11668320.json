@@ -1,0 +1,19 @@
+{
+  "Title": "Crazy, Not Insane",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8dc15e2-09d0-4276-8756-1221934040d1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/7eeb16ac-a2c1-4211-9d15-172fabdc52c7"
+    }
+  ],
+  "in_theaters": false
+}

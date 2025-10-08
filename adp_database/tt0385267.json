@@ -1,0 +1,16 @@
+{
+  "Title": "In Good Company",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fca9f77d-e8b1-24b7-7b37-39c1ad6c3c4a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

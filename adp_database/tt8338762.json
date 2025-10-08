@@ -1,0 +1,22 @@
+{
+  "Title": "The Nest",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76d4e4d3-afc3-4df3-aeeb-463cd4fcd645/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1531368134"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08W7SHC6S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

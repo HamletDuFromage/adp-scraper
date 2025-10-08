@@ -1,0 +1,15 @@
+{
+  "Title": "Brotherhood",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/brotherhood/"
+    }
+  ],
+  "in_theaters": false
+}

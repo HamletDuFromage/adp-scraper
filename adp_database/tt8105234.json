@@ -1,0 +1,19 @@
+{
+  "Title": "Flamin' Hot",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/flamin-hot-b81d7e5b-e244-432c-af28-bedf3f8e7020"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/flamin-hot/PmAiIWRz18HF"
+    }
+  ],
+  "in_theaters": false
+}

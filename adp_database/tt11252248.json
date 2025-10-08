@@ -1,0 +1,21 @@
+{
+  "Title": "Dog",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f32dd1d3-8f8b-4bb9-8fa4-3262af382c03/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1609674210"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09WYZWBCT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

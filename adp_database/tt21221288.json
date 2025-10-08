@@ -1,0 +1,15 @@
+{
+  "Title": "Frozen Sing-Along Edition",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00MI56SIS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

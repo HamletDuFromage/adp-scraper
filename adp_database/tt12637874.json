@@ -1,0 +1,17 @@
+{
+  "Title": "Fallout",
+  "Media Type": "Series",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.220a83cb-b9b4-4cad-b8a0-e768bb603fa7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

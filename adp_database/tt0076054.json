@@ -1,0 +1,19 @@
+{
+  "Title": "Freaky Friday",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/freaky-friday-1977/5Yr9626McAdp"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id202238077"
+    }
+  ],
+  "in_theaters": false
+}

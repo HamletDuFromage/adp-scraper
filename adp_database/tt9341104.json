@@ -1,0 +1,15 @@
+{
+  "Title": "Arthur and the Haunted Tree House",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e17635be-8148-4c9c-88d5-3fcd97a957be/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

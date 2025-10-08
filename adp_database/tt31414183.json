@@ -1,0 +1,17 @@
+{
+  "Title": "Becoming King",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eb834bf5-0834-4311-866a-73ab8c2bca72/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/e2HaTNPYpV_q0m40UaVveVkb4OShZSOY/"
+    }
+  ],
+  "in_theaters": false
+}

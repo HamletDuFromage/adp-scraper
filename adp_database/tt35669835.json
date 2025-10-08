@@ -1,0 +1,18 @@
+{
+  "Title": "We Beat the Dream Team",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.711b1c0f-0415-47c9-b1ce-bb95a9c0968f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/3c2f2eb6-d40f-4885-affe-32e041cec702"
+    }
+  ],
+  "in_theaters": false
+}

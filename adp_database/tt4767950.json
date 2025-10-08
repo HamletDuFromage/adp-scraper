@@ -1,0 +1,16 @@
+{
+  "Title": "A Christmas Detour",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34a9f72d-7ac0-7755-19d0-b0331015b1aa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

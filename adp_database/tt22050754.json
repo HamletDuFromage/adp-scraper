@@ -1,0 +1,14 @@
+{
+  "Title": "The Strangers - Chapter 1",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1745838557"
+    }
+  ],
+  "in_theaters": false
+}

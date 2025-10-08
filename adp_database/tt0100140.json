@@ -1,0 +1,16 @@
+{
+  "Title": "Mermaids",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1645176202"
+    }
+  ],
+  "in_theaters": false
+}

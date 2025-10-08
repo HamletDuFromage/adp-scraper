@@ -1,0 +1,23 @@
+{
+  "Title": "The Odd Life of Timothy Green",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-odd-life-of-timothy-green/6WH4zXLL6Lxo"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id569218260"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIIKS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

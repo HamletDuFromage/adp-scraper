@@ -1,0 +1,19 @@
+{
+  "Title": "Chasing Happiness",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4b572da-2cb6-9b2a-5c7e-429f94605d09/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ab952f0-5076-acf7-8c7f-ac9b081dba18/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

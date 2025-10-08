@@ -1,0 +1,27 @@
+{
+  "Title": "Spirited",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.850b998d-f378-4388-be05-c32516083d26/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.3lp7wqowerzdbej98tveildi3"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4385678"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1805982369"
+    }
+  ],
+  "in_theaters": false
+}

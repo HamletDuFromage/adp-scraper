@@ -1,0 +1,24 @@
+{
+  "Title": "X-Men: Dark Phoenix",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94b87890-4162-aa06-3f07-89b389b5babc/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/x-men-dark-phoenix/3bCZz3EzlG6r"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1464833546"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07RKFHYTY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

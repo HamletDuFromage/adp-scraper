@@ -1,0 +1,23 @@
+{
+  "Title": "Tad, the Lost Explorer and the Emerald Tablet",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.55223d17-b492-4219-9082-1e4d2b42d310/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1641454483"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2212075"
+    }
+  ],
+  "in_theaters": false
+}

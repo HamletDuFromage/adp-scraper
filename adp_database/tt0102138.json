@@ -1,0 +1,16 @@
+{
+  "Title": "JFK",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f70e-cc6c-b6ce-2dae-6356d06d8707/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

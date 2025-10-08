@@ -1,0 +1,15 @@
+{
+  "Title": "The Good Doctor",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Medical"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-good-doctor-83af4088-ed9d-4559-acb1-8aad6cecf7ae"
+    }
+  ],
+  "in_theaters": false
+}

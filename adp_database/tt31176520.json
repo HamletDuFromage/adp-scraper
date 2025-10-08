@@ -1,0 +1,19 @@
+{
+  "Title": "Eddington",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1824583388"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4334164"
+    }
+  ],
+  "in_theaters": false
+}

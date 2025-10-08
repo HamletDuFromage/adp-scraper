@@ -1,0 +1,17 @@
+{
+  "Title": "Think Like a Dog",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.858600de-bc80-4ba6-a183-816ea354f74e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

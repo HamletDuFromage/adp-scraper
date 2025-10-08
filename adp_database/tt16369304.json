@@ -1,0 +1,18 @@
+{
+  "Title": "Get Millie Black",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dd01b021-5db7-4d5d-9171-418bf1670b21/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/bc1477fc-e684-4b2f-a216-8532f42a5784"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "The Tender Bar",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.713ed360-27ba-4f49-840e-568097838ff6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1677656803"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2355985"
+    }
+  ],
+  "in_theaters": false
+}

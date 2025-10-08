@@ -1,0 +1,19 @@
+{
+  "Title": "Mildred Pierce",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22a9f795-50c8-c1bb-2345-8ab83077430a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ff8bbd5f-03bd-4583-a503-a1b61201e4f9"
+    }
+  ],
+  "in_theaters": false
+}

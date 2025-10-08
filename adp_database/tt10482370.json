@@ -1,0 +1,20 @@
+{
+  "Title": "The Third Day",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.013353b0-3593-4ef3-beed-a3e2fba5264a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1e4cf0ae-d1b9-45d6-8017-ab34c6206f01"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Pineapple Express",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id296672025"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70098329"
+    }
+  ],
+  "in_theaters": false
+}

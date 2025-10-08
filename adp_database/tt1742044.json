@@ -1,0 +1,16 @@
+{
+  "Title": "Jersey Boys",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32a9f70b-95f3-b887-4278-9237d375cad4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

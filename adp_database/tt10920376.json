@@ -1,0 +1,16 @@
+{
+  "Title": "Go Fish",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24bc326c-2fbd-1aa0-2c58-6b374ea31d25/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

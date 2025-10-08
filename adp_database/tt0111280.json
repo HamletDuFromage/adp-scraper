@@ -1,0 +1,21 @@
+{
+  "Title": "Star Trek VII: Generations",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/13635"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/qktISmdbebHu7qB2qtzhg3fNsrL16PXi/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b24ff778-6c82-4c33-9a9a-620cb92cc060/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Go Figure",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/go-figure/5UOvbnFAwSxI"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4187325"
+    }
+  ],
+  "in_theaters": false
+}

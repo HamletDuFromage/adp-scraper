@@ -1,0 +1,16 @@
+{
+  "Title": "Love Actually",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2a9f773-7197-839f-4351-8af91ae40c00/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

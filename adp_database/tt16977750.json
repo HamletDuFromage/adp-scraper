@@ -1,0 +1,18 @@
+{
+  "Title": "Sidney",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54adccf3-856e-489a-9050-316f1b04f520/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.3bz66deer36yb164foftii9pe"
+    }
+  ],
+  "in_theaters": false
+}

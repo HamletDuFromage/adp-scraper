@@ -1,0 +1,16 @@
+{
+  "Title": "Fish Hooks",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/fish-hooks/7LkR2DpUQ7aF"
+    }
+  ],
+  "in_theaters": false
+}

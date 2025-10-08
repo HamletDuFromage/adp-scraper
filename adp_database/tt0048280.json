@@ -1,0 +1,18 @@
+{
+  "Title": "Lady and the Tramp",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lady-and-the-tramp/5C1EXtD5Z5xv"
+    }
+  ],
+  "in_theaters": false
+}

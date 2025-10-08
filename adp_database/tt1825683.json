@@ -1,0 +1,21 @@
+{
+  "Title": "Black Panther",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-black-panther/1GuXuYPj99Ke"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1342065788"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B079FLYB41/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

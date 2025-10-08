@@ -1,0 +1,33 @@
+{
+  "Title": "Strange World",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0ff30d6-8ada-4046-9d58-c94d7b755481/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d50af7e5-2167-4515-a9ba-8ac44ee52dcc/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/strange-world/1OVzv6hnhOFm"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1657659907"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BQRS3GXQ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2213778"
+    }
+  ],
+  "in_theaters": false
+}

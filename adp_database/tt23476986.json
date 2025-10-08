@@ -1,0 +1,21 @@
+{
+  "Title": "G20",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ce18124f-5eb6-431a-b5d3-41ba43d8ce55/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1812518645"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4244140"
+    }
+  ],
+  "in_theaters": false
+}

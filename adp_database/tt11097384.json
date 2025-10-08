@@ -1,0 +1,16 @@
+{
+  "Title": "Spaceman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81301595"
+    }
+  ],
+  "in_theaters": false
+}

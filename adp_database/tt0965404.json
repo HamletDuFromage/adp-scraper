@@ -1,0 +1,19 @@
+{
+  "Title": "Bubble Guppies",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6a9f789-46a7-d766-792a-5e19d84d8773/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/bubble-guppies/"
+    }
+  ],
+  "in_theaters": false
+}

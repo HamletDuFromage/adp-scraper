@@ -1,0 +1,25 @@
+{
+  "Title": "Margaux",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a5ac1bef-a7dc-4f89-a425-13f7adffe462/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1638086967"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2103386"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/NFR4JH86APIJFwpgEMtiVLH7U9OQxHvU/"
+    }
+  ],
+  "in_theaters": false
+}

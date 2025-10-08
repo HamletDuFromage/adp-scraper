@@ -1,0 +1,18 @@
+{
+  "Title": "gen:LOCK",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8c8b36af-7df4-49c8-928a-7aa55139bff2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/23a652b1-5a0d-422c-87e2-c564ab906421"
+    }
+  ],
+  "in_theaters": false
+}

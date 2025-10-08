@@ -1,0 +1,18 @@
+{
+  "Title": "Peter & the Wolf",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/ee649ad6-765f-4b82-913d-ed10fe22bedb"
+    }
+  ],
+  "in_theaters": false
+}

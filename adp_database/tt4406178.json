@@ -1,0 +1,20 @@
+{
+  "Title": "The Gilded Age",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/2537da31-ff99-4195-a53e-e0e1ddb1d67e"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2850683"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f6fbbf37-6a18-4e65-9cb8-d546dc8247c7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

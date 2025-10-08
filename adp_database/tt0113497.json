@@ -1,0 +1,17 @@
+{
+  "Title": "Jumanji",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94a9f6c2-edbe-6132-d4d8-5ff6d528ee7b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Justin Morgan Had a Horse",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/justin-morgan-had-a-horse/5UOWEfyIstV4"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id635467524"
+    }
+  ],
+  "in_theaters": false
+}

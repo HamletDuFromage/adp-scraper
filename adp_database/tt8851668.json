@@ -1,0 +1,21 @@
+{
+  "Title": "The Lovebirds",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81248748"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1df2f8cd-98eb-4f3b-b2f8-18ccd4606f7a/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B085RPXB42/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

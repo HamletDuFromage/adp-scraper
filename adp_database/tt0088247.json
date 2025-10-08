@@ -1,0 +1,18 @@
+{
+  "Title": "The Terminator",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66b60399-3e99-f61d-d148-ac0752317559/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/140350"
+    }
+  ],
+  "in_theaters": false
+}

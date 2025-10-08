@@ -1,0 +1,20 @@
+{
+  "Title": "Goosebumps",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/7ec4b386-6981-42e5-bcc8-3bad11b170a1"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/goosebumps/5Y5xxOokEURA"
+    }
+  ],
+  "in_theaters": false
+}

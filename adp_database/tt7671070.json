@@ -1,0 +1,21 @@
+{
+  "Title": "Industry",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f26d6f4a-e4ca-4514-a902-eefb25f8557c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/9e51c88c-7a28-40ee-8269-e16572e02a07"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3572980"
+    }
+  ],
+  "in_theaters": false
+}

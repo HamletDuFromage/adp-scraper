@@ -1,0 +1,20 @@
+{
+  "Title": "The Green Hornet",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id425305936"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002ZG99B8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

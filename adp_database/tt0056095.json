@@ -1,0 +1,16 @@
+{
+  "Title": "In Search of the Castaways",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id441266228"
+    }
+  ],
+  "in_theaters": false
+}

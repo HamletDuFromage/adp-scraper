@@ -1,0 +1,18 @@
+{
+  "Title": "Dandelion",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9bc3be86-74d5-4cfc-8cb0-adffe58e4a2f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1758824322"
+    }
+  ],
+  "in_theaters": false
+}

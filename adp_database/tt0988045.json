@@ -1,0 +1,21 @@
+{
+  "Title": "Sherlock Holmes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ca9f7b3-e736-04fb-969a-5ea812e1efcc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id350751236"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70110558"
+    }
+  ],
+  "in_theaters": false
+}

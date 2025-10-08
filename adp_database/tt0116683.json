@@ -1,0 +1,18 @@
+{
+  "Title": "James and the Giant Peach",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/james-and-the-giant-peach/4Lzhag3dkRoz"
+    }
+  ],
+  "in_theaters": false
+}

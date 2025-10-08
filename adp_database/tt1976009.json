@@ -1,0 +1,18 @@
+{
+  "Title": "Victor Frankenstein",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1052947436"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01AO6XWTK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

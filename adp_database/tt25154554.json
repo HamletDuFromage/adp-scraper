@@ -1,0 +1,15 @@
+{
+  "Title": "Chef Dynasty: House of Fang",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/d53fd394-3488-4809-93ae-2cefda59c740"
+    }
+  ],
+  "in_theaters": false
+}

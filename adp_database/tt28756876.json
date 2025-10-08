@@ -1,0 +1,15 @@
+{
+  "Title": "Einstein and the Bomb",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81474469"
+    }
+  ],
+  "in_theaters": false
+}

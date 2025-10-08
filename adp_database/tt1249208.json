@@ -1,0 +1,17 @@
+{
+  "Title": "Celebrity Family Feud",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Game Show",
+    "Reality TV",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/celebrity-family-feud-9917518d-1925-4fce-badd-893340cc7c66"
+    }
+  ],
+  "in_theaters": false
+}

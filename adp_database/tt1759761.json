@@ -1,0 +1,17 @@
+{
+  "Title": "Veep",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ad58e1d-b211-4f9e-87be-754e9a3f4edd/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/37cb4217-c710-4166-8e9f-352a61f2cd3a"
+    }
+  ],
+  "in_theaters": false
+}

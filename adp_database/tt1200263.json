@@ -1,0 +1,27 @@
+{
+  "Title": "The Color Purple",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4a9f677-b9f2-255e-fee1-ebdd5b199b28/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4451be1-dc0f-4c12-9f08-a0b1e1bbfa0e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/0bbe998a-23b8-49a2-9729-976d53af74be"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CQ684RQZ/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81687658"
+    }
+  ],
+  "in_theaters": false
+}

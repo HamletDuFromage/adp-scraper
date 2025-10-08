@@ -1,0 +1,15 @@
+{
+  "Title": "Sweet Tooth",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81221380"
+    }
+  ],
+  "in_theaters": false
+}

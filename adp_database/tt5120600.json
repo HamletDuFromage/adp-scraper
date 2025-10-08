@@ -1,0 +1,16 @@
+{
+  "Title": "Danger & Eggs",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9caefc3f-35a7-9418-934c-02d9991c9ef4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

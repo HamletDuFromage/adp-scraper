@@ -1,0 +1,14 @@
+{
+  "Title": "Cradle of Deception",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52fadb0d-68d6-4974-91ef-3efb58b1e817/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

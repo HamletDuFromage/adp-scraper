@@ -1,0 +1,16 @@
+{
+  "Title": "A Small Light",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9267aa09-d010-4043-a888-d0b97c224814/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

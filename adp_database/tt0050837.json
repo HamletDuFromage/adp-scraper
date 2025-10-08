@@ -1,0 +1,17 @@
+{
+  "Title": "Perri",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Documentary",
+    "Kids & Family",
+    "Science & Nature"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/perri/4Y8BFJTYWdon"
+    }
+  ],
+  "in_theaters": false
+}

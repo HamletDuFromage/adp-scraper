@@ -1,0 +1,15 @@
+{
+  "Title": "The Patient",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-patient-4d9ad5b3-6925-4e94-9b0b-49b9f8cf81f2"
+    }
+  ],
+  "in_theaters": false
+}

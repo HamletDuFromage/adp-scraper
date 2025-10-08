@@ -1,0 +1,25 @@
+{
+  "Title": "Rob Peace",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81770325"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c70bc3fd-0448-4501-b127-6dfd3453afca/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1759237208"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3315339"
+    }
+  ],
+  "in_theaters": false
+}

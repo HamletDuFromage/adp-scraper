@@ -1,0 +1,16 @@
+{
+  "Title": "All About the Benjamins",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06a9f793-328a-f220-a417-6870b845d13e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

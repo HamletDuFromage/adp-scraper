@@ -1,0 +1,28 @@
+{
+  "Title": "Dungeons & Dragons: Honor Among Thieves",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1674748585"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BZBN18D2/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2303302"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/VYaqo0i3pHMuC4n2U30CyIQ6CuVjp716/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e7e9de76-1a87-4d06-84ab-5d2a1e5e0a2c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

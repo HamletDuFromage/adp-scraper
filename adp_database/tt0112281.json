@@ -1,0 +1,16 @@
+{
+  "Title": "Ace Ventura: When Nature Calls",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4af678c-bc41-8aec-1aee-d642a26cbc86/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "The Leftovers",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e88974fc-d060-4b49-acf1-90a6c827f3c9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ce812085-7871-413f-8ceb-8c423f853427"
+    }
+  ],
+  "in_theaters": false
+}

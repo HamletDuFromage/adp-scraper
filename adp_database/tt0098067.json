@@ -1,0 +1,18 @@
+{
+  "Title": "Parenthood",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72a9f76e-a80e-3b89-ad2d-817c8c9e9c50/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/842383"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Mom's Got a Date with a Vampire",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/moms-got-a-date-with-a-vampire/E1GCgPSh5Rfu"
+    }
+  ],
+  "in_theaters": false
+}

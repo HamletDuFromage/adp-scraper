@@ -1,0 +1,19 @@
+{
+  "Title": "Venom: Let There Be Carnage",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B09GZ7C3TP/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.367951ca-7f19-4a9d-a074-73fe97e61678/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Blue Velvet",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6a9f778-ff4d-a21a-6192-15d5c906498b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

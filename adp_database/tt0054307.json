@@ -1,0 +1,18 @@
+{
+  "Title": "The Sign of Zorro",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Romance",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-sign-of-zorro/5nYxALl3eJAv"
+    }
+  ],
+  "in_theaters": false
+}

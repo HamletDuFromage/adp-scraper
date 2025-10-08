@@ -1,0 +1,23 @@
+{
+  "Title": "Love the Coopers",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4b85323-5647-4a44-4d74-08066b5c8d6a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1054114989"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B017RR4Y4Q/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

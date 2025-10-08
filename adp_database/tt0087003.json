@@ -1,0 +1,14 @@
+{
+  "Title": "Broadway Danny Rose",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/broadway-danny-rose"
+    }
+  ],
+  "in_theaters": false
+}

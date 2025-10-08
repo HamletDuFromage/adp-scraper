@@ -1,0 +1,14 @@
+{
+  "Title": "Matteo Lane: The Al Dente Special",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/5d546a03-fc2b-4d08-9fd0-8fea927e22ca"
+    }
+  ],
+  "in_theaters": false
+}

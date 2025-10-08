@@ -1,0 +1,26 @@
+{
+  "Title": "Death on the Nile",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9c14dded-0354-45af-9db7-ecf2c0dfebbe/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/death-on-the-nile-518d2efc-7cde-4878-85ff-b8dd13a83a2b"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1611499430"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09VTCXVJK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

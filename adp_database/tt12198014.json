@@ -1,0 +1,16 @@
+{
+  "Title": "Little Demon",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/little-demon-d81adce9-115e-4fd0-ad84-36ff60ddcf96"
+    }
+  ],
+  "in_theaters": false
+}

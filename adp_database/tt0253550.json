@@ -1,0 +1,15 @@
+{
+  "Title": "Ready to Run",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/ready-to-run/1Zamz0cGEIbv"
+    }
+  ],
+  "in_theaters": false
+}

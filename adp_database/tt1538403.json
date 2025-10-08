@@ -1,0 +1,24 @@
+{
+  "Title": "The Mortal Instruments: City of Bones",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Mystery",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a9f706-dcfd-fe99-a1db-5ae551bfbe2e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B009AMAKWM/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70266670"
+    }
+  ],
+  "in_theaters": false
+}

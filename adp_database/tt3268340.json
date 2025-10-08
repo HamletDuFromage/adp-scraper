@@ -1,0 +1,16 @@
+{
+  "Title": "Crown Heights",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4b0150b-007d-66d5-182a-18ac6a4a6bbd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

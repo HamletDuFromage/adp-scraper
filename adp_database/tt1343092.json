@@ -1,0 +1,18 @@
+{
+  "Title": "The Great Gatsby",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6ba6d3a-0ba3-b805-e488-e3b9db7ff022/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id669947696"
+    }
+  ],
+  "in_theaters": false
+}

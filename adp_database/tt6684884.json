@@ -1,0 +1,16 @@
+{
+  "Title": "Ladies in Black",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4b55b92-693e-0e6e-fbda-f023ef93f0ba/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

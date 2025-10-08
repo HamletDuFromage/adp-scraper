@@ -1,0 +1,18 @@
+{
+  "Title": "Dora and Diego: Rainforest Rescues",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/QFK_HTqt_81gfwqsHuvmUl_EjAeQ_7VN/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.71c5b4ca-57b4-4a04-940d-e75cebc4f962/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

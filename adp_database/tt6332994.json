@@ -1,0 +1,16 @@
+{
+  "Title": "Growing Up Wild",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneynature-growing-up-wild/3XQqPtIAT8Ka"
+    }
+  ],
+  "in_theaters": false
+}

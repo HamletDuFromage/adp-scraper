@@ -1,0 +1,18 @@
+{
+  "Title": "Patience",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4261582"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cfbe6117-6474-4490-91e6-1b782c34fa40/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

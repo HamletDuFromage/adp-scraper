@@ -1,0 +1,15 @@
+{
+  "Title": "Please Stand By",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67ced36f-b616-4997-81d3-f17b76c5b556/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

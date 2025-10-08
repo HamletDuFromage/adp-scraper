@@ -1,0 +1,21 @@
+{
+  "Title": "Rise of the Guardians",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32b0a83f-e0d1-371f-d8e8-2bda692740dd/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00947N6D8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

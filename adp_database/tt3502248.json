@@ -1,0 +1,15 @@
+{
+  "Title": "Bosch",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18ab0769-016b-f1b4-90ce-4a5dc75848cf/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

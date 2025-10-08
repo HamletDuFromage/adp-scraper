@@ -1,0 +1,14 @@
+{
+  "Title": "15 Minutes of Shame",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.73acf4f9-0a82-4743-8e83-cc22e99d7c58/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

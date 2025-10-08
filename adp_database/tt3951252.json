@@ -1,0 +1,16 @@
+{
+  "Title": "A Wife's Nightmare",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6a9f7c7-055c-371b-3435-07d881b02cdf/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

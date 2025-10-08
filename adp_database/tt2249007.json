@@ -1,0 +1,18 @@
+{
+  "Title": "Ray Donovan",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/ray-donovan/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aaa9f78c-5b99-f422-e9e5-8e1f7ea2eb9f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

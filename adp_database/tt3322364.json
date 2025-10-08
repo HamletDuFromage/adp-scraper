@@ -1,0 +1,25 @@
+{
+  "Title": "Concussion",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3aa9f763-3fd4-5acc-39cb-2d5ac8ab11f3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1065710558"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B019T8QBR4/audiodescriin-20"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/539270/concussion"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Ultraman: Rising",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81007144"
+    }
+  ],
+  "in_theaters": false
+}

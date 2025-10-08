@@ -1,0 +1,15 @@
+{
+  "Title": "No Man's Land",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/no-mans-land-f7758859-0627-4265-9c88-275e28db95da"
+    }
+  ],
+  "in_theaters": false
+}

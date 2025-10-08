@@ -1,0 +1,16 @@
+{
+  "Title": "Chappaquiddick",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6b1dbc5-0a48-9a86-e9d3-74b21d534790/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

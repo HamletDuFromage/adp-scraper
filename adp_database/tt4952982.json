@@ -1,0 +1,15 @@
+{
+  "Title": "My Best Friend",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6aaf883-94d0-64d3-d826-f6b0a466ebad/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

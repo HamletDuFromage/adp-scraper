@@ -1,0 +1,18 @@
+{
+  "Title": "Kim Possible Movie: So the Drama",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/kim-possible-movie-so-the-drama/2PioFPb5HpyV"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Scoop",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81600418"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Spree",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22b9beb3-e285-8568-24c6-d863c03f15c3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

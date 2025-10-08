@@ -1,0 +1,21 @@
+{
+  "Title": "Kingsman: The Secret Service",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2a9f6d8-053d-ce54-6c86-59765b842ae3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id957056432"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00W6OO6GM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

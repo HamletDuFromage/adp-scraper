@@ -1,0 +1,21 @@
+{
+  "Title": "Origin",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/b03f7bdd-9e2a-4ac4-ac04-60a74c7dd297"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CZFTQ8H3/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2964052"
+    }
+  ],
+  "in_theaters": false
+}

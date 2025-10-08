@@ -1,0 +1,14 @@
+{
+  "Title": "Home Game",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80227160"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Pain & Gain",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72a9f75b-e784-42f0-76b1-97d013d9a316/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id669989888"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00BEIYLO8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Relay",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1827295854"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4460566"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a9f49ef1-1602-40fc-b1ac-f07e847028ac/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "The Theory of Everything",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56a9f78e-c16b-4911-9ce0-127a6a04d2e7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id942799869"
+    }
+  ],
+  "in_theaters": false
+}

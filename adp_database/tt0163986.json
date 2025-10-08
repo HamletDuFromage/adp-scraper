@@ -1,0 +1,17 @@
+{
+  "Title": "The Brave Little Toaster to the Rescue",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/brave-little-toaster-to-the-rescue/3SkPJDhuvKEO"
+    }
+  ],
+  "in_theaters": false
+}

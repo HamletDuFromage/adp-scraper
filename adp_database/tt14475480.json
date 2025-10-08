@@ -1,0 +1,16 @@
+{
+  "Title": "Dinner is Served",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Coming of Age",
+    "Drama",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dinner-is-served/4yTrtD1Uoe2o"
+    }
+  ],
+  "in_theaters": false
+}

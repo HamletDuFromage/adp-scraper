@@ -1,0 +1,17 @@
+{
+  "Title": "Wolf Like Me",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/wolf-like-me/5533097559803790112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.277d8dc6-a7e8-49dc-939e-058b661d1f55/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

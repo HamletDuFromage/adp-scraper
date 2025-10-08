@@ -1,0 +1,17 @@
+{
+  "Title": "Tangerine",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.234e5148-8301-4252-aa0a-a6e89be0272a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

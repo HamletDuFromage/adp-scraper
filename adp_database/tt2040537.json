@@ -1,0 +1,15 @@
+{
+  "Title": "The Coalition",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92a9f74a-3a68-cfc8-9aa4-2d91bb929721/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

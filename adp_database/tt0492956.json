@@ -1,0 +1,19 @@
+{
+  "Title": "The Game Plan",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-game-plan/68UrfxWwqyLu"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id270332721"
+    }
+  ],
+  "in_theaters": false
+}

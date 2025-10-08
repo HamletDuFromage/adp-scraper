@@ -1,0 +1,20 @@
+{
+  "Title": "Becoming Bulletproof",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Disability",
+    "Documentary",
+    "Independent",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1070665361"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B019FGSUZ6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

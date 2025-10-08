@@ -1,0 +1,15 @@
+{
+  "Title": "Riding with Sugar",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Coming of Age",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/683751/riding-with-sugar"
+    }
+  ],
+  "in_theaters": false
+}

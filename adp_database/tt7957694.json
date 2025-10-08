@@ -1,0 +1,15 @@
+{
+  "Title": "The Last Summer",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80999729"
+    }
+  ],
+  "in_theaters": false
+}

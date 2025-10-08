@@ -1,0 +1,16 @@
+{
+  "Title": "The Horse Whisperer",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id204513104"
+    }
+  ],
+  "in_theaters": false
+}

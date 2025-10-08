@@ -1,0 +1,16 @@
+{
+  "Title": "The Platform",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81128579"
+    }
+  ],
+  "in_theaters": false
+}

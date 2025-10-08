@@ -1,0 +1,17 @@
+{
+  "Title": "Dirty Dancing",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Dance",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/445386"
+    }
+  ],
+  "in_theaters": false
+}

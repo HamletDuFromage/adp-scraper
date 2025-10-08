@@ -1,0 +1,14 @@
+{
+  "Title": "Herself",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8baf133-48ae-a205-a946-810e667695c1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

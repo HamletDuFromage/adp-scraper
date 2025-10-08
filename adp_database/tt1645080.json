@@ -1,0 +1,19 @@
+{
+  "Title": "The Art of Getting By",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.daa9f70f-f678-a0c3-f666-86bcef390dc3/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005PTMPYA/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

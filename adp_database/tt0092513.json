@@ -1,0 +1,16 @@
+{
+  "Title": "Adventures in Babysitting",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id438868453"
+    }
+  ],
+  "in_theaters": false
+}

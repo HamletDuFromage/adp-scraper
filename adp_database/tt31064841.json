@@ -1,0 +1,30 @@
+{
+  "Title": "Piece by Piece",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Biography",
+    "Comedy",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ec2291a1-df8e-4034-9a4c-9e7b648f7ea4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1771891426"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DJMY8D1V/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3599164"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/82006733"
+    }
+  ],
+  "in_theaters": false
+}

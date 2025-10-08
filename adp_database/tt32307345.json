@@ -1,0 +1,15 @@
+{
+  "Title": "Dreambreaker: A Pickleball Story",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/2c48ffaead2edd7dcf1e41c41f33fb54/dreambreaker-a-pickleball-story"
+    }
+  ],
+  "in_theaters": false
+}

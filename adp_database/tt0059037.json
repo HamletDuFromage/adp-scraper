@@ -1,0 +1,14 @@
+{
+  "Title": "The Cincinnati Kid",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id272068101"
+    }
+  ],
+  "in_theaters": false
+}

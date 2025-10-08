@@ -1,0 +1,18 @@
+{
+  "Title": "Frosty the Snowman",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Animation",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b30a3c60-86b2-419d-b2f7-15c7e5f5629c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

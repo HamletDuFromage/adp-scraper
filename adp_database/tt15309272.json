@@ -1,0 +1,18 @@
+{
+  "Title": "Funny Woman",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4a769da9-c16e-4861-9e68-b212741e0545/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4003973"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Bad Axe",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f577f9d1-71fe-46d0-bbb8-a5930767629e/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/b3c04058-6798-493d-88e9-7e0960a1311b"
+    }
+  ],
+  "in_theaters": false
+}

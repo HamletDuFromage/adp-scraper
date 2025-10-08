@@ -1,0 +1,23 @@
+{
+  "Title": "Priscilla",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30d255d7-75cd-42ff-af8d-f8ff5d2b8206/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1715561808"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2636584"
+    }
+  ],
+  "in_theaters": false
+}

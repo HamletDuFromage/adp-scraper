@@ -1,0 +1,20 @@
+{
+  "Title": "Change, Not Charity: The Americans with Disabilities Act",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "History",
+    "Special Interest"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54bb87e3-e1ad-4390-aebf-e5e080641d52/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.446b90bd-e42f-4bbd-b6ca-274ebf4e4002/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

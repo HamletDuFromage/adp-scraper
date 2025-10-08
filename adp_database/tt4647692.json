@@ -1,0 +1,14 @@
+{
+  "Title": "Letterkenny",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/letterkenny-0f756343-1afc-46ba-805a-bb6b1c1e8c65"
+    }
+  ],
+  "in_theaters": false
+}

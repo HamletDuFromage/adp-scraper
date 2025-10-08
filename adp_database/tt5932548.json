@@ -1,0 +1,19 @@
+{
+  "Title": "Britannia",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42b9d364-1bf3-1f21-53d3-973233e90342/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/series/britannia"
+    }
+  ],
+  "in_theaters": false
+}

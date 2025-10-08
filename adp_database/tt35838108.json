@@ -1,0 +1,17 @@
+{
+  "Title": "Matthew Perry: A Hollywood Tragedy",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/matthew-perry-a-hollywood-tragedy/3731a317-38d0-3e82-995f-4f8d1bb129f7"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8701af66-f19f-44c7-9e04-7dcd9fe2af63/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

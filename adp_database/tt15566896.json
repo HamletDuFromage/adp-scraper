@@ -1,0 +1,19 @@
+{
+  "Title": "Pretty Problems",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78f12fb6-108b-4412-8389-e255e1fb244e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1643972245"
+    }
+  ],
+  "in_theaters": false
+}

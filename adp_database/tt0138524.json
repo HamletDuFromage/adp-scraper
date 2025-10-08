@@ -1,0 +1,16 @@
+{
+  "Title": "Intolerable Cruelty",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2a9f6d9-c89d-c988-bdba-0f5114501891/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

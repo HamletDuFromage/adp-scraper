@@ -1,0 +1,26 @@
+{
+  "Title": "Ruby Gillman, Teenage Kraken",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c62a48cc-d7f8-4b2e-b0fa-c5eea39bd880/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1692869661"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C8VFJ1PR/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2455174"
+    }
+  ],
+  "in_theaters": false
+}

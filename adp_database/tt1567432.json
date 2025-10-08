@@ -1,0 +1,17 @@
+{
+  "Title": "Teen Wolf",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58b132bc-7143-955b-a73f-b984467a6abf/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

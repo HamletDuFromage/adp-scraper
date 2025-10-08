@@ -1,0 +1,14 @@
+{
+  "Title": "Deadly Estate",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/722270/deadly-estate"
+    }
+  ],
+  "in_theaters": false
+}

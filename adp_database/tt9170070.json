@@ -1,0 +1,21 @@
+{
+  "Title": "90 Day Fiancé: The Other Way",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/2d15b412-1395-4c52-a897-ff290ea38f8c"
+    },
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.704b8bfd-c98f-4735-b9cf-379e6e2d9cd1/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dc9d6fee-0204-43d3-b0be-ba65f5334867/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

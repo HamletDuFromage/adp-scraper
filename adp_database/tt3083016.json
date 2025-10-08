@@ -1,0 +1,16 @@
+{
+  "Title": "Beverly Hills Cop: Axel F",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81076856"
+    }
+  ],
+  "in_theaters": false
+}

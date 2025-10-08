@@ -1,0 +1,16 @@
+{
+  "Title": "The Sessions",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00AEK9BKQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

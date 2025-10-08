@@ -1,0 +1,15 @@
+{
+  "Title": "American History X",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9aa9f70d-6cb2-ba12-27c0-6fc139b6a27a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

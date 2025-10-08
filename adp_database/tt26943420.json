@@ -1,0 +1,23 @@
+{
+  "Title": "The Thundermans Return",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b11cb9dd-8e9e-43ea-ad84-9c904486bb4c/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3071914"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/Ry_KiraIW5p0dSvUkGAAYkr9tgxNlScp/"
+    }
+  ],
+  "in_theaters": false
+}

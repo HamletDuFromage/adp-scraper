@@ -1,0 +1,18 @@
+{
+  "Title": "Years and Years",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6825ae0-313d-45ca-af0b-7c98e064bdf5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/9acf44ab-3a39-43a3-9dd3-32e0e73d6fe4"
+    }
+  ],
+  "in_theaters": false
+}

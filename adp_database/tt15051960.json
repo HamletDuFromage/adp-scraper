@@ -1,0 +1,15 @@
+{
+  "Title": "Love and Penguins",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/675798/love-and-penguins"
+    }
+  ],
+  "in_theaters": false
+}

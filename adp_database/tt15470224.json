@@ -1,0 +1,18 @@
+{
+  "Title": "Mickey's Tale of Two Witches",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mickeys-tale-of-two-witches/1RBp5FbHlKfE"
+    }
+  ],
+  "in_theaters": false
+}

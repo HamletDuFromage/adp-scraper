@@ -1,0 +1,21 @@
+{
+  "Title": "A Man Called Otto",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.505d5b8a-2537-42bc-9b90-228eb6c9ee23/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1663545377"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BS2WHG12/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

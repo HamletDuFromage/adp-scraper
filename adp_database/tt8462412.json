@@ -1,0 +1,15 @@
+{
+  "Title": "Northern Rescue",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80202258"
+    }
+  ],
+  "in_theaters": false
+}

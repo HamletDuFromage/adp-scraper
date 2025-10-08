@@ -1,0 +1,24 @@
+{
+  "Title": "Dealt",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4af939c-061d-e69b-24fc-a70c177c5457/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/dealt-d8435e02-39f3-4afb-81ac-c025dd4a7e0c"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1287357427"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B077R4K4YP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

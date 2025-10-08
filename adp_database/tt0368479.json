@@ -1,0 +1,19 @@
+{
+  "Title": "Cold Case",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9121c0c8-5700-4a78-a168-ba4a4c1d28ad/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/00bcd5bf-6b63-40a2-a78e-d46e2f3d111c"
+    }
+  ],
+  "in_theaters": false
+}

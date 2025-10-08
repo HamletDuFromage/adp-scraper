@@ -1,0 +1,15 @@
+{
+  "Title": "13 Reasons Why: Beyond the Reasons",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80996791"
+    }
+  ],
+  "in_theaters": false
+}

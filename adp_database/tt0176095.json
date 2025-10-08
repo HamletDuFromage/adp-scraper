@@ -1,0 +1,22 @@
+{
+  "Title": "The Challenge",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0372295b-9938-4d9b-8c3b-c5452373d4ae/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4331371"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-challenge/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Weeknd: Live at Sofi Stadium",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Concert",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f5b245cc-6081-4ca5-a30e-6baf4f558247/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2dc19297-6179-4f9b-ac3e-64c9ae66e492"
+    }
+  ],
+  "in_theaters": false
+}

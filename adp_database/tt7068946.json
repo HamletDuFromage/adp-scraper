@@ -1,0 +1,27 @@
+{
+  "Title": "The Accountant 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f063c63d-ed97-44f9-9ba1-f74a749e9ede/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4343368"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0FFZ198BN/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1822387632"
+    }
+  ],
+  "in_theaters": false
+}

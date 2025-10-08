@@ -1,0 +1,25 @@
+{
+  "Title": "Antlers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0ae3ff0-932d-41e1-87d1-4540a6f8a0b4/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/antlers-652e0c96-1dfc-4f9e-a6d8-18949c5fe75a"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1594009334"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09LVPCY1H/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

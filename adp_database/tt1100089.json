@@ -1,0 +1,20 @@
+{
+  "Title": "Foxcatcher",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ca9f789-716b-2c5d-5e28-6ccaca88a8ff/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00QK4ANNY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

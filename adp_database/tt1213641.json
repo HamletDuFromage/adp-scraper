@@ -1,0 +1,23 @@
+{
+  "Title": "First Man",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cb320e3-2184-28fb-77f6-3efd901837b6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1437642635"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07HSK3HKD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Flip Off",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.621a6900-75f6-4cfd-b4b6-9964afc31014/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c75de3fb-b0c0-42fa-bdcb-5fee642185b5"
+    }
+  ],
+  "in_theaters": false
+}

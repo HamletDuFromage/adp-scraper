@@ -1,0 +1,19 @@
+{
+  "Title": "Disclaimer",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cedf652-ea93-41f8-80eb-b189cfd7740a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1cbgkx1fenkjtrha0n1a6fkc3"
+    }
+  ],
+  "in_theaters": false
+}

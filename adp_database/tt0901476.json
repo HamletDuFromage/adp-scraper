@@ -1,0 +1,15 @@
+{
+  "Title": "Bride Wars",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id302809491"
+    }
+  ],
+  "in_theaters": false
+}

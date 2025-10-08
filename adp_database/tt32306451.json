@@ -1,0 +1,18 @@
+{
+  "Title": "LEGO Star Wars: Rebuild the Galaxy",
+  "Media Type": "Series",
+  "Rating": "TV-Y7-FV",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-8adeb478-c15d-47a2-b2fb-e3653e2f75a3"
+    }
+  ],
+  "in_theaters": false
+}

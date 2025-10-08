@@ -1,0 +1,21 @@
+{
+  "Title": "Herbie: Fully Loaded",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/herbie-fully-loaded/1U9XcXDawIw8"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id187697041"
+    }
+  ],
+  "in_theaters": false
+}

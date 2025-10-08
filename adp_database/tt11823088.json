@@ -1,0 +1,15 @@
+{
+  "Title": "100 Humans",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80215997"
+    }
+  ],
+  "in_theaters": false
+}

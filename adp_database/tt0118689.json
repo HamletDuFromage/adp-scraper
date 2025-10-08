@@ -1,0 +1,16 @@
+{
+  "Title": "Bean",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cea9f7a4-dca4-5ecb-04fe-bcf96fa2bace/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

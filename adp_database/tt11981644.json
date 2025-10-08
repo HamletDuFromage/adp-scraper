@@ -1,0 +1,19 @@
+{
+  "Title": "Professor T",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8f9aa10f-7d00-498b-909b-78fcb91b40ac/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2578048"
+    }
+  ],
+  "in_theaters": false
+}

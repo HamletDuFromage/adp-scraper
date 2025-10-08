@@ -1,0 +1,18 @@
+{
+  "Title": "A Summer Musical",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.xesgxj0bt8yrrkrunae0wke7"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.093fb134-395b-4518-a618-c90fd997e302/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

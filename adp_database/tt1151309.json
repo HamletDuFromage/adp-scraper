@@ -1,0 +1,15 @@
+{
+  "Title": "Bigger, Stronger, Faster",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0a9f792-288e-ee11-5098-fe5c834df12c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

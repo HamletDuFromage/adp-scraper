@@ -1,0 +1,18 @@
+{
+  "Title": "First Cow",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54b84df8-6267-23b1-2526-b335665b1507/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1499578877"
+    }
+  ],
+  "in_theaters": false
+}

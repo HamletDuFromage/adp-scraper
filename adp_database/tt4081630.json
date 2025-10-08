@@ -1,0 +1,15 @@
+{
+  "Title": "The Valet",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-valet-ee848d26-cb68-4852-8364-4df3661ab66e"
+    }
+  ],
+  "in_theaters": false
+}

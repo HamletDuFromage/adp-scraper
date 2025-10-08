@@ -1,0 +1,25 @@
+{
+  "Title": "Star Trek Beyond",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.08ab060b-a7e0-313b-cbe0-be43def1b744/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1128456722"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01IS31XTC/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/PP_Z07j49bpd8gFCkl1RlPoniqf1UTAb/"
+    }
+  ],
+  "in_theaters": false
+}

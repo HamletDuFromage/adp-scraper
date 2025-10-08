@@ -1,0 +1,18 @@
+{
+  "Title": "Calendar Girls",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9cb87782-3eaf-47cb-2dc5-76cf418dde33/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id203503990"
+    }
+  ],
+  "in_theaters": false
+}

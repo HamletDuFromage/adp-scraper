@@ -1,0 +1,16 @@
+{
+  "Title": "I Was Honey Boo Boo",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4aed0341-9a5b-4e70-97e2-e27b0b9d434b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

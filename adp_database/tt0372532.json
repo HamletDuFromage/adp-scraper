@@ -1,0 +1,15 @@
+{
+  "Title": "The Wedding Date",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1aa9f725-b86b-615c-bbe5-fbd9c45f8830/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

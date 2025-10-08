@@ -1,0 +1,23 @@
+{
+  "Title": "Rocketman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "LGBTQ",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12b57d54-fdd1-0ff8-d166-285381819009/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1463153665"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07RP4TZZJ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

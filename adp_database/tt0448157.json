@@ -1,0 +1,18 @@
+{
+  "Title": "Hancock",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70097577"
+    }
+  ],
+  "in_theaters": false
+}

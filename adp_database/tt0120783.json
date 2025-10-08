@@ -1,0 +1,27 @@
+{
+  "Title": "The Parent Trap",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-parent-trap-1998/5LsTU243zQ0B"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id202239124"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/13797"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dabac6b5-7ad3-53f4-f6dc-c16b377f3684/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

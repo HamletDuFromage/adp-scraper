@@ -1,0 +1,14 @@
+{
+  "Title": "Bikram: Yogi, Guru, Predator",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80221584"
+    }
+  ],
+  "in_theaters": false
+}

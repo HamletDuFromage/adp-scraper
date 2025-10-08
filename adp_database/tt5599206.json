@@ -1,0 +1,15 @@
+{
+  "Title": "Deadly Inferno",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8abb439-7b8e-5da0-6748-4a5710ccebda/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

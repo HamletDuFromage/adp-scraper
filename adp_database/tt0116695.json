@@ -1,0 +1,17 @@
+{
+  "Title": "Jerry Maguire",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.79fe1c81-c821-425f-8135-45905af58d2d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Barbie Princess Adventure",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81136524"
+    }
+  ],
+  "in_theaters": false
+}

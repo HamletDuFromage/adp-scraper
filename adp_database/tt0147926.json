@@ -1,0 +1,17 @@
+{
+  "Title": "The Brave Little Toaster Goes to Mars",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-brave-little-toaster-goes-to-mars/4QWvaL8taYLw"
+    }
+  ],
+  "in_theaters": false
+}

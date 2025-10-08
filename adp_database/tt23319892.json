@@ -1,0 +1,24 @@
+{
+  "Title": "French Girl",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1fcad993-bdaf-41b7-9965-63bb4ca1e4a4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1725778237"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2906757"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/french-girl-2024"
+    }
+  ],
+  "in_theaters": false
+}

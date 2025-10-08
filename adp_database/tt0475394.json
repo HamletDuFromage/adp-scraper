@@ -1,0 +1,22 @@
+{
+  "Title": "Smokin' Aces",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ea9f7ac-b7cd-228b-2bbf-af64a3397696/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id293788130"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002VEJKQI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Sabaya",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/sabaya/K2_xaDHvRqfzPRMp_0OnN5ugkqh1FcY_/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4034ff18-e030-4cdd-83e7-9e29e99fad11/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

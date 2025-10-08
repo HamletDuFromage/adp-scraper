@@ -1,0 +1,26 @@
+{
+  "Title": "Almost Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eeabfef8-6840-071b-03ec-1c5680a2c443/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1167553921"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHYDZU/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f8504e15-0cc9-4fa2-b093-485878fedd8f"
+    }
+  ],
+  "in_theaters": false
+}

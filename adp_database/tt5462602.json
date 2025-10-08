@@ -1,0 +1,16 @@
+{
+  "Title": "The Big Sick",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94aff08b-34af-9142-329a-08e800188e2e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Souvenir Part II",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.77a86c17-5a38-4071-9a1e-0dfd300877b2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1604476852"
+    }
+  ],
+  "in_theaters": false
+}

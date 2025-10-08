@@ -1,0 +1,17 @@
+{
+  "Title": "The Ballad of Buster Scruggs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Musical",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80200267"
+    }
+  ],
+  "in_theaters": false
+}

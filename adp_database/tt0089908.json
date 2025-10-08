@@ -1,0 +1,17 @@
+{
+  "Title": "Return to Oz",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/return-to-oz/6PZWN9A7KPEt"
+    }
+  ],
+  "in_theaters": false
+}

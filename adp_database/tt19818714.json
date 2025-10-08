@@ -1,0 +1,18 @@
+{
+  "Title": "Visitors",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7220ad89-5356-4fab-8635-18a0fc7de78b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/98635bcc-801c-4e73-8cec-fd736730e515"
+    }
+  ],
+  "in_theaters": false
+}

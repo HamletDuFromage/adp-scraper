@@ -1,0 +1,22 @@
+{
+  "Title": "Star Trek: Picard",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2135495"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/star-trek-picard/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ab7e41c-c957-487d-3682-3e2f2a2e13b7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

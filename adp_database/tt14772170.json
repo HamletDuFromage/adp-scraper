@@ -1,0 +1,20 @@
+{
+  "Title": "Ridley",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2f205ccb-9791-4bfb-b05b-f92584259342/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2470416"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Self",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/details/6MlDlPhBLCIb"
+    }
+  ],
+  "in_theaters": false
+}

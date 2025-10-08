@@ -1,0 +1,19 @@
+{
+  "Title": "The Lady and the Dale",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a9408f5e-477b-429e-b864-ec5a3ab1a507/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/84a5273d-9358-475c-837e-797ab185600c"
+    }
+  ],
+  "in_theaters": false
+}

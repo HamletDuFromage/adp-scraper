@@ -1,0 +1,23 @@
+{
+  "Title": "Ouija: Origin of Evil",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aabd94a-c205-754c-2ecd-7bfb0a36e614/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1162270523"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHSJKU/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

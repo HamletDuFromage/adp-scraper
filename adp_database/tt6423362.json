@@ -1,0 +1,22 @@
+{
+  "Title": "The Sun is Also a Star",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40b617a6-11b4-c749-e51f-0c308ebe5643/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1461965670"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07RK8Q88T/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

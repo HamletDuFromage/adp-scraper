@@ -1,0 +1,24 @@
+{
+  "Title": "Bumblebee",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4902567e-1666-41c4-bb9e-8662e3fe28c0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1443883176"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07J3G4368/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/bumblebee/3vxCeaSHnqJLmatpwS1OzrkdA16h7sN9/"
+    }
+  ],
+  "in_theaters": false
+}

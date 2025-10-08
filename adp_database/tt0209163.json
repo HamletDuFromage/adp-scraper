@@ -1,0 +1,22 @@
+{
+  "Title": "The Mummy Returns",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ea9f737-1e0b-53d5-207b-b3233fda1f13/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id280025690"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/100003350/the-mummy-returns"
+    }
+  ],
+  "in_theaters": false
+}

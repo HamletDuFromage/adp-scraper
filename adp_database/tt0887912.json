@@ -1,0 +1,19 @@
+{
+  "Title": "The Hurt Locker",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5a979bd4-0e0a-4be3-a0f8-3a2ee429b755/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70105601"
+    }
+  ],
+  "in_theaters": false
+}

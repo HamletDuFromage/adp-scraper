@@ -1,0 +1,20 @@
+{
+  "Title": "Eight Below",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/eight-below/2MVGNU4jqrII"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188702287"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Polite Society",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.03cd8d4a-8d3d-4cbf-9915-d674069b72bc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1686016392"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2323461"
+    }
+  ],
+  "in_theaters": false
+}

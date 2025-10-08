@@ -1,0 +1,18 @@
+{
+  "Title": "'Twas the Fight Before Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8bc91b4-43b9-4a69-987a-de9735ede475/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.lvpflyaolcrevsfje3rt5l6p"
+    }
+  ],
+  "in_theaters": false
+}

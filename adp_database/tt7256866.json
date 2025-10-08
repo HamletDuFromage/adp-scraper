@@ -1,0 +1,14 @@
+{
+  "Title": "Father of the Year",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80185070"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "A Charlie Brown Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7a580716-1c88-4cd4-952c-11905e20672e/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.mbxalimrwrtq72wj4h601pyf"
+    }
+  ],
+  "in_theaters": false
+}

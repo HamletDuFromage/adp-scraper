@@ -1,0 +1,22 @@
+{
+  "Title": "Puzzle",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1429444539"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07G22S3RQ/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4b37cec-45e2-ea7a-39b8-0555800f03cc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

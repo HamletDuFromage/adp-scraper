@@ -1,0 +1,17 @@
+{
+  "Title": "Below Deck Down Under",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/below-deck-down-under/7603676207447885112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a3374d70-6c22-4a1a-ae69-8dce5f030d59/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

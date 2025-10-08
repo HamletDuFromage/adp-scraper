@@ -1,0 +1,18 @@
+{
+  "Title": "The Dilemma",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3aa9f6f5-08a8-f953-bd27-cf281277b3e2/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003Y5H4ZW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "Men",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1624731457"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2021742"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c7c9d2b1-ac27-4d61-a4d3-25e031ecb091/audiodescriin-20"
+    },
+    {
+      "Plex": "https://watch.plex.tv/movie/men-2022"
+    }
+  ],
+  "in_theaters": false
+}

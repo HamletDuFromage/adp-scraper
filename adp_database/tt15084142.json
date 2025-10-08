@@ -1,0 +1,17 @@
+{
+  "Title": "The Problem with Jon Stewart",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b49a7798-ed02-45d4-8641-b40d0394762b/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4fcexvzqezr25p9weks6sxpob"
+    }
+  ],
+  "in_theaters": false
+}

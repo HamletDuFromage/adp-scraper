@@ -1,0 +1,22 @@
+{
+  "Title": "The Mummy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06a9f756-ccd1-e658-6819-aea68bdc9131/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id279137281"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/100003216/the-mummy"
+    }
+  ],
+  "in_theaters": false
+}

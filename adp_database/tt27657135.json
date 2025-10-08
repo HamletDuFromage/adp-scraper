@@ -1,0 +1,26 @@
+{
+  "Title": "Saturday Night",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81990313"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1772803950"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DJV35TPD/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58929f31-ece2-4f92-a454-9436441db56c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

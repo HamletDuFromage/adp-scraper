@@ -1,0 +1,21 @@
+{
+  "Title": "My Little Pony: The Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fa4cea8b-881d-4b02-9262-e0916a6ed0db/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0776K473P/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

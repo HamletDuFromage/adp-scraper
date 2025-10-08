@@ -1,0 +1,17 @@
+{
+  "Title": "Shimmer Lake",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80103734"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "The Great Mouse Detective",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Musical",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-great-mouse-detective/6IKL5oydEZzl"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id187499741"
+    }
+  ],
+  "in_theaters": false
+}

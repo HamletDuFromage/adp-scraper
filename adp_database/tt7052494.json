@@ -1,0 +1,17 @@
+{
+  "Title": "Trading Paint",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sports",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.21377bfd-61e0-4950-9103-efa4f3e6cc82/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

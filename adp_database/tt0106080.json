@@ -1,0 +1,16 @@
+{
+  "Title": "The Nanny",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82b1191c-e64b-2214-c31e-942ca1ed7658/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Teen Wolf: The Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ee37046-f476-4be1-aec0-ee57c4146d24/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Good Night Oppy",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.339d2461-4f0e-47ec-8948-c410084b2d9a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

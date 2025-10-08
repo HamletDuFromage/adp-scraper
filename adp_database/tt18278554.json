@@ -1,0 +1,18 @@
+{
+  "Title": "Queen of Versailles Reigns Again",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7f04a270-65ee-4418-8b35-73d4ba043dde/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e9fe67bc-e0b7-4f71-b4da-a0ef82c77072"
+    }
+  ],
+  "in_theaters": false
+}

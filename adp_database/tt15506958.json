@@ -1,0 +1,16 @@
+{
+  "Title": "Freeridge",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81455921"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Crossing Swords",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/ae4f3a01-3cf8-4cf3-b28a-5add46ec094f"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Tyler Perry's Boo 2! A Madea Halloween",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58b05c01-268b-aef0-f2d5-bc0019434c0b/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B077V4S33Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

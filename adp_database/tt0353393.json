@@ -1,0 +1,16 @@
+{
+  "Title": "Eloise at Christmastime",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84bba7dd-70b1-952f-794a-ce2965cf2818/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

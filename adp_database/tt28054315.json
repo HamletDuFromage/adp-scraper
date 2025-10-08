@@ -1,0 +1,21 @@
+{
+  "Title": "HOP",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Disability",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.226cad81-327b-40de-a978-33250d3362e8/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c7372527-c271-45f4-b4c8-85a75960cef6"
+    }
+  ],
+  "in_theaters": false
+}

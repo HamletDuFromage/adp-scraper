@@ -1,0 +1,15 @@
+{
+  "Title": "Deuce Bigalow: Male Gigolo",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id186533810"
+    }
+  ],
+  "in_theaters": false
+}

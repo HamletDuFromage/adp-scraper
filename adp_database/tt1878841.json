@@ -1,0 +1,15 @@
+{
+  "Title": "The Darkness",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1109134656"
+    }
+  ],
+  "in_theaters": false
+}

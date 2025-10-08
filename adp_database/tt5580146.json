@@ -1,0 +1,16 @@
+{
+  "Title": "Maniac",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80124522"
+    }
+  ],
+  "in_theaters": false
+}

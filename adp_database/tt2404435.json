@@ -1,0 +1,21 @@
+{
+  "Title": "The Magnificent Seven",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54acb33e-69de-956d-d55b-8cfb72ec7736/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHMF3C/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/the-magnificent-seven-2016"
+    }
+  ],
+  "in_theaters": false
+}

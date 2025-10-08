@@ -1,0 +1,18 @@
+{
+  "Title": "The Prince",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80280a7f-fc5b-42a0-88c3-0c79ce9b2052/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/90e11759-5d05-44c8-9ab7-89975338248f"
+    }
+  ],
+  "in_theaters": false
+}

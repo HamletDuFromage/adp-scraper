@@ -1,0 +1,16 @@
+{
+  "Title": "Reign",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4ae6380-994f-3b63-3c0d-5478fb37ba06/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

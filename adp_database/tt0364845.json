@@ -1,0 +1,27 @@
+{
+  "Title": "NCIS",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70142386"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/ncis/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/60bf9f6bea81e400076a2c33"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24a9f67f-dbdb-9ba1-0a6b-f8b1bd4bb8e3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

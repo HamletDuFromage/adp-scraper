@@ -1,0 +1,16 @@
+{
+  "Title": "The Beach Boys",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-beach-boys/7SzP619mT38D"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Eragon",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f69f-aa39-cb29-5aff-91dbb687f1f7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

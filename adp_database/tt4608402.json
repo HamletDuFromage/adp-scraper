@@ -1,0 +1,19 @@
+{
+  "Title": "Confirmation",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46def765-7112-46bd-9270-eb28cfc87670/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a274f928-8ce7-4544-91d4-2cfa14ba269a"
+    }
+  ],
+  "in_theaters": false
+}

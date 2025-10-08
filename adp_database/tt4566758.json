@@ -1,0 +1,25 @@
+{
+  "Title": "Mulan",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6eba5ca1-4bb9-bcb3-be7a-b6b8ec64c225/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mulan/2jlgPK4K0ilR"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1533007796"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08JN48FW7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

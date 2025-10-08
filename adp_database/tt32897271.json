@@ -1,0 +1,15 @@
+{
+  "Title": "Blue Ribbon Baking Championship",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81701568"
+    }
+  ],
+  "in_theaters": false
+}

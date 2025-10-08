@@ -1,0 +1,16 @@
+{
+  "Title": "Sex Appeal",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/sex-appeal-a5ecc468-1446-4d03-90ca-8eaaabf4f586"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "The Rocketeer",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-rocketeer/1kLWInsKpovV"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id479438104"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Bogart: Life Comes in Flashes",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b60cdf2a-97b1-48a1-9247-02845b1427de/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1778184625"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3755555"
+    }
+  ],
+  "in_theaters": false
+}

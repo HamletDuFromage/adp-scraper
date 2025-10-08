@@ -1,0 +1,16 @@
+{
+  "Title": "Weekend at Bernie's",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.53a9536c-8b81-4d73-83eb-070409eb9076/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

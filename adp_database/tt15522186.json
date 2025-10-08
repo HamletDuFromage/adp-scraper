@@ -1,0 +1,19 @@
+{
+  "Title": "Houses with History",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "History",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8d8f1187-c0f1-44de-ac22-bbbcf3e09cb6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e7e12113-5111-469b-9210-00ef2eda1917"
+    }
+  ],
+  "in_theaters": false
+}

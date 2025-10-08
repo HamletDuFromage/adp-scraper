@@ -1,0 +1,18 @@
+{
+  "Title": "Scars of Beauty",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4b211714-7806-4b84-b5f3-6f2d3ecd411f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/cac27126-ea46-439d-824b-24d71b45d578"
+    }
+  ],
+  "in_theaters": false
+}

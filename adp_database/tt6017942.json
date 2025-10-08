@@ -1,0 +1,20 @@
+{
+  "Title": "Kin",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07HGL2J64/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30b376f8-5a94-31dc-fbb0-05752a9ea80e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

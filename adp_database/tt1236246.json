@@ -1,0 +1,17 @@
+{
+  "Title": "Marvel's Runaways",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/marvels-runaways-47b48273-0bac-444e-8b20-4d4a9153eeb7"
+    }
+  ],
+  "in_theaters": false
+}

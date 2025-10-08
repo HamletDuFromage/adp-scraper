@@ -1,0 +1,15 @@
+{
+  "Title": "Avatar Collector's Edition",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2788904"
+    }
+  ],
+  "in_theaters": false
+}

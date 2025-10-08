@@ -1,0 +1,20 @@
+{
+  "Title": "Samaritan",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1808106322"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4219247"
+    }
+  ],
+  "in_theaters": false
+}

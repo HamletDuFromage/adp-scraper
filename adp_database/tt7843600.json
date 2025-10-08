@@ -1,0 +1,14 @@
+{
+  "Title": "FYRE FRAUD",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/fyre-fraud-e47078f3-1c0e-49a8-9da9-c571a7a20fec"
+    }
+  ],
+  "in_theaters": false
+}

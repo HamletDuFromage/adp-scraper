@@ -1,0 +1,16 @@
+{
+  "Title": "Everything Sucks!",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80117551"
+    }
+  ],
+  "in_theaters": false
+}

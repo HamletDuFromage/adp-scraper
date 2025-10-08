@@ -1,0 +1,22 @@
+{
+  "Title": "South Park: The End of Obesity",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e7fcca8b-f196-4b7d-8d47-419640c8882b/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3333149"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/Cd3Fse6Xve3v7e69nMKZmNchXwEHGvll/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Kronk's New Groove",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ea9f799-f7d0-023c-4762-c7aafffbac84/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/kronks-new-groove/1EF5ZiSaEIyr"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id206329558"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Scott Pilgrim Takes Off",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81153115"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Go Karts",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80241136"
+    }
+  ],
+  "in_theaters": false
+}

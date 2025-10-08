@@ -1,0 +1,15 @@
+{
+  "Title": "Design Defined",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/98b0a337-20d4-4d64-9a39-384853231f46"
+    }
+  ],
+  "in_theaters": false
+}

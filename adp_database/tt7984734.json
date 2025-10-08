@@ -1,0 +1,20 @@
+{
+  "Title": "The Lighthouse",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74b9ce3f-f050-4aa5-8e52-e95c820f41ec/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f2f059c0-35af-4e6a-b04e-3c64e5c10d84"
+    }
+  ],
+  "in_theaters": false
+}

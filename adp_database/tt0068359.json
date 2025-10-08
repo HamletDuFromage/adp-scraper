@@ -1,0 +1,21 @@
+{
+  "Title": "A Charlie Brown Thanksgiving",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.548d5733-5585-49dc-88a5-38931edcc402/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.7grdgbjdq3tiy37f4dc3yeyms"
+    }
+  ],
+  "in_theaters": false
+}

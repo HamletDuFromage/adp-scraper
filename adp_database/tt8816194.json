@@ -1,0 +1,16 @@
+{
+  "Title": "Come to Daddy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2b7f3b8-fc4d-2bba-7518-fe97427e9f48/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

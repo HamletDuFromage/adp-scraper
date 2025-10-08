@@ -1,0 +1,16 @@
+{
+  "Title": "Doomlands",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/8a92f798dc1757069240a18dd1ed21f0/doomlands/season-2"
+    }
+  ],
+  "in_theaters": false
+}

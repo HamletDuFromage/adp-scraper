@@ -1,0 +1,29 @@
+{
+  "Title": "Trolls Band Together",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8e03307-84ae-4027-8040-e23b5061257f/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2b01945-da2a-48ff-bf14-969430026019/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1714838821"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CN18FT5C/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2745803"
+    }
+  ],
+  "in_theaters": false
+}

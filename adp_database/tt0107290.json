@@ -1,0 +1,19 @@
+{
+  "Title": "Jurassic Park",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id452283395"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60002360"
+    }
+  ],
+  "in_theaters": false
+}

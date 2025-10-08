@@ -1,0 +1,16 @@
+{
+  "Title": "Chopped Junior",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Game Show",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4b3a466e-5c93-4cdf-8c9b-173cdb14d6f8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

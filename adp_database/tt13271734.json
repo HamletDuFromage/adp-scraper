@@ -1,0 +1,17 @@
+{
+  "Title": "Lost Ollie",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80115119"
+    }
+  ],
+  "in_theaters": false
+}

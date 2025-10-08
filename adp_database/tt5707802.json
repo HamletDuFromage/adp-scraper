@@ -1,0 +1,15 @@
+{
+  "Title": "Dear White People",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80095698"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Seat",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Automotive",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/82051628"
+    }
+  ],
+  "in_theaters": false
+}

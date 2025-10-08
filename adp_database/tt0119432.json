@@ -1,0 +1,18 @@
+{
+  "Title": "Jungle 2 Jungle",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/jungle-2-jungle/231QtLpTvSi4"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id297816590"
+    }
+  ],
+  "in_theaters": false
+}

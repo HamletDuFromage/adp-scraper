@@ -1,0 +1,19 @@
+{
+  "Title": "Chicken Run",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1342926763"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60001287"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Where the Crawdads Sing",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.73c42e8e-8753-4101-acf7-1df1d91f24d1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1632127886"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B61ZDFPT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

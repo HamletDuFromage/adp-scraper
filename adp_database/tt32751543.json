@@ -1,0 +1,15 @@
+{
+  "Title": "Barbara Walters Tell Me Everything",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/b51ead94-03b6-4873-9e9f-9d2e3056dc0d"
+    }
+  ],
+  "in_theaters": false
+}

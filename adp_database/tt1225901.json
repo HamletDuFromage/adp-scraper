@@ -1,0 +1,16 @@
+{
+  "Title": "90210",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f7b9-50ee-3a6e-5197-6b6dbe142cbd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

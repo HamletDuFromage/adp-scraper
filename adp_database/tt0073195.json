@@ -1,0 +1,23 @@
+{
+  "Title": "Jaws",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ea9f78d-717c-d675-f5d5-2163986b8c3a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id526768967"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60001220"
+    }
+  ],
+  "in_theaters": false
+}

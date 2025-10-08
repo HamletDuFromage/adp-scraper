@@ -1,0 +1,14 @@
+{
+  "Title": "The Ex Obsession",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/693543/the-ex-obsession"
+    }
+  ],
+  "in_theaters": false
+}

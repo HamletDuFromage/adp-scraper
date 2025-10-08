@@ -1,0 +1,23 @@
+{
+  "Title": "The Occupant",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1823784320"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2a9f6bb8-0dce-4cf6-8bb0-ff12bdee974b/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1972148"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Margin Call",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3c2c367e-73b0-4d00-83f1-251a66bb256e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

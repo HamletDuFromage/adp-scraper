@@ -1,0 +1,18 @@
+{
+  "Title": "Physical",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ab6c8835-16e2-478f-b511-16ac3f8c8e39/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6gdc6v4vwyaab7klocftv2s10"
+    }
+  ],
+  "in_theaters": false
+}

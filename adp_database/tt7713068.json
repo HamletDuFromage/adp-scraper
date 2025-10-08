@@ -1,0 +1,26 @@
+{
+  "Title": "Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64b80b81-3e39-33c2-3f9d-fdc549037230/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/3a216cd4-a65f-437f-aae0-3628ae316536"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1496062625"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B083N2GM59/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

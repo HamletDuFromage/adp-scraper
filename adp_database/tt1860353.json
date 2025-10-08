@@ -1,0 +1,22 @@
+{
+  "Title": "Turbo",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bab0a846-c36d-fec5-f179-e77f28b83c69/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1338621792"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00E00OGE2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

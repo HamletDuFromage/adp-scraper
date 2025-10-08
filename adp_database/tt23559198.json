@@ -1,0 +1,15 @@
+{
+  "Title": "American Ocelot",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6b3e8b6-9e21-43f4-84ee-5b826db874a8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

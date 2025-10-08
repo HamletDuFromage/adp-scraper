@@ -1,0 +1,18 @@
+{
+  "Title": "City of God: The Fight Rages On",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/1d353ef5-5634-4503-80e7-04da420cc352"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2a67bad5-41f4-40c4-8114-0809c0ea2da6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Zero Dark Thirty",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28a9f7ab-8034-88e4-a936-c0a9da726108/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id596004876"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00AZNEW5G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

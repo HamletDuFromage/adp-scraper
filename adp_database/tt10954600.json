@@ -1,0 +1,31 @@
+{
+  "Title": "Ant-Man and the Wasp: Quantumania",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d61aac59-6d21-4ce4-a13c-d542968124d7/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1dd9a27d-9481-483b-95ef-b33eb72cf3e9/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/ant-man-and-the-wasp-quantumania/7OLRMMgd1vkx"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1678813286"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C1P1136F/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2284754"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Centigrade",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56bb1fcf-c6af-dc0b-18c2-4dadf80825cd/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/centigrade-c09606b8-1193-48c9-8c85-13c0c369e3f0"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1525757902"
+    }
+  ],
+  "in_theaters": false
+}

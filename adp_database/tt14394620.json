@@ -1,0 +1,17 @@
+{
+  "Title": "Crawlspace",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1622361616"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3181465b-0eee-42b2-9124-f4a733fcf938/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

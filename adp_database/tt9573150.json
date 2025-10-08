@@ -1,0 +1,22 @@
+{
+  "Title": "Occupied City",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.71b49d9a-3af2-4e14-8156-3096c0ca0768/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1728157875"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2794800"
+    }
+  ],
+  "in_theaters": false
+}

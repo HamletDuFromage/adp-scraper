@@ -1,0 +1,18 @@
+{
+  "Title": "Love It or List It",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/18419251-75af-42ec-8524-fda7226122a5"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44bc1121-79cb-d8f5-b18f-6ae2a5a17ca5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "The First Omen",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cf62350f-2eb6-41da-8dab-e49bd8ec7239/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1745480680"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D4F2X3G3/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3231809"
+    }
+  ],
+  "in_theaters": false
+}

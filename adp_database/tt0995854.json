@@ -1,0 +1,19 @@
+{
+  "Title": "A Journal for Jordan",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1601790122"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09MYVW8NG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

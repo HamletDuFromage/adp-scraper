@@ -1,0 +1,18 @@
+{
+  "Title": "Under the Grapefruit Tree: The CC Sabathia Story",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cbb4427-7188-8a8f-ed7d-a06260372c1b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6ab5323c-8092-4b27-abee-fd70e5fa952b"
+    }
+  ],
+  "in_theaters": false
+}

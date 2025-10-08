@@ -1,0 +1,19 @@
+{
+  "Title": "Daniel",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0e15b472-7c01-4f7b-98a8-890d7a3dbaa2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/4995755a-9200-4a6e-a835-d91850097dbb"
+    }
+  ],
+  "in_theaters": false
+}

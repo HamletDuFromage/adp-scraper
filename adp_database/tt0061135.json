@@ -1,0 +1,15 @@
+{
+  "Title": "The Ugly Dachshund",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-ugly-dachshund/6UBX7WNE9u21"
+    }
+  ],
+  "in_theaters": false
+}

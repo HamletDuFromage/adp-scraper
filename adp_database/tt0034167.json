@@ -1,0 +1,18 @@
+{
+  "Title": "Sergeant York",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id602514378"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Reality",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ad5f19be-45a4-47b3-8e2a-e6087b925569/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/333d5506-e00e-45d3-b1da-9b54a2b406d0"
+    }
+  ],
+  "in_theaters": false
+}

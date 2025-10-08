@@ -1,0 +1,21 @@
+{
+  "Title": "Swallow",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ab84df8-617e-f7d2-71aa-d4725cad672c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1498175604"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B088JNWY2Q/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

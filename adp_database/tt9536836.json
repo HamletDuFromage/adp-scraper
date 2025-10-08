@@ -1,0 +1,17 @@
+{
+  "Title": "Loop",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Disability",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/loop/5NfKNumn6L0l"
+    }
+  ],
+  "in_theaters": false
+}

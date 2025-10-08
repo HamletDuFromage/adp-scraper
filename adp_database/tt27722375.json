@@ -1,0 +1,14 @@
+{
+  "Title": "Between the Temples",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81971767"
+    }
+  ],
+  "in_theaters": false
+}

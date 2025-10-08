@@ -1,0 +1,17 @@
+{
+  "Title": "Luis and the Aliens",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.192d4c9f-b2cd-4034-ae0b-a2ff62c7c0ea/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

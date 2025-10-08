@@ -1,0 +1,21 @@
+{
+  "Title": "Average Joe",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.318866a2-2524-4bf2-9039-b2ed0e040762/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1771742842"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3625085"
+    }
+  ],
+  "in_theaters": false
+}

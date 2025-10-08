@@ -1,0 +1,30 @@
+{
+  "Title": "Migration",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.47636fc2-5a22-48a3-9702-30fc3198f736/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1720092250"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CQ6HZHGZ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2858786"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/migration/71209847-7993-30ad-8d7f-4c06d52e0b19"
+    }
+  ],
+  "in_theaters": false
+}

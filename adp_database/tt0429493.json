@@ -1,0 +1,19 @@
+{
+  "Title": "The A-Team",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c2b9d398-d9f9-8d2b-5054-2247daae706d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id380841822"
+    }
+  ],
+  "in_theaters": false
+}

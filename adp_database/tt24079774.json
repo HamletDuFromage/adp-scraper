@@ -1,0 +1,14 @@
+{
+  "Title": "The Stroll",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/2b70eac0-ad78-4746-a3f2-3faa7c41f79b"
+    }
+  ],
+  "in_theaters": false
+}

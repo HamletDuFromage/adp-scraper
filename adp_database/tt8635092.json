@@ -1,0 +1,18 @@
+{
+  "Title": "Everybody's Talking About Jamie",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b075122c-a1dd-4d46-b9e4-08fd72eb9c46/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Emily's Wonder Lab",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Kids & Family",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81128389"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Pachinko",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7fe1203f-1ea4-470f-95d1-7a695c1798eb/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.17vf6g68dy89kk1l1nnb6min4"
+    }
+  ],
+  "in_theaters": false
+}

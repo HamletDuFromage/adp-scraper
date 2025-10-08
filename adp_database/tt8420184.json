@@ -1,0 +1,17 @@
+{
+  "Title": "The Last Dance",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "History",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80203144"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Rudolph the Red-Nosed Reindeer",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e14e3e8e-a4be-4c8f-8e52-c514614e89e9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

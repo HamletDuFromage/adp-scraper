@@ -1,0 +1,22 @@
+{
+  "Title": "Bring It On: Cheer or Die",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1645657778"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2113483"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.13ef9189-6a75-4ee0-88e2-eddee008b664/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

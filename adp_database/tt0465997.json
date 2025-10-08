@@ -1,0 +1,21 @@
+{
+  "Title": "The Fox and the Hound 2",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-fox-and-the-hound-2/2hnHqc5GoMrA"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id443959590"
+    }
+  ],
+  "in_theaters": false
+}

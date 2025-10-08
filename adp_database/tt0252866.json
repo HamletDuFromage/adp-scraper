@@ -1,0 +1,14 @@
+{
+  "Title": "American Pie 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8a9f793-f346-045f-45ec-5bc6656921e5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

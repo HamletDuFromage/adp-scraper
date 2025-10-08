@@ -1,0 +1,20 @@
+{
+  "Title": "Servant",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0a618e5b-f686-43f6-b132-14820de92c66/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4y25wuby7pck9o6vaubbbk7gb"
+    }
+  ],
+  "in_theaters": false
+}

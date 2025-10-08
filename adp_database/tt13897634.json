@@ -1,0 +1,16 @@
+{
+  "Title": "The Wizard of Paws",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/the-wizard-of-paws/JsrGClXQfr5H"
+    }
+  ],
+  "in_theaters": false
+}

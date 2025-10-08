@@ -1,0 +1,17 @@
+{
+  "Title": "SnowComing",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e588ce7b-5bb4-491f-bd3b-305432263880/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

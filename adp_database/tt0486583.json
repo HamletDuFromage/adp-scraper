@@ -1,0 +1,20 @@
+{
+  "Title": "Fred Claus",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.572166e2-74a8-4c48-b252-f537fab09aa5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id597106458"
+    }
+  ],
+  "in_theaters": false
+}

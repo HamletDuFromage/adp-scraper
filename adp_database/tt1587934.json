@@ -1,0 +1,19 @@
+{
+  "Title": "American Ninja Warrior",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/american-ninja-warrior/6412175794569200112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.481dd324-2272-4e0f-93fc-b9b13fbb840c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

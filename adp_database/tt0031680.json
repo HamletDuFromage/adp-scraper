@@ -1,0 +1,16 @@
+{
+  "Title": "Mr. Wong in Chinatown",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2e2ff884-16b0-475a-b808-44acfcdc47df/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

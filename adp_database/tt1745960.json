@@ -1,0 +1,27 @@
+{
+  "Title": "Top Gun: Maverick",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1c96ddbd-e36a-4483-bfe0-493e8ca4aa7d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1622173773"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09Y896LW1/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1196579"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/Alcn0hcGx0HosdhcawKteH8DXh3RiOF7/"
+    }
+  ],
+  "in_theaters": false
+}

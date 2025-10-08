@@ -1,0 +1,26 @@
+{
+  "Title": "Pet Sematary",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0abaf428-6eb8-69df-1904-0d49a783f65b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id212848151"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317711488/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/80JU7nWal_1IEvEuFD5Kkd0WZ1dCKsgT/"
+    }
+  ],
+  "in_theaters": false
+}

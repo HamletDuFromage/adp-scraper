@@ -1,0 +1,16 @@
+{
+  "Title": "Secondhand Lions",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12a9f75a-2559-4808-2afa-d484429a30df/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

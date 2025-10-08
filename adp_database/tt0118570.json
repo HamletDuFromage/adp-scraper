@@ -1,0 +1,22 @@
+{
+  "Title": "Air Bud",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/air-bud/6bxLmWUWK4Lp"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id308474918"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48a9f6f7-6e82-6688-12db-1aa6acb6d03f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

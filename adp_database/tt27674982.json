@@ -1,0 +1,25 @@
+{
+  "Title": "The Ballad of Wallis Island",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1806736175"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2e0d2af3-760a-4dc7-823e-f43c0be4d772/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4060837"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/the-ballad-of-wallis-island/be2c6021-a686-3362-8400-c1ef7770deeb"
+    }
+  ],
+  "in_theaters": false
+}

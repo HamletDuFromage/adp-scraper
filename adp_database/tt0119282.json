@@ -1,0 +1,20 @@
+{
+  "Title": "Hercules",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/hercules/2e02rZ2TfE0f"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id763349752"
+    }
+  ],
+  "in_theaters": false
+}

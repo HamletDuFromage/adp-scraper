@@ -1,0 +1,24 @@
+{
+  "Title": "Sisu",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a652d10-13ed-457c-8792-ed0c3846149b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1682550662"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C29DKC84/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2319939"
+    }
+  ],
+  "in_theaters": false
+}

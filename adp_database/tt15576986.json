@@ -1,0 +1,17 @@
+{
+  "Title": "LOL Surprise: The Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81445141"
+    }
+  ],
+  "in_theaters": false
+}

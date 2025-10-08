@@ -1,0 +1,16 @@
+{
+  "Title": "Manuel Turizo",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Music",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/7f46b555-d050-48ac-8749-c3e84547eb7d"
+    }
+  ],
+  "in_theaters": false
+}

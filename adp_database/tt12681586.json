@@ -1,0 +1,19 @@
+{
+  "Title": "Young Love",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.358549ef-017b-43d8-a754-d29ce97d8816/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/b139d21e-b9bb-4329-8512-78f00b145abb"
+    }
+  ],
+  "in_theaters": false
+}

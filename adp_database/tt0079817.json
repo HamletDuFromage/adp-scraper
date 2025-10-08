@@ -1,0 +1,15 @@
+{
+  "Title": "Rocky II",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b5f128-e95c-6022-34ed-c95bf4e9b044/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Queen Woo",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ebd6a552-cd00-4c73-913b-186dfe75a654/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/queen-woo/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Analyze That",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eef4d351-15b0-4b8f-b8fd-9ff7370c3eee/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id285992772"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Panic",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2bd40852-3cb7-403e-875b-9ab4ff51d0f9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

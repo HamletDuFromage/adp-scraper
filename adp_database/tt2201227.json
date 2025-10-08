@@ -1,0 +1,17 @@
+{
+  "Title": "Stay Close",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81289581"
+    }
+  ],
+  "in_theaters": false
+}

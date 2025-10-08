@@ -1,0 +1,17 @@
+{
+  "Title": "The Proud Family: Louder and Prouder",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-081254a4-bc7c-49cc-b027-bdf958ca4a54"
+    }
+  ],
+  "in_theaters": false
+}

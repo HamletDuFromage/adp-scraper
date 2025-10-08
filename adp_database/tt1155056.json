@@ -1,0 +1,15 @@
+{
+  "Title": "I Love You, Man",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.08a9f691-207f-6548-9b8a-922399b94b36/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

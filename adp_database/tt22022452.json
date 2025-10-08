@@ -1,0 +1,29 @@
+{
+  "Title": "Inside Out 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Young Adult"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4ee6303-cda7-45df-bcbe-4d19dcb54f15/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-ec9f9fa3-fbae-4a25-b722-12c3b8ab0ef4"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1757560069"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DCK6XSGF/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3144020"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Hot Milk",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Coming of Age",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1820546969"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.23b27447-3d1a-4b36-9225-7eb9fae54e06/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

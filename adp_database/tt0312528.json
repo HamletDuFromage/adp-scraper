@@ -1,0 +1,14 @@
+{
+  "Title": "The Cat in the Hat",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ea9f6f7-9ca2-5192-8e49-efd04ab042da/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

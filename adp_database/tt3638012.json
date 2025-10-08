@@ -1,0 +1,16 @@
+{
+  "Title": "Appleseed: Alpha",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68a9f748-0f81-0101-c4fb-46c800945adb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

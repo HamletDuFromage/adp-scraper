@@ -1,0 +1,18 @@
+{
+  "Title": "The Wonderfully Weird World of Gumball",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/91de62df-0394-4e17-85a8-e843bd730ede"
+    }
+  ],
+  "in_theaters": false
+}

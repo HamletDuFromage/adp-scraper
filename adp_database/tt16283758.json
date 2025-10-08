@@ -1,0 +1,16 @@
+{
+  "Title": "Supacell",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81316476"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Penguins of Madagascar",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1337207727"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00SK572QM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

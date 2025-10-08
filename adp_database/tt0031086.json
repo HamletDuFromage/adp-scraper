@@ -1,0 +1,16 @@
+{
+  "Title": "Beach Picnic",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/beach-picnic/2xni9awWDa63"
+    }
+  ],
+  "in_theaters": false
+}

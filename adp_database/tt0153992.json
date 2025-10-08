@@ -1,0 +1,17 @@
+{
+  "Title": "You Lucky Dog",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/you-lucky-dog/TRO6gkSBmDBm"
+    }
+  ],
+  "in_theaters": false
+}

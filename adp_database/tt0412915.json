@@ -1,0 +1,16 @@
+{
+  "Title": "The Librarian: Quest for the Spear",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2b8bec81-ed4a-4113-a25d-d28802b0ec1a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

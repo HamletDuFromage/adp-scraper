@@ -1,0 +1,19 @@
+{
+  "Title": "Julie & Julia",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90a9f79b-2cf6-5371-79b2-5fa2039c7a9e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002RSDW80/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

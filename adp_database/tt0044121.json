@@ -1,0 +1,16 @@
+{
+  "Title": "The Thing from Another World",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8aa9f75a-e23b-107b-3d57-01960738f6ab/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

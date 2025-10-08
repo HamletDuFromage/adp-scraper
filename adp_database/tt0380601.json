@@ -1,0 +1,15 @@
+{
+  "Title": "One Last Shot",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81008272"
+    }
+  ],
+  "in_theaters": false
+}

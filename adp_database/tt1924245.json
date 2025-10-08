@@ -1,0 +1,21 @@
+{
+  "Title": "Cry Macho",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ed125c3a-e8f2-4674-a39b-aa1c3f5f7242/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1587944241"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09JQW5DN9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

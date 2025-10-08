@@ -1,0 +1,26 @@
+{
+  "Title": "Edward Scissorhands",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-3c963714-a9a8-4a80-9f29-44c659172b6f"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id359722070"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d0055972-2ffe-4c20-ab77-ff6042cfc682"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04c4b5cc-567e-465c-8436-a049f0b4c9e4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

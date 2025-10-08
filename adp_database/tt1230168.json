@@ -1,0 +1,21 @@
+{
+  "Title": "Same Kind of Different as Me",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4af6e68-3b1c-fd91-f447-a51856087ed6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1292333251"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B076ZZ1MK1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

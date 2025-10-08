@@ -1,0 +1,18 @@
+{
+  "Title": "Texas 6",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ae38976c-cce4-4c1d-92a4-509d2cbdb53d/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/texas-6/"
+    }
+  ],
+  "in_theaters": false
+}

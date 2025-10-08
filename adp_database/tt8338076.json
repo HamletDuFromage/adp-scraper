@@ -1,0 +1,19 @@
+{
+  "Title": "Queen Bees",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2688fe9-4d7e-4ec8-b893-bdc9ea5c83b6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1569766004"
+    }
+  ],
+  "in_theaters": false
+}

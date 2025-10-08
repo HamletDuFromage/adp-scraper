@@ -1,0 +1,19 @@
+{
+  "Title": "The Warriors",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id295437408"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/20175"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "The Redeem Team",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81452996"
+    }
+  ],
+  "in_theaters": false
+}

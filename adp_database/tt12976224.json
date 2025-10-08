@@ -1,0 +1,19 @@
+{
+  "Title": "The Essex Serpent",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4c7502cd-2e1e-44c3-9b10-2fd2d82eab00/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1vyhx06lta7a21tshl8qitota"
+    }
+  ],
+  "in_theaters": false
+}

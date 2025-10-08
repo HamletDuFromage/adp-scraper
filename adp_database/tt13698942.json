@@ -1,0 +1,16 @@
+{
+  "Title": "The Immaculate Room",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.afbf47b4-2943-429f-8956-b510bb4617be/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

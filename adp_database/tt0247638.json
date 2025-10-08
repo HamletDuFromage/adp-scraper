@@ -1,0 +1,19 @@
+{
+  "Title": "The Princess Diaries",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-princess-diaries/4Ci5hx4e0OOI"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188703211"
+    }
+  ],
+  "in_theaters": false
+}

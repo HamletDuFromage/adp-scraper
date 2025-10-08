@@ -1,0 +1,17 @@
+{
+  "Title": "537 Votes",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6e61d1ae-4f18-428a-a421-58a0aec2eb73/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/bfcb8c29-6b14-4117-8045-43a6e836be2a"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Love Con Revenge",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81685732"
+    }
+  ],
+  "in_theaters": false
+}

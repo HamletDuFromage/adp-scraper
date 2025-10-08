@@ -1,0 +1,17 @@
+{
+  "Title": "Summer House",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/summer-house/7133794868863897112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68d35a90-204f-4254-b759-764985f2f44c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

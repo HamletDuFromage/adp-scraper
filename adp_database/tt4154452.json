@@ -1,0 +1,18 @@
+{
+  "Title": "Lakefront Bargain Hunt",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/549cdd9f-ca93-4dbf-9a35-80a08a541628"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90bc24fe-f14d-8f32-1c54-e0b90f6e6609/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

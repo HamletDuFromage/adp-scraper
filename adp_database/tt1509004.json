@@ -1,0 +1,18 @@
+{
+  "Title": "Enlightened",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98598269-8abc-434a-b14f-12ec6a4fe696/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/54a39750-7cff-41a2-9f4b-0ab00ada5025"
+    }
+  ],
+  "in_theaters": false
+}

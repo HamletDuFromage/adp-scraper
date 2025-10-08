@@ -1,0 +1,17 @@
+{
+  "Title": "Pillowcase Murders",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8359e6e-11e2-4f9d-9e78-5348eb635671/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/pillowcase-murders/"
+    }
+  ],
+  "in_theaters": false
+}

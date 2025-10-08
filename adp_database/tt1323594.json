@@ -1,0 +1,23 @@
+{
+  "Title": "Despicable Me",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aaa9f745-36a7-14a5-440f-3cfc1ee8aa30/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0042U94UQ/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70115629"
+    }
+  ],
+  "in_theaters": false
+}

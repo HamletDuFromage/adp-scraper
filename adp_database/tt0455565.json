@@ -1,0 +1,17 @@
+{
+  "Title": "Jack-Jack Attack",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/jack-jack-attack/1XSkNeFQipwp"
+    }
+  ],
+  "in_theaters": false
+}

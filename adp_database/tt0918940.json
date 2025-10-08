@@ -1,0 +1,23 @@
+{
+  "Title": "The Legend of Tarzan",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1caaccc2-5a06-98f8-1254-a6f23e12b7ff/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1129690427"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01H4FJQO4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

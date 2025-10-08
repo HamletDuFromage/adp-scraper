@@ -1,0 +1,20 @@
+{
+  "Title": "Ricky Stanicky",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0b76b7e1-e764-455a-8940-483e668ef2b8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1740850228"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3151003"
+    }
+  ],
+  "in_theaters": false
+}

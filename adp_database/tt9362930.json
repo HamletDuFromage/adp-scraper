@@ -1,0 +1,24 @@
+{
+  "Title": "Blue Beetle",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.434deeba-aba1-4f21-a1a7-56da6fb29cdc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/11177b4b-fffd-410b-8238-3a63fea1c0d4"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1697382333"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CFZ46GN2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Songbird",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1701665960"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08SZ1HY57/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6237546-f384-4d77-bb2d-5051a7e3c641/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

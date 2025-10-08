@@ -1,0 +1,27 @@
+{
+  "Title": "Sonic the Hedgehog 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80b2bdfa-f5f3-4988-9834-96a6598db014/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1616515787"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09WWCK25P/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/NXFYTekfckCoKBmEoDZZOtMsiCIG3D0_/"
+    }
+  ],
+  "in_theaters": false
+}

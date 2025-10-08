@@ -1,0 +1,26 @@
+{
+  "Title": "Karate Kid: Legends",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sports",
+    "Teen"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4271298"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1813283960"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F99HR1W7/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/82064961"
+    }
+  ],
+  "in_theaters": false
+}

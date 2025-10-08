@@ -1,0 +1,18 @@
+{
+  "Title": "Celtics City",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c14aa404-6053-4c2d-a45c-4bdcfecd6184/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/8eaec747-b719-4537-a4ed-1c95885112d0"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "Chronicle",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78b9b724-efa7-8ccc-5679-85040e55720f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id505098635"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIGPA/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/c987de25-5bbd-43d2-8ab5-30c6d7619f5c"
+    }
+  ],
+  "in_theaters": false
+}

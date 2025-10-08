@@ -1,0 +1,20 @@
+{
+  "Title": "Billy Madison",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eea9f742-15a0-d5af-b3f4-619be2bb98c4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id279532350"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70000782"
+    }
+  ],
+  "in_theaters": false
+}

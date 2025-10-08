@@ -1,0 +1,17 @@
+{
+  "Title": "Do, Re & Mi",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3a5e6e9c-b946-48e4-add8-70a83b278b65/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

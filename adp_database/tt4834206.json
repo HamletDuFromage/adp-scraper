@@ -1,0 +1,17 @@
+{
+  "Title": "A Series of Unfortunate Events",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80050008"
+    }
+  ],
+  "in_theaters": false
+}

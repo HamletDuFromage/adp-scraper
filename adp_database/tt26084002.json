@@ -1,0 +1,15 @@
+{
+  "Title": "Self Reliance",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/b530df17-e123-4174-8d4d-75e6f422468f"
+    }
+  ],
+  "in_theaters": false
+}

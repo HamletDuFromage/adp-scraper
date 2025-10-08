@@ -1,0 +1,16 @@
+{
+  "Title": "Barbie in Princess Power",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8a9f727-7a3f-a341-a8ce-37dcc6405189/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

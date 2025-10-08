@@ -1,0 +1,16 @@
+{
+  "Title": "Entrapment",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4a9f744-a67b-517a-709d-d01a303385a3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

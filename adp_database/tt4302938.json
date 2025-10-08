@@ -1,0 +1,22 @@
+{
+  "Title": "Kubo and the Two Strings",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80099365"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1640554117"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01KMKM5NW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

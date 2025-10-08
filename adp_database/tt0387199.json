@@ -1,0 +1,18 @@
+{
+  "Title": "Entourage",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32a9f775-6b80-384b-d65c-5bdeec6e0aa0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/358c8a40-65d1-4f88-a5f4-bf5b5c61963e"
+    }
+  ],
+  "in_theaters": false
+}

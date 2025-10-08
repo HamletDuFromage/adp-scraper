@@ -1,0 +1,18 @@
+{
+  "Title": "The Slow Hustle",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.51bf5646-ec1f-40b1-a509-846195003871/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6a64d9eb-9a78-43f5-88e1-4143010bf54b"
+    }
+  ],
+  "in_theaters": false
+}

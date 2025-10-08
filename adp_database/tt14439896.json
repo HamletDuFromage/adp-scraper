@@ -1,0 +1,18 @@
+{
+  "Title": "Father Stu",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1618525430"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09XNWZSTG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

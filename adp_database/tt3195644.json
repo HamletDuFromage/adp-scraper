@@ -1,0 +1,19 @@
+{
+  "Title": "Insidious: Chapter 3",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0aa9f732-6115-fdb9-6764-c9fed90226ea/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/960eaa30-dfa5-492f-93bc-2a554fd47205"
+    }
+  ],
+  "in_theaters": false
+}

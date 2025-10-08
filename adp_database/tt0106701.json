@@ -1,0 +1,15 @@
+{
+  "Title": "Dennis the Menace",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.00a9f7b4-0297-1c71-b7fc-333473b905e3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

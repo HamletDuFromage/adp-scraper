@@ -1,0 +1,19 @@
+{
+  "Title": "Making Manson",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/making-manson/7556181585896322112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.95609697-eb8f-4b72-aab1-cc1b8432bf6d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

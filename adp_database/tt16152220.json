@@ -1,0 +1,17 @@
+{
+  "Title": "Comedy Chingonas",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e1ad7f30-1d0a-4afb-b90d-62fb2207c324/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/24e73fde-2ce2-4a62-abd3-a11859d31aa1"
+    }
+  ],
+  "in_theaters": false
+}

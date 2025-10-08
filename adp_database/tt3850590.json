@@ -1,0 +1,20 @@
+{
+  "Title": "Krampus",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.deaa6a35-0e84-6b8a-aa9f-4f9745912943/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B018Y2GQWG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

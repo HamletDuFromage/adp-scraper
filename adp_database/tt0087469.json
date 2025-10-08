@@ -1,0 +1,18 @@
+{
+  "Title": "Indiana Jones and the Temple of Doom",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76a9f66b-ffa4-2631-9ea4-f11dd2edd655/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id548591363"
+    }
+  ],
+  "in_theaters": false
+}

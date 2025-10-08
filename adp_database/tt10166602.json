@@ -1,0 +1,20 @@
+{
+  "Title": "Love, Victor",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/love-victor-3cb4c446-d459-41a2-97d2-2ea9ed164ab7"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/love-victor/3tV91pQuQk2K"
+    }
+  ],
+  "in_theaters": false
+}

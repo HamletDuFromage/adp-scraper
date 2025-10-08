@@ -1,0 +1,17 @@
+{
+  "Title": "Madagascar 3: Europe's Most Wanted",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIHW2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

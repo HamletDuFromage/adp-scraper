@@ -1,0 +1,16 @@
+{
+  "Title": "Mickey: The Story of a Mouse",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mickey-the-story-of-a-mouse/8DXLYGqqc4CT"
+    }
+  ],
+  "in_theaters": false
+}

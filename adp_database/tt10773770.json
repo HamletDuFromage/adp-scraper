@@ -1,0 +1,15 @@
+{
+  "Title": "Hip Hop Uncovered",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/hip-hop-uncovered-69ba68f6-4d7d-406a-93bf-c04c92089d8e"
+    }
+  ],
+  "in_theaters": false
+}

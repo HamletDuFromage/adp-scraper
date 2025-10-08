@@ -1,0 +1,16 @@
+{
+  "Title": "Mapleworth Murders",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Mystery",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/a57a7f849cf05b6781b5731930d48158/mapleworth-murders"
+    }
+  ],
+  "in_theaters": false
+}

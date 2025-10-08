@@ -1,0 +1,15 @@
+{
+  "Title": "Baywatch",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8cb41a43-5b93-f3ae-80ff-deaa0b220015/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

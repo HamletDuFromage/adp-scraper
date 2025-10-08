@@ -1,0 +1,20 @@
+{
+  "Title": "Power of Chi",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.196f156b-54fc-4f3f-a2d0-e126c4c144e4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1796590183"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3931807"
+    }
+  ],
+  "in_theaters": false
+}

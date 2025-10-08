@@ -1,0 +1,26 @@
+{
+  "Title": "Hotel Mumbai",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f5114bf0-4945-42ed-9ff1-f548897cbe59/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1455557366"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07PXD7HXW/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/fQz0lsL3Rnz9CvMQ1xwJ0JkgpXgxEOTi/"
+    }
+  ],
+  "in_theaters": false
+}

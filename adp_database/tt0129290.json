@@ -1,0 +1,16 @@
+{
+  "Title": "Patch Adams",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aa9f70b-c1ce-bace-3cef-b78cb8b59c33/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

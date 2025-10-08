@@ -1,0 +1,17 @@
+{
+  "Title": "Smart House",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/smart-house/51pux3uBRZyh"
+    }
+  ],
+  "in_theaters": false
+}

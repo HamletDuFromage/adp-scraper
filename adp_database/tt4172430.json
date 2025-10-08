@@ -1,0 +1,26 @@
+{
+  "Title": "13 Hours: The Secret Soldiers of Benghazi",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64aa690f-934b-3e1d-6271-3289f4d22fc1/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4a9f70f-c6dd-7fd1-2811-7f6280f5590c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1069054137"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B018IDVB5S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

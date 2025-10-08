@@ -1,0 +1,21 @@
+{
+  "Title": "I Am Legend",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id272821220"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90a9f697-c89f-5246-cd34-886803553c6f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

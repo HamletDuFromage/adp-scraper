@@ -1,0 +1,16 @@
+{
+  "Title": "King Kong",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46a9f795-4a5d-1673-9525-cf621829c88b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

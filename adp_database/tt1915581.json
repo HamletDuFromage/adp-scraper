@@ -1,0 +1,19 @@
+{
+  "Title": "Magic Mike",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.db1b0795-b92b-402b-bf20-f3c1ad42f290/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id550129174"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Fright Krewe",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Horror",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/5a4a40ec-2b8d-4c36-9514-ffded63ccc1d"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/fright-krewe/5053302979915048112"
+    }
+  ],
+  "in_theaters": false
+}

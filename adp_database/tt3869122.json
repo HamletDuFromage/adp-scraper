@@ -1,0 +1,16 @@
+{
+  "Title": "The Magic School Bus Rides Again",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80108373"
+    }
+  ],
+  "in_theaters": false
+}

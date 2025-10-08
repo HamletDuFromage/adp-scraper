@@ -1,0 +1,23 @@
+{
+  "Title": "Red Tails",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIGN2/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36a9f722-6d53-ac4f-c32b-7570223c5369/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/fb254181-d346-4069-8793-fbc6a879a114"
+    }
+  ],
+  "in_theaters": false
+}

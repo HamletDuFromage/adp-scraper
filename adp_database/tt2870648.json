@@ -1,0 +1,19 @@
+{
+  "Title": "Amy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cea9f74c-1d40-b934-fa56-fc574943e6a7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1011670639"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "A Very Merry Mix-Up",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8a9f73d-017e-04fa-ffae-7d0c69108363/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

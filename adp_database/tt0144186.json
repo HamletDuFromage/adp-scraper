@@ -1,0 +1,15 @@
+{
+  "Title": "Sesame Street: Elmo Says Boo!",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64a9f7ba-51e9-0504-f36d-c9b83d99575c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

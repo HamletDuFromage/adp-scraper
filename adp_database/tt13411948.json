@@ -1,0 +1,16 @@
+{
+  "Title": "Captain Underpants Mega Blissmas",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81021977"
+    }
+  ],
+  "in_theaters": false
+}

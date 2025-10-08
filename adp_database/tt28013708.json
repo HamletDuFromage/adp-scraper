@@ -1,0 +1,18 @@
+{
+  "Title": "Task",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/86bc816f-97a7-4cd6-8d53-08d5e6337063"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24388b52-a7c9-4fe5-b6f5-03287f7ded56/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

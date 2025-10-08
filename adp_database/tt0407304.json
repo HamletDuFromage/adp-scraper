@@ -1,0 +1,18 @@
+{
+  "Title": "War of the Worlds",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fea9f708-b365-eb00-4f7f-9bd35b3498b6/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/6EBZOegEKE2E4svmjhQ4kIBNRI9y8eTq/"
+    }
+  ],
+  "in_theaters": false
+}

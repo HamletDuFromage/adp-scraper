@@ -1,0 +1,19 @@
+{
+  "Title": "Never Seen Again",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2385e0c0-3704-481c-b431-165ea00cbb54/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/never-seen-again/"
+    }
+  ],
+  "in_theaters": false
+}

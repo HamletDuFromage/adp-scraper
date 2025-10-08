@@ -1,0 +1,19 @@
+{
+  "Title": "Disneynature: Penguins",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneynature-penguins/1DRN706fN3sy"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1472806398"
+    }
+  ],
+  "in_theaters": false
+}

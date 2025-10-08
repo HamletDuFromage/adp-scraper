@@ -1,0 +1,22 @@
+{
+  "Title": "Maze Runner: The Scorch Trials",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8a9f723-a829-4287-17a9-b407b9fd2aa9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1033370076"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0176IENNS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

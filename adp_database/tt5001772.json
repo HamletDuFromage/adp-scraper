@@ -1,0 +1,15 @@
+{
+  "Title": "Justin Timberlake + the Tennessee Kids",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80127559"
+    }
+  ],
+  "in_theaters": false
+}

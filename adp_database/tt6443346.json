@@ -1,0 +1,24 @@
+{
+  "Title": "Black Adam",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5a7724bb-c4e5-44d6-8dde-17abce9681c1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/0c730836-253b-4338-a3d1-a6a44a3384e0"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1646543268"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BJ8GHDN4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

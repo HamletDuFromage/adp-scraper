@@ -1,0 +1,23 @@
+{
+  "Title": "The Girl on the Train",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4ac042d-b7a5-f268-2da9-01b4fd137688/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1156946236"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHO4KE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

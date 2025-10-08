@@ -1,0 +1,24 @@
+{
+  "Title": "From the World of John Wick: Ballerina",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1817250319"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4242228"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d77707481ba41001faf0c7f&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0FBC5G334/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

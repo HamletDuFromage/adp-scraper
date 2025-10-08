@@ -1,0 +1,19 @@
+{
+  "Title": "Dragons: The Nine Realms",
+  "Media Type": "Series",
+  "Rating": "TV-Y7-FV",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/dragons-the-nine-realms-e3436dee-8d2d-43dc-b810-c75d77730fa9"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/dragons-the-nine-realms/6852599636100403112"
+    }
+  ],
+  "in_theaters": false
+}

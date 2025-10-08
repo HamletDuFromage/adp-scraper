@@ -1,0 +1,18 @@
+{
+  "Title": "Get Him to the Greek",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ab3aed4-6db4-4245-ab2e-d0b6480d197b/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003VPX5Y4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

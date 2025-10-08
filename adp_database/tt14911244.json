@@ -1,0 +1,19 @@
+{
+  "Title": "Music Box: Jagged",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d68f8e63-d9c2-41d6-8c53-631966315610/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/80cc83ce-2c3a-4536-8fa8-a017b7522a5b"
+    }
+  ],
+  "in_theaters": false
+}

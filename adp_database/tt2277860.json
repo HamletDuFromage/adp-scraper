@@ -1,0 +1,24 @@
+{
+  "Title": "Finding Dory",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/finding-dory/2L6w30vnqebX"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1122228373"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01FJ4UGFK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Star Wars: Episode VII - The Force Awakens",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cca9f7bd-1e7e-8657-be7d-89629dec5c0a/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28a9f764-0f32-ad7b-0681-08f25bc5fcc4/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-the-force-awakens/1LEKJPDPeMr7"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1063466898"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01B80CM4W/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Bagman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ac5f385-b4c1-4e43-8fa6-5b63131f7354/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1772528442"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3536472"
+    }
+  ],
+  "in_theaters": false
+}

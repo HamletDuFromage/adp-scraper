@@ -1,0 +1,25 @@
+{
+  "Title": "Clifford the Big Red Dog",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2840dd82-0a63-4047-9dc2-0a99409bcc96/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1591904267"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09KN7X3D1/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/clifford-the-big-red-dog/x7WBZ4vYuARG7ARSjoYK7cTmY3Gh6xj6/"
+    }
+  ],
+  "in_theaters": false
+}

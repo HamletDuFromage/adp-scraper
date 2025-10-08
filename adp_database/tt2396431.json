@@ -1,0 +1,26 @@
+{
+  "Title": "Dear Santa",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2d818f86-ee39-4f63-b792-f20632262dc9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1774207016"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3684501"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/LXIS0Y6Dd0D04qRCR_lLx2G6V_4YvV3u/"
+    }
+  ],
+  "in_theaters": false
+}

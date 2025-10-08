@@ -1,0 +1,16 @@
+{
+  "Title": "War of the Worlds",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.35516acc-91d6-4b38-a5e1-5a4c573d85ed/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

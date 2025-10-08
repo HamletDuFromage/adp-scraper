@@ -1,0 +1,16 @@
+{
+  "Title": "An En Vogue Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.23e4e676-4bc4-47f2-b69e-543766b405f1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

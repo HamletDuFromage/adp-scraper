@@ -1,0 +1,24 @@
+{
+  "Title": "True History of the Kelly Gang",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Crime",
+    "Thriller",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb89643-c053-6e15-2f5b-25c0899f5255/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1505257489"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B089M1KVP9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

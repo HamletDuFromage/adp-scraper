@@ -1,0 +1,22 @@
+{
+  "Title": "Disneynature: Chimpanzee",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneynature-chimpanzee/sjtYANrY9Uwa"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id547832732"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B007VYQ6DS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

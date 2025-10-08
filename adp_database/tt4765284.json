@@ -1,0 +1,21 @@
+{
+  "Title": "Pitch Perfect 3",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8b035d2-b876-78cb-3fc1-a4603dc19afa/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1318897997"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0788XV93X/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

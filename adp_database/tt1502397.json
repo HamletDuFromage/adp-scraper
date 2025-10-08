@@ -1,0 +1,22 @@
+{
+  "Title": "Bad Boys for Life",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ab7d9fd-c622-18cc-a0d3-26c475906f99/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1494048148"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B082BX12L6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Coastal Elites",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2351cbdb-a71c-4a84-b22c-a200544d929f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/9c305af9-432f-4542-bcee-7a6541ccbe02"
+    }
+  ],
+  "in_theaters": false
+}

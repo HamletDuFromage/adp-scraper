@@ -1,0 +1,18 @@
+{
+  "Title": "My 600-lb Life",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Lifestyle & Culture",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6500d761-91b0-4a5b-a9c4-593f30bb1b7a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/73da8eec-569f-4ee1-be50-3ad47d3e4387"
+    }
+  ],
+  "in_theaters": false
+}

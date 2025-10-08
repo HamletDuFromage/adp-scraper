@@ -1,0 +1,16 @@
+{
+  "Title": "The Tiny Chef Show",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-tiny-chef-show/"
+    }
+  ],
+  "in_theaters": false
+}

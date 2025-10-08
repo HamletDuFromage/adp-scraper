@@ -1,0 +1,17 @@
+{
+  "Title": "Trying",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.00ca86b1-3327-4322-90db-0b9b4732bb59/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6muy4la7lj1omu5nci4bt2m66"
+    }
+  ],
+  "in_theaters": false
+}

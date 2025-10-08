@@ -1,0 +1,24 @@
+{
+  "Title": "Air",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.39aa8c99-a52e-42ee-9a3e-fd3eab2c40a9/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C7F6W1KZ/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1808110068"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4219212"
+    }
+  ],
+  "in_theaters": false
+}

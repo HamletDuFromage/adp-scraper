@@ -1,0 +1,16 @@
+{
+  "Title": "Batman: Death in the Family",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dab9f1bc-6ce3-94bc-f444-3030dda034a1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

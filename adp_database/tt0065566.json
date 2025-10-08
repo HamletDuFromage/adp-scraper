@@ -1,0 +1,16 @@
+{
+  "Title": "The Computer Wore Tennis Shoes",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-computer-wore-tennis-shoes/4aeFUGJRUt3T"
+    }
+  ],
+  "in_theaters": false
+}

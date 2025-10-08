@@ -1,0 +1,17 @@
+{
+  "Title": "Demon House",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80b0f20b-388d-f0dc-4544-f742bf0508ed/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

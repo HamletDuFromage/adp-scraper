@@ -1,0 +1,19 @@
+{
+  "Title": "Nickelodeon Kids' Choice Awards",
+  "Media Type": "Series",
+  "Rating": "ALL",
+  "Genre": [
+    "Kids & Family",
+    "Music",
+    "TV Variety"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84f2b1b9-5a4b-4169-a93d-38b5648502ab/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/nickelodeon-kids-choice-awards/"
+    }
+  ],
+  "in_theaters": false
+}

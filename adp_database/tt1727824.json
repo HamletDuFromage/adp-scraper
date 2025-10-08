@@ -1,0 +1,22 @@
+{
+  "Title": "Bohemian Rhapsody",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb8371b-e0f2-44fe-6c63-553768a40732/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1438697738"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07HSK3DWC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Jessica Jones",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/jessica-jones/4LX4rNmINp5y"
+    }
+  ],
+  "in_theaters": false
+}

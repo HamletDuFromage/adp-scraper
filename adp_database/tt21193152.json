@@ -1,0 +1,16 @@
+{
+  "Title": "Who is Stan Smith?",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Lifestyle & Culture",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/4d1cd769-35af-4cd3-84fc-2e07f40d0465"
+    }
+  ],
+  "in_theaters": false
+}

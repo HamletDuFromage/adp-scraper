@@ -1,0 +1,19 @@
+{
+  "Title": "Manifest",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80241318"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3254200"
+    }
+  ],
+  "in_theaters": false
+}

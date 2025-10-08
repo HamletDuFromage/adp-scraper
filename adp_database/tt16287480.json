@@ -1,0 +1,16 @@
+{
+  "Title": "Everything Now",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81437049"
+    }
+  ],
+  "in_theaters": false
+}

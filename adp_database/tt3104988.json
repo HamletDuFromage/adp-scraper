@@ -1,0 +1,22 @@
+{
+  "Title": "Crazy Rich Asians",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4cb4f0eb-e4c0-2e85-9edc-6f535e763eee/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1420298262"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07D5155WL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

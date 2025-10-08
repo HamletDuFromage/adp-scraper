@@ -1,0 +1,24 @@
+{
+  "Title": "When the Bough Breaks",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82ab81f7-a5e8-1aff-824a-4aa847d46f0c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1146038628"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHKKZM/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/9uhWLAKDuIXNvWB9RLdd9_VtDN8BJJzL/"
+    }
+  ],
+  "in_theaters": false
+}

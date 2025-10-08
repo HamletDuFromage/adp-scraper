@@ -1,0 +1,25 @@
+{
+  "Title": "Jack Ryan: Shadow Recruit",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4a9f709-72d7-d3c9-4cfa-6fd74cb2ac91/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id780114266"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00AIBZMD6/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/HIkXuH31YZF250sj8DqfbB_FKWDfdE_v/"
+    }
+  ],
+  "in_theaters": false
+}

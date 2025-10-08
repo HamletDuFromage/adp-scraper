@@ -1,0 +1,25 @@
+{
+  "Title": "Evil",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81190640"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.216eae56-a77a-4028-adf2-6e7cf3c513be/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2029406"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/evil/"
+    }
+  ],
+  "in_theaters": false
+}

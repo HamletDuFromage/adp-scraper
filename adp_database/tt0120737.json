@@ -1,0 +1,22 @@
+{
+  "Title": "The Lord of the Rings: The Fellowship of the Ring",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a9f6d5-bc3f-73a3-e41f-a82b4ff83e67/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6f75df5-f546-4a37-86e0-218c68707660/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/fb9f961f-6302-4776-91d7-f1b7a69fb61d"
+    }
+  ],
+  "in_theaters": false
+}

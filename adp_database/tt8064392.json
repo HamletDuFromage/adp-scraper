@@ -1,0 +1,19 @@
+{
+  "Title": "Disneynature: Expedition China",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneynature-expedition-china/4iRoQ9XqiRRp"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1321702918"
+    }
+  ],
+  "in_theaters": false
+}

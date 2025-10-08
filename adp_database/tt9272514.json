@@ -1,0 +1,17 @@
+{
+  "Title": "South Side",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.787bebe2-e7dc-4f99-9865-ced5617dd07c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/d78e05ee-80b4-41b3-8481-f3411d4dacb9"
+    }
+  ],
+  "in_theaters": false
+}

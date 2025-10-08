@@ -1,0 +1,17 @@
+{
+  "Title": "The Christmas Chronicles",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80199682"
+    }
+  ],
+  "in_theaters": false
+}

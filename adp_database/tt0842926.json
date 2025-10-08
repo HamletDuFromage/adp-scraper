@@ -1,0 +1,16 @@
+{
+  "Title": "The Kids Are All Right",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36a9f7a8-3168-ff33-4b85-425a64152789/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

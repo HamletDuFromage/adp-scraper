@@ -1,0 +1,16 @@
+{
+  "Title": "In the Tall Grass",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80237905"
+    }
+  ],
+  "in_theaters": false
+}

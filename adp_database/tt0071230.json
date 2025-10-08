@@ -1,0 +1,15 @@
+{
+  "Title": "Blazing Saddles",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bea9f683-7e85-e1fe-99c7-b34db54642ed/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

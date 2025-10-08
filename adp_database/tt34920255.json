@@ -1,0 +1,15 @@
+{
+  "Title": "Bravo’s Love Hotel",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/bravos-love-hotel/5417530800168354112"
+    }
+  ],
+  "in_theaters": false
+}

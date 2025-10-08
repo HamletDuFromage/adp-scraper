@@ -1,0 +1,22 @@
+{
+  "Title": "Thoroughbreds",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5f86199e-34ca-46d8-8b97-d6c488ab456b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1352543950"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07B5RFSD6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

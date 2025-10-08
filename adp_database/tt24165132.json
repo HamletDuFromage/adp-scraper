@@ -1,0 +1,14 @@
+{
+  "Title": "Nate Bargatze: Hello World",
+  "Media Type": "Series",
+  "Rating": "G",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ae31b9e4-3bad-4da0-8151-708d414b8900/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

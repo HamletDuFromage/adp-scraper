@@ -1,0 +1,14 @@
+{
+  "Title": "Giving Voice",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81290388"
+    }
+  ],
+  "in_theaters": false
+}

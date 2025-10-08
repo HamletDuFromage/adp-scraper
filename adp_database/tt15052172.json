@@ -1,0 +1,15 @@
+{
+  "Title": "Madame X",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/madame-x/M17Pbv7cyL31FnCNv9l1Ai_MAk2Xbz4U/"
+    }
+  ],
+  "in_theaters": false
+}

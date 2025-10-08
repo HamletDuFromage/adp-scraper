@@ -1,0 +1,17 @@
+{
+  "Title": "Sarah Silverman: Someone You Love",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38111208-4bea-424c-85c1-4cf443fbc7e1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2fbf3452-01a8-45d4-918b-6990cf13c508"
+    }
+  ],
+  "in_theaters": false
+}

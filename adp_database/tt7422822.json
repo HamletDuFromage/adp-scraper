@@ -1,0 +1,20 @@
+{
+  "Title": "Greener Grass",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0b6e552-0099-c30a-f460-d242d05d421d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1480651373"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07ZW9C4Y7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

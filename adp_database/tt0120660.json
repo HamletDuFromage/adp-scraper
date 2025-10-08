@@ -1,0 +1,18 @@
+{
+  "Title": "Enemy of the State",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3aa9f6f5-e245-fea0-30de-ee8c423d511d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188764990"
+    }
+  ],
+  "in_theaters": false
+}

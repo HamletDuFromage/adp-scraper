@@ -1,0 +1,23 @@
+{
+  "Title": "White Bird",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1771910166"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DH75JQZJ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3549665"
+    }
+  ],
+  "in_theaters": false
+}

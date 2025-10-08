@@ -1,0 +1,14 @@
+{
+  "Title": "Motel Makeover",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81175716"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Halloween",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56a9f757-2dfe-6ba7-02c1-7e800e81f567/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

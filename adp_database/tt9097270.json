@@ -1,0 +1,14 @@
+{
+  "Title": "Wrinkles the Clown",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb6c137-bb7a-e809-b762-34bc09491fb9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

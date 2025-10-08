@@ -1,0 +1,18 @@
+{
+  "Title": "Cha Cha Real Smooth",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6f91fab8-9506-4f9c-ba2d-7df6610a34dc/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.6loo9fah7vwj2zpp7ehactlpd"
+    }
+  ],
+  "in_theaters": false
+}

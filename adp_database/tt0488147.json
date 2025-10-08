@@ -1,0 +1,17 @@
+{
+  "Title": "The Legend of Frosty the Snowman",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.535e550f-a22b-4131-850d-1090c16d5a17/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Stay Here",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80201870"
+    }
+  ],
+  "in_theaters": false
+}

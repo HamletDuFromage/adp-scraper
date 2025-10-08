@@ -1,0 +1,22 @@
+{
+  "Title": "Birth/Rebirth",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9a5f471d-9476-4e04-a1c3-380a1d95e759/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/f34a1b3f-8953-459d-bf9f-14cc20bcf6cd"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1700710489"
+    }
+  ],
+  "in_theaters": false
+}

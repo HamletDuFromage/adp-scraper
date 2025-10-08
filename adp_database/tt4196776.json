@@ -1,0 +1,27 @@
+{
+  "Title": "Jason Bourne",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98ab1218-2efe-f06e-dc37-e8c087e76164/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cab02a5-8d58-c98e-b491-e617c20f5d2a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6524fd18-f75a-42ff-87f9-881ec30424b4"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1135595430"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01JAQEQOK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

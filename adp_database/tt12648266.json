@@ -1,0 +1,14 @@
+{
+  "Title": "Accused",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/100008594/accused"
+    }
+  ],
+  "in_theaters": false
+}

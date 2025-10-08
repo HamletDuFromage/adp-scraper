@@ -1,0 +1,16 @@
+{
+  "Title": "Dark Horse",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Documentary",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9cab42ed-5ae4-e56a-839a-2a5ceec79db4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

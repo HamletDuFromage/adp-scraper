@@ -1,0 +1,17 @@
+{
+  "Title": "Die Hart",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Short",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/14de3bf28d7153ff8d938f554b76dcf5/die-hart/season-1"
+    }
+  ],
+  "in_theaters": false
+}

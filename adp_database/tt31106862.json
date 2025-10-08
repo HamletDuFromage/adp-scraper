@@ -1,0 +1,15 @@
+{
+  "Title": "Happy's Place",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/happys-place/5571697868434107112"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The Accident",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Legal"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-accident-dd5db15e-7665-44c1-8f60-2f0146492428"
+    }
+  ],
+  "in_theaters": false
+}

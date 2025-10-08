@@ -1,0 +1,28 @@
+{
+  "Title": "Mrs. Harris Goes to Paris",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Independent"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fe01404c-8813-43c8-8d3d-0ba6008cf447/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1636040340"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B64MJR6Y/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2073476"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/mrs.-harris-goes-to-paris/e2ee9073-eb4b-3650-8d87-d7290196949f"
+    }
+  ],
+  "in_theaters": false
+}

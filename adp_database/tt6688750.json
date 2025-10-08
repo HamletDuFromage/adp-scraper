@@ -1,0 +1,18 @@
+{
+  "Title": "Puppy Dog Pals",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/puppy-dog-pals/1xWMloV5umHG"
+    }
+  ],
+  "in_theaters": false
+}

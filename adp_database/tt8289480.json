@@ -1,0 +1,16 @@
+{
+  "Title": "Treadstone",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28b6d734-5b4e-5e49-d2c4-2e0723909bed/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

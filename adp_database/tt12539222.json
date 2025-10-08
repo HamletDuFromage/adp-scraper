@@ -1,0 +1,19 @@
+{
+  "Title": "Para - We Are King",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67567ae7-c49c-44de-bc1a-e6f661c7d43c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/8204f019-ec97-46fe-af47-c4f69354427c"
+    }
+  ],
+  "in_theaters": false
+}

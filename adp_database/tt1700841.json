@@ -1,0 +1,23 @@
+{
+  "Title": "Sausage Party",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32ab1c0d-a382-be8d-82a0-5c19039f59d6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1137243473"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01J93C55G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Dish It Out",
+  "Media Type": "Series",
+  "Rating": "13+",
+  "Genre": [
+    "Food & Home",
+    "Reality TV",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aabd29a-b0b0-43a7-b274-e42d32ff8608/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

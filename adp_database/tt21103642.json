@@ -1,0 +1,17 @@
+{
+  "Title": "The Anarchists",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6a985b4-74fd-47eb-a538-f65713c9d1fc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/32e26238-cceb-4232-9c8d-944519300baf"
+    }
+  ],
+  "in_theaters": false
+}

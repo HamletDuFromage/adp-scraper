@@ -1,0 +1,23 @@
+{
+  "Title": "Stress Positions",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8d6bd5a2-c878-42ae-a28e-d1dd53a5e751/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/738add61-f434-4cc4-bac7-a81640db0535"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1741055588"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3119089"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Missing Link",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92b587bd-33c5-6930-943a-215ce698e249/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07Q47ZR4S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

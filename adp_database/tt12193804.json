@@ -1,0 +1,19 @@
+{
+  "Title": "Whitney Houston: I Wanna Dance with Somebody",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1660688483"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BQXP3T43/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

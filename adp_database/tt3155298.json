@@ -1,0 +1,17 @@
+{
+  "Title": "Luther: The Fallen Sun",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81280035"
+    }
+  ],
+  "in_theaters": false
+}

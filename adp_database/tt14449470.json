@@ -1,0 +1,26 @@
+{
+  "Title": "FBI: International",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/fbi-international/8186367881334113112"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/fbi-international/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/614f4dbac79f030013e54210"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.13b1a968-c87b-4662-8107-e1be8e1be3fb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

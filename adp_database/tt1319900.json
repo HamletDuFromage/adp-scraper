@@ -1,0 +1,19 @@
+{
+  "Title": "Ghost Adventures",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "History",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/74a0b187-22a7-47ee-8132-bf9fd15f86cc"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6af95850-8738-42e9-a6c1-444b8508d0dc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Angela's Christmas 2",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7-FV",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81151926"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Baby Animal Cam",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Special Interest"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81730862"
+    }
+  ],
+  "in_theaters": false
+}

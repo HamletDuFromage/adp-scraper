@@ -1,0 +1,18 @@
+{
+  "Title": "Angel City",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e5622286-bcc5-4413-898c-8c84930a6291/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/9a17f94f-885c-40e4-851c-e3f43672ff9f"
+    }
+  ],
+  "in_theaters": false
+}

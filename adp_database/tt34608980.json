@@ -1,0 +1,15 @@
+{
+  "Title": "Disaster Holiday",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81522482"
+    }
+  ],
+  "in_theaters": false
+}

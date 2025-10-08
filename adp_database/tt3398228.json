@@ -1,0 +1,16 @@
+{
+  "Title": "BoJack Horseman",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70300800"
+    }
+  ],
+  "in_theaters": false
+}

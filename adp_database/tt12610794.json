@@ -1,0 +1,25 @@
+{
+  "Title": "Blade of the 47 Ronin",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81624701"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1facacbd-329f-4c20-9c47-c1d2ee494983/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1648851187"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2119575"
+    }
+  ],
+  "in_theaters": false
+}

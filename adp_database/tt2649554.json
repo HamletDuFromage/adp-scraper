@@ -1,0 +1,23 @@
+{
+  "Title": "Midnight Special",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ceaa69f7-2c16-0314-f588-c12043a8b905/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1089418156"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01F5ZY41K/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

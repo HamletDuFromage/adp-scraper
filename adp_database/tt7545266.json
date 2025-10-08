@@ -1,0 +1,20 @@
+{
+  "Title": "Like a Boss",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28b7be74-41ad-5b53-a4ff-a6213c4a31fb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1492375174"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B082PPKDJ4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

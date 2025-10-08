@@ -1,0 +1,24 @@
+{
+  "Title": "The Monuments Men",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9aa9f75a-087f-25d9-80b2-8e9ed0f5e433/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id805855075"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00DL48BM6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

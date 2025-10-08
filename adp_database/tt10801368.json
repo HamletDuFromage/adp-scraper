@@ -1,0 +1,18 @@
+{
+  "Title": "Starstruck",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6ab6045-25e8-495a-ade4-78b8689e3f1c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/35705238-df49-4e2c-bc06-461f59da0d8f"
+    }
+  ],
+  "in_theaters": false
+}

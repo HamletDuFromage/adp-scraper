@@ -1,0 +1,20 @@
+{
+  "Title": "Manhunt",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "History",
+    "Thriller",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bd0a4013-1817-425b-9875-af71958b17ee/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.3uqhvdplroersd5p2l72udkal"
+    }
+  ],
+  "in_theaters": false
+}

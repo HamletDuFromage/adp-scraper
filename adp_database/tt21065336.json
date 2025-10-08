@@ -1,0 +1,14 @@
+{
+  "Title": "Dickie V",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dickie-v/6Hlh3ThKnNz8"
+    }
+  ],
+  "in_theaters": false
+}

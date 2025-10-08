@@ -1,0 +1,18 @@
+{
+  "Title": "The Founder",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80101899"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cf3fa84-e605-472f-aa52-4fc0a51dd076/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

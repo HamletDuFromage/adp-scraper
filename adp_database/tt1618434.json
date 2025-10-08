@@ -1,0 +1,16 @@
+{
+  "Title": "Murder Mystery",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80242619"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "The Return",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cef2910a-b4cb-4c43-850e-9ebad2791952/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1776918436"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DKKZXNDZ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3685336"
+    }
+  ],
+  "in_theaters": false
+}

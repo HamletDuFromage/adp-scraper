@@ -1,0 +1,15 @@
+{
+  "Title": "Cook at all Costs",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81060954"
+    }
+  ],
+  "in_theaters": false
+}

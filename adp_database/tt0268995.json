@@ -1,0 +1,18 @@
+{
+  "Title": "The Majestic",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52a9f7b4-ad46-91ee-79f5-3efd686b427e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id538089099"
+    }
+  ],
+  "in_theaters": false
+}

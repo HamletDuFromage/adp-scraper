@@ -1,0 +1,19 @@
+{
+  "Title": "Dexter: New Blood",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.31471a5a-4102-4f28-9c4f-16791dd035d9/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/dexter-new-blood/"
+    }
+  ],
+  "in_theaters": false
+}

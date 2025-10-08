@@ -1,0 +1,17 @@
+{
+  "Title": "Amina",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81450071"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Descendants: The Rise of Red",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Coming of Age",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-81c3b014-b13a-4e59-8a01-34dcc0482b6b"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Dinosaur",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/f75dc17e-9e61-4282-a6ff-fe31f24310cd"
+    }
+  ],
+  "in_theaters": false
+}

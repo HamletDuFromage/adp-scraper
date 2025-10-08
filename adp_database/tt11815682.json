@@ -1,0 +1,19 @@
+{
+  "Title": "Hacks",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/67e940b7-aab2-46ce-a62b-c7308cde9de7"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.255a9a24-5b0e-4b17-bc49-b46c84ca73b2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Singin' in the Rain",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0a9f706-fcf9-4299-f6cd-c9c6ff15a0ec/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6519ebc6-3629-4934-a047-3c02f401c534"
+    }
+  ],
+  "in_theaters": false
+}

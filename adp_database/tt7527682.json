@@ -1,0 +1,21 @@
+{
+  "Title": "Out of Darkness",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0927a3a3-764d-40c2-a851-2afdf17b7ecf/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1721939268"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2871202"
+    }
+  ],
+  "in_theaters": false
+}

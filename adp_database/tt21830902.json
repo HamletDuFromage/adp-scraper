@@ -1,0 +1,14 @@
+{
+  "Title": "Upgraded",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6162530-8b90-4440-9b13-d550bc1432e1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

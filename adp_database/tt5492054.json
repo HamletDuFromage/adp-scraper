@@ -1,0 +1,16 @@
+{
+  "Title": "A Mother's Revenge",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2eac4498-cd80-5096-c54f-3721de2079f4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

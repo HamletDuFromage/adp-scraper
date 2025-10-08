@@ -1,0 +1,19 @@
+{
+  "Title": "Return from Witch Mountain",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/return-from-witch-mountain/2fMtAAgLfQEF"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id304955092"
+    }
+  ],
+  "in_theaters": false
+}

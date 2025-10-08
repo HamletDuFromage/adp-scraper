@@ -1,0 +1,17 @@
+{
+  "Title": "Alaska Daily",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42152944-f1ba-431a-a8ad-585d1e204e1e/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/alaska-daily-bf5ed554-2be0-4eb9-bc50-f217d1582116"
+    }
+  ],
+  "in_theaters": false
+}

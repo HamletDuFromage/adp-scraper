@@ -1,0 +1,18 @@
+{
+  "Title": "Horns",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.63b60eb2-63f8-430d-bff0-01c7fb6c40ae/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

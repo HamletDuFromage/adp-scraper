@@ -1,0 +1,20 @@
+{
+  "Title": "Guillermo del Toro's Pinocchio",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80218455"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CJCL26M9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

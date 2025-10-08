@@ -1,0 +1,17 @@
+{
+  "Title": "Becoming You",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f239f05d-4fe3-4e0e-9c59-b7374843d53a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2eln6544k8wo99s3vrdl5amwf"
+    }
+  ],
+  "in_theaters": false
+}

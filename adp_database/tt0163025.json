@@ -1,0 +1,19 @@
+{
+  "Title": "Jurassic Park III",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4a9f6d5-da18-f69f-0cf6-c378e327f012/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60004473"
+    }
+  ],
+  "in_theaters": false
+}

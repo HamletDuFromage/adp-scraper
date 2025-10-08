@@ -1,0 +1,18 @@
+{
+  "Title": "The Last Movie Stars",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.17fc6fce-fd42-4a3c-bf0c-7d51f3c61720/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c326a2f4-8c29-4707-9477-7a8961c9bceb"
+    }
+  ],
+  "in_theaters": false
+}

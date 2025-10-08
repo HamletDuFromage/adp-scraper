@@ -1,0 +1,17 @@
+{
+  "Title": "The Castaway Cowboy",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-castaway-cowboy/7OjJt0N64L6R"
+    }
+  ],
+  "in_theaters": false
+}

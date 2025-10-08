@@ -1,0 +1,15 @@
+{
+  "Title": "Lakefront Empire",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/9175aa9f-c5aa-406d-988a-b9210a7bffb8"
+    }
+  ],
+  "in_theaters": false
+}

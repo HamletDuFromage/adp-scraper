@@ -1,0 +1,14 @@
+{
+  "Title": "The Blue Angels",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9dfcdaa5-e72c-44fa-b528-46e56ec4f08e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

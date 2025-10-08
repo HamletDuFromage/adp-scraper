@@ -1,0 +1,20 @@
+{
+  "Title": "Max Keeble's Big Move",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/max-keebles-big-move/2Y5SmJL0X2J4"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id259954243"
+    }
+  ],
+  "in_theaters": false
+}

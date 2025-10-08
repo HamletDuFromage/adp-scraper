@@ -1,0 +1,26 @@
+{
+  "Title": "M3GAN 2.0",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bae249d4-4cda-4561-afff-5fb8b329da3e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1820307415"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4343571"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/m3gan-2.0/2c9c8470-bc13-3ce9-8db6-42132386815a"
+    }
+  ],
+  "in_theaters": false
+}

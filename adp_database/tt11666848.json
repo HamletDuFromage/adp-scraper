@@ -1,0 +1,15 @@
+{
+  "Title": "The Cabin with Bert Kreischer",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81125115"
+    }
+  ],
+  "in_theaters": false
+}

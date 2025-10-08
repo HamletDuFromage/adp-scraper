@@ -1,0 +1,17 @@
+{
+  "Title": "The General's Daughter",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0eff8ec4-825c-479c-862c-4e5da56dd3c5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

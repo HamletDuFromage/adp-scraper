@@ -1,0 +1,14 @@
+{
+  "Title": "How High 2",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1469564836"
+    }
+  ],
+  "in_theaters": false
+}

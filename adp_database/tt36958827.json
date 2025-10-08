@@ -1,0 +1,14 @@
+{
+  "Title": "Super Sara",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/9db5cb43-c4e5-4523-8399-8b3ec5246909"
+    }
+  ],
+  "in_theaters": false
+}

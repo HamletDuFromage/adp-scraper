@@ -1,0 +1,17 @@
+{
+  "Title": "Christmas Mail",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e83ea9fe-ab8d-4891-a485-eb2a55d232b5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

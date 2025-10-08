@@ -1,0 +1,16 @@
+{
+  "Title": "Mr. Polaroid",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68d2c285-d3a9-41a4-a350-11923b4866f0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

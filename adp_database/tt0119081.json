@@ -1,0 +1,19 @@
+{
+  "Title": "Event Horizon",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.674ee2b7-beb4-4652-b7e1-6d0714595190/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id306163996"
+    }
+  ],
+  "in_theaters": false
+}

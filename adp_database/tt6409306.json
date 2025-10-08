@@ -1,0 +1,14 @@
+{
+  "Title": "Consumed",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dca9f701-c1b9-cd54-af80-cea419a819c7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

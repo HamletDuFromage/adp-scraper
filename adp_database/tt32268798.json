@@ -1,0 +1,22 @@
+{
+  "Title": "Hollywood Squares",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b58eccae-81f0-4f64-bf45-7e1c067bee2b/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/hollywood-squares/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/6790e4f99d489f00139b4a0d"
+    }
+  ],
+  "in_theaters": false
+}

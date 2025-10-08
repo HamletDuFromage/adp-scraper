@@ -1,0 +1,15 @@
+{
+  "Title": "Under Fire",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/under-fire-1983"
+    }
+  ],
+  "in_theaters": false
+}

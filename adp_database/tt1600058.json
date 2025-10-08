@@ -1,0 +1,16 @@
+{
+  "Title": "The Cutting Edge: Fire and Ice",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d24c7c9b-1107-4217-af2a-f9a8d31bab67/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

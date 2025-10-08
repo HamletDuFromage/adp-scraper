@@ -1,0 +1,17 @@
+{
+  "Title": "Food Affair with Mark Wiens",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.99b25255-02be-4d95-9294-779a4a709855/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/902b5912-e4c7-45d7-b045-59ef166329e5"
+    }
+  ],
+  "in_theaters": false
+}

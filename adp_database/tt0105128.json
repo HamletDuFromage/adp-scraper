@@ -1,0 +1,22 @@
+{
+  "Title": "Pet Sematary Two",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id305363991"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/XVjjozVzWWN82ssLM4i_UyoLkzzB1Uf6/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4a92ec0c-ef6b-4354-a094-51187b3e44d5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

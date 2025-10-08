@@ -1,0 +1,15 @@
+{
+  "Title": "Plan B",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c17d33ce-70b8-4a94-9e5c-a8a846262324/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

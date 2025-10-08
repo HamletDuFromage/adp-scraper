@@ -1,0 +1,17 @@
+{
+  "Title": "Replicas",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c9340611-f9a2-4288-83d9-24204c155d6e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "June",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8069496d-b60a-484d-a968-f6616a5f8d58/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/jq19TkWhAXSWhEuq6BCEDGOD3URM6uq2/"
+    }
+  ],
+  "in_theaters": false
+}

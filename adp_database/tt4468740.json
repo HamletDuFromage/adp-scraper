@@ -1,0 +1,19 @@
+{
+  "Title": "Paddington 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4c691b6e-f209-46d5-b5b1-c9801a4c3905/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B079VTLYX9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

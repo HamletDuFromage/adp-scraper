@@ -1,0 +1,23 @@
+{
+  "Title": "The Other Guys",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id389745411"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0045ODPLS/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70127228"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Paperman",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/paperman/2PQQQssQ8Gf6"
+    }
+  ],
+  "in_theaters": false
+}

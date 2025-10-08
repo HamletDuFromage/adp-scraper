@@ -1,0 +1,17 @@
+{
+  "Title": "The Cheetah Girls: One World",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-cheetah-girls-one-world/38po5cVUSXcg"
+    }
+  ],
+  "in_theaters": false
+}

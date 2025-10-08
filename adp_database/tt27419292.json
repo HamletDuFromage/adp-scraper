@@ -1,0 +1,18 @@
+{
+  "Title": "Killer Heat",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e7387caf-18c0-4067-b21f-703669344d5a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

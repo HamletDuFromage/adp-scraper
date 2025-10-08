@@ -1,0 +1,22 @@
+{
+  "Title": "The Hunt",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28b85d90-1338-720b-4be7-3247683a7624/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1501262328"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B085HNCCB7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Swap Shop",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81208067"
+    }
+  ],
+  "in_theaters": false
+}

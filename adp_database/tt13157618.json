@@ -1,0 +1,19 @@
+{
+  "Title": "Secret Invasion",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/secret-invasion-7ca74538-6b9e-44bd-bd23-9a06422f930a"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/secret-invasion/3iHQtD1BDpgN"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Grand Crew",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/grand-crew/8795609897397858112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49b6e0a8-d32f-4d75-92ce-7d2ef533841b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

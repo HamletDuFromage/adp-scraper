@@ -1,0 +1,14 @@
+{
+  "Title": "Drag Me to Hell",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82a9f79a-f54d-876c-4811-71e3a24a9eb8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

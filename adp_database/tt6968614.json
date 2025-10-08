@@ -1,0 +1,15 @@
+{
+  "Title": "The Mother",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80210920"
+    }
+  ],
+  "in_theaters": false
+}

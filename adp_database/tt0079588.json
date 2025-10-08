@@ -1,0 +1,19 @@
+{
+  "Title": "The Muppet Movie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-muppet-movie/2rJuGncIuWy1"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id579574567"
+    }
+  ],
+  "in_theaters": false
+}

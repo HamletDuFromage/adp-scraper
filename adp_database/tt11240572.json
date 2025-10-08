@@ -1,0 +1,18 @@
+{
+  "Title": "Angel of Death",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.39d84bd4-2a5a-4220-8bd0-c7c5882fc35a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/0b449e78-e782-46ff-a942-0209f72b7cae"
+    }
+  ],
+  "in_theaters": false
+}

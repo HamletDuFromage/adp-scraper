@@ -1,0 +1,17 @@
+{
+  "Title": "The Black Cauldron",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-black-cauldron/58hUfxGKzVno"
+    }
+  ],
+  "in_theaters": false
+}

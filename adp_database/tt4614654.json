@@ -1,0 +1,14 @@
+{
+  "Title": "Wrong Swipe",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cab198a-236c-b986-1c79-66a9d61c3fb3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

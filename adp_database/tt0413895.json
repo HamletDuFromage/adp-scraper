@@ -1,0 +1,19 @@
+{
+  "Title": "Charlotte's Web",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3aa9f6dd-dd71-5d61-c1dd-48ad24efcdd2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id268162551"
+    }
+  ],
+  "in_theaters": false
+}

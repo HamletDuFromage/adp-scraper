@@ -1,0 +1,17 @@
+{
+  "Title": "3:10 to Yuma",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ebe17ad5-dd27-45ed-a143-d8dbdb58405d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

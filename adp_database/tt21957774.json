@@ -1,0 +1,16 @@
+{
+  "Title": "Irish Wish",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81594532"
+    }
+  ],
+  "in_theaters": false
+}

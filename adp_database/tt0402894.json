@@ -1,0 +1,17 @@
+{
+  "Title": "Casanova",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id186493216"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Nude Bomb",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a399b702-9bc9-45a5-aa42-979bf367b63d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

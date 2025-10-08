@@ -1,0 +1,15 @@
+{
+  "Title": "Fresh",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/fresh-3c0c50d1-17be-462c-aa61-c5b12b86d8bc"
+    }
+  ],
+  "in_theaters": false
+}

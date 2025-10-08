@@ -1,0 +1,17 @@
+{
+  "Title": "Howard",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "LGBTQ",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/howard/5QQfqnXY36eG"
+    }
+  ],
+  "in_theaters": false
+}

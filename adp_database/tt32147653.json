@@ -1,0 +1,18 @@
+{
+  "Title": "The Stranger in My Home",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1807254415"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4121133"
+    }
+  ],
+  "in_theaters": false
+}

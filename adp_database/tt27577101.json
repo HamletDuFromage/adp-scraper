@@ -1,0 +1,15 @@
+{
+  "Title": "Niagara Falls",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7c1622f2-7feb-462b-a310-4e850fda9006/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

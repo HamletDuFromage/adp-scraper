@@ -1,0 +1,23 @@
+{
+  "Title": "Women Talking",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4655484-c639-489a-a241-ef57cf1ac89f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1663051914"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BR9ZNH2X/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2256134"
+    }
+  ],
+  "in_theaters": false
+}

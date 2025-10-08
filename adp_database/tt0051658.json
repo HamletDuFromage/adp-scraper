@@ -1,0 +1,16 @@
+{
+  "Title": "Gigi",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id291366183"
+    }
+  ],
+  "in_theaters": false
+}

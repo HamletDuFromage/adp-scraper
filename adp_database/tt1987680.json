@@ -1,0 +1,18 @@
+{
+  "Title": "The Upside",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07M6RW28C/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3cb8500f-31af-9f4f-5dec-701e086d58e8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

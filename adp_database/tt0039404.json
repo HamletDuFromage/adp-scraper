@@ -1,0 +1,20 @@
+{
+  "Title": "Fun and Fancy Free",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/fun-and-fancy-free/678vwqIHSRuB"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/16045"
+    }
+  ],
+  "in_theaters": false
+}

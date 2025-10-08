@@ -1,0 +1,17 @@
+{
+  "Title": "Scent of Time",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "History",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/7888496f-ccaf-4a03-95e7-d1a2f8065503"
+    }
+  ],
+  "in_theaters": false
+}

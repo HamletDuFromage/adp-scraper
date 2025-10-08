@@ -1,0 +1,20 @@
+{
+  "Title": "Rogue Heroes",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/series/rogue-heroes"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8fe3ff0e-f03c-411e-91f8-4898d348135f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

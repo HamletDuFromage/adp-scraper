@@ -1,0 +1,17 @@
+{
+  "Title": "Brazen",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81029875"
+    }
+  ],
+  "in_theaters": false
+}

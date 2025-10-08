@@ -1,0 +1,15 @@
+{
+  "Title": "Tyler Perry's The Single Moms Club",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id875767300"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Dickinson",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1ogyy5s2agasxa5qztabrlykn"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.069b180d-a1f5-4a3b-be85-f8daf2e309a9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Izzy Does It",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c9607645-be7b-42c0-b528-5540c595dcaf/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ca4dc48f-f901-4d5a-82de-0a0f0b6b4a44"
+    }
+  ],
+  "in_theaters": false
+}

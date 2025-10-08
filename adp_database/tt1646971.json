@@ -1,0 +1,23 @@
+{
+  "Title": "How to Train Your Dragon 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76b0a844-78e7-9cf2-d089-6a515e189384/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1335423557"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00LG6YEKE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Day the Music Died",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/vrmcb4z5mbx3CwjVzC4L5x_76JIz1t8h/"
+    }
+  ],
+  "in_theaters": false
+}

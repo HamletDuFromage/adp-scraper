@@ -1,0 +1,14 @@
+{
+  "Title": "My Scientology Movie",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cb79229-bcc3-154d-eb38-0bc81b7bd29f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

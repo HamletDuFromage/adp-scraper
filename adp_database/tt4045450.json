@@ -1,0 +1,17 @@
+{
+  "Title": "I Know What You Did Last Summer",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1825876694"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4412168"
+    }
+  ],
+  "in_theaters": false
+}

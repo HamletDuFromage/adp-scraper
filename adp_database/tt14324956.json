@@ -1,0 +1,18 @@
+{
+  "Title": "Seeing America with Megan Rapinoe",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Sports",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bc70f750-7308-4125-8f85-d2b77f96d0b3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/3e005b79-5f00-400c-ab51-6dec96e3271f"
+    }
+  ],
+  "in_theaters": false
+}

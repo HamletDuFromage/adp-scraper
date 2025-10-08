@@ -1,0 +1,14 @@
+{
+  "Title": "Hack My Home",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81319212"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Cold Comes the Night",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Disability",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4eb13cfb-1ecd-2c5a-b922-13dca36df321/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

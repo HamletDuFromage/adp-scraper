@@ -1,0 +1,18 @@
+{
+  "Title": "Eureka",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0a9f755-3160-b216-8bcd-9d3978bfbc9f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

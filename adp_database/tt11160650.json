@@ -1,0 +1,25 @@
+{
+  "Title": "On the Count of Three",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d949a574-8c23-43db-a571-e58b3f3ec939/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/e6a01acf-c10f-44ea-b155-bd5b4d85b121"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1620267068"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2032986"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Golden Globe Awards",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "TV Variety"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/golden-globes/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/6781be5ce90435a138c5b935"
+    }
+  ],
+  "in_theaters": false
+}

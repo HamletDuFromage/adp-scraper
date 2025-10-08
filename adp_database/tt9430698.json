@@ -1,0 +1,17 @@
+{
+  "Title": "One Piece: Stampede",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.69c08b47-fec6-4c58-a127-affb4a05e897/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

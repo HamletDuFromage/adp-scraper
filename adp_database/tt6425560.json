@@ -1,0 +1,18 @@
+{
+  "Title": "Scooby-Doo! Shaggy's Showdown",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Mystery",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2ac44b1-376b-b808-cd34-a0f7978defe7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

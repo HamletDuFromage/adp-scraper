@@ -1,0 +1,14 @@
+{
+  "Title": "The Internship",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00DV2MVWO/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

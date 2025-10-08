@@ -1,0 +1,18 @@
+{
+  "Title": "Southern Hospitality",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/southern-hospitality/6614170128718896112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1e14cac0-0cd4-4069-8468-8acf40faef48/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

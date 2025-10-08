@@ -1,0 +1,18 @@
+{
+  "Title": "Windy City Rehab",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0bc2e00-f755-022b-da32-466ab9a33a1e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/d15e22d8-dd99-42b6-9cf3-04316104fb2e"
+    }
+  ],
+  "in_theaters": false
+}

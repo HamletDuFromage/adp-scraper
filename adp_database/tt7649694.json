@@ -1,0 +1,19 @@
+{
+  "Title": "Ramy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2eb97419-f2ab-535d-11c1-bb8e8356ee68/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/ramy-4bcb6c3a-3d9a-4d49-b8e0-57fb7de9c8d6"
+    }
+  ],
+  "in_theaters": false
+}

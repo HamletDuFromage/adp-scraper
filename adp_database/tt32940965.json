@@ -1,0 +1,18 @@
+{
+  "Title": "100 Day Hotel Challenge",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ad6d7941-f54f-4645-85be-f37c204692cf/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ab99fa6a-906e-436f-b4b8-ecfda663e43e"
+    }
+  ],
+  "in_theaters": false
+}

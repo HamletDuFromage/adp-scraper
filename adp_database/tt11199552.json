@@ -1,0 +1,15 @@
+{
+  "Title": "Disney Family Sundays",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Kids & Family",
+    "Lifestyle & Culture"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/disney-family-sundays/6HVS4tSPuyWI"
+    }
+  ],
+  "in_theaters": false
+}

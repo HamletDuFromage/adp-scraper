@@ -1,0 +1,16 @@
+{
+  "Title": "Clock",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/99647742-42aa-4911-a91a-03a1d40dfe72"
+    }
+  ],
+  "in_theaters": false
+}

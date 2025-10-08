@@ -1,0 +1,17 @@
+{
+  "Title": "Baby Reindeer",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81219887"
+    }
+  ],
+  "in_theaters": false
+}

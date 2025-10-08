@@ -1,0 +1,15 @@
+{
+  "Title": "Black and Missing",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/dff267ab-7d92-4406-85a7-cecdbccb1aaf"
+    }
+  ],
+  "in_theaters": false
+}

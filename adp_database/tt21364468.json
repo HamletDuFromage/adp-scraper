@@ -1,0 +1,15 @@
+{
+  "Title": "Champion",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81478663"
+    }
+  ],
+  "in_theaters": false
+}

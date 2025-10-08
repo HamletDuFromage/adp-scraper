@@ -1,0 +1,14 @@
+{
+  "Title": "Beerfest",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ea9f795-4b16-4c24-89f7-d18b71d90656/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Miracle",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/miracle/38uh6GJall9b"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id205692552"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Bring Me a Dream",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ebb2bfe-7abb-8827-1dd5-e76c9108182d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

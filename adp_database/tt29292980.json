@@ -1,0 +1,15 @@
+{
+  "Title": "What's Wrong with That House?",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/e3477c79-f931-4276-81b8-71f01be08b5e"
+    }
+  ],
+  "in_theaters": false
+}

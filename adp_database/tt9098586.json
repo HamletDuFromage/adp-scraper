@@ -1,0 +1,15 @@
+{
+  "Title": "A 3 Minute Hug",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80244679"
+    }
+  ],
+  "in_theaters": false
+}

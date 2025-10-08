@@ -1,0 +1,14 @@
+{
+  "Title": "For Sale",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c952c839-6543-4cde-a88d-6eb0acaf9778/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Thunder Force",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81079259"
+    }
+  ],
+  "in_theaters": false
+}

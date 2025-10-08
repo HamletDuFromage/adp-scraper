@@ -1,0 +1,22 @@
+{
+  "Title": "Christopher Robin",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/christopher-robin/63WMEQHhUylM"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1417711887"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07GVXBP3G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

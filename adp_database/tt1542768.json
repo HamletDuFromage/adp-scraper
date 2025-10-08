@@ -1,0 +1,16 @@
+{
+  "Title": "True Memoirs of an International Assassin",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80091658"
+    }
+  ],
+  "in_theaters": false
+}

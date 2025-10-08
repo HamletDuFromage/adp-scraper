@@ -1,0 +1,21 @@
+{
+  "Title": "Lilo & Stitch 2: Stitch Has a Glitch",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lilo-stitch-2-stitch-has-a-glitch/4uYIVZK7f9Sp"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id441627118"
+    }
+  ],
+  "in_theaters": false
+}

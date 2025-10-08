@@ -1,0 +1,18 @@
+{
+  "Title": "Kung Fu Panda: Paws of Destiny",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8b37845-295b-2adf-d34b-8de60e835f77/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

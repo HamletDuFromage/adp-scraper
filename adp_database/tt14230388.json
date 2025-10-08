@@ -1,0 +1,25 @@
+{
+  "Title": "Asteroid City",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.83e6c332-4ea6-4208-a2d1-cc097170ab90/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1694682393"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C7SQW9WV/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2459325"
+    }
+  ],
+  "in_theaters": false
+}

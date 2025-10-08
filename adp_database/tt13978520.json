@@ -1,0 +1,16 @@
+{
+  "Title": "Spy Kids: Armageddon",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81588091"
+    }
+  ],
+  "in_theaters": false
+}

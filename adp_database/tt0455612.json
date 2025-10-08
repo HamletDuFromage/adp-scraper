@@ -1,0 +1,16 @@
+{
+  "Title": "Tyler Perry's Madea's Family Reunion",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0a9f7b6-b17f-f7f3-4939-dd93f1a0236f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

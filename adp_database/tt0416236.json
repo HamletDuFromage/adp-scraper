@@ -1,0 +1,19 @@
+{
+  "Title": "The Spiderwick Chronicles",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id277902299"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22a9f667-da80-07b4-2216-460602a755fa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Rocky and Bullwinkle",
+  "Media Type": "Series",
+  "Rating": "TV-Y7-FV",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6b1a365-5585-cfd3-ea37-056694f93227/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

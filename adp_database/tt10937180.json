@@ -1,0 +1,17 @@
+{
+  "Title": "I Know What You Did Last Summer",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60f91dca-d4ac-4532-adfc-b89162fd087c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

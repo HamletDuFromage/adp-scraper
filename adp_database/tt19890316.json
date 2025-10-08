@@ -1,0 +1,24 @@
+{
+  "Title": "What Happens Later",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.143176be-5816-49f4-9062-9a0a9367d18e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1709185818"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CJMNRYPH/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2632704"
+    }
+  ],
+  "in_theaters": false
+}

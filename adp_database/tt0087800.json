@@ -1,0 +1,14 @@
+{
+  "Title": "A Nightmare on Elm Street",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1826fd01-cb5c-48b6-b913-f2c8a69eb247/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

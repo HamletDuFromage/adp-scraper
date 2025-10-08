@@ -1,0 +1,14 @@
+{
+  "Title": "Shawn Mendes: In Wonder",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80212798"
+    }
+  ],
+  "in_theaters": false
+}

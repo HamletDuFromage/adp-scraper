@@ -1,0 +1,17 @@
+{
+  "Title": "The Last Days of American Crime",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80198975"
+    }
+  ],
+  "in_theaters": false
+}

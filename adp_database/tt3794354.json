@@ -1,0 +1,27 @@
+{
+  "Title": "Sonic the Hedgehog",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2a0ae7b7-ec1e-4a7f-8e06-20faccf1586a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1496058930"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B083XQ1MJY/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/sonic-the-hedgehog/5EKDXPOzdVf9voUqW6oRuocyAEeJGbEc/"
+    }
+  ],
+  "in_theaters": false
+}

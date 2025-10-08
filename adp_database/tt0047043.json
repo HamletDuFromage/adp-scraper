@@ -1,0 +1,17 @@
+{
+  "Title": "Grand Canyonscope",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/grand-canyonscope/13EazBISlpsi"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Brannigan",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28b2b6a9-42d5-7538-e36d-a9673016fce6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

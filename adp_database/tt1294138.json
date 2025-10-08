@@ -1,0 +1,16 @@
+{
+  "Title": "Barbie & The Diamond Castle",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ea9f72d-49e7-d6ce-e2fb-1b8cc1ba0bea/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

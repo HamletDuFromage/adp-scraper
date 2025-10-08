@@ -1,0 +1,18 @@
+{
+  "Title": "Devil May Cry",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81506915"
+    }
+  ],
+  "in_theaters": false
+}

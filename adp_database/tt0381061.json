@@ -1,0 +1,15 @@
+{
+  "Title": "Casino Royale",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67d67132-66a8-46fb-9b4d-3ebe25602945/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

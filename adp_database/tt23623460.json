@@ -1,0 +1,15 @@
+{
+  "Title": "A Donkey Hodie Halloween",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90efb15e-6163-4469-8e4e-ade80691313c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

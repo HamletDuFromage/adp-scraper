@@ -1,0 +1,23 @@
+{
+  "Title": "The Exorcist: Believer",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5610c78c-f5db-4421-99b8-0d5fcc1c68de/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1708502366"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CKR7L16M/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2655208"
+    }
+  ],
+  "in_theaters": false
+}

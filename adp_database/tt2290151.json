@@ -1,0 +1,15 @@
+{
+  "Title": "Big Star: Nothing Can Hurt Me",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ca9f708-90ba-a282-e405-8091ab8d7781/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

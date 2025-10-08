@@ -1,0 +1,14 @@
+{
+  "Title": "Chocolate City",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74b95221-9bb3-d404-7c96-9bc3a4d008c2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

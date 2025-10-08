@@ -1,0 +1,27 @@
+{
+  "Title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54fe47fb-1569-4c88-81dd-1f24a83813a9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1715087295"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CMXYQBF8/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2700037"
+    }
+  ],
+  "in_theaters": false
+}

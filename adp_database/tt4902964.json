@@ -1,0 +1,18 @@
+{
+  "Title": "Rapunzel's Tangled Adventure",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/tangled-the-series/4etYBRkkytfd"
+    }
+  ],
+  "in_theaters": false
+}

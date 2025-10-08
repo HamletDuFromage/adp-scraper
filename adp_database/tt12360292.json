@@ -1,0 +1,16 @@
+{
+  "Title": "Power Rangers Dino Fury",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81354663"
+    }
+  ],
+  "in_theaters": false
+}

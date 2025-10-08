@@ -1,0 +1,20 @@
+{
+  "Title": "Possessions",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49cfc96b-b2c7-45ca-9f27-6961fd8802d5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ac97d488-0f54-41c8-9d72-cfd0f380dae0"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Year One: A Political Odyssey",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Politics"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2b9f8ecc-5aee-412f-b918-561b6900c7ec/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/4cbee374-d197-4855-83f1-c28ad4d227c9"
+    }
+  ],
+  "in_theaters": false
+}

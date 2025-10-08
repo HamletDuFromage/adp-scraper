@@ -1,0 +1,18 @@
+{
+  "Title": "How We Get Free",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5c1c33c9-e528-433a-a4d4-d1fee3c3bbb9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/cd404d60-515f-405a-b143-7be356c16ac8"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Baltimore Bridge Collapse",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "News"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9277decf-a6c8-4686-b2bc-9002143f321f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

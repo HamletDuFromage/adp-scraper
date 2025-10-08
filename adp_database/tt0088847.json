@@ -1,0 +1,15 @@
+{
+  "Title": "The Breakfast Club",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id280360440"
+    }
+  ],
+  "in_theaters": false
+}

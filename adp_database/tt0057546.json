@@ -1,0 +1,18 @@
+{
+  "Title": "The Sword in the Stone",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-sword-in-the-stone/1roEKWSIkRLe"
+    }
+  ],
+  "in_theaters": false
+}

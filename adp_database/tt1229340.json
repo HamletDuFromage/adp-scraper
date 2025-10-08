@@ -1,0 +1,20 @@
+{
+  "Title": "Anchorman 2: The Legend Continues",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90604a69-807f-4951-92b5-a9e4a72c4f2e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0083XXVFW/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/N0vkSpk_fVWvfS827cQoBPxjbsreBwc1/"
+    }
+  ],
+  "in_theaters": false
+}

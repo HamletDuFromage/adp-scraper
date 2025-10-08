@@ -1,0 +1,19 @@
+{
+  "Title": "The Score",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32b5a927-8f1b-97c7-7e73-c19a1594b871/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id209123054"
+    }
+  ],
+  "in_theaters": false
+}

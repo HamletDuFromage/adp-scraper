@@ -1,0 +1,15 @@
+{
+  "Title": "Jailbirds New Orleans",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81250179"
+    }
+  ],
+  "in_theaters": false
+}

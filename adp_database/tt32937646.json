@@ -1,0 +1,19 @@
+{
+  "Title": "Chimp Crazy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b468f32c-237c-43c2-b941-87d8a64b88c0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/026bb0da-933f-4111-9a30-234d5b0f392d"
+    }
+  ],
+  "in_theaters": false
+}

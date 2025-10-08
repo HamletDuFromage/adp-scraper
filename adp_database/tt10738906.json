@@ -1,0 +1,17 @@
+{
+  "Title": "The Feast",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-feast-1bff72bb-6dd2-4fc7-b3f1-82f4ef55794a"
+    }
+  ],
+  "in_theaters": false
+}

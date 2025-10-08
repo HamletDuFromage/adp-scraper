@@ -1,0 +1,26 @@
+{
+  "Title": "Monsters, Inc.",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.faa9f6fa-9f66-ecf6-9c79-c24e323ecc52/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/monsters-inc/5vQuMGjgTZz5"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id265727985"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00AFEX83C/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

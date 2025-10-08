@@ -1,0 +1,25 @@
+{
+  "Title": "Cars 2",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ea9f72b-91fc-24b0-0594-f1bc6bc11e9f/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/cars-2/1Evb1neuySt0"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id450754772"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B001HN6922/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

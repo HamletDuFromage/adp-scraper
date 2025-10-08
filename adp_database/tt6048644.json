@@ -1,0 +1,14 @@
+{
+  "Title": "White Rabbit Project",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80091245"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Suffragette",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6a9f707-a29a-2094-52a1-d4ae1fe06d03/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

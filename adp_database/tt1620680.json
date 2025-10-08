@@ -1,0 +1,26 @@
+{
+  "Title": "A Wrinkle in Time",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94b0ea91-9639-4eb3-dddf-ac3fcb94566d/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/a-wrinkle-in-time/2ymVp5XEoSos"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1353642886"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B079JCM1S6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

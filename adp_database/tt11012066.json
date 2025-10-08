@@ -1,0 +1,17 @@
+{
+  "Title": "Home Sweet Home Alone",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/home-sweet-home-alone/316tLmyNEXs5"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Walk of Shame",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50a9f7a1-82b5-9a4f-f776-bca427aeb9e8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

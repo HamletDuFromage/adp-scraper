@@ -1,0 +1,22 @@
+{
+  "Title": "Snag",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e934eec7-3258-4bb2-bade-0684f5d72e87/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1673959717"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2298463"
+    }
+  ],
+  "in_theaters": false
+}

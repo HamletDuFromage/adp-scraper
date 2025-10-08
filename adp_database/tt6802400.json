@@ -1,0 +1,18 @@
+{
+  "Title": "Coming 2 America",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4bb395a-0da2-1792-e50f-8308c7455776/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09PW4TZ8K/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

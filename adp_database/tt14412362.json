@@ -1,0 +1,15 @@
+{
+  "Title": "Chloe",
+  "Media Type": "Series",
+  "Rating": "16+",
+  "Genre": [
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06018a0d-4cdc-4310-ab9c-e33f22d5f8a7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

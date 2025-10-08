@@ -1,0 +1,23 @@
+{
+  "Title": "The Little Mermaid",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7eb809a5-66a8-5e0e-3eb5-f1e51958bd04/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-little-mermaid/5MpPFhS8FTXh"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1448176213"
+    }
+  ],
+  "in_theaters": false
+}

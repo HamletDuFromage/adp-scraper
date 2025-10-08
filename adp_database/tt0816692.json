@@ -1,0 +1,22 @@
+{
+  "Title": "Interstellar",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4a9f7c6-5def-7e63-9aa7-df38a479333e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id960891136"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00SI7GDBM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

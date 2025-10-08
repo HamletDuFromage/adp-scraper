@@ -1,0 +1,19 @@
+{
+  "Title": "One Tree Hill",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/7ba20260-6073-4aa2-a7d0-d558fae52ef7"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42a9f694-5e9f-664d-cf87-85b2f2fbab26/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

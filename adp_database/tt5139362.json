@@ -1,0 +1,19 @@
+{
+  "Title": "Shadow of the Wolf",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1802047749"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3931841"
+    }
+  ],
+  "in_theaters": false
+}

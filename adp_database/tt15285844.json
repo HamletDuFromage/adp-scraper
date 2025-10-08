@@ -1,0 +1,19 @@
+{
+  "Title": "Irreverent",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0b2f1d6-aa5b-45ce-b31b-598f1877e64c/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/irreverent/5250104757456537112"
+    }
+  ],
+  "in_theaters": false
+}

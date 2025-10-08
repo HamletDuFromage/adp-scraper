@@ -1,0 +1,16 @@
+{
+  "Title": "The Strongest Man in the World",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-strongest-man-in-the-world/YIL15mge65Bw"
+    }
+  ],
+  "in_theaters": false
+}

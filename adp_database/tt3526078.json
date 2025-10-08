@@ -1,0 +1,14 @@
+{
+  "Title": "Schitt's Creek",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24a9f738-40dd-7cf0-83f2-6c5ce8d20e2b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "28 Years Later",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4351151"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0FCXLQDJ9/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81957161"
+    }
+  ],
+  "in_theaters": false
+}

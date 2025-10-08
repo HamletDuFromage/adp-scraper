@@ -1,0 +1,19 @@
+{
+  "Title": "Crazy, Stupid, Love",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ea9f775-af88-5a4e-3c54-396f711e1640/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id457658502"
+    }
+  ],
+  "in_theaters": false
+}

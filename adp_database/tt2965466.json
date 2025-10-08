@@ -1,0 +1,15 @@
+{
+  "Title": "Last Shift",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e5a074b2-41d3-439a-a346-6b1005b22b19/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

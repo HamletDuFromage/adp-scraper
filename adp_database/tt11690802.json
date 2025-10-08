@@ -1,0 +1,18 @@
+{
+  "Title": "Doug Unplugs",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.89ce4f06-9326-4b53-b5c2-07ae30cc890a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.3oxevpgaoqomu820s0e70ri75"
+    }
+  ],
+  "in_theaters": false
+}

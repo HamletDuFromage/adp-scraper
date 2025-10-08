@@ -1,0 +1,18 @@
+{
+  "Title": "22 July",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80210932"
+    }
+  ],
+  "in_theaters": false
+}

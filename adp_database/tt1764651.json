@@ -1,0 +1,18 @@
+{
+  "Title": "The Expendables 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.00a9f751-c700-fbf5-8ccb-d55bad240a3f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id558163259"
+    }
+  ],
+  "in_theaters": false
+}

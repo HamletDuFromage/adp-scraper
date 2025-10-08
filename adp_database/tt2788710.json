@@ -1,0 +1,21 @@
+{
+  "Title": "The Interview",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cea9f719-5eba-3694-c157-7bccd0da889b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id948499637"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00S2SYVE8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

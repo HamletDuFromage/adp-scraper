@@ -1,0 +1,22 @@
+{
+  "Title": "Star Trek VIII: First Contact",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6bfd2f8-b34a-4fb1-8eb6-3c4451cd01f4/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/13128"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/iTGmLzm3gQN57pAqWamGAFpjatqCYgs_/"
+    }
+  ],
+  "in_theaters": false
+}

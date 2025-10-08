@@ -1,0 +1,30 @@
+{
+  "Title": "Paws of Fury: The Legend of Hank",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74d56d6a-f22e-4141-bd25-5464de883e76/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1632460386"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B4L6VTW5/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/qpSumriITq91fsJST3OgASSRMGnioBJ4/"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81670016"
+    }
+  ],
+  "in_theaters": false
+}

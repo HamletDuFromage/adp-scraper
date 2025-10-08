@@ -1,0 +1,18 @@
+{
+  "Title": "27 Dresses",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ca9f677-6296-75cb-5589-d7990a58dca0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id278578495"
+    }
+  ],
+  "in_theaters": false
+}

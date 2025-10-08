@@ -1,0 +1,23 @@
+{
+  "Title": "Superintelligence",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f12f3a2a-9a25-402f-b637-7434db1e418e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1539157523"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2014737"
+    }
+  ],
+  "in_theaters": false
+}

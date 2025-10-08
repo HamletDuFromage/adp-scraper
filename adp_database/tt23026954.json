@@ -1,0 +1,20 @@
+{
+  "Title": "Monster High 2",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e9b3874b-24bd-427b-bd95-4c14556e53a9/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/wjKeVheM_I6a3dALCSPUg1p_pKEpSgI8/"
+    }
+  ],
+  "in_theaters": false
+}

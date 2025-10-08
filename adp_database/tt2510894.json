@@ -1,0 +1,24 @@
+{
+  "Title": "Hotel Transylvania 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ca9f6ba-e42c-d0c9-2aa1-e2c327460e0f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1037551705"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B014TC618Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

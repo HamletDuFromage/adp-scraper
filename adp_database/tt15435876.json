@@ -1,0 +1,19 @@
+{
+  "Title": "The Penguin",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/5756c2bf-36f8-4890-b1f9-ef168f1d8e9c"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.194bd41b-b81b-4522-9c00-1fd294057477/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Blacklight",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2dbc3d9-a579-4fb8-8f46-f43a8c6b794b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1610717981"
+    }
+  ],
+  "in_theaters": false
+}

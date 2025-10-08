@@ -1,0 +1,16 @@
+{
+  "Title": "North Shore",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12aa9bc4-9f2d-807b-22e3-a8f0b1fbf30c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Mulan",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ab68df9-30be-6672-6d78-501f66eca9d1/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mulan/85wmj4hahA0B"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id189134614"
+    }
+  ],
+  "in_theaters": false
+}

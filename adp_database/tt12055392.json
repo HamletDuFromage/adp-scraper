@@ -1,0 +1,14 @@
+{
+  "Title": "Yours Sincerely, Kanan Gill",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81111733"
+    }
+  ],
+  "in_theaters": false
+}

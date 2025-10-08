@@ -1,0 +1,17 @@
+{
+  "Title": "Angel Falls Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.31e70ebe-ac8c-4c11-b1c8-d623b92ba00e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

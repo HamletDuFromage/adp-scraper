@@ -1,0 +1,21 @@
+{
+  "Title": "Pacific Rim",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ea9f661-0c02-27c1-938d-35a0b993dbf9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id694686367"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70267241"
+    }
+  ],
+  "in_theaters": false
+}

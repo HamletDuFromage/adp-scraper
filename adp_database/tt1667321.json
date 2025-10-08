@@ -1,0 +1,19 @@
+{
+  "Title": "On Chesil Beach",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1381443152"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07D31PGPN/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

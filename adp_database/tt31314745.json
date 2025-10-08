@@ -1,0 +1,14 @@
+{
+  "Title": "Trust",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1825416851"
+    }
+  ],
+  "in_theaters": false
+}

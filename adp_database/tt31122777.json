@@ -1,0 +1,16 @@
+{
+  "Title": "Say Nothing",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/ada252dd-714c-4c2c-b15c-f1ed93cdf5b0"
+    }
+  ],
+  "in_theaters": false
+}

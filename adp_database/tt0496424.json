@@ -1,0 +1,20 @@
+{
+  "Title": "30 Rock",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fea9f7a3-fd40-4f6c-6521-8633f130995e/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.519fa622-0025-4146-b139-3bcf83a6be07/audiodescriin-20"
+    },
+    {
+      "Prime Video3": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98b02ba6-3ba6-cfca-5c8e-1e19d0135d0a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

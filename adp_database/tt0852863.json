@@ -1,0 +1,18 @@
+{
+  "Title": "Phineas and Ferb",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/phineas-and-ferb/1Vl0AKTYhC6U"
+    }
+  ],
+  "in_theaters": false
+}

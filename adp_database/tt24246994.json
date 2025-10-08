@@ -1,0 +1,19 @@
+{
+  "Title": "Death in the Dorms",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "News"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-87e60461-b5ec-444c-8a7a-38db868061f7"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/11f9042a-1faa-4a4e-aad3-34f4d0bb0254"
+    }
+  ],
+  "in_theaters": false
+}

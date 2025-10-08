@@ -1,0 +1,22 @@
+{
+  "Title": "Hansel & Gretel: Witch Hunters",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4b9bbe6-bdcf-ed55-21a0-3b914add2941/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIH2C/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/hansel--gretel-witch-hunters/oIA3Wm4oxmpx_9bldcL2G18nufntL0gp/"
+    }
+  ],
+  "in_theaters": false
+}

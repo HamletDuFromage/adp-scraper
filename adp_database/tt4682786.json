@@ -1,0 +1,21 @@
+{
+  "Title": "Collateral Beauty",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30ac916b-d779-243a-df0c-95ae23ac6c76/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1182591401"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI11AE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

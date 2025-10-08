@@ -1,0 +1,20 @@
+{
+  "Title": "A Love Song",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/30ffe457-b9ed-42e9-bff6-4abb54380e70"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1632631524"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2074389"
+    }
+  ],
+  "in_theaters": false
+}

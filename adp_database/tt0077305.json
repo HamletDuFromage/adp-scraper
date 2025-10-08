@@ -1,0 +1,19 @@
+{
+  "Title": "The Cat from Outer Space",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-cat-from-outer-space/7boIYrQWIVZy"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id281033934"
+    }
+  ],
+  "in_theaters": false
+}

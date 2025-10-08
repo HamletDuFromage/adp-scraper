@@ -1,0 +1,22 @@
+{
+  "Title": "The Eternal Daughter",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a9fd274-f829-41bf-9f0e-3b2c8e7fd33c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1653224826"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2151924"
+    }
+  ],
+  "in_theaters": false
+}

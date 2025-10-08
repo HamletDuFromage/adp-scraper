@@ -1,0 +1,19 @@
+{
+  "Title": "Alma's Way: Alma's Summertime Musical",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4256128"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.055d7362-b8e6-4fb6-8244-0e5481bd91da/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Lion King at the Hollywood Bowl",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-lion-king-at-the-hollywood-bowl/6Am1O5XBFlbS?v=var1"
+    }
+  ],
+  "in_theaters": false
+}

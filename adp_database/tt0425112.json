@@ -1,0 +1,16 @@
+{
+  "Title": "Hot Fuzz",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8a9f738-0388-1f9d-1405-712098b175f5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

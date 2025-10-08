@@ -1,0 +1,16 @@
+{
+  "Title": "Paranoid",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80123729"
+    }
+  ],
+  "in_theaters": false
+}

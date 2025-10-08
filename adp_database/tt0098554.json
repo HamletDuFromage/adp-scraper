@@ -1,0 +1,17 @@
+{
+  "Title": "Uncle Buck",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18a9f71c-5f1c-8b9c-6446-9558b3d0ae28/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id280235337"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Hope Springs",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id216413517"
+    }
+  ],
+  "in_theaters": false
+}

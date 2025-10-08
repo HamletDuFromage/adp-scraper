@@ -1,0 +1,16 @@
+{
+  "Title": "Hillary",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Politics"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/hillary-793891ec-5bb7-4200-ba93-e3629532d670"
+    }
+  ],
+  "in_theaters": false
+}

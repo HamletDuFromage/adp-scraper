@@ -1,0 +1,19 @@
+{
+  "Title": "Camp Nowhere",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/camp-nowhere/3e2djCSJd6H1"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id493218074"
+    }
+  ],
+  "in_theaters": false
+}

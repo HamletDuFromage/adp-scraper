@@ -1,0 +1,14 @@
+{
+  "Title": "Last Resort",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/100011715/last-resort"
+    }
+  ],
+  "in_theaters": false
+}

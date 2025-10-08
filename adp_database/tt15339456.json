@@ -1,0 +1,27 @@
+{
+  "Title": "Marcel the Shell with Shoes On",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18210bae-cdee-4d41-9c50-51cba064cdb3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1629930959"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2055303"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f15d83e8-60cd-45d5-82cd-ff9621b2f215"
+    }
+  ],
+  "in_theaters": false
+}

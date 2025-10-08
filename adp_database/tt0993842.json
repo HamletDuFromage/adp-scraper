@@ -1,0 +1,22 @@
+{
+  "Title": "Hanna",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2a9f701-6fa5-7f65-55f5-4a742f710761/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id447296531"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005CMSDLE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

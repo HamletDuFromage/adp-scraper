@@ -1,0 +1,16 @@
+{
+  "Title": "The Devil's Brigade",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44baa8be-6696-3299-9da6-490dc8592453/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Neighbors",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.17f24c58-276f-411f-8fe3-61c7dc803548/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id864732888"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00K89S596/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

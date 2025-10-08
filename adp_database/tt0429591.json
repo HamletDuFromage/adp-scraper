@@ -1,0 +1,17 @@
+{
+  "Title": "Aquamarine",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6a9f725-70e8-f1ec-8435-126e6b5c7f40/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

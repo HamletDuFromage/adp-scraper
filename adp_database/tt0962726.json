@@ -1,0 +1,21 @@
+{
+  "Title": "High School Musical 3: Senior Year",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/high-school-musical-3-senior-year/4SbZn6rnw8vc"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id295800432"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Bachelor",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-bachelor-0128e5bc-645e-49e9-99eb-7d58d96703da"
+    }
+  ],
+  "in_theaters": false
+}

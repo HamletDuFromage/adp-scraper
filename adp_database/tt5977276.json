@@ -1,0 +1,22 @@
+{
+  "Title": "The Aftermath",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8b51a04-eb93-e84d-35cc-fb57cb2cc6dd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1454300429"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07N3PVHB7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

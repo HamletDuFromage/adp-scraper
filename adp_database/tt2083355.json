@@ -1,0 +1,16 @@
+{
+  "Title": "The Best Man Holiday",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00GOZ2LPM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

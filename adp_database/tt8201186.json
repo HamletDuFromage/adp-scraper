@@ -1,0 +1,19 @@
+{
+  "Title": "The Capture",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-capture/6348494399329369112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ae30c48-2818-4c3c-95ac-6130b8bec3c4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

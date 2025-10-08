@@ -1,0 +1,21 @@
+{
+  "Title": "The Matrix Resurrections",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bd6bd6ed-93ce-41f7-a06d-3a1277b94fcb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1595166379"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B091VPZCM9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

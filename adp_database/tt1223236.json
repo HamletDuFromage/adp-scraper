@@ -1,0 +1,19 @@
+{
+  "Title": "Disneynature: African Cats",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneynature-african-cats/72frq19NDYJ3"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00559SGCU/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

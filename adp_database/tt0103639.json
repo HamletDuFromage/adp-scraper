@@ -1,0 +1,27 @@
+{
+  "Title": "Aladdin",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aa9f72f-ae6b-ed60-07eb-e97a8d87e027/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/aladdin-1992/2SngByljXESE"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1473619478"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TQYSJPV/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

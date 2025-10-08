@@ -1,0 +1,16 @@
+{
+  "Title": "Mea Culpa",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81577005"
+    }
+  ],
+  "in_theaters": false
+}

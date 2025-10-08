@@ -1,0 +1,20 @@
+{
+  "Title": "The Amazing Race",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Reality TV",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0eba9715-cbb8-e6a3-1050-5fa3184fcacf/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/amazing_race/"
+    }
+  ],
+  "in_theaters": false
+}

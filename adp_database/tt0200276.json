@@ -1,0 +1,17 @@
+{
+  "Title": "The West Wing",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4d9629da-1e93-4707-82f4-2c5781cb19bc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/31fff0eb-9628-4b27-9be0-1669c440f210"
+    }
+  ],
+  "in_theaters": false
+}

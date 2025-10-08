@@ -1,0 +1,25 @@
+{
+  "Title": "Star Wars: Episode V - The Empire Strikes Back",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.08a9f721-4b59-1944-0a92-71d807cb9156/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-the-empire-strikes-back/iqtDTZAewwYl"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id975793398"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013JAFX7W/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

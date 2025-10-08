@@ -1,0 +1,17 @@
+{
+  "Title": "Fantasia",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Music",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/fantasia/7lt6sjm8nbud"
+    }
+  ],
+  "in_theaters": false
+}

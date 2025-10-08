@@ -1,0 +1,20 @@
+{
+  "Title": "Stopmotion",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67c55aee-8e77-4fce-b51a-364a6dee6429/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1728924930"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CZ14ZMXH/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

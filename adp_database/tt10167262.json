@@ -1,0 +1,18 @@
+{
+  "Title": "Lamp Life",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lamp-life/3BluR3CzlCz5"
+    }
+  ],
+  "in_theaters": false
+}

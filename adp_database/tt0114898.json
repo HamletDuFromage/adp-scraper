@@ -1,0 +1,15 @@
+{
+  "Title": "Waterworld",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10a9f746-6194-e00a-000a-609d92c2ab83/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "McMillion$",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d7c3d5a1-63d7-4639-8918-5bf26c192342/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e4800a09-eb47-401c-8268-24ceb3d9f684"
+    }
+  ],
+  "in_theaters": false
+}

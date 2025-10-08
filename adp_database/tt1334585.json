@@ -1,0 +1,17 @@
+{
+  "Title": "Burn-E",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/burn-e/3ncVK9pNT3Pw"
+    }
+  ],
+  "in_theaters": false
+}

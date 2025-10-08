@@ -1,0 +1,18 @@
+{
+  "Title": "Emil and the Detectives",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/emil-and-the-detectives/4zvTlhgKE2Lf"
+    }
+  ],
+  "in_theaters": false
+}

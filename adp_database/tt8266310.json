@@ -1,0 +1,22 @@
+{
+  "Title": "Blinded by the Light",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56b64764-4872-d57b-4a2f-296ccaa8e4b3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1475042363"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TNVXJNT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

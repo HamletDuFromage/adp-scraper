@@ -1,0 +1,15 @@
+{
+  "Title": "WWE Legend Profiles",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81949212"
+    }
+  ],
+  "in_theaters": false
+}

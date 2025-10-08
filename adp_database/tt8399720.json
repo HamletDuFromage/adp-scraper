@@ -1,0 +1,19 @@
+{
+  "Title": "Tina",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b735758f-a1e4-4871-96c0-c4a8fdcee8d7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/e7d56190-2a1a-4f29-9ee3-a0b61bb6e777"
+    }
+  ],
+  "in_theaters": false
+}

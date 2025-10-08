@@ -1,0 +1,18 @@
+{
+  "Title": "Long Way Down",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Travel"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9376f584-e674-42f2-a56d-e22c657f7f02/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.cal17ey3zhv2lx3xkzjqjstb"
+    }
+  ],
+  "in_theaters": false
+}

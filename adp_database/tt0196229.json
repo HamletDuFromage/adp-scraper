@@ -1,0 +1,17 @@
+{
+  "Title": "Zoolander",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b7a69d5e-157c-45c8-b9b8-a5133c290953/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/bI1keDN9JhXi5J9fChWZnwXb_ZjwSX9T/"
+    }
+  ],
+  "in_theaters": false
+}

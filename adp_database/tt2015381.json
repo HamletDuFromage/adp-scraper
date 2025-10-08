@@ -1,0 +1,29 @@
+{
+  "Title": "Guardians of the Galaxy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40a9f79e-6738-9e7d-9471-352ae917604d/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cea9f7ad-a767-ef1d-c9c3-85add3cb98e5/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-guardians-of-the-galaxy/1S4WM9h3KRR6"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id899347364"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00N1JQ452/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

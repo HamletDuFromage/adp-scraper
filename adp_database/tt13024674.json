@@ -1,0 +1,17 @@
+{
+  "Title": "Army of Thieves",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81185548"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "2 Hearts",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82ba8ef7-90fc-29c6-1db8-fbfd96cd6015/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1534990431"
+    }
+  ],
+  "in_theaters": false
+}

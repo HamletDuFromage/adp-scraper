@@ -1,0 +1,21 @@
+{
+  "Title": "The Lion King 2: Simba's Pride",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-lion-king-2-simbas-pride/7EMejJ1F00Pn"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id470754306"
+    }
+  ],
+  "in_theaters": false
+}

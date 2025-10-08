@@ -1,0 +1,16 @@
+{
+  "Title": "Boss Level",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/boss-level-622e81d6-ba3b-47f3-8e78-71fe742ade9f"
+    }
+  ],
+  "in_theaters": false
+}

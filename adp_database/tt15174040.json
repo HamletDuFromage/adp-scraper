@@ -1,0 +1,19 @@
+{
+  "Title": "Music Box: Listening to Kenny G",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5d8d4135-b02f-4d36-8945-a92948960b53/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/0fe6d2ba-2900-4461-829d-604d0e95c7fa"
+    }
+  ],
+  "in_theaters": false
+}

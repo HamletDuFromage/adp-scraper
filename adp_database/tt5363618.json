@@ -1,0 +1,16 @@
+{
+  "Title": "Sound of Metal",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4ba7624-e517-097c-1ab9-82595b89aef1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

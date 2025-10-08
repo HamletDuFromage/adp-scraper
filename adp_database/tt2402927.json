@@ -1,0 +1,19 @@
+{
+  "Title": "Carol",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e92dd051-fe1e-4272-b6e3-30a806a21e46/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a6225570-5d7f-4283-9f35-bc736fb5ea98"
+    }
+  ],
+  "in_theaters": false
+}

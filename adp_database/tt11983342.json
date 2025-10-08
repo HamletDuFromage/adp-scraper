@@ -1,0 +1,16 @@
+{
+  "Title": "Shaun the Sheep: Adventures from Mossy Bottom",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81193152"
+    }
+  ],
+  "in_theaters": false
+}

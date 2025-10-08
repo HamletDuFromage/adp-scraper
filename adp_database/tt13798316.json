@@ -1,0 +1,17 @@
+{
+  "Title": "Night Court",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5a6c6521-6f9c-427a-a3c3-b6505a6ffdb7/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/night-court/9068369691648139112"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "The Conjuring 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.066ff0dc-a9d8-4b5a-b1a7-06fd856429b9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a3f04367-b5bc-45c7-9923-b05f1a2b80ff"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1123714931"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01H4FJL4Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

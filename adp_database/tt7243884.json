@@ -1,0 +1,19 @@
+{
+  "Title": "Catherine the Great",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb6f0f1-8f86-9301-6934-6b9a18575d63/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/d9470ae1-2d9d-4a93-a01b-fe807d2a09a4"
+    }
+  ],
+  "in_theaters": false
+}

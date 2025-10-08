@@ -1,0 +1,19 @@
+{
+  "Title": "Dune: Prophecy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/57660b16-a32a-476f-89da-3302ac379e91"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4809ae88-1d8e-4c7d-b43c-635b27bc6cdd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

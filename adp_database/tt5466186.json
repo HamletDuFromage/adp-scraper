@@ -1,0 +1,23 @@
+{
+  "Title": "7 Days in Entebbe",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ab10e34-d913-4c8c-5f38-ed94122a0173/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1354496912"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07B5VXYD1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

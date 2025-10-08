@@ -1,0 +1,14 @@
+{
+  "Title": "Time Cut",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81504326"
+    }
+  ],
+  "in_theaters": false
+}

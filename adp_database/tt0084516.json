@@ -1,0 +1,15 @@
+{
+  "Title": "Poltergeist",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f67a-c3a1-6616-7369-1310f0e45b6f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

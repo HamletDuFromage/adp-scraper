@@ -1,0 +1,21 @@
+{
+  "Title": "Monster Trucks",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14acc2f1-901c-21b6-36c5-e509b23d7608/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI20AE/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/djD1cF9JC96xAN7wukrEgJB05ZpoVrzh/"
+    }
+  ],
+  "in_theaters": false
+}

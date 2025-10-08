@@ -1,0 +1,17 @@
+{
+  "Title": "Wild Bill",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22ab2bda-2bda-1864-1f4c-018efe33dd41/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

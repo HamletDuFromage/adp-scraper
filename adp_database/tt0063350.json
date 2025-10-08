@@ -1,0 +1,15 @@
+{
+  "Title": "Night of the Living Dead",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "YouTube": "https://www.youtube.com/watch?v=7huY40uBajc"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Warcraft",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0aa9486-0212-cf2d-4f2c-60a4b8708112/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/17d955c4-7868-48e3-9677-990db5d07fea"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1112365515"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01GUVOYMM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

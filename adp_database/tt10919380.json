@@ -1,0 +1,24 @@
+{
+  "Title": "Freaky",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror",
+    "LGBTQ",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ebaf425-1ab9-14c4-cf07-5aa3172136ed/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1541428626"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08MSGQNNC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "The Boogeyman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1699351428"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CDCF7LJB/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2443782"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b646e521-e3d3-4e53-b8c6-b1d9c6088627/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

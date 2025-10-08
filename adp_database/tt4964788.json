@@ -1,0 +1,16 @@
+{
+  "Title": "Everybody Knows",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07NBCSTD9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

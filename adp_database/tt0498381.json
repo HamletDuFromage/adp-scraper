@@ -1,0 +1,30 @@
+{
+  "Title": "Rings",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Romance",
+    "Thriller",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22ace7b5-3891-9f59-20f4-8d3a0c8f039a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1192837193"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01MUGO0IL/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/842741"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/rings-2017"
+    }
+  ],
+  "in_theaters": false
+}

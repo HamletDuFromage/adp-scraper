@@ -1,0 +1,23 @@
+{
+  "Title": "Stan & Ollie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6b426a7-39bd-e2db-b4aa-bf6064c6979e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1448178658"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317632553/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Jaws 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06a9f7ad-29cf-5f41-e493-01a431ff220d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id550228564"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60020332"
+    }
+  ],
+  "in_theaters": false
+}

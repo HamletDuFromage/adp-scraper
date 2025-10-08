@@ -1,0 +1,15 @@
+{
+  "Title": "ariana grande: excuse me, i love you",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81238721"
+    }
+  ],
+  "in_theaters": false
+}

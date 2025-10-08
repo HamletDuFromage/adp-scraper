@@ -1,0 +1,17 @@
+{
+  "Title": "Heatwave",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d95d57aa-6c0c-497d-8bc4-536777675092/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1594951695"
+    }
+  ],
+  "in_theaters": false
+}

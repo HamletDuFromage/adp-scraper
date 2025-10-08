@@ -1,0 +1,15 @@
+{
+  "Title": "Howard High",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/625039/howard-high"
+    }
+  ],
+  "in_theaters": false
+}

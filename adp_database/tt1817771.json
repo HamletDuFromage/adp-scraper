@@ -1,0 +1,16 @@
+{
+  "Title": "Freaks of Nature",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6a9f780-b257-2ace-8ab6-435f6bff9857/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

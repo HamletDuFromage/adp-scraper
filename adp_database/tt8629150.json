@@ -1,0 +1,14 @@
+{
+  "Title": "The Weekly",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "News"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-weekly-97cc2649-4298-4122-bf80-cabdf1332d65"
+    }
+  ],
+  "in_theaters": false
+}

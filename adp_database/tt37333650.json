@@ -1,0 +1,17 @@
+{
+  "Title": "All the Sharks",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81711583"
+    }
+  ],
+  "in_theaters": false
+}

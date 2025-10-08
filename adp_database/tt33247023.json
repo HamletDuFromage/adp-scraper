@@ -1,0 +1,14 @@
+{
+  "Title": "Splitsville",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1827564906"
+    }
+  ],
+  "in_theaters": false
+}

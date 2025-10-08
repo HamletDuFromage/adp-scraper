@@ -1,0 +1,21 @@
+{
+  "Title": "The Invitation",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4635b753-00f8-4f06-be1c-75bd52a9fb08/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BBSWFKZS/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/dc28ce54-a7a2-48ac-ba11-46ed6b50cd44"
+    }
+  ],
+  "in_theaters": false
+}

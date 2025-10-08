@@ -1,0 +1,15 @@
+{
+  "Title": "Design Goals",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/4d2dc7ec-59d6-42b3-bb1e-d28fb8d2f4af"
+    }
+  ],
+  "in_theaters": false
+}

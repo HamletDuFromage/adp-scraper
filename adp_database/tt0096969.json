@@ -1,0 +1,17 @@
+{
+  "Title": "Born on the Fourth of July",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ca9f719-b1d6-46b6-8f55-62fee592f040/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

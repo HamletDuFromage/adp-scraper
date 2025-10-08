@@ -1,0 +1,18 @@
+{
+  "Title": "#Cybersleuths: The Idaho Murders",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.29e07b70-80fa-463a-84c1-a3e2ab5028be/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/cybersleuths-the-idaho-murders/"
+    }
+  ],
+  "in_theaters": false
+}

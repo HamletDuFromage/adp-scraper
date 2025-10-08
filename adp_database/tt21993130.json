@@ -1,0 +1,17 @@
+{
+  "Title": "The Vince Staples Show",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81264943"
+    }
+  ],
+  "in_theaters": false
+}

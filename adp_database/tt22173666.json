@@ -1,0 +1,18 @@
+{
+  "Title": "Azrael",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44d61f47-90d0-4dda-8911-94549de2977f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1770625435"
+    }
+  ],
+  "in_theaters": false
+}

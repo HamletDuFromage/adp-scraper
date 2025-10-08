@@ -1,0 +1,19 @@
+{
+  "Title": "Criminal Minds",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/criminal_minds/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6f843e17-6b9f-43eb-84b4-48e7d5e57f6f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

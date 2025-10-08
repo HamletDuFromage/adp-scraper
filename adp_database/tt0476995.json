@@ -1,0 +1,17 @@
+{
+  "Title": "Firehouse Dog",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34b02474-2e25-8a07-abdf-997202871ef2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

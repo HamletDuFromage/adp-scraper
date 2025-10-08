@@ -1,0 +1,22 @@
+{
+  "Title": "The Firm",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8a9f65c-eaa4-aa46-c66a-48f3060e8f41/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id298721868"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/the-firm/OoA3q_y82ktCQ2HQqqtkjxof1LuUVxtX/"
+    }
+  ],
+  "in_theaters": false
+}

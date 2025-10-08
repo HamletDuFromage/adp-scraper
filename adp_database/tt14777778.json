@@ -1,0 +1,24 @@
+{
+  "Title": "When Christmas Was Young",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.011859a9-0db5-4676-8b7e-62d192dd0136/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2239622"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/video/uNL_RevYLR8HWZFvaN8PUIxPiBzGT0tp/"
+    }
+  ],
+  "in_theaters": false
+}

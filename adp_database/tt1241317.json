@@ -1,0 +1,17 @@
+{
+  "Title": "Death Note",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80122759"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Final Portrait",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10b16d20-79d2-6f37-81db-04186367ae63/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07CLRYJPL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

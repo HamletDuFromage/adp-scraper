@@ -1,0 +1,17 @@
+{
+  "Title": "Letters to Juliet",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2a9f68c-80d5-80a2-fef0-3ad13a3297c8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

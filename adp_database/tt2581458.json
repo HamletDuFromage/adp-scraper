@@ -1,0 +1,20 @@
+{
+  "Title": "Looking",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.89cde71a-30cb-42ac-991f-8f88d84d6aae/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/d9eb25df-e3ba-4e32-b407-8e418ff9d0fe"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Law & Order: Organized Crime",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/law-and-order-organized-crime/7595280996005474112"
+    },
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.928be032-8e8a-41dd-adb6-b60ebaa092ba/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.85562c8a-3927-4700-a707-244752085320/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

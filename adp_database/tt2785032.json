@@ -1,0 +1,16 @@
+{
+  "Title": "The Little Death",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cea9f7c2-338b-2aac-7efb-f20c94a449d0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

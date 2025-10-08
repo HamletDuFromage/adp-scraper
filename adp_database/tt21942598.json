@@ -1,0 +1,29 @@
+{
+  "Title": "Freaky Tales",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1803701578"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4060671"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6b75ea68-1fa3-4438-84cb-8d1c651f70a5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/014ad7fa-2162-4cb8-87d3-ad852f1e2d41"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F7NNGR4P/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

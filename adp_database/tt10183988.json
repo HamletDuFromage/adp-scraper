@@ -1,0 +1,17 @@
+{
+  "Title": "Julie and the Phantoms",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80230534"
+    }
+  ],
+  "in_theaters": false
+}

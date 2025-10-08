@@ -1,0 +1,22 @@
+{
+  "Title": "Vivo",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81199052"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1634719423"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B57CP9T6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

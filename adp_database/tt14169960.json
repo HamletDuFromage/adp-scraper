@@ -1,0 +1,17 @@
+{
+  "Title": "All of Us Are Dead",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81237994"
+    }
+  ],
+  "in_theaters": false
+}

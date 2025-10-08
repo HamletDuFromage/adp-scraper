@@ -1,0 +1,21 @@
+{
+  "Title": "Instant Family",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1d1dd251-f356-4150-b520-3db95895ce39/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1440858253"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317591377/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

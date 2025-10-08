@@ -1,0 +1,15 @@
+{
+  "Title": "The Golden Bachelor",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/aceb8a13-aab6-48d9-abc1-7e35f05c3125"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Alpha and Omega: Dino Digs",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2af8c72a-4d91-4040-936d-23b4e6a0928f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

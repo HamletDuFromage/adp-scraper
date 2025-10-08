@@ -1,0 +1,26 @@
+{
+  "Title": "Anchorman: The Legend of Ron Burgundy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.13336084-18ee-484b-95b4-fbcffa1418a1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id297465313"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D1RG8PTZ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/358811"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/4lqIl8Ei3ld8UxvgPAjILgSxH9Z2UQq4/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Murder, She Baked: A Chocolate Chip Cookie Mystery",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b1e4aac-93ac-4253-96e0-5b7f25ef295a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

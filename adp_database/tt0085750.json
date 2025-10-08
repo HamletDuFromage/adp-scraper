@@ -1,0 +1,23 @@
+{
+  "Title": "Jaws 3",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ea9f711-c854-60e1-362f-0df6033c2b28/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id547816589"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60028468"
+    }
+  ],
+  "in_theaters": false
+}

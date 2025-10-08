@@ -1,0 +1,20 @@
+{
+  "Title": "Lovecraft Country",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d1ff136a-26f5-46d3-a760-ab07a1511e70/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/2528e938-b887-4be3-97d8-f5b698871e8c"
+    }
+  ],
+  "in_theaters": false
+}

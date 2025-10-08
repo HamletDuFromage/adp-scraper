@@ -1,0 +1,27 @@
+{
+  "Title": "Babygirl",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.088b39dc-96d4-4075-88aa-11798443e207/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1784818507"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3820897"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/67a489aa-b720-4616-9d00-63a5cbd6b3a1"
+    }
+  ],
+  "in_theaters": false
+}

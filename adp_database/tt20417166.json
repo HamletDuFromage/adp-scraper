@@ -1,0 +1,17 @@
+{
+  "Title": "A Tree of Life: The Pittsburgh Synagogue Shooting",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c089bf1f-524c-4c37-8eb6-6797f578b2a5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d3bd4f85-a914-4d5f-a499-ae5e5e688f87"
+    }
+  ],
+  "in_theaters": false
+}

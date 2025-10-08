@@ -1,0 +1,18 @@
+{
+  "Title": "Strange Planet",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8ddbff6-846e-4333-af24-df16010aab37/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.zbh4nvi65qy3os9ifxm0fpe4"
+    }
+  ],
+  "in_theaters": false
+}

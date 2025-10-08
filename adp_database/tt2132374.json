@@ -1,0 +1,15 @@
+{
+  "Title": "Life's a Breeze",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4aa9f7bd-9ce8-7afc-4e72-851c4cae2925/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

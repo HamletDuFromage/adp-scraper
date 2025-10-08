@@ -1,0 +1,18 @@
+{
+  "Title": "Candy Cruz",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2a045262-9e9b-48bb-8a17-ce807dfa97f7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3a226767-0f27-48cc-bd32-1b26204c4956"
+    }
+  ],
+  "in_theaters": false
+}

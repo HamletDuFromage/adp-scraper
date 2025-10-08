@@ -1,0 +1,19 @@
+{
+  "Title": "The Interpreter",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86a9f763-ab09-05c9-7c83-2c5c10cb2f3e/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70019510"
+    }
+  ],
+  "in_theaters": false
+}

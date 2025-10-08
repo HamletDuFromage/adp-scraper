@@ -1,0 +1,15 @@
+{
+  "Title": "Encanto at the Hollywood Bowl",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/encanto-at-the-hollywood-bowl/7CUSfUjGHZW3"
+    }
+  ],
+  "in_theaters": false
+}

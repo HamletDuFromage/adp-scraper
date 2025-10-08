@@ -1,0 +1,17 @@
+{
+  "Title": "Capernaum",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aba6dce-54c9-2fee-add0-a1e2ec96bcf9/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07PHSFW46/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

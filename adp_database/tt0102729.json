@@ -1,0 +1,17 @@
+{
+  "Title": "Pure Luck",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fca9f795-912b-fc36-6fee-51822031e19c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

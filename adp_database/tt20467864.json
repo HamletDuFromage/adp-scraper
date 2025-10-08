@@ -1,0 +1,20 @@
+{
+  "Title": "On the Job",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6dfd685-d1e3-46cc-bfb8-41b9ff10cd8e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/4dcba92f-fb00-4def-8d5e-ba5e8f664a2d"
+    }
+  ],
+  "in_theaters": false
+}

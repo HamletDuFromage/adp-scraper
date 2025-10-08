@@ -1,0 +1,19 @@
+{
+  "Title": "YOLO",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70dcd020-b808-402c-b6bb-dc5b003b5e86/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/84bee0ab-de7b-4f56-93b1-32400f21e6c0"
+    }
+  ],
+  "in_theaters": false
+}

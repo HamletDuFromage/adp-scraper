@@ -1,0 +1,15 @@
+{
+  "Title": "Open Marriage",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4eb0be8d-ca01-2d7c-641c-bfbc7de02c8a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

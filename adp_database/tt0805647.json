@@ -1,0 +1,21 @@
+{
+  "Title": "Roald Dahl's The Witches",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.154b596c-c58b-4285-b205-365d8eca4f87/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1536067197"
+    }
+  ],
+  "in_theaters": false
+}

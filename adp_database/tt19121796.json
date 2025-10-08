@@ -1,0 +1,23 @@
+{
+  "Title": "Look Into My Eyes",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c1515ff7-0953-41ec-8814-526006903ae1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/b480e653-3c40-4266-8996-9e2630f01751"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1766810903"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3574417"
+    }
+  ],
+  "in_theaters": false
+}

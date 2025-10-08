@@ -1,0 +1,16 @@
+{
+  "Title": "Bobby Jones: Stroke of Genius",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00062IVOY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

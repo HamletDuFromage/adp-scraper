@@ -1,0 +1,17 @@
+{
+  "Title": "The Challenge: USA",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.51183f16-da6b-489b-bd24-73f9d89dabf8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

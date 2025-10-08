@@ -1,0 +1,20 @@
+{
+  "Title": "White Christmas",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id268648083"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/16877"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The InBESTigators",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80243216"
+    }
+  ],
+  "in_theaters": false
+}

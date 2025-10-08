@@ -1,0 +1,16 @@
+{
+  "Title": "All of My Heart",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c91c4404-3180-4d67-acfb-a10bf0fab6d4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

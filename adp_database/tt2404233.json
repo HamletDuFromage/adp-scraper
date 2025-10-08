@@ -1,0 +1,25 @@
+{
+  "Title": "Gods of Egypt",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.586a85f9-e5bf-4cea-b8c1-0ca9ef9a9aca/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1082840783"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01DUHOVAO/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80084088"
+    }
+  ],
+  "in_theaters": false
+}

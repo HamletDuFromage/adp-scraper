@@ -1,0 +1,22 @@
+{
+  "Title": "Maggie's Plan",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0aaac94-134b-d0d1-9cd8-0d63a87cb1ff/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1115953112"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01H0FAGOC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

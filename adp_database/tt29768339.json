@@ -1,0 +1,20 @@
+{
+  "Title": "Reunion",
+  "Media Type": "Series",
+  "Rating": "18+",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.200c188e-8126-4198-a1f6-ff56ec7151f8/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/reunion/"
+    }
+  ],
+  "in_theaters": false
+}

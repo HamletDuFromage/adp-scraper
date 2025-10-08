@@ -1,0 +1,26 @@
+{
+  "Title": "It's a Wonderful Life",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60b74048-8f94-96bb-6ec1-0d0416c36168/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.349860ba-9e1c-48c9-8959-abddc4e5b189/audiodescriin-20"
+    },
+    {
+      "Prime Video3": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.27176ff7-17c2-46b2-8458-f11208da5fb4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id297250466"
+    }
+  ],
+  "in_theaters": false
+}

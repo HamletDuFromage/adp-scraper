@@ -1,0 +1,18 @@
+{
+  "Title": "Death at a Funeral",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00275EHHS/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2a9f687-8e68-c332-ae3c-2cbe84f6192b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

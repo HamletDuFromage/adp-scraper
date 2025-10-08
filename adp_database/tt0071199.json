@@ -1,0 +1,19 @@
+{
+  "Title": "The Bears and I",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-bears-and-i/wmvkCH0iX6OY"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id430199055"
+    }
+  ],
+  "in_theaters": false
+}

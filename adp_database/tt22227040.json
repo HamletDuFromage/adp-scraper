@@ -1,0 +1,15 @@
+{
+  "Title": "28 Days Haunted",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Horror",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81397887"
+    }
+  ],
+  "in_theaters": false
+}

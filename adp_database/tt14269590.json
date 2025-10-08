@@ -1,0 +1,23 @@
+{
+  "Title": "Poker Face",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2b94145e-7d7f-4491-a9c3-b2bc21bfd74c/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/poker-face/9091855651030489112"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2514170"
+    }
+  ],
+  "in_theaters": false
+}

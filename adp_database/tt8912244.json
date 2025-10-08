@@ -1,0 +1,16 @@
+{
+  "Title": "Super Drags",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80218634"
+    }
+  ],
+  "in_theaters": false
+}

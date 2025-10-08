@@ -1,0 +1,20 @@
+{
+  "Title": "Herbie Goes Bananas",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/herbie-goes-bananas/7QbtBK0Rmxb1"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id363434777"
+    }
+  ],
+  "in_theaters": false
+}

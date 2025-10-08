@@ -1,0 +1,22 @@
+{
+  "Title": "House",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Medical",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88a9f6fb-b2c4-65a4-43c7-17864dcb0f5d/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eea9f69d-540c-9d00-6a25-24b3ea97e177/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/house/5237177968815004112"
+    }
+  ],
+  "in_theaters": false
+}

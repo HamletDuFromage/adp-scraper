@@ -1,0 +1,18 @@
+{
+  "Title": "The Day Sports Stood Still",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.030fafcb-01e8-4efb-8df8-4bca91d19b70/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a165da38-1f8a-4be8-8cb4-c06efb2b467e"
+    }
+  ],
+  "in_theaters": false
+}

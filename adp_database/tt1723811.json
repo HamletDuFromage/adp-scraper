@@ -1,0 +1,14 @@
+{
+  "Title": "Shame",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fd748bdf-5971-40e6-a941-99a42c756d32/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,29 @@
+{
+  "Title": "All of Us Strangers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "LGBTQ",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2b94a801-493d-4d8f-9af7-22cb0d78d187/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/37b675ee-b81b-4589-9784-20bbe4700ba8"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1727298888"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D7H7PQZK/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2965940"
+    }
+  ],
+  "in_theaters": false
+}

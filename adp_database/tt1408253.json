@@ -1,0 +1,22 @@
+{
+  "Title": "Ride Along",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id786325887"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00HX0KIAM/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70286698"
+    }
+  ],
+  "in_theaters": false
+}

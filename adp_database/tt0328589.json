@@ -1,0 +1,19 @@
+{
+  "Title": "Under the Tuscan Sun",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/61acbc71-eb53-4edb-947b-5ae86c491909"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id187699271"
+    }
+  ],
+  "in_theaters": false
+}

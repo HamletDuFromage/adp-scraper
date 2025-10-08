@@ -1,0 +1,17 @@
+{
+  "Title": "Chang Can Dunk",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Coming of Age",
+    "Drama",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/chang-can-dunk/2xOztG9n5njl"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Smith!",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id301018970"
+    }
+  ],
+  "in_theaters": false
+}

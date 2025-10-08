@@ -1,0 +1,17 @@
+{
+  "Title": "One South: Portrait of a Psych Unit",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ec17bbf-5c7c-4504-ad29-b9245b0bc23a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/9445ab76-5689-432e-8931-6299798bd208"
+    }
+  ],
+  "in_theaters": false
+}

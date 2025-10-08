@@ -1,0 +1,18 @@
+{
+  "Title": "Free Rein: The Twelve Neighs of Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81001412"
+    }
+  ],
+  "in_theaters": false
+}

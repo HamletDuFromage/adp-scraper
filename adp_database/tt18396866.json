@@ -1,0 +1,16 @@
+{
+  "Title": "Dead Zone",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/680467/dead-zone"
+    }
+  ],
+  "in_theaters": false
+}

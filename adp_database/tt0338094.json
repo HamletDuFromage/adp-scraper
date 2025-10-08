@@ -1,0 +1,21 @@
+{
+  "Title": "The Haunted Mansion",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-haunted-mansion/6RcGqdevf15z"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188765142"
+    }
+  ],
+  "in_theaters": false
+}

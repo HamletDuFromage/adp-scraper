@@ -1,0 +1,16 @@
+{
+  "Title": "Bad Hair",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/bad-hair-eb67f592-fd7a-4d0b-aa82-6fef5ee0dd6b"
+    }
+  ],
+  "in_theaters": false
+}

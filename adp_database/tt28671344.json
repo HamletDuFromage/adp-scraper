@@ -1,0 +1,15 @@
+{
+  "Title": "The Strangers: Chapter 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1840758768"
+    }
+  ],
+  "in_theaters": true
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Powered by Space: Reinventing Space Flight",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "MagellanTV": "https://www.magellantv.com/video/powered-by-space-reinventing-spaceflight"
+    }
+  ],
+  "in_theaters": false
+}

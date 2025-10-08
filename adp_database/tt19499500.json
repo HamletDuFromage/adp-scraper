@@ -1,0 +1,17 @@
+{
+  "Title": "Fit for Christmas",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10cb6615-a3bc-40ce-ab8b-4f73352bc0a4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

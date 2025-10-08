@@ -1,0 +1,16 @@
+{
+  "Title": "Straw Dogs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B005TK22R0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

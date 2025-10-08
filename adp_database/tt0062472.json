@@ -1,0 +1,14 @@
+{
+  "Title": "The War Wagon",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3eacfd6c-cbab-47a2-4756-6e780120daf8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

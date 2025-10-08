@@ -1,0 +1,15 @@
+{
+  "Title": "Grace and Frankie",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80017537"
+    }
+  ],
+  "in_theaters": false
+}

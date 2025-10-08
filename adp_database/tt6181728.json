@@ -1,0 +1,17 @@
+{
+  "Title": "Walt Disney Animation Studios Short Films Collection",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00WU5B494/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

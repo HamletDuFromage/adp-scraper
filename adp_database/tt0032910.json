@@ -1,0 +1,21 @@
+{
+  "Title": "Pinocchio",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/pinocchio/3awzEJp1S6xg"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id540283464"
+    }
+  ],
+  "in_theaters": false
+}

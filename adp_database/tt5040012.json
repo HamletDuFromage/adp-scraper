@@ -1,0 +1,22 @@
+{
+  "Title": "Nosferatu",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.010ac911-6d9a-4c5d-9d78-7cd26137db91/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DQ61S8CH/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3931880"
+    }
+  ],
+  "in_theaters": false
+}

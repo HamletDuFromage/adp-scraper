@@ -1,0 +1,16 @@
+{
+  "Title": "Wyatt Earp and the Cowboy War",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81572104"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Below Deck Mediterranean",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/below-deck-mediterranean/9070318899003925112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.680591fd-8f98-4c12-80cc-b2966a3528b3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

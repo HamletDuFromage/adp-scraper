@@ -1,0 +1,18 @@
+{
+  "Title": "The Irrational",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-irrational/8666668145196816112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e36b01b3-2693-4ef7-9b82-d586ab6d1249/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

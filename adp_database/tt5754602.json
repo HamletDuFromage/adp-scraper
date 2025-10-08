@@ -1,0 +1,18 @@
+{
+  "Title": "4 Blocks",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04bbde28-5625-402f-b424-70ca0ff4ec0b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3aa3e7b9-a220-4ea1-b0ec-b401aa3c9202"
+    }
+  ],
+  "in_theaters": false
+}

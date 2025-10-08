@@ -1,0 +1,23 @@
+{
+  "Title": "Kimi",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0839e9f1-9cf6-4f03-a0e3-b189d51e3840/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/13b838c8-b491-41a9-bc54-f90a31833687"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1606811934"
+    }
+  ],
+  "in_theaters": false
+}

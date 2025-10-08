@@ -1,0 +1,23 @@
+{
+  "Title": "A Simple Favor",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0b30880-9b6a-f3cd-dcfb-b9ee77c341eb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1435536257"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07HGKKHPW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

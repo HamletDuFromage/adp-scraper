@@ -1,0 +1,17 @@
+{
+  "Title": "A California Christmas: City Lights",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81447216"
+    }
+  ],
+  "in_theaters": false
+}

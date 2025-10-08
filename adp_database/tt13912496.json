@@ -1,0 +1,15 @@
+{
+  "Title": "American Eid",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Drama",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/american-eid/6RJBMGtnOnoA"
+    }
+  ],
+  "in_theaters": false
+}

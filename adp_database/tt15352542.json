@@ -1,0 +1,21 @@
+{
+  "Title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.825dddb1-390f-420f-ab25-0fd53e9be654/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/c7d5e242-196a-4ebf-9a7b-04605bd5bf38"
+    }
+  ],
+  "in_theaters": false
+}

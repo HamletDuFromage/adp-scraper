@@ -1,0 +1,20 @@
+{
+  "Title": "A Charlie Brown Valentine",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ec4837c6-be97-4572-a608-e231044cfef1/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.30cyxu8by31op677sm0djtm72"
+    }
+  ],
+  "in_theaters": false
+}

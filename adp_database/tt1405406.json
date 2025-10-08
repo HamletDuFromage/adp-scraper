@@ -1,0 +1,16 @@
+{
+  "Title": "The Vampire Diaries",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86ba1962-4f87-4db9-ac28-3bbc2a68261c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

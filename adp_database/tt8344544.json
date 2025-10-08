@@ -1,0 +1,18 @@
+{
+  "Title": "Perfect Life",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/4c783f0e-f870-4bc5-8bc3-3ad7b4f074bb"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18330e4a-37fe-41d2-a818-b66465581fa5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

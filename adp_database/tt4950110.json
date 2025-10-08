@@ -1,0 +1,18 @@
+{
+  "Title": "I'm Not Ashamed",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8cabc6ae-a5ec-dd20-5d22-52c45846ec5e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHSJ46/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "A Nonsense Christmas with Sabrina Carpenter",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Documentary",
+    "Holiday",
+    "Music",
+    "TV Variety"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81912861"
+    }
+  ],
+  "in_theaters": false
+}

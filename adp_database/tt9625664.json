@@ -1,0 +1,15 @@
+{
+  "Title": "Trauma Center",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccb7f70f-564b-92b0-aca0-dab789980ea9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

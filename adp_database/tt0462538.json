@@ -1,0 +1,19 @@
+{
+  "Title": "The Simpsons Movie",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/simpsons-movie/jfibFuFryQWc"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id270809837"
+    }
+  ],
+  "in_theaters": false
+}

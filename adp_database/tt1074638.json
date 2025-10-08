@@ -1,0 +1,21 @@
+{
+  "Title": "Skyfall",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49012885-7ab6-47f8-b8c4-e7869a4658de/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id588124375"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B007REV4T8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

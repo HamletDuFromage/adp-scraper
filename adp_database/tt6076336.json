@@ -1,0 +1,17 @@
+{
+  "Title": "Greenhouse Academy",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80095435"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Homeward Bound II: Lost in San Francisco",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/homeward-bound-ii-lost-in-san-francisco/2v8uXZ1Wp0K8"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id204087689"
+    }
+  ],
+  "in_theaters": false
+}

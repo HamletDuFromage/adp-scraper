@@ -1,0 +1,18 @@
+{
+  "Title": "New Saga",
+  "Media Type": "Series",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49434184-f051-4696-a5dc-0ce5a51d0727/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

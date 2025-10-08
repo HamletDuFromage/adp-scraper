@@ -1,0 +1,22 @@
+{
+  "Title": "Catching Lightning",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8549cb1-3675-4d40-8162-ff077584091a/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2384670"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/catching-lightning/"
+    }
+  ],
+  "in_theaters": false
+}

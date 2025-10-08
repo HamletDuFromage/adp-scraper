@@ -1,0 +1,19 @@
+{
+  "Title": "A Nice Indian Boy",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4123607"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1803478094"
+    }
+  ],
+  "in_theaters": false
+}

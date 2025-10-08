@@ -1,0 +1,16 @@
+{
+  "Title": "Motown Magic",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80134440"
+    }
+  ],
+  "in_theaters": false
+}

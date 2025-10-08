@@ -1,0 +1,17 @@
+{
+  "Title": "The Match: Superstars",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4f7c4223-f349-499b-81e8-3c238b66760a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a6c5774a-fc53-44ce-9f21-4078e57cb267"
+    }
+  ],
+  "in_theaters": false
+}

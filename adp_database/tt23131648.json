@@ -1,0 +1,20 @@
+{
+  "Title": "Bloat",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70f2bf95-7b66-4b3a-9e44-721749022d22/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1798272679"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3931814"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Super Mario Bros. Movie 3D",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2385402"
+    }
+  ],
+  "in_theaters": false
+}

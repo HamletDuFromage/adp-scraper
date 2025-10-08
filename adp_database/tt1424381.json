@@ -1,0 +1,19 @@
+{
+  "Title": "Predators",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.faa9f7b5-b141-32b7-0570-b0270be16a44/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id382395335"
+    }
+  ],
+  "in_theaters": false
+}

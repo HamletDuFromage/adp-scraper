@@ -1,0 +1,18 @@
+{
+  "Title": "The '96 Effect",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Olympics",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/sports/the-96-effect/4906661810884275112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e16617f8-b15e-473a-9319-b545d9a4f8f9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Mythic Quest",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4601ce45-78e6-4745-8793-dd63e469bec7/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1nfdfd5zlk05fo1bwwetzldy3"
+    }
+  ],
+  "in_theaters": false
+}

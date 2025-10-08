@@ -1,0 +1,16 @@
+{
+  "Title": "Travelers",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80105699"
+    }
+  ],
+  "in_theaters": false
+}

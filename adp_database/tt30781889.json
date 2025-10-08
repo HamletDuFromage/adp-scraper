@@ -1,0 +1,17 @@
+{
+  "Title": "Oprah and the Color Purple Journey",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7f3ac37c-f73d-4a72-b3a6-5d4ed6a1a05d/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/60020c14-0afb-4fef-b981-e77ec3762ea9"
+    }
+  ],
+  "in_theaters": false
+}

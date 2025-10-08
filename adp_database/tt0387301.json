@@ -1,0 +1,18 @@
+{
+  "Title": "I Want a Dog for Christmas, Charlie Brown",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88f91820-ea3b-4d25-93f2-f1dff4c0b298/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.39d349kfxr4sevo0fkv1uurhj"
+    }
+  ],
+  "in_theaters": false
+}

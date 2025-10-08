@@ -1,0 +1,15 @@
+{
+  "Title": "Secret City",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80211136"
+    }
+  ],
+  "in_theaters": false
+}

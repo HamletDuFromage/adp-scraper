@@ -1,0 +1,29 @@
+{
+  "Title": "Harry Potter and the Prisoner of Azkaban",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98c1b69a-4e7d-47cd-a79c-bf9dd59f5410/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/73553a76-1658-45f6-9e26-1b9c4443b0d6"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/kids/harry-potter-and-the-prisoner-of-azkaban/aa40bcfa-1932-35ba-a737-4db9e3baaef8"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id285825306"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B075VSQKL6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

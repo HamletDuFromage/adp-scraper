@@ -1,0 +1,14 @@
+{
+  "Title": "Silencer",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cb2787d-bafd-0d5b-fd9f-3dd2cf40ac30/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

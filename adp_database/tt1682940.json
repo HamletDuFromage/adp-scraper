@@ -1,0 +1,15 @@
+{
+  "Title": "Playback",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7b7a9010-6809-43c8-9ae4-d9a5c9fab8c4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

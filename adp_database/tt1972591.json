@@ -1,0 +1,22 @@
+{
+  "Title": "King Arthur: Legend of the Sword",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64aded0a-2720-21aa-2333-738246526c72/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1230741267"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B073C37BPY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

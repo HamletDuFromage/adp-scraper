@@ -1,0 +1,17 @@
+{
+  "Title": "Corn Chips",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/corn-chips/7QaVOLwNAqa7"
+    }
+  ],
+  "in_theaters": false
+}

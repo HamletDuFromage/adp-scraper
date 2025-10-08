@@ -1,0 +1,18 @@
+{
+  "Title": "Dream Productions",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-2c539a37-28e3-4dce-b0e8-b4882fcbbc71"
+    }
+  ],
+  "in_theaters": false
+}

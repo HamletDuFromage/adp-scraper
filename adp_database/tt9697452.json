@@ -1,0 +1,18 @@
+{
+  "Title": "40 Years a Prisoner",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a845bb-b31c-4ea5-951e-b636c5510285/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/747c00f1-365a-45bd-9068-19474126a2b6"
+    }
+  ],
+  "in_theaters": false
+}

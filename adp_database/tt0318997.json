@@ -1,0 +1,21 @@
+{
+  "Title": "Angels in America",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "LGBTQ",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/87610546-a048-48d9-a1a9-b2bfc9185c49"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2a9f702-a833-2929-23ed-14c72b6a0ba8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

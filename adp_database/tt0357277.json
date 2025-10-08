@@ -1,0 +1,17 @@
+{
+  "Title": "Elektra",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/elektra/79FYkvoTwwYT"
+    }
+  ],
+  "in_theaters": false
+}

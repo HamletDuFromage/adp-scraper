@@ -1,0 +1,19 @@
+{
+  "Title": "Two Sides of the Abyss",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0d2d2f6-91c7-4f5c-9558-b18a3bd43b02/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/bfdd24ea-26fb-4cb2-b1ed-e768515533c1"
+    }
+  ],
+  "in_theaters": false
+}

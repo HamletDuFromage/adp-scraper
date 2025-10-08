@@ -1,0 +1,25 @@
+{
+  "Title": "The Expendables 4",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06c950f6-c0f7-463f-becc-44e3ec58a60c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1707105362"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CH3Y7YLS/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2601742"
+    }
+  ],
+  "in_theaters": false
+}

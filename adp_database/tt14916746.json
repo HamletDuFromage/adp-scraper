@@ -1,0 +1,15 @@
+{
+  "Title": "Sexy Beasts",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81298845"
+    }
+  ],
+  "in_theaters": false
+}

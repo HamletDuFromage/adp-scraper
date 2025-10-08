@@ -1,0 +1,15 @@
+{
+  "Title": "Superman Returns",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f7c1-d070-a366-74ff-ee6dab19552f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

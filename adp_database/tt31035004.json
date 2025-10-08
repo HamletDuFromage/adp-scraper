@@ -1,0 +1,14 @@
+{
+  "Title": "Dinner Time Live with David Chang",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81748864"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Spinning Gold",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2323469"
+    }
+  ],
+  "in_theaters": false
+}

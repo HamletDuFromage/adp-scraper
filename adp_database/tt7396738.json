@@ -1,0 +1,17 @@
+{
+  "Title": "A Christmas Cruise",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.acb4417e-37fa-bd21-36e2-8d031a081c28/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

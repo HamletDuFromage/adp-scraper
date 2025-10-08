@@ -1,0 +1,18 @@
+{
+  "Title": "For a Few Dollars More",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/for-a-few-dollars-more-1967"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6a9f680-7a11-e32e-016f-4961c543bfb3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

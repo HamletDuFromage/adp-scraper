@@ -1,0 +1,14 @@
+{
+  "Title": "Somebody Feed Phil",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80146601"
+    }
+  ],
+  "in_theaters": false
+}

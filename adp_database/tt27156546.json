@@ -1,0 +1,14 @@
+{
+  "Title": "Child Star",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/33cd6fa1-97f4-442a-a1df-4f6406a38a13"
+    }
+  ],
+  "in_theaters": false
+}

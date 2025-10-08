@@ -1,0 +1,18 @@
+{
+  "Title": "Ghosts",
+  "Media Type": "Series",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/ghosts/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/6166f175a6e392001bc0f313"
+    }
+  ],
+  "in_theaters": false
+}

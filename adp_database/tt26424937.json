@@ -1,0 +1,15 @@
+{
+  "Title": "Anthem",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/anthem-6b25fac9-da2b-45a3-8e09-e4156b0471cc"
+    }
+  ],
+  "in_theaters": false
+}

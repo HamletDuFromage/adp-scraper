@@ -1,0 +1,20 @@
+{
+  "Title": "The Stand",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.346fca68-ce23-48c6-9f4a-319032b22c8d/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-stand/"
+    }
+  ],
+  "in_theaters": false
+}

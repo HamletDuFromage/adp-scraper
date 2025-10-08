@@ -1,0 +1,22 @@
+{
+  "Title": "Mechanic: Resurrection",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.baab5cde-bbe7-726c-1d3e-410f5abb680d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1142118992"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01KP7L9H0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

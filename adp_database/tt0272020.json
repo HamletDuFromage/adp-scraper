@@ -1,0 +1,22 @@
+{
+  "Title": "The Last Castle",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ca9f75c-d488-5e92-2a01-b15db6fad6b0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id291838658"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/the-last-castle-2001"
+    }
+  ],
+  "in_theaters": false
+}

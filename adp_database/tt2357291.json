@@ -1,0 +1,24 @@
+{
+  "Title": "Rio 2",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a88dab00-3de1-469b-86b1-5a5aa0ef1a38/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id841162750"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00JK531ES/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

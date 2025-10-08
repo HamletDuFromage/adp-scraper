@@ -1,0 +1,16 @@
+{
+  "Title": "Beethoven",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0a9f770-233b-5d56-b42e-c161058d2018/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

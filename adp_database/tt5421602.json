@@ -1,0 +1,15 @@
+{
+  "Title": "Anne with an E",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80136311"
+    }
+  ],
+  "in_theaters": false
+}

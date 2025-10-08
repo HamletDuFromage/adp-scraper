@@ -1,0 +1,14 @@
+{
+  "Title": "Cyberbunker: The Criminal Underworld",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81632983"
+    }
+  ],
+  "in_theaters": false
+}

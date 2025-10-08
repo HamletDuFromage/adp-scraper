@@ -1,0 +1,16 @@
+{
+  "Title": "Detention",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0083H6B6E/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

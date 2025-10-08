@@ -1,0 +1,21 @@
+{
+  "Title": "1923",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5be60b9b-aa81-407e-a28e-43b9076010bf/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/1923/"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4326763"
+    }
+  ],
+  "in_theaters": false
+}

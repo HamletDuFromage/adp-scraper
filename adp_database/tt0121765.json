@@ -1,0 +1,25 @@
+{
+  "Title": "Star Wars: Episode II - Attack of the Clones",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0a9f71b-2e9e-ba78-d13d-63abd86514d5/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-attack-of-the-clones/mgpYHGnzZW6N"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id975101586"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013JAFV42/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

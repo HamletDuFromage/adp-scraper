@@ -1,0 +1,19 @@
+{
+  "Title": "20,000 Leagues Under the Sea",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/20-000-leagues-under-the-sea/4SAB7qEx02M1"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id296750750"
+    }
+  ],
+  "in_theaters": false
+}

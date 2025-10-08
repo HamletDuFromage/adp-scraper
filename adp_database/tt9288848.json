@@ -1,0 +1,16 @@
+{
+  "Title": "Pacific Rim: The Black",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81002003"
+    }
+  ],
+  "in_theaters": false
+}

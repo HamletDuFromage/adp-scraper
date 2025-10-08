@@ -1,0 +1,20 @@
+{
+  "Title": "Prehistoric Planet",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animals & Nature",
+    "Animation",
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.120ec676-00de-446d-9fb8-80c766022a11/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4lh4bmztauvkooqz400akxav"
+    }
+  ],
+  "in_theaters": false
+}

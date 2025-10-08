@@ -1,0 +1,17 @@
+{
+  "Title": "AEW: All Access",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.898ae7e4-207e-477a-8105-5efda674d2e9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a534ddb6-f886-4b32-a821-298ab680d7be"
+    }
+  ],
+  "in_theaters": false
+}

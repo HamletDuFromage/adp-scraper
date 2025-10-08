@@ -1,0 +1,18 @@
+{
+  "Title": "Muhammad Ali's Greatest Fight",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e9a7cb2b-341c-40f5-ade8-9b8575446540/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/86840efb-f6ba-4ff8-831d-53117365974c"
+    }
+  ],
+  "in_theaters": false
+}

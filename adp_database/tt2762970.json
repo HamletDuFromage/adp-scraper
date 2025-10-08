@@ -1,0 +1,19 @@
+{
+  "Title": "Cloud 9",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/cloud-9/1ieEt9mw4US0"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4187280"
+    }
+  ],
+  "in_theaters": false
+}

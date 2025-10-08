@@ -1,0 +1,18 @@
+{
+  "Title": "Aliens Special Edition",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1845030e-30f7-47c1-88fc-d81bd62f5877/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/180896"
+    }
+  ],
+  "in_theaters": false
+}

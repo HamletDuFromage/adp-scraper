@@ -1,0 +1,21 @@
+{
+  "Title": "Hypnotic",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/hypnotic/cadbd9a0-755c-3fc2-92e0-095297e9a977"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a1d1103e-71dc-49c6-a6aa-c1e14d78555f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

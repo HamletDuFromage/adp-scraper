@@ -1,0 +1,18 @@
+{
+  "Title": "How to Make It in America",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9bd74760-06b0-4f2e-a882-5e688088a440/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/15ad9c0e-7392-4202-8339-b2a9ff4d343f"
+    }
+  ],
+  "in_theaters": false
+}

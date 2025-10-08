@@ -1,0 +1,15 @@
+{
+  "Title": "Love on the Rise",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2b9572f5-9ce1-439f-9eb9-9737d4707f2a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

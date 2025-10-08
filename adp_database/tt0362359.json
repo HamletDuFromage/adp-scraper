@@ -1,0 +1,19 @@
+{
+  "Title": "The O.C.",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/893e4fea-3137-44c7-a6ab-9f6ee9914981"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea9f6d5-7378-fffb-99ef-bcdc95ea2cbb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

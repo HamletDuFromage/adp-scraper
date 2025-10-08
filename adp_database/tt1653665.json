@@ -1,0 +1,22 @@
+{
+  "Title": "Goodbye Christopher Robin",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12aff074-ed6e-d639-8c9e-07ed44169eba/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1292840219"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B077PW2C21/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

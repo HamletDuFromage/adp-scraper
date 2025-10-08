@@ -1,0 +1,19 @@
+{
+  "Title": "The Challenge: World Championship",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7bffb2bb-89a9-4ede-90b8-881cd71b2e51/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-challenge-world-championship/"
+    }
+  ],
+  "in_theaters": false
+}

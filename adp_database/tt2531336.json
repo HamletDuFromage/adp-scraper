@@ -1,0 +1,16 @@
+{
+  "Title": "Lupin",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80994082"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Warehouse 13",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06a9f733-e0e6-6fab-f617-1f4a23db93ea/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

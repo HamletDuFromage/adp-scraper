@@ -1,0 +1,24 @@
+{
+  "Title": "Phantom Thread",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42b08541-73f4-a5a1-dc9b-42d73367079e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1333877733"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07979NS8F/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80195447"
+    }
+  ],
+  "in_theaters": false
+}

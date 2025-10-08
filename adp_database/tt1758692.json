@@ -1,0 +1,21 @@
+{
+  "Title": "Like Crazy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0aa9f749-4dcd-a202-db06-93e051dde4b8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id507699813"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004Z29XEI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

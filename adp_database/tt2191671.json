@@ -1,0 +1,17 @@
+{
+  "Title": "Elementary",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8a9f71b-7bf1-e35e-05de-cd4d543aa2c1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

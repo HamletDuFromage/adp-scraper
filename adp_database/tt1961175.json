@@ -1,0 +1,18 @@
+{
+  "Title": "American Assassin",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eab13992-4e12-fd46-768d-4833101b31b3/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B075FNZL5T/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

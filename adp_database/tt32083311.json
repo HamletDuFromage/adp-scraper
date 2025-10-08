@@ -1,0 +1,21 @@
+{
+  "Title": "On Becoming a Guinea Fowl",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4044702"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30e91190-a246-4728-b213-4e1755148d38/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/55359537-6dba-435d-b589-8d762bbe9253"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Elmo Saves Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Holiday",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ea9f78d-43bb-660c-37d4-7712f8c1e3cb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Lincoln Project",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6d8c0d2-d792-483b-bacc-9ea65ed99593/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2177323"
+    }
+  ],
+  "in_theaters": false
+}

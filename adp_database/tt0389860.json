@@ -1,0 +1,16 @@
+{
+  "Title": "Click",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48a9f7b6-b18f-b1c2-7663-251a46ecd3a1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

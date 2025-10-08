@@ -1,0 +1,22 @@
+{
+  "Title": "Emma.",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68b81ae6-cd3b-ceb7-31ab-b4cc55091dd5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1498469541"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B084QLBNVB/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

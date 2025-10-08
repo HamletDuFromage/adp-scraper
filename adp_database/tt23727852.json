@@ -1,0 +1,15 @@
+{
+  "Title": "Palava",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22e25806-aa15-4219-9cc2-83e22d9b36db/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

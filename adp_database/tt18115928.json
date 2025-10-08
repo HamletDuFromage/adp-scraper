@@ -1,0 +1,16 @@
+{
+  "Title": "East New York",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0a3b44f-ba81-439a-9db5-0ccb94600485/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Resident Evil",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80996532"
+    }
+  ],
+  "in_theaters": false
+}

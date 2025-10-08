@@ -1,0 +1,16 @@
+{
+  "Title": "No Good Nick",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80231658"
+    }
+  ],
+  "in_theaters": false
+}

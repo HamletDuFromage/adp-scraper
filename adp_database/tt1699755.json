@@ -1,0 +1,18 @@
+{
+  "Title": "Tyler Perry Presents Peeples",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.142edfe7-23f1-4c8b-b93c-5c1f11d7650d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id676601622"
+    }
+  ],
+  "in_theaters": false
+}

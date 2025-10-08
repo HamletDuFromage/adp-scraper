@@ -1,0 +1,18 @@
+{
+  "Title": "Holiday Inn",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2a9f700-b6d9-a0d5-26cc-f5bd6581ed50/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

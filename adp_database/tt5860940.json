@@ -1,0 +1,18 @@
+{
+  "Title": "I'll Be Home for Christmas",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Kids & Family",
+    "Romance",
+    "Special Interest"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0d750dae-e74f-4274-b590-eccbdbecd630/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

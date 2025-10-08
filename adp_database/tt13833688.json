@@ -1,0 +1,24 @@
+{
+  "Title": "The Whale",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b3cdeb7-be97-44f7-a31e-3a78ec1b3a1f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1666472696"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2238732"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/e8f61267-d144-454d-942e-e815d9fa863e"
+    }
+  ],
+  "in_theaters": false
+}

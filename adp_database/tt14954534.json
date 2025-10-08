@@ -1,0 +1,17 @@
+{
+  "Title": "Cassandro",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "LGBTQ",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a29756f7-9848-4bb5-b7ea-ce4f98d67e4c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

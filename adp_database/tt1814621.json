@@ -1,0 +1,16 @@
+{
+  "Title": "Admission",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38a9f6f5-ef65-71c5-3eb9-73e5924ead37/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

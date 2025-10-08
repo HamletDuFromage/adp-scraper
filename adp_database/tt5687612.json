@@ -1,0 +1,15 @@
+{
+  "Title": "Fleabag",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5aad0128-0b96-29f1-c8f3-0b63ee5000ce/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

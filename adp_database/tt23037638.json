@@ -1,0 +1,16 @@
+{
+  "Title": "There is a Monster",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6c507a6-a4e1-4573-9231-1065b82218da/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

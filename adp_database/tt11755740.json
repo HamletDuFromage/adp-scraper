@@ -1,0 +1,16 @@
+{
+  "Title": "Texas Chainsaw Massacre",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81483977"
+    }
+  ],
+  "in_theaters": false
+}

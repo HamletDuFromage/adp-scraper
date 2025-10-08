@@ -1,0 +1,19 @@
+{
+  "Title": "Blue Crush",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eca9f723-a704-f8bf-9261-c3d47c89d027/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60023624"
+    }
+  ],
+  "in_theaters": false
+}

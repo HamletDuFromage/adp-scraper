@@ -1,0 +1,18 @@
+{
+  "Title": "We Are Marshall",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46a9f780-bf3e-5274-e25e-f89db6513687/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id542098209"
+    }
+  ],
+  "in_theaters": false
+}

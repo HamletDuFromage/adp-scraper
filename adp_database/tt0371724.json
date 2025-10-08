@@ -1,0 +1,17 @@
+{
+  "Title": "The Hitchhiker's Guide to the Galaxy",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Independent",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188702833"
+    }
+  ],
+  "in_theaters": false
+}

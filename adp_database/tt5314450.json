@@ -1,0 +1,18 @@
+{
+  "Title": "Burden",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "History",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb94d30-f441-5d14-cd9b-ce3471356be6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

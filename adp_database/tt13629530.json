@@ -1,0 +1,19 @@
+{
+  "Title": "ARK: The Animated Series",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2e769e1-124e-4a5f-9631-7720c1afcb6d/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/ark-the-animated-series/"
+    }
+  ],
+  "in_theaters": false
+}

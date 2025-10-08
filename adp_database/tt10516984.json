@@ -1,0 +1,15 @@
+{
+  "Title": "Anima",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Music",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81110498"
+    }
+  ],
+  "in_theaters": false
+}

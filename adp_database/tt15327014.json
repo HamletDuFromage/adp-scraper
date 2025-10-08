@@ -1,0 +1,19 @@
+{
+  "Title": "Four Samosas",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4e4361c1-da20-4d9c-b0c6-fee157b1082c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1652171594"
+    }
+  ],
+  "in_theaters": false
+}

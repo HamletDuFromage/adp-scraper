@@ -1,0 +1,15 @@
+{
+  "Title": "Swiss Family Robinson",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/swiss-family-robinson-1960/574SpL5ffj3j"
+    }
+  ],
+  "in_theaters": false
+}

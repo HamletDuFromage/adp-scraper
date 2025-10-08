@@ -1,0 +1,25 @@
+{
+  "Title": "Non-Stop",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.beddfbae-b52c-4e2d-a44f-67af9d6710de/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id814487529"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00HLTD3ZW/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70292864"
+    }
+  ],
+  "in_theaters": false
+}

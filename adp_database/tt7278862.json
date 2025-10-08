@@ -1,0 +1,14 @@
+{
+  "Title": "My Brilliant Friend",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/f06b8347-6738-4e58-bdbd-1de2ca8c9938"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Jingle Jangle: A Christmas Journey",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Holiday",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80232043"
+    }
+  ],
+  "in_theaters": false
+}

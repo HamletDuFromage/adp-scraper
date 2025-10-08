@@ -1,0 +1,15 @@
+{
+  "Title": "Selling the Big Easy",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/d49ac328-2bfb-4e94-8b88-1ebaa5d3a233"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Vanity Fair",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Special Interest"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f736-8ad4-2ab1-e03f-ba0c367c10a5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

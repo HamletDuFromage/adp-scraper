@@ -1,0 +1,16 @@
+{
+  "Title": "For Life",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/for-life-5fb7033a-4d45-4f0f-b1c6-84eebc4a70be"
+    }
+  ],
+  "in_theaters": false
+}

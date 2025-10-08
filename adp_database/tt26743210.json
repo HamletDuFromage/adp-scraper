@@ -1,0 +1,27 @@
+{
+  "Title": "How to Train Your Dragon",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1817243265"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4261662"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ce54af1d-6523-4ae3-8857-c8b8fb991309/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F9L2R8ZS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Yes Man",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88a9f76f-1f9d-dcdd-26c2-5c63187bf633/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id303680748"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Miz and Mrs",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Sports",
+    "WWE"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/sports/miz-and-mrs/7133686516450851112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7b17bdce-0251-44de-8250-464e8ee31244/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

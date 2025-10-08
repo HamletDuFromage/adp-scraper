@@ -1,0 +1,27 @@
+{
+  "Title": "Wicked",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "LGBTQ",
+    "Musical",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4de0506-beba-41ae-97ba-8637ad9f7e2e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1778329374"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DNLLBQHR/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3324643"
+    }
+  ],
+  "in_theaters": false
+}

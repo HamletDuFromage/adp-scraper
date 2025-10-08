@@ -1,0 +1,22 @@
+{
+  "Title": "John Wick: Chapter 3 - Parabellum",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98b6b5bd-dc9d-7139-0ff9-0df174de3ba3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1462496695"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07QLB71HL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

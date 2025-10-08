@@ -1,0 +1,21 @@
+{
+  "Title": "Once Upon a Time...in Hollywood",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86b60c06-85b4-b8a8-bbb1-cc1374c0ae0e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1473165316"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TNVXKMX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

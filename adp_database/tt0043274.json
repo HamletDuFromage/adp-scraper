@@ -1,0 +1,20 @@
+{
+  "Title": "Alice in Wonderland",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/alice-in-wonderland-1951/2l0X3WdCxQ4F"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id412102121"
+    }
+  ],
+  "in_theaters": false
+}

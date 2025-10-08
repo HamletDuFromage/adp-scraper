@@ -1,0 +1,19 @@
+{
+  "Title": "Our House",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.df4d1124-6e47-4804-a364-2bc4caf8d1df/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2468399"
+    }
+  ],
+  "in_theaters": false
+}

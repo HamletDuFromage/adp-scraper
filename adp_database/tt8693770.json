@@ -1,0 +1,18 @@
+{
+  "Title": "The Cold Blue",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a5cad5cf-441c-4331-b894-62a6e1a54641/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1e70bd89-e99b-4da0-965e-18ff0c2ab7a7"
+    }
+  ],
+  "in_theaters": false
+}

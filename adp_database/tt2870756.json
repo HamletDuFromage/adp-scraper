@@ -1,0 +1,19 @@
+{
+  "Title": "Magic in the Moonlight",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46a9f7a7-7456-cb88-0c7d-05f1644ad959/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00O0292GW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

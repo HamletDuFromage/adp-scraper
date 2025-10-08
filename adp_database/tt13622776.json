@@ -1,0 +1,16 @@
+{
+  "Title": "Ahsoka",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/ahsoka/pdpjs2TO4zJ4"
+    }
+  ],
+  "in_theaters": false
+}

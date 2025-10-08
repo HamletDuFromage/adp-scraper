@@ -1,0 +1,27 @@
+{
+  "Title": "The 355",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4d800330-f362-44db-a9e3-c9923e22558a/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/the-355/5c6a0328-d846-3412-a79c-9f0db561b59d"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1605039614"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09PQYTXLX/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80999724"
+    }
+  ],
+  "in_theaters": false
+}

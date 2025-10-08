@@ -1,0 +1,24 @@
+{
+  "Title": "Hop",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48a9f7ad-c807-de8a-e731-d98bb0ad3aff/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id443093653"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00466HN6S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

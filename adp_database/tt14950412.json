@@ -1,0 +1,15 @@
+{
+  "Title": "Section 8",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d117435b-e422-4b1a-83ab-8829347544d3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Sicario",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b886eb-47c1-90f9-7508-d37c218381bb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1040631578"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01638AXXG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

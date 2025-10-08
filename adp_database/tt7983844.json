@@ -1,0 +1,14 @@
+{
+  "Title": "Take Your Pills",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80117831"
+    }
+  ],
+  "in_theaters": false
+}

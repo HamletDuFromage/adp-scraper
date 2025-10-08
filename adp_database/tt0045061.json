@@ -1,0 +1,19 @@
+{
+  "Title": "The Quiet Man",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/the-quiet-man-1952"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.df571b50-eab3-4ecd-b0e2-fc4000ac2ae5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

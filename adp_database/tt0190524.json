@@ -1,0 +1,17 @@
+{
+  "Title": "Left Behind: The Movie",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68b8e6e7-794d-1f9e-f31e-5702ed7797df/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

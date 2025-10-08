@@ -1,0 +1,15 @@
+{
+  "Title": "A Nightmare on Elm Street 3: Dream Warriors",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ea9f72d-b831-37b0-f604-635e59e029ff/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

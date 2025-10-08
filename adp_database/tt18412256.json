@@ -1,0 +1,28 @@
+{
+  "Title": "Alien: Romulus",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/05e76ad8-c3dd-4c3e-bab9-df3cf71c6871"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1770715732"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D8LFX82F/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3324620"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10f91b99-a958-47e2-8a81-8d7478a70571/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

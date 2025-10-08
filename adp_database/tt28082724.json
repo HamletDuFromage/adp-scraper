@@ -1,0 +1,16 @@
+{
+  "Title": "Davey & Jonesie's Locker",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/4e38bdbd-d3b4-425e-b3a2-9029cfa10ee5"
+    }
+  ],
+  "in_theaters": false
+}

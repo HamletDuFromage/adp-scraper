@@ -1,0 +1,27 @@
+{
+  "Title": "PAW Patrol: The Movie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ecc7651-3622-47fc-891e-c626caab3d18/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1577841988"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09BKGSSWH/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/paw-patrol-the-movie/W0VyStQqUnqKzJkrpSAIARuCc9YuYGNy/"
+    }
+  ],
+  "in_theaters": false
+}

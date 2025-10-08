@@ -1,0 +1,20 @@
+{
+  "Title": "Let It Snow",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80201542"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1cba51a2-4413-4133-b08a-a095b6b58895/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

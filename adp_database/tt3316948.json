@@ -1,0 +1,21 @@
+{
+  "Title": "American Ultra",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.21ec13fb-bd90-480f-9531-f79e1ca0fe48/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1027396959"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013XD39BC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

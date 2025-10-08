@@ -1,0 +1,26 @@
+{
+  "Title": "Project Almanac",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16a9f674-d8ec-6925-1f7a-2163546db111/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id959068086"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00T4XD6KU/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/wqjrBvAlDcUIXWzRcAvaphleuS3dQsaZ/"
+    }
+  ],
+  "in_theaters": false
+}

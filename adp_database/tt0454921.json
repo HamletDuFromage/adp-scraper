@@ -1,0 +1,15 @@
+{
+  "Title": "The Pursuit of Happyness",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78a9f6bb-a4f4-f86b-cb08-74a9e39760c8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

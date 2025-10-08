@@ -1,0 +1,21 @@
+{
+  "Title": "Demolition",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1cbb1e02-4795-529f-6559-09c2632f68ed/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1097570448"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01GG1C4QY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

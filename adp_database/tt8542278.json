@@ -1,0 +1,16 @@
+{
+  "Title": "Shake with Me",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://reelabilities.org/stream/product/shake-with-me/"
+    }
+  ],
+  "in_theaters": false
+}

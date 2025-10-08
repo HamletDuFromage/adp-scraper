@@ -1,0 +1,27 @@
+{
+  "Title": "The Forge",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81947895"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1764726098"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DJPPTNRG/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3549521"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aaa207b5-906b-46e8-87e1-0d77717d804e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

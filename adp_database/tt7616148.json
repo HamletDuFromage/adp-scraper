@@ -1,0 +1,16 @@
+{
+  "Title": "Luce",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07VDMLV7Z/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

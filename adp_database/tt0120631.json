@@ -1,0 +1,18 @@
+{
+  "Title": "Ever After: A Cinderella Story",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/ever-after-a-cinderella-story/1e5UF3Sil65G"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id293774783"
+    }
+  ],
+  "in_theaters": false
+}

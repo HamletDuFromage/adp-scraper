@@ -1,0 +1,29 @@
+{
+  "Title": "Poor Things",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a3a243ae-6d81-48c1-a02b-0bfa3e2a4e22/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/72867b3c-0c4e-4107-aff7-a1f876c7242f"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1725330209"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CVH9SN99/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2965903"
+    }
+  ],
+  "in_theaters": false
+}

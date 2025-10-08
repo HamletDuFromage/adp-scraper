@@ -1,0 +1,16 @@
+{
+  "Title": "Christmas with the Kranks",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bca9f746-2855-402b-573b-a7cbb2c5b42e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

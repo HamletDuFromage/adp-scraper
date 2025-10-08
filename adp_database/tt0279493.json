@@ -1,0 +1,15 @@
+{
+  "Title": "Undercover Brother",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98a9f726-dba8-8767-d129-cbb07de7edd9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

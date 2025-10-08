@@ -1,0 +1,18 @@
+{
+  "Title": "The Scorpion King",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bea9f6f7-8652-87bd-264d-d8236578430e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id279758640"
+    }
+  ],
+  "in_theaters": false
+}

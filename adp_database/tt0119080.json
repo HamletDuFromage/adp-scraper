@@ -1,0 +1,14 @@
+{
+  "Title": "Eve's Bayou",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44bb349e-3105-a54d-5842-d9eddc0f1a88/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

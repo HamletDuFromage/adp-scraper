@@ -1,0 +1,18 @@
+{
+  "Title": "MacGruber",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/macgruber/5333727769200641112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36131a81-e20e-44a4-be19-c8d052945dd1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Paradise Lost 2: Revelations",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea9f76e-9fb7-d76b-75e9-fdc0812f0d49/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

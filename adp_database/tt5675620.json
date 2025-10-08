@@ -1,0 +1,17 @@
+{
+  "Title": "The Punisher",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/the-punisher/6JOZHgU6cBS3"
+    }
+  ],
+  "in_theaters": false
+}

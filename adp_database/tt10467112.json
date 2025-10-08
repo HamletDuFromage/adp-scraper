@@ -1,0 +1,15 @@
+{
+  "Title": "Safehouse",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/100007133/safehouse"
+    }
+  ],
+  "in_theaters": false
+}

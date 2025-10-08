@@ -1,0 +1,19 @@
+{
+  "Title": "D2: The Mighty Ducks",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/d2-the-mighty-ducks/t92qLjllJsbr"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id492607357"
+    }
+  ],
+  "in_theaters": false
+}

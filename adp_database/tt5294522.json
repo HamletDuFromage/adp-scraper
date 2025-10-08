@@ -1,0 +1,22 @@
+{
+  "Title": "Dreamland",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72babdca-ca04-db75-a282-1bf6d035467f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1536435074"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08NDXBBSS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

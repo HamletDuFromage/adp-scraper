@@ -1,0 +1,17 @@
+{
+  "Title": "Mirror Mirror",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.868c8abc-420a-44c6-9bb9-c45c164394e8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Wiz",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90a9f76e-10cd-76c3-8551-15a5ea944fe3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

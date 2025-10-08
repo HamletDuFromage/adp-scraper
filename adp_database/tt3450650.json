@@ -1,0 +1,20 @@
+{
+  "Title": "Paul Blart: Mall Cop 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56a9f68c-43f0-d492-a187-3b4c1096fc62/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00WA7EWEQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

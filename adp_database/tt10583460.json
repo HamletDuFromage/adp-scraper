@@ -1,0 +1,16 @@
+{
+  "Title": "Radio Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ab7219d-cb28-7d83-d861-22ba8510f50d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

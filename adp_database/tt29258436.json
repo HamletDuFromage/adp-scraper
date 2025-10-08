@@ -1,0 +1,19 @@
+{
+  "Title": "Like Water for Chocolate",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.51372588-98da-4596-a74c-7ceebac89e69/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c42c83dd-a174-433b-8f44-51806de1fba2"
+    }
+  ],
+  "in_theaters": false
+}

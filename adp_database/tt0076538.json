@@ -1,0 +1,21 @@
+{
+  "Title": "Pete's Dragon",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/petes-dragon-1977/6QY3Yg4hO1QO"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id320881145"
+    }
+  ],
+  "in_theaters": false
+}

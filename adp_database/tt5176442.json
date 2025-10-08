@@ -1,0 +1,16 @@
+{
+  "Title": "Nightmare Nurse",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84ab4026-55ec-cbf3-12a8-13d447313bc7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

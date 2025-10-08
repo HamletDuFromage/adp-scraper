@@ -1,0 +1,16 @@
+{
+  "Title": "Beezy Bear",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/beezy-bear/6IRXtqGAMUqs"
+    }
+  ],
+  "in_theaters": false
+}

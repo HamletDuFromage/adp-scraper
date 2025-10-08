@@ -1,0 +1,19 @@
+{
+  "Title": "As Above, So Below",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0a9f7bd-1459-0fea-a364-47f6c53602df/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00N5AHZRS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

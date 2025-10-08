@@ -1,0 +1,19 @@
+{
+  "Title": "61*",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.949a9ce7-e650-4bad-9113-1630c9efb54e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/dc2250d1-8d9b-4945-a694-348893344390"
+    }
+  ],
+  "in_theaters": false
+}

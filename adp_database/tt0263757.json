@@ -1,0 +1,16 @@
+{
+  "Title": "Uptown Girls",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66b2b609-05be-cbbe-0cc2-f5096cbf199c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

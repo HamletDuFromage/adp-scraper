@@ -1,0 +1,17 @@
+{
+  "Title": "Nebraska",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2b31201-4adf-cd45-3501-b02c8b4054a2/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00H9L26AA/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

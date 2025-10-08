@@ -1,0 +1,24 @@
+{
+  "Title": "2001: A Space Odyssey",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92a9f688-d43b-4e9a-b14d-6394c8b616c9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a0c647f6-2a32-4a5d-8659-d4db83a35e3b"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id285993250"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07DXSK8L2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

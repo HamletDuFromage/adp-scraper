@@ -1,0 +1,14 @@
+{
+  "Title": "Grand Army",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80211686"
+    }
+  ],
+  "in_theaters": false
+}

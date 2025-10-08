@@ -1,0 +1,16 @@
+{
+  "Title": "My Best Friend's Wedding",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ea9f79a-edb3-f1b0-b1a8-2c96973fe7c5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

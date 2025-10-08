@@ -1,0 +1,16 @@
+{
+  "Title": "Mirai",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb476a2-f125-b119-968e-09e465e718cd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

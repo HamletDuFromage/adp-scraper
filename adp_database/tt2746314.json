@@ -1,0 +1,18 @@
+{
+  "Title": "Henry Hugglemonster",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Music",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/henry-hugglemonster/5QZLrsw57n0j"
+    }
+  ],
+  "in_theaters": false
+}

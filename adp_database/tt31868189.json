@@ -1,0 +1,15 @@
+{
+  "Title": "Happy Gilmore 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81696722"
+    }
+  ],
+  "in_theaters": false
+}

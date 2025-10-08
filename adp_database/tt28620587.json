@@ -1,0 +1,17 @@
+{
+  "Title": "I Am: Celine Dion",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58c4d9d5-6499-43b8-b049-1c51762f4290/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

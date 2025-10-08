@@ -1,0 +1,23 @@
+{
+  "Title": "Please Don't Destroy: The Treasure of Foggy Mountain",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.879010c0-93b0-499a-a355-0544b41fdccb/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/please-dont-destroy-the-treasure-of-foggy-mountain/95d367f5-06f1-37dd-9c9c-44a8c53faedb"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1732757580"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3002402"
+    }
+  ],
+  "in_theaters": false
+}

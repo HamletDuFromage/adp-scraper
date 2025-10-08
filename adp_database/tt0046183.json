@@ -1,0 +1,21 @@
+{
+  "Title": "Peter Pan",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/peter-pan/20a1PB36VPVF"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1374135975"
+    }
+  ],
+  "in_theaters": false
+}

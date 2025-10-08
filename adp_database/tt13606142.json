@@ -1,0 +1,15 @@
+{
+  "Title": "A Winter Getaway",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8bf41577-01f6-483d-a9d2-831e584f8a7f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

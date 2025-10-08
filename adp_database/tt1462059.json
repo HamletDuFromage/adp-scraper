@@ -1,0 +1,20 @@
+{
+  "Title": "Falling Skies",
+  "Media Type": "Series",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dc13145f-89ba-41d1-9a9f-d8252e1ba517/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/6844d1c9-8569-45de-be6f-8962a4510f7c"
+    }
+  ],
+  "in_theaters": false
+}

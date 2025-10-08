@@ -1,0 +1,17 @@
+{
+  "Title": "Saving the King",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fa59532b-f655-4c51-b0b9-808984317c8a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/bc653936-4aa5-4327-8657-85e6865ab369"
+    }
+  ],
+  "in_theaters": false
+}

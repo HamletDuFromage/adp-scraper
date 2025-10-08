@@ -1,0 +1,15 @@
+{
+  "Title": "Lupin III: The First",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B08JF5JXN5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

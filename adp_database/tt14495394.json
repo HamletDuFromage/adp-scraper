@@ -1,0 +1,17 @@
+{
+  "Title": "A Choice of Weapons: Inspired by Gordon Parks",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4e4b64b4-ba5c-49cf-b631-c0720f7390ca/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/62c382c0-4364-4781-8d02-3b26a3e626ae"
+    }
+  ],
+  "in_theaters": false
+}

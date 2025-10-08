@@ -1,0 +1,21 @@
+{
+  "Title": "Happy Gilmore",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea9f71f-0bdf-80ae-f4ac-00bb9c334716/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id279248826"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70000794"
+    }
+  ],
+  "in_theaters": false
+}

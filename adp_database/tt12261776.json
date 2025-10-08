@@ -1,0 +1,22 @@
+{
+  "Title": "65",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea86179-a801-4ad7-9e7d-06a4a17cffeb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1674680471"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BY124GS2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Patrick and the Whale",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6962be13-206d-46cb-b5a9-b770e2bfc069/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

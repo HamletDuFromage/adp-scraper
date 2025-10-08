@@ -1,0 +1,25 @@
+{
+  "Title": "Allied",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94ac2189-878d-fdd5-7643-6c6c7c93e34b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1172063943"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHZ5K2/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/QmFxcY_hAaxEwselZEAW8s9N9ibukjgY/"
+    }
+  ],
+  "in_theaters": false
+}

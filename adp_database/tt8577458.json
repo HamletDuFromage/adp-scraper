@@ -1,0 +1,17 @@
+{
+  "Title": "High Fidelity",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/high-fidelity-52cb09be-ccc9-4eb4-9db8-f00b0443b2f5"
+    }
+  ],
+  "in_theaters": false
+}

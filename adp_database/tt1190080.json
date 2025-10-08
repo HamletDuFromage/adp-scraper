@@ -1,0 +1,21 @@
+{
+  "Title": "2012",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67160633-d827-4740-b016-029e1f0ef079/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id342429302"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B001OQCV2E/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

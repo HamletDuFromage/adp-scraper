@@ -1,0 +1,25 @@
+{
+  "Title": "Rumours",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d3628db3-a322-4db1-b226-4a3fbe0cac09/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1769083175"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DKL25JPC/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3594719"
+    }
+  ],
+  "in_theaters": false
+}

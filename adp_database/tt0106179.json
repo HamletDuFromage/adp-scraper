@@ -1,0 +1,15 @@
+{
+  "Title": "The X-Files",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-x-files-d6a7aec6-72d2-46bb-b337-2cb412df64c8"
+    }
+  ],
+  "in_theaters": false
+}

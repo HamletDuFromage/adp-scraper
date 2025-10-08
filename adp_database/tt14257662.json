@@ -1,0 +1,20 @@
+{
+  "Title": "MoviePass, MovieCrash",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67ca2a2c-a0fe-4722-8aa3-b279b2c90d3a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/c8d948b0-8963-4e46-a82a-5d47d150ab64"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Shark Tank",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Kids & Family",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/shark-tank-20ed5e79-3fba-4eda-8d84-ed6e33f9a019"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,27 @@
+{
+  "Title": "Black Widow",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b7cde5c1-4edd-42cd-9858-3cf09e52ed26/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46e2b9b1-0e67-4be0-a677-7a12b82a1489/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/black-widow/3VfTap90rwZC"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1576371183"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09DMRGX53/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

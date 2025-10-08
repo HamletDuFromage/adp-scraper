@@ -1,0 +1,18 @@
+{
+  "Title": "Building Off the Grid",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/9cff0070-186b-46f2-86fc-bbbbd54bc7b8"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56bc2c96-54b2-a388-a441-531576cd49d3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Renovation Goldmine",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/193ee3bb-ab64-4ea2-baed-fd824e44ae18"
+    }
+  ],
+  "in_theaters": false
+}

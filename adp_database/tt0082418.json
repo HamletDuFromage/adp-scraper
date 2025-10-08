@@ -1,0 +1,22 @@
+{
+  "Title": "Friday the 13th Part II",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id285929057"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DD79R6VX/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/14813"
+    }
+  ],
+  "in_theaters": false
+}

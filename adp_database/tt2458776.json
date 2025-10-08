@@ -1,0 +1,22 @@
+{
+  "Title": "Disneynature: Bears",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneynature-bears/6aE1rGrfryRI"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id853457609"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00GPWER6U/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

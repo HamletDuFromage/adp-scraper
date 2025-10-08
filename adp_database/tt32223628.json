@@ -1,0 +1,19 @@
+{
+  "Title": "Call Me Country: Beyoncé & Nashville's Renaissance",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0c8b8aad-19ca-415c-b323-576361b80f79/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a5e8e0e1-d0ae-481f-bd4a-ad9720ed0ca8"
+    }
+  ],
+  "in_theaters": false
+}

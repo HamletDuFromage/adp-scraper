@@ -1,0 +1,16 @@
+{
+  "Title": "Big Sky",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/big-sky-ffef9dd4-c116-4bdb-9e76-a7ea41ad95cf"
+    }
+  ],
+  "in_theaters": false
+}

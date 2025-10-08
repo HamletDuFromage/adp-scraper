@@ -1,0 +1,14 @@
+{
+  "Title": "Rejoice and Shout",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6a9f72c-24ba-852c-784c-907a61943051/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

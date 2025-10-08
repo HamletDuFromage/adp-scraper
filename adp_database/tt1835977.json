@@ -1,0 +1,17 @@
+{
+  "Title": "Geek Charming",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/geek-charming/25yqzjQr7Iwa"
+    }
+  ],
+  "in_theaters": false
+}

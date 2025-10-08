@@ -1,0 +1,26 @@
+{
+  "Title": "Babes",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4f8114b1-d6f4-4607-80cf-dbe0931559d8/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/ab89c73b-22b9-4397-b2b2-e0cd5e55a561"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1748723256"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D5BY145S/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3245757"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Barry",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.01f15ed9-7ed0-4ff0-bf5e-9945470d4deb/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/179bdb1c-83f8-4ab7-87ef-47ce3b566a13"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2423658"
+    }
+  ],
+  "in_theaters": false
+}

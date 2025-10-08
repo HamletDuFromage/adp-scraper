@@ -1,0 +1,14 @@
+{
+  "Title": "Pain and Glory",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07ZLK5QZC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

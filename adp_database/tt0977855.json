@@ -1,0 +1,16 @@
+{
+  "Title": "Fair Game",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.13169fc7-d831-4df7-88e4-32bbb371596e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

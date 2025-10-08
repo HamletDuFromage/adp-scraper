@@ -1,0 +1,17 @@
+{
+  "Title": "Vigilante",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "International",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/f7c9515e-9dcd-4464-a744-344ef2892fb8"
+    }
+  ],
+  "in_theaters": false
+}

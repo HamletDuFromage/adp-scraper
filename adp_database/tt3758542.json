@@ -1,0 +1,29 @@
+{
+  "Title": "Ferrari",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fe66f717-560d-449c-916b-04f04731047a/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/a208b2b4-61c2-4add-bfea-8894c3ed886b"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1717633222"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CQTRLP47/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2794781"
+    }
+  ],
+  "in_theaters": false
+}

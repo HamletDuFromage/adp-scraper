@@ -1,0 +1,17 @@
+{
+  "Title": "House of the Dragon: The House That Dragons Built",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ccad42e-7805-4259-b416-c3f046deb9de/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/6ebc8e70-17b0-4a1a-a340-af7d8ce63a82"
+    }
+  ],
+  "in_theaters": false
+}

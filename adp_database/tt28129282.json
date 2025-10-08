@@ -1,0 +1,17 @@
+{
+  "Title": "Blood Coast",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81462496"
+    }
+  ],
+  "in_theaters": false
+}

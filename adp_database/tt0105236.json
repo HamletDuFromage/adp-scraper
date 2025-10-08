@@ -1,0 +1,15 @@
+{
+  "Title": "Reservoir Dogs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44b657e7-387d-5704-0699-bb35ae495598/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

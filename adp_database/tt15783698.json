@@ -1,0 +1,18 @@
+{
+  "Title": "South Park: The Streaming Wars Part 1",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/Rc4DHb2MiyJbgO2lJuibS9RigcEfyHc9/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3b5f29a2-0d34-42b6-abe4-5ac702bc5174/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

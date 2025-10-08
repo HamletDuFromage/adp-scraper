@@ -1,0 +1,18 @@
+{
+  "Title": "Home Town",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ebc0e2f-6e9d-7d52-f01c-8a4643f31f3f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/68f50d68-b1fa-4617-a564-3a86b7a36709"
+    }
+  ],
+  "in_theaters": false
+}

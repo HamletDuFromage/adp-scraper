@@ -1,0 +1,21 @@
+{
+  "Title": "The Photograph",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84b7fe81-517c-60f4-82bb-d7801b416cb2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1497570231"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B084DGNLNT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

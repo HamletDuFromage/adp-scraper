@@ -1,0 +1,19 @@
+{
+  "Title": "Andor",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/824d7b03-c15e-45ee-a515-522426ec08b2"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/andor/3xsQKWG00GL5"
+    }
+  ],
+  "in_theaters": false
+}

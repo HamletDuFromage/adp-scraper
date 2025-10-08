@@ -1,0 +1,15 @@
+{
+  "Title": "Beach Hunters",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ebc22e2-4957-4227-01d8-35dc26eb3e6b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

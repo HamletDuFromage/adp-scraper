@@ -1,0 +1,17 @@
+{
+  "Title": "Dear Edward",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.23f3379f-6380-4029-bfb8-1783c3ac5fb5/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2rp99884b0rpc42alv86h960b"
+    }
+  ],
+  "in_theaters": false
+}

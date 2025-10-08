@@ -1,0 +1,17 @@
+{
+  "Title": "And Just Like That... The Documentary",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.853cce48-89c6-41b5-bd23-b296ae6d1626/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6e9182a2-0c2d-48a8-8986-499f36b61159"
+    }
+  ],
+  "in_theaters": false
+}

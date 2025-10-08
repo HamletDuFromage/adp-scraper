@@ -1,0 +1,27 @@
+{
+  "Title": "Inside Out",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42a9f723-f04d-a048-5719-03e27dfc0d03/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/inside-out/uzQ2ycVDi2IE"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id999607190"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013FAF96G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Seduced",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34ac27cc-4119-f5d7-8458-e75a3c69270a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

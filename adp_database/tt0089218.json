@@ -1,0 +1,16 @@
+{
+  "Title": "The Goonies",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f40ce267-4c2e-4155-a005-fb672ff81f74/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

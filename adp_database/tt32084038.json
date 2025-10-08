@@ -1,0 +1,15 @@
+{
+  "Title": "Hip Hop World",
+  "Media Type": "Series",
+  "Rating": "7+",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a38a688c-3448-4730-b1aa-1f6fe048dc85/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

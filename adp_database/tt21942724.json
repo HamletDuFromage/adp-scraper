@@ -1,0 +1,21 @@
+{
+  "Title": "Slumberkins",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f34b7084-00ac-4e49-9cf4-c5e949dd8494/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4r9fjly8gp831gqkfe8ft1xrb"
+    }
+  ],
+  "in_theaters": false
+}

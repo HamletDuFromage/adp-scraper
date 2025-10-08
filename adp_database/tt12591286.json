@@ -1,0 +1,19 @@
+{
+  "Title": "Lost Speedways",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "History",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/lost-speedways/8244217463726854112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d7ce856b-6a01-46a5-9cf4-a0d045ffe927/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "The Aristocats",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-aristocats/6bJkap2npPJr"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id548877390"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06b76cae-22d2-57ac-1670-98ce9e8aa9b3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

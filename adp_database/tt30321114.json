@@ -1,0 +1,14 @@
+{
+  "Title": "Power",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81416254"
+    }
+  ],
+  "in_theaters": false
+}

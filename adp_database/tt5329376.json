@@ -1,0 +1,19 @@
+{
+  "Title": "Beware the Slenderman",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78aab784-b14f-4357-b266-5a90ce0e2129/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/7d311e1b-d7d1-4536-a612-68dedd60835e"
+    }
+  ],
+  "in_theaters": false
+}

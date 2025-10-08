@@ -1,0 +1,20 @@
+{
+  "Title": "Nanny McPhee Returns",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4a9f688-8530-ab0a-4a95-04ab825107e5/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003L20IJM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

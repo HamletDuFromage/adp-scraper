@@ -1,0 +1,14 @@
+{
+  "Title": "The Breaker Upperers",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80992672"
+    }
+  ],
+  "in_theaters": false
+}

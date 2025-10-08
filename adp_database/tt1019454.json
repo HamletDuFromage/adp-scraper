@@ -1,0 +1,15 @@
+{
+  "Title": "Taking Chance",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/256c450f-006f-4911-b92f-89f942f41f26"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "May the 12th Be with You",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-28a4c172-5dda-460f-a7e0-98d29c5b3d7f"
+    }
+  ],
+  "in_theaters": false
+}

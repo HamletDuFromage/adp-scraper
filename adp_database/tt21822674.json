@@ -1,0 +1,15 @@
+{
+  "Title": "The Great American Baking Show",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/d2c1397576065492a30b905226d840f4/the-great-american-baking-show"
+    }
+  ],
+  "in_theaters": false
+}

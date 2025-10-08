@@ -1,0 +1,17 @@
+{
+  "Title": "The Comeback",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bf685621-1e91-4ac3-858b-09feea713329/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3235a74a-6fad-4a3a-875d-ef16b1be82e8"
+    }
+  ],
+  "in_theaters": false
+}

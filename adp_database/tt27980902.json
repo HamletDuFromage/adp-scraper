@@ -1,0 +1,19 @@
+{
+  "Title": "Psycho: The Lost Tapes of Ed Gein",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.83ccab43-ee01-4104-a860-2d87c04b3e05/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/series/psycho-the-lost-tapes-of-ed-gein"
+    }
+  ],
+  "in_theaters": false
+}

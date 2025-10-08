@@ -1,0 +1,17 @@
+{
+  "Title": "The Holiday Calendar",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80242446"
+    }
+  ],
+  "in_theaters": false
+}

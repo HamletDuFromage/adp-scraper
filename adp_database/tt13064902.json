@@ -1,0 +1,15 @@
+{
+  "Title": "FUBAR",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81397077"
+    }
+  ],
+  "in_theaters": false
+}

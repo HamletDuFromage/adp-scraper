@@ -1,0 +1,18 @@
+{
+  "Title": "The Call",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00BEIYIF0/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70267128"
+    }
+  ],
+  "in_theaters": false
+}

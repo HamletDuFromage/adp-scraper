@@ -1,0 +1,19 @@
+{
+  "Title": "The Eyes of Tammy Faye",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.835a5520-c937-4a67-94b4-a0fbd4283b47/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09KVCPVNC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

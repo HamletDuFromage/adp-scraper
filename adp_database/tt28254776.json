@@ -1,0 +1,18 @@
+{
+  "Title": "Raid the Cage",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ec2ad5cc-701b-4f15-ad23-7c107a13b24d/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/raid-the-cage/"
+    }
+  ],
+  "in_theaters": false
+}

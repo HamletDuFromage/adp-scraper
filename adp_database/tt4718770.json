@@ -1,0 +1,17 @@
+{
+  "Title": "The Wiz Live!",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "BroadwayHD": "https://www.broadwayhd.com/interstitial/800679"
+    }
+  ],
+  "in_theaters": false
+}

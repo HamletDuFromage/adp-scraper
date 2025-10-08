@@ -1,0 +1,17 @@
+{
+  "Title": "The Other Side",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4fe11aec-f69a-459a-b59a-91cb016e6dc7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/502c605a-eec8-45e7-821a-0cbbf840967b"
+    }
+  ],
+  "in_theaters": false
+}

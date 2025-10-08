@@ -1,0 +1,14 @@
+{
+  "Title": "Goodnight Mommy",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.458098cf-62fb-4598-a8a5-fa1d7786617c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

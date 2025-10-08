@@ -1,0 +1,22 @@
+{
+  "Title": "Embattled",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1536119068"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08YDQVWDM/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8a21677-127e-4c48-b60b-6f635ca6fda9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

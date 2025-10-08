@@ -1,0 +1,15 @@
+{
+  "Title": "The Outsiders",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ab1de22-ae01-7728-d1e9-b1f0defeca86/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

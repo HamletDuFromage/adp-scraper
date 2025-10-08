@@ -1,0 +1,16 @@
+{
+  "Title": "Ms. Matched",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8afcf2b-4512-36e8-0408-4ac024889a85/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

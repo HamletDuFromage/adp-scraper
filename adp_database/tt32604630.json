@@ -1,0 +1,15 @@
+{
+  "Title": "Christmas at Xander Point",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fc5189d8-2d53-4a36-90b4-bcc6c2909dc0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

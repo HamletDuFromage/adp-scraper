@@ -1,0 +1,17 @@
+{
+  "Title": "Saint X",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/saint-x-c20d4b58-2a57-462f-9ba9-9774928888a9"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "X-Men: The Last Stand",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8eb877c4-3a1a-c76d-2c30-326744ffc73a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id278416826"
+    }
+  ],
+  "in_theaters": false
+}

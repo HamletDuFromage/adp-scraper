@@ -1,0 +1,21 @@
+{
+  "Title": "The Pope's Exorcist",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5235493e-b516-4dc0-a4ba-9d192b922255/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1678803325"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C1HG8B8H/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

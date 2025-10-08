@@ -1,0 +1,17 @@
+{
+  "Title": "The Little Drummer Boy",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Animation",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.372640f9-2eec-43af-8c93-85e038c753da/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Veneno",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e10f3ee3-091d-439a-b5ad-0897cd47306c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/2a482152-4f07-4c58-8f07-429bc7fd4d24"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Havoc",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81330790"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Ne Zha II",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1833287869"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ef847e64-ff55-491f-aacd-550d93b9b0a1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

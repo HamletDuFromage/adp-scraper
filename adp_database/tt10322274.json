@@ -1,0 +1,14 @@
+{
+  "Title": "Schumacher",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81399204"
+    }
+  ],
+  "in_theaters": false
+}

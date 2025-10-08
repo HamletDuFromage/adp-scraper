@@ -1,0 +1,29 @@
+{
+  "Title": "Den of Thieves 2: Pantera",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81677440"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b61d606-4642-4fc5-9ae7-ed8f0a3a2a57/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1788128499"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DQ3ZNYL3/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3820998"
+    }
+  ],
+  "in_theaters": false
+}

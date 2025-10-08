@@ -1,0 +1,15 @@
+{
+  "Title": "Cold Case: The Tylenol Murders",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81757969"
+    }
+  ],
+  "in_theaters": false
+}

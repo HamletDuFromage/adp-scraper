@@ -1,0 +1,21 @@
+{
+  "Title": "Gravity Falls",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/gravity-falls-5d931e25-bd29-46f2-9baf-b5a0b4c001f8"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/disney-gravity-falls/HZxayxzMJqed"
+    }
+  ],
+  "in_theaters": false
+}

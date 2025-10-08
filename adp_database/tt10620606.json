@@ -1,0 +1,15 @@
+{
+  "Title": "The Now",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/b79af3dbc9415bc9a46640419ffd4387/the-now"
+    }
+  ],
+  "in_theaters": false
+}

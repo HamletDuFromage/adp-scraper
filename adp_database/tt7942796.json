@@ -1,0 +1,15 @@
+{
+  "Title": "Magnum P.I.",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2026555"
+    }
+  ],
+  "in_theaters": false
+}

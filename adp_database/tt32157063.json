@@ -1,0 +1,18 @@
+{
+  "Title": "An Update on Our Family",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.927aaeec-4701-42b6-aa59-2f9ef7913154/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f23bdf62-080d-45be-9462-5a5fcaac0d9e"
+    }
+  ],
+  "in_theaters": false
+}

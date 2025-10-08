@@ -1,0 +1,17 @@
+{
+  "Title": "The Residence",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81005297"
+    }
+  ],
+  "in_theaters": false
+}

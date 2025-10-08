@@ -1,0 +1,16 @@
+{
+  "Title": "Bill Nye Saves the World",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "TV Variety",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80117748"
+    }
+  ],
+  "in_theaters": false
+}

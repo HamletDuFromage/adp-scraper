@@ -1,0 +1,22 @@
+{
+  "Title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38aa779d-ddd9-2d1f-82c1-f087b994e251/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01GK5HE9I/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/teenage-mutant-ninja-turtles-out-of-the-shadows/NX7LTAMBM9GBHmRtWW9gQdr2TTBLY04D"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Ides of March",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id482275337"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0060ZJ7DA/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

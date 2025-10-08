@@ -1,0 +1,18 @@
+{
+  "Title": "The Unbreakable Tatiana Suarez",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.027303de-5e64-47d2-8c3f-778bfc375aa1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/3e6dfdff-3915-4a84-9205-2eecdbc082fb"
+    }
+  ],
+  "in_theaters": false
+}

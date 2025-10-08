@@ -1,0 +1,15 @@
+{
+  "Title": "NFL Draft: The Pick Is In",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/ec036c44fc599c78bacf350a639722ef/nfl-draft-the-pick-is-in"
+    }
+  ],
+  "in_theaters": false
+}

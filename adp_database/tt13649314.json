@@ -1,0 +1,18 @@
+{
+  "Title": "Irma Vep",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bc28d840-2a7f-4e49-844b-3a2b966656ec/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/10491659-4d1c-45af-8ab2-2774fbd3f48e"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Magic Mike XXL",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f66d-41d0-f4af-a0bb-8037ad168dbc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1008667548"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B010W0OJM2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

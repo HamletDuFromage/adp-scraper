@@ -1,0 +1,16 @@
+{
+  "Title": "Something's Gotta Give",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40a9f66a-c295-7b8a-f82e-dd7e170e193f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

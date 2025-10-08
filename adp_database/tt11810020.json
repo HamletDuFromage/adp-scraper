@@ -1,0 +1,17 @@
+{
+  "Title": "Aida Rodriguez: Fighting Words",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.29cc1b81-8f68-476a-95d0-7c466c30bb0f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/391be9a9-7a56-427a-8d75-99eaf212c92d"
+    }
+  ],
+  "in_theaters": false
+}

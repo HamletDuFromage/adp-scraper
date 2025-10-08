@@ -1,0 +1,18 @@
+{
+  "Title": "Inherent Vice",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id935074762"
+    }
+  ],
+  "in_theaters": false
+}

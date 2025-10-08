@@ -1,0 +1,18 @@
+{
+  "Title": "Sins of the Amish",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/sins-of-the-amish/6438550744953904112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.671de826-1cce-43a0-9e34-e84bed0d14a2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

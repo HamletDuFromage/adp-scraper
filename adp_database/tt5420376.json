@@ -1,0 +1,17 @@
+{
+  "Title": "Riverdale",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80133311"
+    }
+  ],
+  "in_theaters": false
+}

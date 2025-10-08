@@ -1,0 +1,18 @@
+{
+  "Title": "The Big Bad Wolf",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-big-bad-wolf/2qn769m27Rdh"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Birth of Planet Earth",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "MagellanTV": "https://www.magellantv.com/video/birth-of-planet-earth"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "The Munsters",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.553736ee-3c6d-4cf5-a996-b4b9e9aa6602/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1643229661"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2108651"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Friday Night Lights",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dca9f76a-fd54-af8a-b2f3-a5ff0b78f8c9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

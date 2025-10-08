@@ -1,0 +1,17 @@
+{
+  "Title": "Mr. & Mrs. Smith",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62a9f7bf-afbc-a589-0a7b-fee5fefe2ca2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

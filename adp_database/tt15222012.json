@@ -1,0 +1,17 @@
+{
+  "Title": "Buried",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4275415c-cd09-41a0-bdfb-49447a501a26/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

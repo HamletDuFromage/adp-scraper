@@ -1,0 +1,19 @@
+{
+  "Title": "Bambi",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/bambi/2s64jMJasyNO"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id415724828"
+    }
+  ],
+  "in_theaters": false
+}

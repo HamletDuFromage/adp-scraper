@@ -1,0 +1,19 @@
+{
+  "Title": "El Chicano",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1470128735"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07SHYD1BC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

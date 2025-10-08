@@ -1,0 +1,16 @@
+{
+  "Title": "Higher Power",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8b19e23-be42-686e-ee3e-9d19f9fba2d6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

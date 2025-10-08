@@ -1,0 +1,19 @@
+{
+  "Title": "The Ark",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-ark/4616187132054168112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4a995ff-45d8-4d48-adf2-a3fa18d41bee/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

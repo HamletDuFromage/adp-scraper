@@ -1,0 +1,17 @@
+{
+  "Title": "Queen of the Desert",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ea799b1e-192d-4412-8648-567da39383de/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

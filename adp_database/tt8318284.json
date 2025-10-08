@@ -1,0 +1,15 @@
+{
+  "Title": "The Legion",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60b8e97c-13d7-eb6d-6d07-92a68e157d03/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

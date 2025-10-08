@@ -1,0 +1,24 @@
+{
+  "Title": "The Last Voyage of the Demeter",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ce898ff2-e7af-4604-9d94-85f725444911/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1699899262"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CF47LD53/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2534897"
+    }
+  ],
+  "in_theaters": false
+}

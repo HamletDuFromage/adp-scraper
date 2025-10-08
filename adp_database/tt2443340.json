@@ -1,0 +1,16 @@
+{
+  "Title": "Motive",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5aa9f714-b013-9af9-46e5-7cbd10ba950a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "What Dreams May Come",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aa9f70b-9da3-7eb1-00e3-54c39659be23/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

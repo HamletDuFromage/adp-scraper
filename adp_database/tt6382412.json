@@ -1,0 +1,15 @@
+{
+  "Title": "Love Locks",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8b00266-b7a8-fb74-f211-acc120aefcee/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

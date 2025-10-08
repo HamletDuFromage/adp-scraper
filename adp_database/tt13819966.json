@@ -1,0 +1,17 @@
+{
+  "Title": "Call Me Ted",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.410472da-436a-48a1-9244-065571fbe779/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a7cff84a-b6ef-46bf-967c-511dc2a8a90e"
+    }
+  ],
+  "in_theaters": false
+}

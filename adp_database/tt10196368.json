@@ -1,0 +1,16 @@
+{
+  "Title": "Nothing Compares",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2135710"
+    }
+  ],
+  "in_theaters": false
+}

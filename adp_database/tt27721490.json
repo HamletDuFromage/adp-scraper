@@ -1,0 +1,19 @@
+{
+  "Title": "Tornado",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1816303660"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cd0bb9c0-2954-4ebf-a70a-8482a4986868/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

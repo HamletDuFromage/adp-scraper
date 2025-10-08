@@ -1,0 +1,19 @@
+{
+  "Title": "The Night Of",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/64c9bde2-1bef-4c8b-91fa-3f3c4e2ec9c3"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24abac51-dea5-de43-a9d3-1849b6e44c32/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "HGTV Dream Home",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/dde1e102-02cc-4ab9-8972-66f71d2a7f58"
+    }
+  ],
+  "in_theaters": false
+}

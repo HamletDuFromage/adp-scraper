@@ -1,0 +1,25 @@
+{
+  "Title": "Respect",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.75a6674c-a64c-44bf-b52f-011b7e6ed8ed/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1577284195"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09BGV3YCT/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/respect-2021"
+    }
+  ],
+  "in_theaters": false
+}

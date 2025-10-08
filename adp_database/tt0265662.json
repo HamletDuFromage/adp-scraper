@@ -1,0 +1,19 @@
+{
+  "Title": "The Rookie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-rookie/TOkRSKuK6saK"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8b8ab87-3175-2aae-bdac-6b267594fca3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

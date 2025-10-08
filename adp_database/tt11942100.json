@@ -1,0 +1,14 @@
+{
+  "Title": "Ladies Up",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81146335"
+    }
+  ],
+  "in_theaters": false
+}

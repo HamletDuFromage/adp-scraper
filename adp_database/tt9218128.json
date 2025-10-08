@@ -1,0 +1,27 @@
+{
+  "Title": "Gladiator II",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ee4ad903-6f64-42e9-a10d-a615236be795/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1775657987"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DNKK7H5S/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3658216"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/e7rqmb3RCGcEJBB4o3n6DaOakuhF2eUP/"
+    }
+  ],
+  "in_theaters": false
+}

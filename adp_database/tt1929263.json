@@ -1,0 +1,22 @@
+{
+  "Title": "Heaven is for Real",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f749-1aee-8d4b-266f-176d0e743783/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id854037478"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00KDK64DY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

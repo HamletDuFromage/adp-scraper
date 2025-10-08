@@ -1,0 +1,17 @@
+{
+  "Title": "Slumberland",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81220825"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Rare Objects",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1de11ef7-ed25-4dda-bbfb-bd4ee9477c5a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1676373541"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BZG83WBH/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

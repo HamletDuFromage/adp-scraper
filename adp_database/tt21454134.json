@@ -1,0 +1,24 @@
+{
+  "Title": "The Bikeriders",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.492619d7-83cf-4bcd-bc42-7bc82a31a86a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1751398344"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D4X1RVV9/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3314901"
+    }
+  ],
+  "in_theaters": false
+}

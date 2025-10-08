@@ -1,0 +1,18 @@
+{
+  "Title": "Super Buddies",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/super-buddies/6qnin3Wcu9CQ"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id681697470"
+    }
+  ],
+  "in_theaters": false
+}

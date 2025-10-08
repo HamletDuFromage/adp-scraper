@@ -1,0 +1,21 @@
+{
+  "Title": "Together",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1821541535"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4460334"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7af05cc6-aece-435c-9621-86ec47344195/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

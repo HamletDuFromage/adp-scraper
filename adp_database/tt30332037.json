@@ -1,0 +1,20 @@
+{
+  "Title": "Isadora Moon",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bb747c4b-1305-48e3-b4ba-acec1f46b91d/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/396c348f-d92a-4bbb-8282-88434a3d06df"
+    }
+  ],
+  "in_theaters": false
+}

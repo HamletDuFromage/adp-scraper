@@ -1,0 +1,15 @@
+{
+  "Title": "The Grinch",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Animation",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bcb3c57a-7581-7d30-af92-0db26d4103cd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

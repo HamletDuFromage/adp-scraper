@@ -1,0 +1,15 @@
+{
+  "Title": "Bayonet",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80188579"
+    }
+  ],
+  "in_theaters": false
+}

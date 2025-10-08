@@ -1,0 +1,25 @@
+{
+  "Title": "Finch",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.47dkj9f2ho3h8dwxixflz65q5"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2858688e-89e1-43f8-baf3-47d88fbbb02c/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4287275"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1805971461"
+    }
+  ],
+  "in_theaters": false
+}

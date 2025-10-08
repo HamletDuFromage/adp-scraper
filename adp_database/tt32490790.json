@@ -1,0 +1,18 @@
+{
+  "Title": "Camp Snoopy",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.279fe9ab-d790-4047-8385-3aea64a06992/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4erhnrmkf9vgeojl3uryxsc0j"
+    }
+  ],
+  "in_theaters": false
+}

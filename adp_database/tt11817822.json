@@ -1,0 +1,19 @@
+{
+  "Title": "Music Box: DMX: Don't Try to Understand",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cc2c923-e81b-48a3-a608-7776112cecef/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/cf85e63f-ddcb-4899-9e17-25c903623807"
+    }
+  ],
+  "in_theaters": false
+}

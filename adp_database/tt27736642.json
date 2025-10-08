@@ -1,0 +1,19 @@
+{
+  "Title": "Cyndi Lauper: Let the Canary Sing",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.750fb82b-eaeb-48cd-bc47-cd7889c4e20c/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/7Oa_0CTzik5mAXjqSL_8kyriQxTr7nLW/"
+    }
+  ],
+  "in_theaters": false
+}

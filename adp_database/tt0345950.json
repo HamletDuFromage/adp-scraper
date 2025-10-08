@@ -1,0 +1,26 @@
+{
+  "Title": "The SpongeBob SquarePants Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c47233b5-47b2-4d54-abbf-e758c6233ec9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id218728096"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/46302"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/mM6oBlGnK1Tt1OzTyjM8vc_0QE1vui9k/"
+    }
+  ],
+  "in_theaters": false
+}

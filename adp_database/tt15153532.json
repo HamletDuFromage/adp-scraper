@@ -1,0 +1,25 @@
+{
+  "Title": "Strays",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b3bc145f-67e9-438e-a438-6cd003ff6968/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1701159224"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CFW4S2YC/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2538250"
+    }
+  ],
+  "in_theaters": false
+}

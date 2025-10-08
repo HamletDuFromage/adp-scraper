@@ -1,0 +1,18 @@
+{
+  "Title": "The End of the Tour",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.07db9581-d25b-42db-aeee-4f8bfb7d34a0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1012860038"
+    }
+  ],
+  "in_theaters": false
+}

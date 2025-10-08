@@ -1,0 +1,26 @@
+{
+  "Title": "The Iron Claw",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.828de8c9-cce7-46ea-8a03-008b85d1779f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/fa5b9ea1-cd7f-42c9-9be9-2a48ece645f5"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1725461211"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2794806"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Halloweentown High",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/halloweentown-high/5vwJNkHUiI72"
+    }
+  ],
+  "in_theaters": false
+}

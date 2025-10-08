@@ -1,0 +1,17 @@
+{
+  "Title": "The Black Demon",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a24b7c84-a30c-4387-b0db-83b03e8a0142/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

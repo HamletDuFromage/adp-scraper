@@ -1,0 +1,14 @@
+{
+  "Title": "Supermarket Sweep",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/supermarket-sweep-b63e1f92-915d-405f-b906-8e3e10a52412"
+    }
+  ],
+  "in_theaters": false
+}

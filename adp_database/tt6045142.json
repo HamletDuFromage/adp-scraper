@@ -1,0 +1,16 @@
+{
+  "Title": "Dr. Pimple Popper",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Medical",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6bc34b7-953c-0409-7913-69b0a10b2a2e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

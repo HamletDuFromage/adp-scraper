@@ -1,0 +1,16 @@
+{
+  "Title": "Derek DelGaudio's In & Of Itself",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/derek-delgaudios-in-of-itself-19b9d405-40b2-483e-8e1f-e25fe10c7299"
+    }
+  ],
+  "in_theaters": false
+}

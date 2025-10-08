@@ -1,0 +1,24 @@
+{
+  "Title": "Safe House",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66a9f740-6cea-9130-3a30-6d8d1f15e806/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id508228505"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIGRS/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70208104"
+    }
+  ],
+  "in_theaters": false
+}

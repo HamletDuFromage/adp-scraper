@@ -1,0 +1,23 @@
+{
+  "Title": "Gabby Giffords Won't Back Down",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.89e10acb-e110-43c7-a84d-8640af379126/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1636072916"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2073487"
+    }
+  ],
+  "in_theaters": false
+}

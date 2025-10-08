@@ -1,0 +1,29 @@
+{
+  "Title": "Guardians of the Galaxy Vol. 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88add8de-99e8-9195-03dd-31a333a9eeda/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82b841af-9ff6-bb78-539a-075c566ecc73/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-guardians-of-the-galaxy-vol-2/ZdRX4mMbp1gM"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1225848804"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B071CKB1RF/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

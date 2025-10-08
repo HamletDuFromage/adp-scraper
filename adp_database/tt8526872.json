@@ -1,0 +1,16 @@
+{
+  "Title": "Dolemite is My Name",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80182014"
+    }
+  ],
+  "in_theaters": false
+}

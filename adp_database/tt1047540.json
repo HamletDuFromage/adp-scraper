@@ -1,0 +1,18 @@
+{
+  "Title": "Parental Guidance",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id598396923"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00AYRIUOC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

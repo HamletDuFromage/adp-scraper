@@ -1,0 +1,25 @@
+{
+  "Title": "F9: The Fast Saga",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cc7b5e88-4cf8-42a8-ad13-9b41a80d5436/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5e710f0e-9bb6-49eb-99b0-b0979e9cf127/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1576781847"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B097SGTTXX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

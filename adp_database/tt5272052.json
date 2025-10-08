@@ -1,0 +1,17 @@
+{
+  "Title": "Marvel Super Hero Adventures: Frost Fight!",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-super-hero-adventures-frost-fight/4DqMzaDqRbpk"
+    }
+  ],
+  "in_theaters": false
+}

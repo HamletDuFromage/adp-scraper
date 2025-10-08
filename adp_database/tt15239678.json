@@ -1,0 +1,34 @@
+{
+  "Title": "Dune: Part Two",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1bd1ce1d-8d09-4512-8aea-4f92f948063b/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9392c069-96f9-421b-ac7a-275308e1327a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f0a4f239-0b57-47e2-a39a-54fb96925e61"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1725365997"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CW361P54/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3031334"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5eb8f22237ccbe0041723253&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Notting Hill",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34a9f741-a748-63b1-1f54-fec118de2a23/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

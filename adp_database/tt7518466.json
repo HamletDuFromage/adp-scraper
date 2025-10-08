@@ -1,0 +1,16 @@
+{
+  "Title": "Conor McGregor: Notorious",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4afd3ef-3b31-9b77-6036-d1e5ae32817a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

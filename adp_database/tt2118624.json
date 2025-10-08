@@ -1,0 +1,16 @@
+{
+  "Title": "The Final Girls",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cca9f70c-d177-3c2b-be1c-1d83d5d8a80b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

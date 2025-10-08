@@ -1,0 +1,21 @@
+{
+  "Title": "American Hustle",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2b78a47-a91a-4e0b-1522-ece7a0d3baba/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id774456362"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00GMV8M2Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

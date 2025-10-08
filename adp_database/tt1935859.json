@@ -1,0 +1,27 @@
+{
+  "Title": "Miss Peregrine's Home for Peculiar Children",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4b8e62a-72ea-1d02-2b6c-eddfe22d33b3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a7681b94-b011-47af-a9fa-9729e131cfe8"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1151555161"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHN5RW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

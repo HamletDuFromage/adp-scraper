@@ -1,0 +1,20 @@
+{
+  "Title": "Silo",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "LGBTQ",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70f6c0ef-d26b-49f2-804f-3672af2330b4/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.3yksgc857px0k0rqe5zd4jice"
+    }
+  ],
+  "in_theaters": false
+}

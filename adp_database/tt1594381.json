@@ -1,0 +1,18 @@
+{
+  "Title": "Team Umizoomi",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d49e6ea1-2dfd-4647-8d3f-15b81eb11c5b/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/team-umizoomi/"
+    }
+  ],
+  "in_theaters": false
+}

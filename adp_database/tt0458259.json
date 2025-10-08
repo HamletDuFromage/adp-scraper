@@ -1,0 +1,17 @@
+{
+  "Title": "Dirty Jobs",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/44956ac1-39e5-45a9-a2ff-5cabdd9db8c9"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f74311ca-a698-462f-a4e3-5a8153cf1001/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "Footloose",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4baa9b95-4396-4bda-b74f-66792ba65bc3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id480086254"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002ZG97LK/audiodescriin-20"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/movies/64308cc28cd0fd001a190a3d"
+    }
+  ],
+  "in_theaters": false
+}

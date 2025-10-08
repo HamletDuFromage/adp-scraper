@@ -1,0 +1,14 @@
+{
+  "Title": "Ralph Barbosa: Planet Bosa",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/6c73fde6-8c0f-4b22-9ff3-8bf88fac48ed"
+    }
+  ],
+  "in_theaters": false
+}

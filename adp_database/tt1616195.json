@@ -1,0 +1,17 @@
+{
+  "Title": "J. Edgar",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f7c6-6cad-c90d-4eab-e7f079b3e088/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

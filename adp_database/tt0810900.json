@@ -1,0 +1,21 @@
+{
+  "Title": "High School Musical 2",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/high-school-musical-2/1H14h8tRsDzT"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49f38d31-1f50-4660-ab84-14e6289e2030/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

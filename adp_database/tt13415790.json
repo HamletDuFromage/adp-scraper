@@ -1,0 +1,17 @@
+{
+  "Title": "The Last Cruise",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4b10a369-35c2-4ca7-97ce-9251b8e0b30e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/7abd324e-db1e-4666-a33b-5b283fe6a7b7"
+    }
+  ],
+  "in_theaters": false
+}

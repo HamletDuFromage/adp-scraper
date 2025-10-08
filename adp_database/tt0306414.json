@@ -1,0 +1,19 @@
+{
+  "Title": "The Wire",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d348d6fe-0131-4301-902d-a0ab15cf50ee/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1bc3aff5-0d6a-4c0b-8ed0-5716ca30ab3b"
+    }
+  ],
+  "in_theaters": false
+}

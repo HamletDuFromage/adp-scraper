@@ -1,0 +1,16 @@
+{
+  "Title": "Chilling Adventures of Sabrina",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80223989"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Strange Magic",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/strange-magic/3bvopAy98Pgs"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id958273439"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00UO6IEUI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

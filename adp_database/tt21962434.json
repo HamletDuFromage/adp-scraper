@@ -1,0 +1,17 @@
+{
+  "Title": "Hope Street Holiday",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16b1486a-1d30-46cb-bef6-78fab2b2da61/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

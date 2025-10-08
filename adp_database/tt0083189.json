@@ -1,0 +1,18 @@
+{
+  "Title": "They All Laughed",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14aa07f0-6907-4aa8-bb29-d6fdf2aef360/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/bc6de4b6-3cd8-49ee-8ea2-61cfd4e46c31"
+    }
+  ],
+  "in_theaters": false
+}

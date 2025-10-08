@@ -1,0 +1,22 @@
+{
+  "Title": "Mark Felt - The Man Who Brought Down the White House",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70afb79a-d1b9-259c-d83b-f1f11d201e1b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1298320361"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B076ZR2F99/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

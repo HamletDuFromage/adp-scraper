@@ -1,0 +1,16 @@
+{
+  "Title": "Tremors",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f7aa-6a3d-5b39-adaf-1a640140b3bb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

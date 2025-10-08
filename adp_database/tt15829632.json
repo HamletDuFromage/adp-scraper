@@ -1,0 +1,16 @@
+{
+  "Title": "The Simpsons in Plusaversary",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-simpsons-in-plusaversary/5SbHJwYWYey8"
+    }
+  ],
+  "in_theaters": false
+}

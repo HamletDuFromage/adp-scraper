@@ -1,0 +1,18 @@
+{
+  "Title": "Oprah Talks COVID-19",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "News",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1217e233-7e24-4efa-90da-834e3dddb03c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/us/show/oprah-talks-covid-19/umc.cmc.1xr8rwhaw9pkks7bvzy44dezt?l=en"
+    }
+  ],
+  "in_theaters": false
+}

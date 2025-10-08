@@ -1,0 +1,15 @@
+{
+  "Title": "Mr. & Mrs. Murder",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/0107ca3a-4c69-4c22-a2da-536183bfdbf9"
+    }
+  ],
+  "in_theaters": false
+}

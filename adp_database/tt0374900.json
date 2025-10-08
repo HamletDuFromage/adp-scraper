@@ -1,0 +1,20 @@
+{
+  "Title": "Napoleon Dynamite",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3cb4b9cb-fc90-d86e-602f-4fd5d96d10a2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id270007388"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/8419"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Extended Family",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/extended-family/7433210482869984112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a0e13ba-1f0b-48f9-97ec-916e8e14edd1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

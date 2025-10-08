@@ -1,0 +1,17 @@
+{
+  "Title": "Fireball: Visitors from Darker Worlds",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.074e13c0-4ac5-41b5-9afa-5ece85c5881c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.4kxqi7mmx247xjrdfll0lsme1"
+    }
+  ],
+  "in_theaters": false
+}

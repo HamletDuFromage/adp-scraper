@@ -1,0 +1,15 @@
+{
+  "Title": "Dracula's Hidden Kingdom",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6bc94a31-2091-4e6a-96f9-bcb60fdf6d57/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

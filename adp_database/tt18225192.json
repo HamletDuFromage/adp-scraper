@@ -1,0 +1,18 @@
+{
+  "Title": "Omnivore",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Food & Home"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4a309477-bd21-45b9-8712-5fb1170284cd/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.3m567dtk8qcawdjwnagsr1jbs"
+    }
+  ],
+  "in_theaters": false
+}

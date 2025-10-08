@@ -1,0 +1,25 @@
+{
+  "Title": "The House",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3aae6204-22c5-db52-5ead-72269d2d48cc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1249200924"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B074R3ZMZH/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f0b1b34c-f464-4595-8255-0fab7c88dc23"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Temptation Island",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81744518"
+    }
+  ],
+  "in_theaters": false
+}

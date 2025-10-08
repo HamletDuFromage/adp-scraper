@@ -1,0 +1,15 @@
+{
+  "Title": "Dead Poets Society",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id206329496"
+    }
+  ],
+  "in_theaters": false
+}

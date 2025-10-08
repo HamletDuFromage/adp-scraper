@@ -1,0 +1,16 @@
+{
+  "Title": "Sorry to Bother You",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07DKWJWY8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

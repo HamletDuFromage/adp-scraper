@@ -1,0 +1,16 @@
+{
+  "Title": "The Skeleton Key",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54a9f6dc-fefb-b117-a92f-29f428a49e08/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

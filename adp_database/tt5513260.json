@@ -1,0 +1,21 @@
+{
+  "Title": "Surf's Up 2: WaveMania",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ee30865-5b63-46c5-8483-2eba5393def2/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01MFHLE8X/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

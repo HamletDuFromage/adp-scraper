@@ -1,0 +1,23 @@
+{
+  "Title": "Money Monster",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4aa6a05-906a-5a9e-a05d-fc7c13e22764/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1106672159"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01FIHL7GK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

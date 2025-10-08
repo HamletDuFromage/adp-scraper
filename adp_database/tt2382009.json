@@ -1,0 +1,17 @@
+{
+  "Title": "Nymphomaniac: Volume II",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ca9f7b5-37d0-e0f7-e4fc-49f553757f53/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4a9f77e-592f-a039-1d7d-57d509a4ef1d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

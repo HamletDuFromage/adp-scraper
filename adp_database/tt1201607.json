@@ -1,0 +1,32 @@
+{
+  "Title": "Harry Potter and the Deathly Hallows, Part 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.efe48bee-02f5-4dfb-a28e-b07d4c91920e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1890c8c5-2f40-4140-a363-064428201826"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/sci-fi-and-fantasy/harry-potter-and-the-deathly-hallows-part-2/a086bf77-5db2-3e97-8664-d6270cf4144e"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id455832983"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01N4S8DNK/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/182917"
+    }
+  ],
+  "in_theaters": false
+}

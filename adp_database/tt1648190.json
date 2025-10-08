@@ -1,0 +1,25 @@
+{
+  "Title": "The Dark Tower",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80133493"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8aecd3a-8804-3125-1027-61ab635ad4a6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1254703623"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0746ZSMR9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

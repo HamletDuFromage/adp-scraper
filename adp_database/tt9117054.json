@@ -1,0 +1,15 @@
+{
+  "Title": "Spinning Out",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80201590"
+    }
+  ],
+  "in_theaters": false
+}

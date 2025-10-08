@@ -1,0 +1,18 @@
+{
+  "Title": "Zoey 102",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/lCSAVc3DeT0smQxSBZ9uRu9GSEOCX28S/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5d167c5a-e43d-4776-8daf-0aad14e9aef2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

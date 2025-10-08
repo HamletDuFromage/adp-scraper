@@ -1,0 +1,15 @@
+{
+  "Title": "Swimming with Sharks",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/eeb0a78b7a9657ae82074af108518b2b/swimming-with-sharks"
+    }
+  ],
+  "in_theaters": false
+}

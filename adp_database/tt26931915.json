@@ -1,0 +1,16 @@
+{
+  "Title": "Wanda Sykes: I'm an Entertainer",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Documentary",
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81343300"
+    }
+  ],
+  "in_theaters": false
+}

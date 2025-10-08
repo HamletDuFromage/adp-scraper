@@ -1,0 +1,21 @@
+{
+  "Title": "Wolfgang",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.609df323-d027-466d-ad2e-049df9f2158f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1710352288"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2629315"
+    }
+  ],
+  "in_theaters": false
+}

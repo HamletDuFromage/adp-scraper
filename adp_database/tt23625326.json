@@ -1,0 +1,17 @@
+{
+  "Title": "Chris Redd: Why Am I Like This?",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b799d3eb-b83b-4aa7-b617-c5d3e64fb510/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/0efb1b45-cff8-49a1-a1a2-8a3e7605638b"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Dark Winds",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81613903"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4094141"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d740a0c8-73ce-45d9-a8e4-d80296fdaaed/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

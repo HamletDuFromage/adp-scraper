@@ -1,0 +1,23 @@
+{
+  "Title": "Teen Titans Go! To the Movies",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b39e3c-d64a-8a5f-3f35-ef497fd0fe32/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1411335509"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07D57FDQX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

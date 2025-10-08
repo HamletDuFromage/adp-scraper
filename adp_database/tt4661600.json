@@ -1,0 +1,18 @@
+{
+  "Title": "Sanjay's Super Team",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Short",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/sanjays-super-team/4BnMXBt3bROM"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Rio Bravo",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66a9f785-0618-5d40-73ac-da465a2e1a6d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

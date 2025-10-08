@@ -1,0 +1,16 @@
+{
+  "Title": "The Milky Pop Kid",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Disability",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://reelabilities.org/stream/product/the-milky-pop-kid/"
+    }
+  ],
+  "in_theaters": false
+}

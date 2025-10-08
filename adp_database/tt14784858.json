@@ -1,0 +1,20 @@
+{
+  "Title": "Who Are You, Charlie Brown?",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Biography",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6031db5f-e5cd-4feb-acb5-c1cb4bf359c4/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.7a7wj0y9l9p9z8dwz287j4wx3"
+    }
+  ],
+  "in_theaters": false
+}

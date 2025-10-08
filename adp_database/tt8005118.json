@@ -1,0 +1,23 @@
+{
+  "Title": "House Party",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fe4ff553-2c14-4d73-bfb3-099e2552d942/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/10ae1425-6bbf-4930-a4ce-0b45168f64ce"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1656057521"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BS9MMK56/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

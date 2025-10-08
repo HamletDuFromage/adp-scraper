@@ -1,0 +1,17 @@
+{
+  "Title": "Street Outlaws",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2ec9a40-6189-47f8-97f0-62a30db4ea55/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/14b5a807-6a93-4573-87f9-23f8442e660d"
+    }
+  ],
+  "in_theaters": false
+}

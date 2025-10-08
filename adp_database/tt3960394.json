@@ -1,0 +1,17 @@
+{
+  "Title": "Anne Rice's Interview with the Vampire",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ee0fa071-3c9d-49e8-b196-3ccf105f3927/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

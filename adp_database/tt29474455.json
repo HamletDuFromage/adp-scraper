@@ -1,0 +1,19 @@
+{
+  "Title": "South Park: Joining the Panderverse",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/ke8wS05iuRiq2rYCVU9vgag2de2Ay4_S/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0103074-7dbb-47ff-bb9b-0eb7a4c3ffc1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

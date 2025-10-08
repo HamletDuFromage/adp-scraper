@@ -1,0 +1,28 @@
+{
+  "Title": "Lisa Frankenstein",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e990f6c8-4941-4308-a253-9b73eafec132/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1728777818"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CV4GGYLZ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2955578"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/lisa-frankenstein/868855cc-c6d6-382b-8532-89b7bd5edac9"
+    }
+  ],
+  "in_theaters": false
+}

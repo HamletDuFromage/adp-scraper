@@ -1,0 +1,16 @@
+{
+  "Title": "The Ritual",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b5a7eec1-1ec3-452b-99be-61c58ac0ea63/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

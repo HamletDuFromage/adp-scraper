@@ -1,0 +1,20 @@
+{
+  "Title": "The Happiest Millionaire",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-happiest-millionaire/1urCowrDQ9sR"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id299444060"
+    }
+  ],
+  "in_theaters": false
+}

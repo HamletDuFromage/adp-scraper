@@ -1,0 +1,15 @@
+{
+  "Title": "The Kill Room",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f63f0cfa-956f-4975-8eb2-2ac1865dd9fd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

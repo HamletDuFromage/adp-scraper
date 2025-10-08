@@ -1,0 +1,23 @@
+{
+  "Title": "A Goofy Movie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/a-goofy-movie/3fo2pP85XXvo"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id296757451"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/16042"
+    }
+  ],
+  "in_theaters": false
+}

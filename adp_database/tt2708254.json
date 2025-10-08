@@ -1,0 +1,16 @@
+{
+  "Title": "Life of a King",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Coming of Age",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.924b2911-3d19-4f97-b8d8-04128223c158/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Fast N' Loud",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Automotive",
+    "Comedy",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78bc2c80-d76c-a207-5c84-3cff38994b8a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/d1f056c1-6112-4ae7-ae15-e8f40e7cf9de"
+    }
+  ],
+  "in_theaters": false
+}

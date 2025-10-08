@@ -1,0 +1,20 @@
+{
+  "Title": "Harry Potter: Hogwarts Tournament of Houses",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Kids & Family",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7799b075-9d67-415b-a0c0-a5421a855972/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/972ef51e-8646-4eea-957f-98d5b5d9403f"
+    }
+  ],
+  "in_theaters": false
+}

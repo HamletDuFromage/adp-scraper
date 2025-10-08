@@ -1,0 +1,17 @@
+{
+  "Title": "Geordie Shore",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Documentary",
+    "Drama",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/geordie-shore/"
+    }
+  ],
+  "in_theaters": false
+}

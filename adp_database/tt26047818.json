@@ -1,0 +1,24 @@
+{
+  "Title": "Anyone But You",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81760229"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2143b543-ee98-479b-8c01-3e5e4da4aa6d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1720042574"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CQ29RVX3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

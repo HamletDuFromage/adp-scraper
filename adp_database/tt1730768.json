@@ -1,0 +1,23 @@
+{
+  "Title": "The Zookeeper's Wife",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8adc00e-fbf6-5ee3-17a3-d7d04320303b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1222108747"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B071RCM1BX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

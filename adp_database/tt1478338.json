@@ -1,0 +1,23 @@
+{
+  "Title": "Bridesmaids",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ea9f758-1e6a-61d1-6015-0f3234a606e2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id450702554"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00466HN7M/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70184047"
+    }
+  ],
+  "in_theaters": false
+}

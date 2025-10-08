@@ -1,0 +1,14 @@
+{
+  "Title": "King Tut in Color",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/king-tut-in-color/72njxJRGFhVb"
+    }
+  ],
+  "in_theaters": false
+}

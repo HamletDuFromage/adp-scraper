@@ -1,0 +1,16 @@
+{
+  "Title": "47 Meters Down",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80109128"
+    }
+  ],
+  "in_theaters": false
+}

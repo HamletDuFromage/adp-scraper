@@ -1,0 +1,16 @@
+{
+  "Title": "The Ugly Duckling",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-ugly-duckling/2AZvkCkFtcsa"
+    }
+  ],
+  "in_theaters": false
+}

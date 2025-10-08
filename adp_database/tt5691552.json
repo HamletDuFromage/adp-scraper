@@ -1,0 +1,17 @@
+{
+  "Title": "The Orville",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-orville-21e70fbf-6a51-41b3-88e9-f111830b046c"
+    }
+  ],
+  "in_theaters": false
+}

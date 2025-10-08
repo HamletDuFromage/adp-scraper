@@ -1,0 +1,20 @@
+{
+  "Title": "Blue Bayou",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e31c3536-72c6-45b0-b137-85a61fe04317/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1587582941"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09FZ7CTYS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Rough Night",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4ae4511-df74-4834-8cfe-43531b9db892/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1238392746"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B072RC7PTR/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

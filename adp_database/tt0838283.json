@@ -1,0 +1,17 @@
+{
+  "Title": "Step Brothers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id295722851"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07FVFD6KZ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

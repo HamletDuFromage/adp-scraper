@@ -1,0 +1,25 @@
+{
+  "Title": "Dora and the Lost City of Gold",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1473393537"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07VZ3R6SN/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/dora-and-the-lost-city-of-gold/jtTbyEmO_SEVlebfttPARspVeSy7CKZu/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c661527e-b641-4dba-9340-be712ae31f7a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

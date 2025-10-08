@@ -1,0 +1,16 @@
+{
+  "Title": "The Witcher: Blood Origin",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81279312"
+    }
+  ],
+  "in_theaters": false
+}

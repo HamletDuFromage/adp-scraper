@@ -1,0 +1,15 @@
+{
+  "Title": "Love Accidentally",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6bedd4eb-8323-4685-a50c-ab92e750d7fd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

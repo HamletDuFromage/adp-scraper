@@ -1,0 +1,18 @@
+{
+  "Title": "Idlewild",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60a9f758-019b-65aa-8b41-25374dbfdf16/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

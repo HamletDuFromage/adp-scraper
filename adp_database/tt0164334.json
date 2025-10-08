@@ -1,0 +1,18 @@
+{
+  "Title": "Along Came a Spider",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/along-came-a-spider-2001"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0a9f66e-79c9-317c-2516-8051d77c8b59/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

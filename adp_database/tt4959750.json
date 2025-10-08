@@ -1,0 +1,16 @@
+{
+  "Title": "1992",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0DD5PQTX9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

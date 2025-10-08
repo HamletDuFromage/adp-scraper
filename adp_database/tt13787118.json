@@ -1,0 +1,14 @@
+{
+  "Title": "Strip Down, Rise Up",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80208242"
+    }
+  ],
+  "in_theaters": false
+}

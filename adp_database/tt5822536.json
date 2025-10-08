@@ -1,0 +1,27 @@
+{
+  "Title": "Paddington in Peru",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1783668743"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4004893"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DWH45625/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81776760"
+    }
+  ],
+  "in_theaters": false
+}

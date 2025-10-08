@@ -1,0 +1,18 @@
+{
+  "Title": "Exodus: Gods and Kings",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98a9f6b4-9775-62fb-876f-edcdc19b9ae5/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00STPQ6KQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

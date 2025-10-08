@@ -1,0 +1,17 @@
+{
+  "Title": "The Flagmakers",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-flagmakers-9fb9406d-0153-414a-99c8-ab7101f9ba6c"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-flagmakers/3tjotn91TdTB"
+    }
+  ],
+  "in_theaters": false
+}

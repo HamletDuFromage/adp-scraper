@@ -1,0 +1,14 @@
+{
+  "Title": "Wanderlust",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80211465"
+    }
+  ],
+  "in_theaters": false
+}

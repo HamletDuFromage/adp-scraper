@@ -1,0 +1,24 @@
+{
+  "Title": "Black Bag",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.763ff81c-00fd-4e39-82e7-d26e8fa7d425/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1798604604"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3993299"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DZBDWJ23/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

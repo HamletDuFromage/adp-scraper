@@ -1,0 +1,19 @@
+{
+  "Title": "Charlie St. Cloud",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40b48d9d-2d6d-039b-97da-26597dba1eb1/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003L20IHE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Waking Sleeping Beauty",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Documentary",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/waking-sleeping-beauty/7XuGi9QqvVuh"
+    }
+  ],
+  "in_theaters": false
+}

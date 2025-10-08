@@ -1,0 +1,19 @@
+{
+  "Title": "Only the Brave",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1293973895"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B076MG4TMW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

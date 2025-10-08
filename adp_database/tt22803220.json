@@ -1,0 +1,24 @@
+{
+  "Title": "National Anthem",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3110ad21-15e0-4903-aa2f-ebe8413306b0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1757731819"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3327444"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/67381d67-e0bd-4c2c-813d-ef75c862d78a"
+    }
+  ],
+  "in_theaters": false
+}

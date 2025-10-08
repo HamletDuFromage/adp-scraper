@@ -1,0 +1,19 @@
+{
+  "Title": "Lulu is a Rhinoceros",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.3q3rnlgmnlkdh3p5djze6l019"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dca3e534-0f58-4b41-aa3a-c31bfed23694/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

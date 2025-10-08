@@ -1,0 +1,16 @@
+{
+  "Title": "Castlevania",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80095241"
+    }
+  ],
+  "in_theaters": false
+}

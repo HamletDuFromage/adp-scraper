@@ -1,0 +1,17 @@
+{
+  "Title": "Maricarmen",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://reelabilities.org/stream/product/maricarmen/"
+    }
+  ],
+  "in_theaters": false
+}

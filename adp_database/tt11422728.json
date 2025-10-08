@@ -1,0 +1,25 @@
+{
+  "Title": "Summer of Soul",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary",
+    "History",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4f58408-903f-4a9d-ab76-a74d511b21ba/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/summer-of-soul-6f2160ed-eaa2-462a-b495-f61f4f31714d"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/summer-of-soul-or-when-the-revolution-could-not-be-televised/kbSrVIU25suX"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09NT15Q9N/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Rise of the Planet of the Apes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id459928677"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004LWZW4M/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

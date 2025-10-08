@@ -1,0 +1,14 @@
+{
+  "Title": "Cooking with Paris",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81312532"
+    }
+  ],
+  "in_theaters": false
+}

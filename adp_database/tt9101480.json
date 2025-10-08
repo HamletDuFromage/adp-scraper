@@ -1,0 +1,17 @@
+{
+  "Title": "A Christmas in Tennessee",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.37dac9bb-8258-4a44-ab23-866f348273fd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

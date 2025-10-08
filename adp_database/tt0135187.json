@@ -1,0 +1,16 @@
+{
+  "Title": "A Christmas Memory",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ea9f723-dc22-6059-ff42-e040700b29d3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

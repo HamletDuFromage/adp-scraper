@@ -1,0 +1,17 @@
+{
+  "Title": "Mary Poppins 50th Anniversary Edition",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70a9f729-0c37-3fae-ee7b-f5bdea3ef0aa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

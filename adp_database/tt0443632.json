@@ -1,0 +1,17 @@
+{
+  "Title": "The Sentinel",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dca9f749-ef85-6cbd-116c-3b0908014f0b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

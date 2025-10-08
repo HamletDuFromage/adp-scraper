@@ -1,0 +1,18 @@
+{
+  "Title": "Help! I Wrecked My House",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/200a6359-fb91-4334-8f6a-eb458031fdf1"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1e36e935-b273-4875-b71f-7cb0e0862afc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

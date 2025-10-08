@@ -1,0 +1,24 @@
+{
+  "Title": "Rango",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id428367901"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003Y5H53S/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80a9f690-94eb-09a5-0e0d-20a8e174a965/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

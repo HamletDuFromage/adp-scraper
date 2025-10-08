@@ -1,0 +1,17 @@
+{
+  "Title": "Clue",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/16075"
+    }
+  ],
+  "in_theaters": false
+}

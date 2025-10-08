@@ -1,0 +1,17 @@
+{
+  "Title": "Khartoum",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2a9f76e-f5e3-c241-3d34-43511000c24d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

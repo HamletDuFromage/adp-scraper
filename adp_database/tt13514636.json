@@ -1,0 +1,17 @@
+{
+  "Title": "Rock Hudson: All That Heaven Allowed",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/dc77f5c4-57e2-45f4-a16a-8fbbcbd351ef"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.936fe928-323e-4ad9-b34b-763d29aa970b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

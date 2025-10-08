@@ -1,0 +1,16 @@
+{
+  "Title": "Kicking and Screaming",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70052286"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Brawl in Cell Block 99",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52af5f72-214a-fa90-fd65-d810ea282b37/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

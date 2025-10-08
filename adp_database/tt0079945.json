@@ -1,0 +1,21 @@
+{
+  "Title": "Star Trek: The Motion Picture - The Director's Edition",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id270472306"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/movies/66a82d023653a6001335510b"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/7MI9dv6oQQCo733jnwnv4bT6WjSY_mBr/"
+    }
+  ],
+  "in_theaters": false
+}

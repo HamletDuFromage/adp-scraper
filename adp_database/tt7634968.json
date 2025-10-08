@@ -1,0 +1,21 @@
+{
+  "Title": "What Men Want",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10b45c99-e1b1-b899-2bed-023b42ef5ee9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1449958490"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07MWYQDVB/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

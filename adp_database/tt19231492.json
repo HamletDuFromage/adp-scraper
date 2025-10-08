@@ -1,0 +1,19 @@
+{
+  "Title": "Dark Matter",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.401fe8ae-ae32-44e4-8e52-9341c585f159/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4luj45vtqpmjsvb6sc2675oeg"
+    }
+  ],
+  "in_theaters": false
+}

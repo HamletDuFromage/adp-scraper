@@ -1,0 +1,16 @@
+{
+  "Title": "In Bruges",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ca9f68b-5ed0-faf0-e58d-b33f36297be3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

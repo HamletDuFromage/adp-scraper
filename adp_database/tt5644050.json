@@ -1,0 +1,25 @@
+{
+  "Title": "Pick of the Litter",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Disability",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c2b2bec7-b10c-b811-2a72-2b8d4cbf669b/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/pick-of-the-litter-ac9a6fd7-e2f9-498b-a9ad-4f091a00bb08"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1423940457"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07HG8JYM1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "My Policeman",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f7ec853f-ba68-4270-ae73-bdb570715cd7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

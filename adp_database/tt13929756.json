@@ -1,0 +1,16 @@
+{
+  "Title": "Skull Island",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81312426"
+    }
+  ],
+  "in_theaters": false
+}

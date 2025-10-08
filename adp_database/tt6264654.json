@@ -1,0 +1,25 @@
+{
+  "Title": "Free Guy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/free-guy/3qBd6ESjzQOm"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1584216017"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09FC8926H/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6aa04d87-ec72-410a-ac47-2ce7cfd925d7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

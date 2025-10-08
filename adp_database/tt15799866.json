@@ -1,0 +1,24 @@
+{
+  "Title": "Silent Night",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2b543d49-6743-4017-9533-cb9ef515f680/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1718254462"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B000C8STSK/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2632720"
+    }
+  ],
+  "in_theaters": false
+}

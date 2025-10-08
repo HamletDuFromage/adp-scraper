@@ -1,0 +1,24 @@
+{
+  "Title": "Bosco",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.497f09df-74df-4018-92af-eda5d1de4e54/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/bosco/124a1be0-9f2e-3dd9-aee5-ecaa28b92572"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1739364400"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3043536"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Split",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ecad0306-ed81-b659-6280-cf32620e471b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1189252846"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01MR8091Y/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f9604c20-388e-493e-871f-f298c49a6bc4"
+    }
+  ],
+  "in_theaters": false
+}

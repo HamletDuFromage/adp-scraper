@@ -1,0 +1,22 @@
+{
+  "Title": "The Visit",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b3381127-bb2d-4790-89b3-810661933dd1/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0152AVXDA/audiodescriin-20"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/100004319/the-visit"
+    }
+  ],
+  "in_theaters": false
+}

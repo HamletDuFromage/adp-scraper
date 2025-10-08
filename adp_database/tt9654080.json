@@ -1,0 +1,15 @@
+{
+  "Title": "Dating Around",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80204889"
+    }
+  ],
+  "in_theaters": false
+}

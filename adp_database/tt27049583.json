@@ -1,0 +1,18 @@
+{
+  "Title": "Cat Pack: A PAW Patrol Exclusive Event",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44e72b09-c2f0-4798-b997-4b12a986677d/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/_aolF8BeH5QQfsEHlY5NLhoYt4JsDOX6/"
+    }
+  ],
+  "in_theaters": false
+}

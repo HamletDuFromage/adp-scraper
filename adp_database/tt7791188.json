@@ -1,0 +1,15 @@
+{
+  "Title": "The Bra",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2eba7597-fa2e-4ae3-5b4a-27e267a57844/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

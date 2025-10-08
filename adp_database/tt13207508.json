@@ -1,0 +1,19 @@
+{
+  "Title": "Swan Song",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1be0f1a5-0ae6-42fc-b56e-3bd23dcbab64/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.2u5ulzjcxh7e50uhichjjlsv6"
+    }
+  ],
+  "in_theaters": false
+}

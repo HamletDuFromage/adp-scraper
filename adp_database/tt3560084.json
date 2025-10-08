@@ -1,0 +1,21 @@
+{
+  "Title": "NCIS: New Orleans",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/ncis-new-orleans/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cecb12ac-eeab-4db5-b10b-b4c06fea1caa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

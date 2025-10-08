@@ -1,0 +1,24 @@
+{
+  "Title": "Super/Man: The Christopher Reeve Story",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16ebc8fb-3d43-45b9-b8ca-e6f09756e3a5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/9a184d4d-73e1-455c-9d47-3ed608f5011c"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1767908492"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3615866"
+    }
+  ],
+  "in_theaters": false
+}

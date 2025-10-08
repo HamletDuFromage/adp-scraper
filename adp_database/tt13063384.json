@@ -1,0 +1,16 @@
+{
+  "Title": "Burial",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/burial-be516313-0a0c-44bf-b190-42119cc8ed48"
+    }
+  ],
+  "in_theaters": false
+}

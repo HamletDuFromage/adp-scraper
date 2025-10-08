@@ -1,0 +1,18 @@
+{
+  "Title": "Create the Escape",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Game Show",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/create-the-escape/7160555575302010112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ed64059d-16dd-44cd-8ddb-60792406dc20/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

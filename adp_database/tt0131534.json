@@ -1,0 +1,16 @@
+{
+  "Title": "Pep Squad",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16a9f71a-bd97-12ea-59df-1571d0b6f825/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

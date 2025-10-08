@@ -1,0 +1,22 @@
+{
+  "Title": "She Will",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9a3aba87-f02d-4b6b-8ab0-d908db1be39c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1629814910"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BC9VS2W7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

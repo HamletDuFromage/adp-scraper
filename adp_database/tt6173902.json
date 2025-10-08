@@ -1,0 +1,17 @@
+{
+  "Title": "Marvel's Hulk: Where Monsters Dwell",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/hulk-where-monsters-dwell/4H1l2vKEylsp"
+    }
+  ],
+  "in_theaters": false
+}

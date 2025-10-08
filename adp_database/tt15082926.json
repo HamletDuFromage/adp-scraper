@@ -1,0 +1,18 @@
+{
+  "Title": "The Climb",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3cf5f461-0e82-48e4-9c1c-d8e289150b39/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/8092f1e1-87c2-421c-9dee-601286e6ad61"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Deaf U",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Disability",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81035566"
+    }
+  ],
+  "in_theaters": false
+}

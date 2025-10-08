@@ -1,0 +1,17 @@
+{
+  "Title": "Almost Angels",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/almost-angels/5H3ld9NkQbU0"
+    }
+  ],
+  "in_theaters": false
+}

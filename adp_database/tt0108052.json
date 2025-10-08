@@ -1,0 +1,20 @@
+{
+  "Title": "Schindler's List",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40a9f71f-f0bd-7bc6-0201-334a2157c92b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id587742072"
+    }
+  ],
+  "in_theaters": false
+}

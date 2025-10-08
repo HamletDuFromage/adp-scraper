@@ -1,0 +1,14 @@
+{
+  "Title": "Bury the Bride",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/100001048/bury-the-bride"
+    }
+  ],
+  "in_theaters": false
+}

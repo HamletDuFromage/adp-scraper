@@ -1,0 +1,22 @@
+{
+  "Title": "Cloudy with a Chance of Meatballs 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id699011844"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70273612"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6a9f75d-9aa6-d472-17e7-5fbe007de771/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

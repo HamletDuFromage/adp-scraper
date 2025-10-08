@@ -1,0 +1,17 @@
+{
+  "Title": "Dick Van Dyke 98 Years of Magic",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Documentary",
+    "Music",
+    "TV Variety"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/dick-van-dyke-98-years-of-magic/"
+    }
+  ],
+  "in_theaters": false
+}

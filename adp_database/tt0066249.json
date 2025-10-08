@@ -1,0 +1,18 @@
+{
+  "Title": "The Private Life of Sherlock Holmes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92a9f672-decf-a812-f642-cb98e3e93bc2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

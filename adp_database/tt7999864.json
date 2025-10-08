@@ -1,0 +1,18 @@
+{
+  "Title": "Duck & Goose",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.af577f0c-59b2-47d2-aaa3-a61774a64ca2/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.qayvbuimq7lxab6y2cs9tbcj"
+    }
+  ],
+  "in_theaters": false
+}

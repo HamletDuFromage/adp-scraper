@@ -1,0 +1,17 @@
+{
+  "Title": "The Luckiest Man in America",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.871502c0-61d2-4e5b-b953-ca592236d603/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1804450649"
+    }
+  ],
+  "in_theaters": false
+}

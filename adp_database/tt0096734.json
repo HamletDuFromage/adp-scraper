@@ -1,0 +1,16 @@
+{
+  "Title": "The 'Burbs",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a1340f8-6a74-458b-a941-efa54161ca7e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

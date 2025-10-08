@@ -1,0 +1,18 @@
+{
+  "Title": "Gangnam B-Side",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "International",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/a853aa0d-136d-4554-8d5b-5b4d1d6413e5"
+    }
+  ],
+  "in_theaters": false
+}

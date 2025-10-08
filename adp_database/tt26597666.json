@@ -1,0 +1,22 @@
+{
+  "Title": "Juliet & Romeo",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4097252"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1814209195"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ab77a220-6bc4-433b-97d3-dcb9d7abadad/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

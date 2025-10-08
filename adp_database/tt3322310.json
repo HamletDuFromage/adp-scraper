@@ -1,0 +1,16 @@
+{
+  "Title": "Iron Fist",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/iron-fist/24YlE6bSZy6E"
+    }
+  ],
+  "in_theaters": false
+}

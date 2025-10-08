@@ -1,0 +1,16 @@
+{
+  "Title": "The Young Black Stallion",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-young-black-stallion/5Yn01oSB6Za4"
+    }
+  ],
+  "in_theaters": false
+}

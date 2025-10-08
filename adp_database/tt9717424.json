@@ -1,0 +1,15 @@
+{
+  "Title": "Team Kaylie",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80238106"
+    }
+  ],
+  "in_theaters": false
+}

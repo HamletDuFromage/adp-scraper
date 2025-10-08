@@ -1,0 +1,29 @@
+{
+  "Title": "Deadpool & Wolverine",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.23706ed8-6289-4820-839f-a03c8cd9a2d0/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-120ae1e6-2240-4924-a4ce-f8de6e28b0b1"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1766637757"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DHH83BC1/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3121552"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Land Ho!",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6a9f762-d8b2-e327-c6bd-cf5ad9dea03f/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00NF6P85S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

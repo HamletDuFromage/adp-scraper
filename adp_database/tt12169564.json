@@ -1,0 +1,18 @@
+{
+  "Title": "100 Day Dream Home",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/13858956-7bce-4fcf-90e7-b5743de71427"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0b8aa90-19bc-57ad-4f31-009847e2d0fe/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

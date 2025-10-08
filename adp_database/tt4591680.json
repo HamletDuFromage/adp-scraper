@@ -1,0 +1,16 @@
+{
+  "Title": "Bunk'd",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/139507fa-07d2-43ca-8991-370d5306989d"
+    }
+  ],
+  "in_theaters": false
+}

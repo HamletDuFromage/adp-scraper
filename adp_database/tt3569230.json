@@ -1,0 +1,20 @@
+{
+  "Title": "Legend",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44a9f72a-7060-084f-4b34-b41aacf350ca/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0189Y6HHI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Art & Krimes by Krimes",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49c464e3-c44f-4a25-b9f4-671669d85b1b/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/yKKoblu5boSe6UdgcDeau2t_tFo7SzqW/"
+    }
+  ],
+  "in_theaters": false
+}

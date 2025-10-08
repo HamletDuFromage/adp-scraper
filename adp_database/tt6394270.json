@@ -1,0 +1,24 @@
+{
+  "Title": "Bombshell",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0c68b712-2bbd-4968-861a-967e584d7699/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1490200547"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B082PQRJC6/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81188727"
+    }
+  ],
+  "in_theaters": false
+}

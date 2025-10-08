@@ -1,0 +1,18 @@
+{
+  "Title": "Frederick Douglass: In Five Speeches",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fc9277a5-7a8d-4c04-8ddf-bcb38fa76f2b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/cff5ae3b-319e-4980-a2ba-609e04d34fda"
+    }
+  ],
+  "in_theaters": false
+}

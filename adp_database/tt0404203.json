@@ -1,0 +1,14 @@
+{
+  "Title": "Little Children",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34a9f70a-423f-3ead-aa74-11707b40a34f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

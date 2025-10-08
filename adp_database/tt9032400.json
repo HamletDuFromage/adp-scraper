@@ -1,0 +1,28 @@
+{
+  "Title": "Eternals",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Disability",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f5b451ea-24db-4c54-88f4-35578f23b75b/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.863b63dc-c777-4393-ad75-cc7b3c474961/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/eternals/5cmhJAtkt6Jk"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1599489995"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09NQCQ7VD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "The Naked Gun",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1828420344"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4383923"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d776e287a53e9001e76ea9c&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d309dec2-16c5-4ea0-bce4-5a516f01d291/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/61gdvpY7mURqcXbL67yYKiiQzEuRQZwW/"
+    }
+  ],
+  "in_theaters": false
+}

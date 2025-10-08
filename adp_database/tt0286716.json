@@ -1,0 +1,19 @@
+{
+  "Title": "Hulk",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id301672012"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60027724"
+    }
+  ],
+  "in_theaters": false
+}

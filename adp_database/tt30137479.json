@@ -1,0 +1,17 @@
+{
+  "Title": "Ambient Swim",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/8f437b2c-878e-426f-a9a9-0190cc9b0f33"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a3ee0987-d24b-4d33-ac6f-3bbd3ad4c7f9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Grey Gardens",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/36091fbb-e528-4ea6-b928-e9965ef952ad"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4b3242f-c6d2-419e-b6bc-c56f20bbc8bf/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

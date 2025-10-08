@@ -1,0 +1,17 @@
+{
+  "Title": "Bel-Air",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6bd29a05-30e6-4933-8af6-3acf5bdf35a5/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/bel-air/5827147521039228112"
+    }
+  ],
+  "in_theaters": false
+}

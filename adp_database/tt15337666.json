@@ -1,0 +1,16 @@
+{
+  "Title": "Thomas & Friends: Race for the Sodor Cup",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81422854"
+    }
+  ],
+  "in_theaters": false
+}

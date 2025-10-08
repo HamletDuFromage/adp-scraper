@@ -1,0 +1,17 @@
+{
+  "Title": "American Primeval",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81457507"
+    }
+  ],
+  "in_theaters": false
+}

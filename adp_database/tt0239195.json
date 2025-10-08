@@ -1,0 +1,25 @@
+{
+  "Title": "Survivor",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2006153"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/survivor/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/614f4dea766f2a0014318953"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.efdd89c7-b0e6-40f1-bc20-078ceaf78e09/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

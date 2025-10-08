@@ -1,0 +1,14 @@
+{
+  "Title": "Man's Favorite Sport?",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58a9f70b-43da-4ebd-f605-92b096fd944b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "My So-Called High School Rank",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.41783ca7-7ec2-4063-b6ea-c06796da19ab/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/9a263de9-28a8-4bc6-882c-441fc348c60e"
+    }
+  ],
+  "in_theaters": false
+}

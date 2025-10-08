@@ -1,0 +1,22 @@
+{
+  "Title": "Nightmare Alley",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fe83a553-f697-4d87-b515-2accfdd45d3b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1607698617"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09S6Q6H39/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

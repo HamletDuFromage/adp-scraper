@@ -1,0 +1,19 @@
+{
+  "Title": "Can You Ever Forgive Me?",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1440294506"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07HSJYGWD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

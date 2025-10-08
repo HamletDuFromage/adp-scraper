@@ -1,0 +1,18 @@
+{
+  "Title": "Happy Feet Two",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ea9f679-5edb-44ef-8b6c-62a1927c85d5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

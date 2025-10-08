@@ -1,0 +1,16 @@
+{
+  "Title": "College Road Trip",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/college-road-trip/6hafAmfPqDLG"
+    }
+  ],
+  "in_theaters": false
+}

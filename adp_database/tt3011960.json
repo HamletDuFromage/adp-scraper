@@ -1,0 +1,18 @@
+{
+  "Title": "Hangman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3b9d31da-1121-444a-88f1-3ed2de4c5a4a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

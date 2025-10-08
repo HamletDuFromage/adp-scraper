@@ -1,0 +1,15 @@
+{
+  "Title": "Problem Child",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50a9f70b-d994-046a-d11d-a4b3366e23f4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Matlock",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.704dcd96-2364-4ddd-b10e-f3dac081aef9/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/matlock/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/66fdb024b99f8500131020f4"
+    }
+  ],
+  "in_theaters": false
+}

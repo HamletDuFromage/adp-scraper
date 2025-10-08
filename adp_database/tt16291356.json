@@ -1,0 +1,17 @@
+{
+  "Title": "Breath of Fire",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ee0c112-6321-4fcf-a880-4c4fed2a06cc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/64f63cfe-94c5-4f33-835a-68915f1f4960"
+    }
+  ],
+  "in_theaters": false
+}

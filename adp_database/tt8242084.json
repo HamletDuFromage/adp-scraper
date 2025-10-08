@@ -1,0 +1,15 @@
+{
+  "Title": "My Spy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86c70b43-8531-4e39-a4ef-e3e6e1d4c516/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

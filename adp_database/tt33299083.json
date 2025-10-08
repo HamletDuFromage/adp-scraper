@@ -1,0 +1,16 @@
+{
+  "Title": "Tyler's Perry's Madea’s Destination Wedding",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81702431"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Merry Happy Whatever",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80997965"
+    }
+  ],
+  "in_theaters": false
+}

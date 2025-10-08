@@ -1,0 +1,29 @@
+{
+  "Title": "Harry Potter and the Deathly Hallows, Part 1",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86c06623-8b49-43e1-81d1-c0337e467f51/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2c394a2d-7d1d-481d-a420-76ee1bee01a7"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/sci-fi-and-fantasy/harry-potter-and-the-deathly-hallows-part-1/79bf3b49-44f7-37fd-b02a-20399c29597a"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id421072264"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01MSBNO6Z/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

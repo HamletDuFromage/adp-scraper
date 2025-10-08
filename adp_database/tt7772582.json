@@ -1,0 +1,18 @@
+{
+  "Title": "Never Rarely Sometimes Always",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Coming of Age",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cb85d90-1208-8b29-dd75-c4536386ef7c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1500992512"
+    }
+  ],
+  "in_theaters": false
+}

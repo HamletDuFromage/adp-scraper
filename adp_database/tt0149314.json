@@ -1,0 +1,18 @@
+{
+  "Title": "MTV Unplugged",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4bcbb900-b453-4715-ab8f-41882c47ae09/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/mtv-unplugged/"
+    }
+  ],
+  "in_theaters": false
+}

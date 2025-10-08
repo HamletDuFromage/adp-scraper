@@ -1,0 +1,20 @@
+{
+  "Title": "Morbius",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-1b3ee63f-ab74-49b8-a290-1fc9fcff807c"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09WWJC5NJ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

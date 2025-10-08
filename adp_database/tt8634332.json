@@ -1,0 +1,21 @@
+{
+  "Title": "The Righteous Gemstones",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5121c2d9-81ba-4785-9eed-ec31bbed2fbc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c3bd0a34-c4ce-4ca5-bd6c-820df7340671"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2518760"
+    }
+  ],
+  "in_theaters": false
+}

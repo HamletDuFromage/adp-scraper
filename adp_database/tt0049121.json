@@ -1,0 +1,15 @@
+{
+  "Title": "Daniel Boone, Trail Blazer",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ea9f7c5-9d8f-f937-6322-19e4e6c49b6c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Lego Batman: The Movie - DC Super Heroes Unite",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2aa78b9-c244-ba67-3775-87a89798579a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

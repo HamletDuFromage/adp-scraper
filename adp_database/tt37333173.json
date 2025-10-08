@@ -1,0 +1,14 @@
+{
+  "Title": "Nate Jackson: Super Funny",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81919354"
+    }
+  ],
+  "in_theaters": false
+}

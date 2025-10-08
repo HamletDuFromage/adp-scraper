@@ -1,0 +1,18 @@
+{
+  "Title": "Mickey Mouse Funhouse",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/mickey-mouse-funhouse/2jy3Jab22Grw"
+    }
+  ],
+  "in_theaters": false
+}

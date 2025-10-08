@@ -1,0 +1,16 @@
+{
+  "Title": "The Haunting of Sharon Tate",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b09701e1-7e88-43d0-9f44-a3111864d0d8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Evil Among Us: Ted Bundy",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/702357/evil-among-us-ted-bundy"
+    }
+  ],
+  "in_theaters": false
+}

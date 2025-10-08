@@ -1,0 +1,19 @@
+{
+  "Title": "Bad Hair Day",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/bad-hair-day/4kRBlvMUb9PH"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4187310"
+    }
+  ],
+  "in_theaters": false
+}

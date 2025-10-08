@@ -1,0 +1,22 @@
+{
+  "Title": "Paper Moon",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id352213144"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/34211"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14a9f704-571e-5ed3-4bc5-96c61ac946be/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

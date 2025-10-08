@@ -1,0 +1,15 @@
+{
+  "Title": "Hacksaw",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Kids & Family",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/hacksaw/5gduJhoGRSVi"
+    }
+  ],
+  "in_theaters": false
+}

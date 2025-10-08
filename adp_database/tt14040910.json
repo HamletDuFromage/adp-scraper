@@ -1,0 +1,15 @@
+{
+  "Title": "Queens",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/queens-c6bdc8cc-b6a6-4d82-9269-627967bc31d0"
+    }
+  ],
+  "in_theaters": false
+}

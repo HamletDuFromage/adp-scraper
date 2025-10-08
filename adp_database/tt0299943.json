@@ -1,0 +1,19 @@
+{
+  "Title": "Gotta Kick it Up",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/gotta-kick-it-up/2yoDjcCvz2h0"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4187319"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,30 @@
+{
+  "Title": "Indiana Jones and the Dial of Destiny",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2822327d-ff22-4cff-b033-fcae62180e5f/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ca898b48-b581-4697-8a07-474c867eb968/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/indiana-jones-and-the-dial-of-destiny/5jJ2qq6DKlf3"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1701218539"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CKTNMFFK/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2494573"
+    }
+  ],
+  "in_theaters": false
+}

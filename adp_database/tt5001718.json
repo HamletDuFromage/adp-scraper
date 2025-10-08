@@ -1,0 +1,21 @@
+{
+  "Title": "Everything, Everything",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8ae06b5-5caf-62e1-21c3-14f9497ce526/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1236905835"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B073DRL7YP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

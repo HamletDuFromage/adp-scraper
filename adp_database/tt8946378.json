@@ -1,0 +1,24 @@
+{
+  "Title": "Knives Out",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44b833fd-654a-7551-8683-1fc007da0fe8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1487717311"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B081KQ2NWD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

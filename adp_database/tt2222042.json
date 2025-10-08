@@ -1,0 +1,24 @@
+{
+  "Title": "Love and Monsters",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.947b53f1-b66d-4b8a-8510-f33e7b539864/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1533484086"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08KQBYSDV/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/love-and-monsters/yp4jF7nyfxkxfgezH_0CuxP9mKJD97Q9/"
+    }
+  ],
+  "in_theaters": false
+}

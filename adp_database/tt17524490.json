@@ -1,0 +1,19 @@
+{
+  "Title": "Pretzel and the Puppies",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animals & Nature",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d21dbbde-d709-406e-a558-c4486a4f177b/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.kpgzlz0lejug1vhtakgizdlh"
+    }
+  ],
+  "in_theaters": false
+}

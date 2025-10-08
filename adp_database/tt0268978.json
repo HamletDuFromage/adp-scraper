@@ -1,0 +1,16 @@
+{
+  "Title": "A Beautiful Mind",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92a9f7c4-681c-4519-f9b8-f8e325ae46e0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

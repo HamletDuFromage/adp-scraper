@@ -1,0 +1,20 @@
+{
+  "Title": "The Flight Attendant",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56bf0323-3602-4481-9bc1-ce6ea79573ec/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/b23a0db7-a12b-4205-a7e0-3eb372e34fd3"
+    }
+  ],
+  "in_theaters": false
+}

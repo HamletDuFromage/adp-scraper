@@ -1,0 +1,19 @@
+{
+  "Title": "Dumbo",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dumbo-1941/3lAXKmGUOnjh"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id453118424"
+    }
+  ],
+  "in_theaters": false
+}

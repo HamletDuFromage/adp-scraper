@@ -1,0 +1,21 @@
+{
+  "Title": "The Banshees of Inisherin",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1653760400"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BMQQ2JP1/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2184177"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Nomadland",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7f4b7fe5-2b73-4a7b-8908-1cc2fba6ab37/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/nomadland-dcd9cb83-0636-46ef-8cbd-b9d994672e83"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1558163645"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0923XT6K7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

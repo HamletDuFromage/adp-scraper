@@ -1,0 +1,15 @@
+{
+  "Title": "Memphis to the Mountain",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/9d849263-bca7-41d3-8f90-851266c93435"
+    }
+  ],
+  "in_theaters": false
+}

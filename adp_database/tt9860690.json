@@ -1,0 +1,24 @@
+{
+  "Title": "Gremlins: Secrets of the Mogwai",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56b285f9-95c7-4c19-bca6-e37c97a49cc9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/40451920-1f13-444c-90cd-02bb28a22532"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2513153"
+    }
+  ],
+  "in_theaters": false
+}

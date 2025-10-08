@@ -1,0 +1,17 @@
+{
+  "Title": "Oddballs",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81045859"
+    }
+  ],
+  "in_theaters": false
+}

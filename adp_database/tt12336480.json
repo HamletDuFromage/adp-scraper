@@ -1,0 +1,14 @@
+{
+  "Title": "Daughters",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81760652"
+    }
+  ],
+  "in_theaters": false
+}

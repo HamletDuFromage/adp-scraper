@@ -1,0 +1,18 @@
+{
+  "Title": "Adrienne",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bf300df6-1b56-41a0-bc4c-a4c245da658a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/b8c942d1-bf2a-49f6-ab06-4e6c74b7c516"
+    }
+  ],
+  "in_theaters": false
+}

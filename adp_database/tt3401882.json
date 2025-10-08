@@ -1,0 +1,23 @@
+{
+  "Title": "Fist Fight",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8ad26a7-f3ac-208e-2fd4-5f3e0e0e110f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1205789502"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06Y2H9N9N/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/b0f98ab0-59da-4531-84b2-0cf3a7133c94"
+    }
+  ],
+  "in_theaters": false
+}

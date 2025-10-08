@@ -1,0 +1,16 @@
+{
+  "Title": "Avicii - I'm Tim",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81915373"
+    }
+  ],
+  "in_theaters": false
+}

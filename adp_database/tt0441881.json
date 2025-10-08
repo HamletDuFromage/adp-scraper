@@ -1,0 +1,16 @@
+{
+  "Title": "Danger Close",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2cb712b8-c0d9-e9d0-d9a8-2e723537ecc7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

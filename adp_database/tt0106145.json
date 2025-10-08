@@ -1,0 +1,20 @@
+{
+  "Title": "Star Trek: Deep Space Nine",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/star_trek_deep_space_nine/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b85f22c-f731-436a-a82d-2f2c1aeecdce/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

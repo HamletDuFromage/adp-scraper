@@ -1,0 +1,24 @@
+{
+  "Title": "Ghost in the Shell",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28adadd6-6912-7413-7913-b1bb5f2a60df/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1213171514"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06XT8M1WV/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

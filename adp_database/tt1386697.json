@@ -1,0 +1,25 @@
+{
+  "Title": "Suicide Squad",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8ab1895-678a-a99c-07b3-d43a42d684ab/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d5e6bdbe-82a2-4a27-a80c-b62aed6743e6"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1134823596"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01L81Q8OQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

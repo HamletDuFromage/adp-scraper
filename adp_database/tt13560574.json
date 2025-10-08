@@ -1,0 +1,25 @@
+{
+  "Title": "X",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0352d111-d55c-4b44-bdf0-8530aee3e1da/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/abf6c350-d228-4fe9-ae33-1c517036bbec"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1612561966"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09VJN47LY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

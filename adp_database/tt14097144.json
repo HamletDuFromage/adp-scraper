@@ -1,0 +1,16 @@
+{
+  "Title": "Boo, Bitch",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81249731"
+    }
+  ],
+  "in_theaters": false
+}

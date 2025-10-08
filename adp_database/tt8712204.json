@@ -1,0 +1,20 @@
+{
+  "Title": "Batwoman",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/7d443211-9d61-4b37-b5e0-f4cfc2cdd3bf"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.003c9caa-261d-4391-844f-66d543703e08/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

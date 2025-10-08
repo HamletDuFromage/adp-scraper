@@ -1,0 +1,14 @@
+{
+  "Title": "Madres",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e071bc8d-7786-404a-9a80-7ee528b3d627/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

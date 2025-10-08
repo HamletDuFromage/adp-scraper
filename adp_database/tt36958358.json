@@ -1,0 +1,18 @@
+{
+  "Title": "Songs & Stories with Kelly Clarkson",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Music",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/songs-and-stories-with-kelly-clarkson/6780974424383379112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2b23bac9-2d71-4d38-a2c6-2191d6f0174d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

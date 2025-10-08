@@ -1,0 +1,15 @@
+{
+  "Title": "Guy's Ultimate Game Night",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Food & Home",
+    "Game Show"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/5a086058-ef38-4281-982f-55ab6b6d5e1e"
+    }
+  ],
+  "in_theaters": false
+}

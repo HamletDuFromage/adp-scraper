@@ -1,0 +1,18 @@
+{
+  "Title": "20 Days in Mariupol",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4d869a16-27d4-4340-ad78-23c53d6a4fc0/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2797571"
+    }
+  ],
+  "in_theaters": false
+}

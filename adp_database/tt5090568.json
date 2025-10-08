@@ -1,0 +1,30 @@
+{
+  "Title": "Transformers: Rise of the Beasts",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.efd4fe0d-f2ed-445d-b220-ff3fa792a565/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1689005274"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C5P9WYCJ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2424673"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/7juDj4xQPZG1xtvD0pDPRQWgv1Vj6xox/"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81602889"
+    }
+  ],
+  "in_theaters": false
+}

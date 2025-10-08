@@ -1,0 +1,17 @@
+{
+  "Title": "Colony",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a3ee5919-b0c1-46f6-9cc3-03e2881b691e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

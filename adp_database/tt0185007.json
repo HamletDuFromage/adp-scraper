@@ -1,0 +1,16 @@
+{
+  "Title": "Whispers: An Elephant's Tale",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/whispers-an-elephants-tale/znNhp1MwCKLq"
+    }
+  ],
+  "in_theaters": false
+}

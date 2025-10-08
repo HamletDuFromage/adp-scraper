@@ -1,0 +1,18 @@
+{
+  "Title": "God Save Texas",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0d0cc6a-224e-45e9-9882-a81a3983b4a5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f0687355-a562-4725-84ba-bc8094dce6b0"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "Jack Reacher: Never Go Back",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4927e02-ded1-465c-afd1-b2db48b94b0c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1159012561"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHP0MK/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/jack-reacher-never-go-back-2016"
+    }
+  ],
+  "in_theaters": false
+}

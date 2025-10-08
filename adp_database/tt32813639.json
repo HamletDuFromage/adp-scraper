@@ -1,0 +1,18 @@
+{
+  "Title": "King of Zanzibar",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4756c9a5-c8b1-4673-83b5-39922e7870e0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ccb70f92-5d15-4152-9697-f66d174a5de1"
+    }
+  ],
+  "in_theaters": false
+}

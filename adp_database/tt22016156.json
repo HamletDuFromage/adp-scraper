@@ -1,0 +1,19 @@
+{
+  "Title": "The Abyss",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81621532"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CSZBDD8L/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

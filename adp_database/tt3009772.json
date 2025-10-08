@@ -1,0 +1,18 @@
+{
+  "Title": "Ode to Joy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/ode-to-joy-c380b610-bcc6-49ac-a13c-6eb95ea1408a"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1472707868"
+    }
+  ],
+  "in_theaters": false
+}

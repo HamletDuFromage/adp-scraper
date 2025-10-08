@@ -1,0 +1,23 @@
+{
+  "Title": "Prancer: A Christmas Tale",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e5961303-778d-46f2-9dbe-c72501143b8c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1654103250"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2157859"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Best in Show",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Animals & Nature",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id290842872"
+    }
+  ],
+  "in_theaters": false
+}

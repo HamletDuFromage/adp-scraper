@@ -1,0 +1,15 @@
+{
+  "Title": "Canelo Álvarez vs. Terence Crawford",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Competition",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/82036275"
+    }
+  ],
+  "in_theaters": false
+}

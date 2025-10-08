@@ -1,0 +1,19 @@
+{
+  "Title": "Amazing Stories",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eac76dd8-93aa-4840-add2-159a87dbc0ac/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.15p55n2osur6c56uam2gxhye3"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Kazaam",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9c805ebd-48f9-4977-bc55-5c76d07b81db/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/kazaam/7a01cUEpdY8C"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id898347451"
+    }
+  ],
+  "in_theaters": false
+}

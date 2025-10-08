@@ -1,0 +1,15 @@
+{
+  "Title": "It's a Mad, Mad, Mad, Mad World",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4cc05ed6-784d-4203-b0f4-faed991bb784/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

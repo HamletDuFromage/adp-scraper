@@ -1,0 +1,16 @@
+{
+  "Title": "Airplane Mode",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81056195"
+    }
+  ],
+  "in_theaters": false
+}

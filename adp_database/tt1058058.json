@@ -1,0 +1,14 @@
+{
+  "Title": "American Swing",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.00a9f6f9-100b-65af-c5f2-010b2a1a0134/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

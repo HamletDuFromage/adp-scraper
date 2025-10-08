@@ -1,0 +1,16 @@
+{
+  "Title": "Murderball",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Disability",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/documentary/murderball/564b206c-a98a-34b7-a61b-e778aeaebd18"
+    }
+  ],
+  "in_theaters": false
+}

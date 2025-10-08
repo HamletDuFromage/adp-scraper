@@ -1,0 +1,18 @@
+{
+  "Title": "Little Bird",
+  "Media Type": "Series",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.776289c2-31f1-443a-9a77-183ddf02901d/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CG3PRWZK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

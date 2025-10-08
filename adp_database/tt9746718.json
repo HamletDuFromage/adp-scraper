@@ -1,0 +1,15 @@
+{
+  "Title": "Things Like This",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ae81d378-8e6c-4488-b8ad-2748b9aa69a2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Jungle Cat",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/jungle-cat/5xT04radP7zK"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id440500053"
+    }
+  ],
+  "in_theaters": false
+}

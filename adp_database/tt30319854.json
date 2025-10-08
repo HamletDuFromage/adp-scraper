@@ -1,0 +1,23 @@
+{
+  "Title": "Sugarcane",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d9fe5265-5e19-4970-94eb-8c06c6851f26/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/sugarcane/1mFU5gariPgc"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1796301439"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4020071"
+    }
+  ],
+  "in_theaters": false
+}

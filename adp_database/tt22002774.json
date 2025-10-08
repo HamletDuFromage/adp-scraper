@@ -1,0 +1,14 @@
+{
+  "Title": "Rush for Your Life",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/690106/rush-for-your-life"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Hostel",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/GxdEsu8Fc_HTkln5hYUHMQnJrRYLXvv6/"
+    }
+  ],
+  "in_theaters": false
+}

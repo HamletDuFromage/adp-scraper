@@ -1,0 +1,19 @@
+{
+  "Title": "Law & Order",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/law-and-order/4636648068458899112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c5b7464d-738f-49e0-8bf3-da47b06e76a2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

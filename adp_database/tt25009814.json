@@ -1,0 +1,15 @@
+{
+  "Title": "Emeril Cooks",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/b3cd79c064025c2988874bfd208f6815/emeril-cooks/season-1"
+    }
+  ],
+  "in_theaters": false
+}

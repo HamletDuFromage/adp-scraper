@@ -1,0 +1,15 @@
+{
+  "Title": "Air Force Elite: Thunderbirds",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Science & Technology"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81673111"
+    }
+  ],
+  "in_theaters": false
+}

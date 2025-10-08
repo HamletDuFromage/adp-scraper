@@ -1,0 +1,15 @@
+{
+  "Title": "The Charlie Puth Show",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/1496da7449c5b3b259d418ce8f81767e/the-charlie-puth-show"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Purple Hearts",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81043665"
+    }
+  ],
+  "in_theaters": false
+}

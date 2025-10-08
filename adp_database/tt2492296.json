@@ -1,0 +1,18 @@
+{
+  "Title": "Show Me a Hero",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ea9f6f5-e257-0f15-c1ff-eef038fab78c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/4d503ae2-f8c1-4a92-a5fd-b9497658a84b"
+    }
+  ],
+  "in_theaters": false
+}

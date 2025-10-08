@@ -1,0 +1,17 @@
+{
+  "Title": "A.N.T. Farm",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/disney-ant-farm/6VhHIPXTucfT"
+    }
+  ],
+  "in_theaters": false
+}

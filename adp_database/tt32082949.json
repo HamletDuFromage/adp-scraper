@@ -1,0 +1,18 @@
+{
+  "Title": "Yo Gabba GabbaLand!",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6b9e106e-dadf-4433-93e0-0fc791616e8c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6a8qdw6e76cba2l0rkgzfbocl"
+    }
+  ],
+  "in_theaters": false
+}

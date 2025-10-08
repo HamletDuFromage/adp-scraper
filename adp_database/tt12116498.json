@@ -1,0 +1,19 @@
+{
+  "Title": "Edge of the Earth",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8fe50a1-b641-44c8-881c-43c331c2296c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1323133b-0cf8-4bdf-b5fc-213907eaec08"
+    }
+  ],
+  "in_theaters": false
+}

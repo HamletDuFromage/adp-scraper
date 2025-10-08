@@ -1,0 +1,16 @@
+{
+  "Title": "Twas the Night",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/twas-the-night/tcQnEav1w8If"
+    }
+  ],
+  "in_theaters": false
+}

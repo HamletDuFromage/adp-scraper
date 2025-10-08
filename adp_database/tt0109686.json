@@ -1,0 +1,14 @@
+{
+  "Title": "Dumb & Dumber",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60a9f788-c7a0-aef4-d48e-7631f866c649/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

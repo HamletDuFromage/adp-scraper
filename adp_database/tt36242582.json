@@ -1,0 +1,15 @@
+{
+  "Title": "Meet the Khumalos",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81708891"
+    }
+  ],
+  "in_theaters": false
+}

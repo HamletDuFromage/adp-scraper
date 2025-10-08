@@ -1,0 +1,17 @@
+{
+  "Title": "Leonardo da Vinci: A Film by Ken Burns, Sarah Burns and David McMahon",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0baa5c45-d731-4623-8d3c-a6a45b63c8fd/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3698307"
+    }
+  ],
+  "in_theaters": false
+}

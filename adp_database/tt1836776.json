@@ -1,0 +1,14 @@
+{
+  "Title": "The Prince and the Pauper",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-prince-and-the-pauper/1NBcXmMdOx9Y"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Wreck-It Ralph",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/wreck-it-ralph/QAy54qHICSSA"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id577679650"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00A83075M/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

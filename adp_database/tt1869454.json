@@ -1,0 +1,17 @@
+{
+  "Title": "Good Omens",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2eb57089-fc1c-d3d0-c5f7-cfcb696e66b5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

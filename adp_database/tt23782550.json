@@ -1,0 +1,18 @@
+{
+  "Title": "Last Song from Kabul",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dfeff30d-138c-4edc-bb75-3d5071045242/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/NI_oECLsC6uQW6k1z4eDZ3bnBeX5wS1e/"
+    }
+  ],
+  "in_theaters": false
+}

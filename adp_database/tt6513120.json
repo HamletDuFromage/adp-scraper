@@ -1,0 +1,23 @@
+{
+  "Title": "Fighting with My Family",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1cb480aa-fd81-64a5-5a7f-f3411ae263f0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1450546361"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07NHRHZ2J/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

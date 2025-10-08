@@ -1,0 +1,14 @@
+{
+  "Title": "Posse",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1fc91a3f-3e96-45b0-b467-0b8760ab2fad/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Hell or High Water",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.461608b3-1c43-4d76-ad26-775890be440e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1139413055"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01KP7LAQ0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

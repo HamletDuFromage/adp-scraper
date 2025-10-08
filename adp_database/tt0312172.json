@@ -1,0 +1,16 @@
+{
+  "Title": "Monk",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eca9f71e-506b-926d-d935-07bd760a685c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

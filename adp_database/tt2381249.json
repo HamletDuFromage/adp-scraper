@@ -1,0 +1,24 @@
+{
+  "Title": "Mission: Impossible V - Rogue Nation",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a9f7a2-5963-6195-7ea9-c7af4721886b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1015157093"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B012XYQ1S0/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/mission-impossible-rogue-nation/oVDz2WQUjdpMvF5EsGTZHfWXH7yeIk08/"
+    }
+  ],
+  "in_theaters": false
+}

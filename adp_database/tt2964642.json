@@ -1,0 +1,19 @@
+{
+  "Title": "Life Below Zero",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/life-below-zero-e9ebccc0-c2ac-432b-a976-db627a112049"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/life-below-zero/2AjLxrbYkYQb"
+    }
+  ],
+  "in_theaters": false
+}

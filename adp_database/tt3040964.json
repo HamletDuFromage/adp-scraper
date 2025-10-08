@@ -1,0 +1,30 @@
+{
+  "Title": "The Jungle Book",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aaa6a15-318e-d72a-0d68-832495ed755e/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ab7f4b7-2f8b-3bce-514e-29c4aed5a458/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-jungle-book-2016/6mPifwCWjpbQ"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1098066757"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01CTNDOJY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

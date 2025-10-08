@@ -1,0 +1,18 @@
+{
+  "Title": "Time",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4ba47f7-250a-f609-79b0-735744737af4/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09JLFZX5P/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

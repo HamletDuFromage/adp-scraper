@@ -1,0 +1,15 @@
+{
+  "Title": "Bleach",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80217733"
+    }
+  ],
+  "in_theaters": false
+}

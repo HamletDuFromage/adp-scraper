@@ -1,0 +1,24 @@
+{
+  "Title": "Deadpool",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18a9f6c7-1cd5-c9f8-3b9f-affb5cf757bf/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-17854bdb-0121-4327-80a0-699fdecd1aaa"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1757894790"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01BLS9EVA/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

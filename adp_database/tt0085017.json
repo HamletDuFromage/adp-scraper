@@ -1,0 +1,21 @@
+{
+  "Title": "Fraggle Rock",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ceb4f219-4b3d-060a-73a7-c72eb9055ce4/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/us/show/fraggle-rock/umc.cmc.2m5fntzbjem6fhniurq8a17om?ctx_brand=tvs.sbd.4000"
+    }
+  ],
+  "in_theaters": false
+}

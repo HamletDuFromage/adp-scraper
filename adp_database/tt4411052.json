@@ -1,0 +1,19 @@
+{
+  "Title": "Mind/Game: The Unquiet Journey of Chamique Holdsclaw",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://reelabilities.org/stream/product/mind-game/"
+    },
+    {
+      "Independent": "https://kovnocommunications.org/films/mindgame-the-unquiet-journey-of-chamique-holdsclaw/"
+    }
+  ],
+  "in_theaters": false
+}

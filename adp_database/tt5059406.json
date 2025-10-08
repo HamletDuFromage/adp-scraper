@@ -1,0 +1,16 @@
+{
+  "Title": "I Am the Pretty Thing That Lives in the House",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80094648"
+    }
+  ],
+  "in_theaters": false
+}

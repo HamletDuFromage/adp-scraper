@@ -1,0 +1,18 @@
+{
+  "Title": "Lincoln's Dilemma",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9332c763-2566-4c1e-a67d-c87197acc90b/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.7003fizrrxznfhz1s20vv7ewy"
+    }
+  ],
+  "in_theaters": false
+}

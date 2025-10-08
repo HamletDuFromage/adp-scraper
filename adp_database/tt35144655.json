@@ -1,0 +1,14 @@
+{
+  "Title": "Beyoncé Bowl",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81983946"
+    }
+  ],
+  "in_theaters": false
+}

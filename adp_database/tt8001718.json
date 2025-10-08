@@ -1,0 +1,15 @@
+{
+  "Title": "Prince of Peoria",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80223556"
+    }
+  ],
+  "in_theaters": false
+}

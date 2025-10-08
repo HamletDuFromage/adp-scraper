@@ -1,0 +1,18 @@
+{
+  "Title": "Dating & New York",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1579839541"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20f289de-3760-4221-845c-a66b60d57d12/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

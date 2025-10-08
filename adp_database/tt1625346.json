@@ -1,0 +1,18 @@
+{
+  "Title": "Young Adult",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id507729345"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005FITIK0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

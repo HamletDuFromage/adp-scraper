@@ -1,0 +1,15 @@
+{
+  "Title": "From Scratch",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81104486"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "At Eternity's Gate",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/6317599300/audiodescriin-20"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/707333/at-eternity-s-gate"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7399866c-cb07-4213-a227-7208e2df09ad/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

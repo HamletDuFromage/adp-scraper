@@ -1,0 +1,15 @@
+{
+  "Title": "You Don't Mess with the Zohan",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32a9f739-0b43-596e-7fb3-748f0d03c7dc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

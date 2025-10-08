@@ -1,0 +1,16 @@
+{
+  "Title": "Brother",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "LGBTQ",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81687951"
+    }
+  ],
+  "in_theaters": false
+}

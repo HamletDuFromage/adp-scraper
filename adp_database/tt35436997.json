@@ -1,0 +1,16 @@
+{
+  "Title": "mono",
+  "Media Type": "Series",
+  "Rating": "ALL",
+  "Genre": [
+    "Animation",
+    "Anime",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f628f85d-51eb-4965-8423-7c722a1b9bd9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

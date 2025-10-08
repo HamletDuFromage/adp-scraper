@@ -1,0 +1,20 @@
+{
+  "Title": "Flight of the Navigator",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/flight-of-the-navigator/3txG6cPzqY96"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id492318849"
+    }
+  ],
+  "in_theaters": false
+}

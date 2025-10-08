@@ -1,0 +1,15 @@
+{
+  "Title": "Kevin Hart's Muscle Car Crew",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Automotive",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/fa33785a259d56769d38775a7f196663/kevin-harts-muscle-car-crew"
+    }
+  ],
+  "in_theaters": false
+}

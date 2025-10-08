@@ -1,0 +1,18 @@
+{
+  "Title": "MTV's Family Legacy",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a21a745c-f97c-48c9-91e0-5c0fedff2ea4/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/family-legacy/"
+    }
+  ],
+  "in_theaters": false
+}

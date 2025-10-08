@@ -1,0 +1,19 @@
+{
+  "Title": "Betty",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "LGBTQ",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82e13b57-eed9-48e9-8d85-8ee7f398afb0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ea4327cc-7773-44ff-9736-19165dbc110e"
+    }
+  ],
+  "in_theaters": false
+}

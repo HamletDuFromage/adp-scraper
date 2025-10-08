@@ -1,0 +1,17 @@
+{
+  "Title": "Your Friend the Rat",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/your-friend-the-rat/2SeBSbnVnHeR"
+    }
+  ],
+  "in_theaters": false
+}

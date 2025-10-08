@@ -1,0 +1,16 @@
+{
+  "Title": "Sing Street",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3caaf884-9803-bfed-0f2f-c9f4f28ac492/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

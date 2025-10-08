@@ -1,0 +1,18 @@
+{
+  "Title": "Reframed: Next Gen Narratives",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ca164395-d116-4124-9528-f1ca043f14a9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1a557047-db9e-49f7-978e-35390e2ba6a7"
+    }
+  ],
+  "in_theaters": false
+}

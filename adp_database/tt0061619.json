@@ -1,0 +1,19 @@
+{
+  "Title": "El Dorado",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ea9f7a7-d443-b267-e813-ae1a06bda9a0/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/el-dorado-1967"
+    }
+  ],
+  "in_theaters": false
+}

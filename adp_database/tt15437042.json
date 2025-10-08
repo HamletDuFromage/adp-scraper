@@ -1,0 +1,23 @@
+{
+  "Title": "Curious George: Cape Ahoy",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b20640ab-235f-4851-8476-19fa25b62b1a/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/kids/curious-george-cape-ahoy/18fa44ce-1100-313c-8e8d-d47f36b0b06e"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1610043965"
+    }
+  ],
+  "in_theaters": false
+}

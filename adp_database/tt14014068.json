@@ -1,0 +1,15 @@
+{
+  "Title": "Book of Love",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.25c620c9-c9ac-4836-b522-753fcf3f5c00/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

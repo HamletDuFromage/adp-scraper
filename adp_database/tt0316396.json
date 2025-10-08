@@ -1,0 +1,17 @@
+{
+  "Title": "Peter Pan",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2a9f6fe-a121-7e3d-9e6f-35e2fc1413a6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

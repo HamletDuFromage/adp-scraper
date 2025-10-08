@@ -1,0 +1,21 @@
+{
+  "Title": "Knocked Up",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.faa9f710-57e0-7604-1417-28d89f306b0f/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B000U71692/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70059982"
+    }
+  ],
+  "in_theaters": false
+}

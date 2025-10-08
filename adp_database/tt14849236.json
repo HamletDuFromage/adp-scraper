@@ -1,0 +1,17 @@
+{
+  "Title": "Catch and Kill: The Podcast Tapes",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.be4f95b2-d132-4d1e-a1a6-7323aa23daf2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/b3de1514-5027-4fe6-9b76-883060f693a1"
+    }
+  ],
+  "in_theaters": false
+}

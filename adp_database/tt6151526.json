@@ -1,0 +1,19 @@
+{
+  "Title": "The Rainmaker",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-rainmaker/6212791529564706112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.57ff556e-661b-4349-add6-b75aa79c6132/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

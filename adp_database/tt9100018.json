@@ -1,0 +1,22 @@
+{
+  "Title": "Cobweb",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50127889-9321-4afb-acb7-4e0f482ad964/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1699783272"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2405682"
+    }
+  ],
+  "in_theaters": false
+}

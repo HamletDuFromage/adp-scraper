@@ -1,0 +1,20 @@
+{
+  "Title": "Tuck Everlasting",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tuck-everlasting/18CrqfoqNpih"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id205702666"
+    }
+  ],
+  "in_theaters": false
+}

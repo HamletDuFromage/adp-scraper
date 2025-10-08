@@ -1,0 +1,17 @@
+{
+  "Title": "Escape to the Chateau",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/escape-to-the-chateau/5812237972367025112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a41d4ee3-e08e-4ae4-a5fa-af35406859fd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Killers",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72aa787b-3472-72b9-3d97-4df6ac1fb1ae/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/5ded19e6-73f5-4c65-a4f8-759bce8d1114"
+    }
+  ],
+  "in_theaters": false
+}

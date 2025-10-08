@@ -1,0 +1,19 @@
+{
+  "Title": "Selma",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id950562460"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00NMF8SEK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

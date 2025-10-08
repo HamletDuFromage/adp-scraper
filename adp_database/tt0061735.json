@@ -1,0 +1,15 @@
+{
+  "Title": "Guess Who's Coming To Dinner",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4a9f7b3-9f10-5e87-a296-c3fd03fc1e94/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Barbra: The Music ... The Mem'ries ... The Magic!",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80203522"
+    }
+  ],
+  "in_theaters": false
+}

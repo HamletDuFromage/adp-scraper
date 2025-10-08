@@ -1,0 +1,17 @@
+{
+  "Title": "The Craft",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8b7ffbd-26b6-d72d-9b44-a11f34e173b8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

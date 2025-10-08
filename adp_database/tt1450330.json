@@ -1,0 +1,16 @@
+{
+  "Title": "Roadie",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eea9f79e-104f-a661-c7fe-ec270e94aa3f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

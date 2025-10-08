@@ -1,0 +1,19 @@
+{
+  "Title": "Gus",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/gus/2bv55gX3p9He"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id297289515"
+    }
+  ],
+  "in_theaters": false
+}

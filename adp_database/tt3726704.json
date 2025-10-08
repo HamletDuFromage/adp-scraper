@@ -1,0 +1,16 @@
+{
+  "Title": "Experimenter",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2d5e6d4-cb5d-4adf-92c8-248758e47644/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Hurricane Heist",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ab13ac3-85d5-b11d-b552-5c695e66cae4/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07C5H8DFX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Fly Me to the Moon",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.59707f2e-9a37-472a-a372-5f6f93d30b27/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.7bwrikjdeik56bk49vlr7c1h6"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1756220570"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3464020"
+    }
+  ],
+  "in_theaters": false
+}

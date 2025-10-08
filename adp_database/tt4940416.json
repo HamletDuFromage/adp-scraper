@@ -1,0 +1,17 @@
+{
+  "Title": "Duck Duck Goose",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80195962"
+    }
+  ],
+  "in_theaters": false
+}

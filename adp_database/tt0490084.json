@@ -1,0 +1,16 @@
+{
+  "Title": "Because I Said So",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f7a2-bcc6-ccc9-52ec-b0a81de8b08b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Frogger",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Competition",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/frogger/5080905868851958112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.91cad09a-b062-4c9b-8ede-4e313df922f9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

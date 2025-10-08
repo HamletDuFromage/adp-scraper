@@ -1,0 +1,18 @@
+{
+  "Title": "Flag Day",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2a667d9b-efd0-4645-a799-2e142aae8286/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1587256858"
+    }
+  ],
+  "in_theaters": false
+}

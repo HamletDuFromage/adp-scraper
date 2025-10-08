@@ -1,0 +1,17 @@
+{
+  "Title": "Veronica Mars",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e3f8047d-8c3a-4163-9095-510f17eac9da/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

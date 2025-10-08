@@ -1,0 +1,15 @@
+{
+  "Title": "Westside",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Musical",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80201862"
+    }
+  ],
+  "in_theaters": false
+}

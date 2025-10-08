@@ -1,0 +1,21 @@
+{
+  "Title": "Red Rocket",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72b16db5-1417-4cb2-bc88-875c0b246c67/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1597010941"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09QMPGMHD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

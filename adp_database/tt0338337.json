@@ -1,0 +1,19 @@
+{
+  "Title": "Paycheck",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id550804986"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/40137"
+    }
+  ],
+  "in_theaters": false
+}

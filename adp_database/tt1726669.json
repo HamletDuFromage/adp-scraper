@@ -1,0 +1,16 @@
+{
+  "Title": "Killer Joe",
+  "Media Type": "Movie",
+  "Rating": "NC-17",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aae78ed0-4aad-49a0-bc2d-77e2ac1a223b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

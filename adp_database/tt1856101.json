@@ -1,0 +1,23 @@
+{
+  "Title": "Blade Runner 2049",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c5d0912f-4e6c-46f0-9f52-bdf1f17e2841/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1288813671"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0785WY1YM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

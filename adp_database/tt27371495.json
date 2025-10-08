@@ -1,0 +1,18 @@
+{
+  "Title": "Big Beasts",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62d52f76-7e9a-443f-9834-92e92db4b070/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.7d9yulmth1rvkwpij477qsqsk"
+    }
+  ],
+  "in_theaters": false
+}

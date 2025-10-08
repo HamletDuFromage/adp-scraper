@@ -1,0 +1,17 @@
+{
+  "Title": "LBJ",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Politics"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2afd1ac-1186-1a1c-ac1b-dd1ac2706359/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

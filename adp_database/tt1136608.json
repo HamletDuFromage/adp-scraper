@@ -1,0 +1,19 @@
+{
+  "Title": "District 9",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id331251689"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002SJIO4A/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

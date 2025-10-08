@@ -1,0 +1,15 @@
+{
+  "Title": "Best of Stand-Up 2022",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81640195"
+    }
+  ],
+  "in_theaters": false
+}

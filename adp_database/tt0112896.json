@@ -1,0 +1,16 @@
+{
+  "Title": "Dracula: Dead and Loving It",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68a9f765-0afc-6839-f47c-63e6db9967f5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

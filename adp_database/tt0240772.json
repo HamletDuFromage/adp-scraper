@@ -1,0 +1,15 @@
+{
+  "Title": "Ocean's Eleven",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0a9f7c0-5cbe-7d80-e210-f8462ae5b5d0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

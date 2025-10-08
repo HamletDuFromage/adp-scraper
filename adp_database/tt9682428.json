@@ -1,0 +1,28 @@
+{
+  "Title": "Night Swim",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6c7c1011-443f-41f4-88d9-a7bdaa437455/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1722135344"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CQPGN6TY/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2871269"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/night-swim/a8b2d12b-2e02-3c91-ac8a-45dc62c11caf"
+    }
+  ],
+  "in_theaters": false
+}

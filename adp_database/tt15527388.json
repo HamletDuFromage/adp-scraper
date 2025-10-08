@@ -1,0 +1,17 @@
+{
+  "Title": "Deepa & Anoop",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80214601"
+    }
+  ],
+  "in_theaters": false
+}

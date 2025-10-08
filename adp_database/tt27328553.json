@@ -1,0 +1,14 @@
+{
+  "Title": "A Good Man",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/100000965/a-good-man"
+    }
+  ],
+  "in_theaters": false
+}

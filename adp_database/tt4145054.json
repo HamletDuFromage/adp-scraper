@@ -1,0 +1,17 @@
+{
+  "Title": "Shadowhunters",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/shadowhunters-a16cc211-5e77-4a35-93fd-6ea6a3d5ae36"
+    }
+  ],
+  "in_theaters": false
+}

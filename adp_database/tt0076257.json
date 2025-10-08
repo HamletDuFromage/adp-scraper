@@ -1,0 +1,14 @@
+{
+  "Title": "Kentucky Fried Movie",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98a9f773-59eb-5c7a-096b-1349b17bbbb4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

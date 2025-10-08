@@ -1,0 +1,14 @@
+{
+  "Title": "The Way I See It",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68ba8767-2f8c-9eb2-bc8a-b99b08d24910/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

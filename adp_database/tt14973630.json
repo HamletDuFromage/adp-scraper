@@ -1,0 +1,16 @@
+{
+  "Title": "Swim",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/613766/swim"
+    }
+  ],
+  "in_theaters": false
+}

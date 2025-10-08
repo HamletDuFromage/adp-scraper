@@ -1,0 +1,20 @@
+{
+  "Title": "Night at the Museum: Battle of the Smithsonian",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.15bb3557-9bf3-43ce-966a-4e9782053793/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id320936542"
+    }
+  ],
+  "in_theaters": false
+}

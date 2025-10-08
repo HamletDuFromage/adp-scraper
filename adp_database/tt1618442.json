@@ -1,0 +1,24 @@
+{
+  "Title": "The Last Witch Hunter",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1049960925"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01723F80E/audiodescriin-20"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/516859/the-last-witch-hunter"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ad2cf36f-39a5-4650-8b0a-6765eee45363/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

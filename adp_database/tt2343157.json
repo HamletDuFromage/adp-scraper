@@ -1,0 +1,17 @@
+{
+  "Title": "Vanderpump Rules",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/vanderpump-rules/5000410116446480112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ff5ea2af-ccc8-488b-8120-070c14af2010/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

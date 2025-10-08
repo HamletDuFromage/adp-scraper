@@ -1,0 +1,15 @@
+{
+  "Title": "House of Cards",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70178217"
+    }
+  ],
+  "in_theaters": false
+}

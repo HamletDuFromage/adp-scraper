@@ -1,0 +1,20 @@
+{
+  "Title": "Half Baked: Totally High",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fd60db60-cca4-4503-8c08-f4df5e34426c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1740641430"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3074321"
+    }
+  ],
+  "in_theaters": false
+}

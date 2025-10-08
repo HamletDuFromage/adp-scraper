@@ -1,0 +1,18 @@
+{
+  "Title": "Little America",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.010db8e7-3810-43e7-a088-4731af92138a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2ice8mlcn1zrtxf81e5ktwg8p"
+    }
+  ],
+  "in_theaters": false
+}

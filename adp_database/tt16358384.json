@@ -1,0 +1,22 @@
+{
+  "Title": "Tulsa King",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44914abb-1bd6-4baa-a743-20ea7952a20f/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4016398"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/tulsa-king/"
+    }
+  ],
+  "in_theaters": false
+}

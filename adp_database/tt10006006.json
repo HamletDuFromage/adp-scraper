@@ -1,0 +1,17 @@
+{
+  "Title": "A Christmas Prince: The Royal Baby",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81029841"
+    }
+  ],
+  "in_theaters": false
+}

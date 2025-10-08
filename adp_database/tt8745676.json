@@ -1,0 +1,16 @@
+{
+  "Title": "The Swimmers",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81365134"
+    }
+  ],
+  "in_theaters": false
+}

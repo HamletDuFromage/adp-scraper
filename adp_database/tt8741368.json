@@ -1,0 +1,18 @@
+{
+  "Title": "Rugrats",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b16d2b50-949e-4868-8360-9658c292952a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

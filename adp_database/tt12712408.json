@@ -1,0 +1,17 @@
+{
+  "Title": "Christmas in Carolina",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96ba2c10-9565-7276-3de8-f3774e7da4f6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

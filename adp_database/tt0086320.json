@@ -1,0 +1,14 @@
+{
+  "Title": "Sleepaway Camp",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f75f-0bdf-dff4-4b07-c31b71a0779d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Home Economics",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/35c55fb8-6ad6-44ad-9cff-2c08a542ade4"
+    }
+  ],
+  "in_theaters": false
+}

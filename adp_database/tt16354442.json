@@ -1,0 +1,16 @@
+{
+  "Title": "Planning on Forever",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bbe2a61e-ba65-4853-a265-bda5a358fb3b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

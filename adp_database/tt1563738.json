@@ -1,0 +1,19 @@
+{
+  "Title": "One Day",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0a9f7b5-df94-e289-a85a-86f9163ce42a/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005NQ94KS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "My Little Pony: Equestria Girls",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ca9f79e-1072-3e03-7cc4-d57105144f2c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

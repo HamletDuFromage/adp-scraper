@@ -1,0 +1,19 @@
+{
+  "Title": "The Snoopy Show",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c63070e3-9178-4269-b5c6-a6825d48f2c0/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.5iswprrvjjw6ab020a17x4ca3"
+    }
+  ],
+  "in_theaters": false
+}

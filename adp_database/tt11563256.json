@@ -1,0 +1,17 @@
+{
+  "Title": "Santa Evita",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/santa-evita-english-1e1d96a8-f1f8-4c7f-9afe-d9ae5d8feea0"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Little Brother",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.163620a3-7c37-4d10-9eb5-684bc39c418f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1758220092"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/movies/67d4a9b2fdba35b583fd4342"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Young Justice",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Crime",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3bf182de-bd82-407c-a126-4e1b5838ac25/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/272b461c-49d4-4df3-9eb6-28bee0ebec47"
+    }
+  ],
+  "in_theaters": false
+}

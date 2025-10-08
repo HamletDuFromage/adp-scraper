@@ -1,0 +1,21 @@
+{
+  "Title": "Rain Dogs",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ac218884-dc0a-4be5-8f1e-beb073ab61cf/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/bae3722f-ecd4-4f6e-ad7b-ae6f70781e39"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2362749"
+    }
+  ],
+  "in_theaters": false
+}

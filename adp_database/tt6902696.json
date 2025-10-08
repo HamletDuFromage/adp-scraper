@@ -1,0 +1,17 @@
+{
+  "Title": "Gloria Bell",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96b4a4d3-0083-360d-b30a-4a79445aebc6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

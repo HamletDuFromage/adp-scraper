@@ -1,0 +1,19 @@
+{
+  "Title": "Wahl Street",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.623d5b5f-4c4e-4dc7-872c-2ec7466d697d/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1f4d505c-ee0f-460f-a11e-101488734ab5"
+    }
+  ],
+  "in_theaters": false
+}

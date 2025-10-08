@@ -1,0 +1,24 @@
+{
+  "Title": "Velma",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f63e4bed-d936-42fa-8e10-55e60c8af765/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/cfad0209-ac6d-46d5-ba24-0e6ca22ced30"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2306738"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Duck Butter",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80115118"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Believer 2",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81594923"
+    }
+  ],
+  "in_theaters": false
+}

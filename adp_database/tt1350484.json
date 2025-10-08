@@ -1,0 +1,16 @@
+{
+  "Title": "Curious George 2: Follow That Monkey!",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46a9f7a1-828d-dcb4-bf05-01a90bd198c0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

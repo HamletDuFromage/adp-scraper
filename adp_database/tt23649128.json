@@ -1,0 +1,18 @@
+{
+  "Title": "The Studio",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c759a32c-96db-45e4-9b56-97331ba9f884/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.7518algxc4lsoobtsx30dqb52"
+    }
+  ],
+  "in_theaters": false
+}

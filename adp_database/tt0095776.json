@@ -1,0 +1,21 @@
+{
+  "Title": "Oliver & Company",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/oliver-company/1iN3xPQub19P"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id664940149"
+    }
+  ],
+  "in_theaters": false
+}

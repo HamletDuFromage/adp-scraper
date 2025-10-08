@@ -1,0 +1,17 @@
+{
+  "Title": "Kid 90",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/kid-90-f6944ad5-bd84-4093-99e8-5f1d1d44c787"
+    }
+  ],
+  "in_theaters": false
+}

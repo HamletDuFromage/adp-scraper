@@ -1,0 +1,30 @@
+{
+  "Title": "Eileen",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "LGBTQ",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b9fa8605-1028-486e-863c-c32ea6e17377/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/5159ef63-dc12-45fd-b42b-bd8d61c7f517"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1714690606"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CMBHNZ6D/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2700208"
+    }
+  ],
+  "in_theaters": false
+}

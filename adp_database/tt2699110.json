@@ -1,0 +1,17 @@
+{
+  "Title": "The Affair",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-affair/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0a9f76c-bb74-8bf6-76e8-173886522465/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

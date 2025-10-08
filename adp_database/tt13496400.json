@@ -1,0 +1,17 @@
+{
+  "Title": "Dory's Reef Cam",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dorys-reef-cam/3sKIwHuYQHKS"
+    }
+  ],
+  "in_theaters": false
+}

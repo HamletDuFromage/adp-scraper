@@ -1,0 +1,15 @@
+{
+  "Title": "She Taught Love",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/ed4377c6-b509-47f4-85be-86a94980d633"
+    }
+  ],
+  "in_theaters": false
+}

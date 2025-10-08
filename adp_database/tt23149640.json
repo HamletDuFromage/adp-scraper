@@ -1,0 +1,18 @@
+{
+  "Title": "Bargain",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e91491ef-9a23-48c3-8d81-3399e13ad4c1/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/bargain/"
+    }
+  ],
+  "in_theaters": false
+}

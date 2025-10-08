@@ -1,0 +1,18 @@
+{
+  "Title": "The Confidante",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4f9283bc-c963-4d6b-8480-d789ae96d04a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/eff3d554-8136-4a45-8479-b0e8e91ea3ba"
+    }
+  ],
+  "in_theaters": false
+}

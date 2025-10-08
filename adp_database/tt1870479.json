@@ -1,0 +1,17 @@
+{
+  "Title": "The Newsroom",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/ec852a72-c111-44af-bd81-0830484022d0"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4a9f794-3377-330d-5d3f-0a8b0442ec01/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Detour",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c2b6a888-8b33-a53a-eae8-8fa52ee73821/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

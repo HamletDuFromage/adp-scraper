@@ -1,0 +1,14 @@
+{
+  "Title": "Doctor Detroit",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1f42c793-5fe9-4215-9326-1993c1c24371/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Girl vs. Monster",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/girl-vs-monster/72ukYPILTnHp"
+    }
+  ],
+  "in_theaters": false
+}

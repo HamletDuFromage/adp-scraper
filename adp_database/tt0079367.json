@@ -1,0 +1,14 @@
+{
+  "Title": "The Jerk",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8a9f7c2-48be-3607-4778-51304c61761d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

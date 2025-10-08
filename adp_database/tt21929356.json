@@ -1,0 +1,14 @@
+{
+  "Title": "A Trip to Infinity",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81273453"
+    }
+  ],
+  "in_theaters": false
+}

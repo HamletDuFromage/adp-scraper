@@ -1,0 +1,24 @@
+{
+  "Title": "Spirit Untamed: The Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.08315ca2-99de-4994-98a3-c749fd536adc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1571834580"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0964WQ5Q9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

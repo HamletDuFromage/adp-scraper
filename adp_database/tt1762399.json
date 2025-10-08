@@ -1,0 +1,16 @@
+{
+  "Title": "Walking with Dinosaurs",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00H7KJTMG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

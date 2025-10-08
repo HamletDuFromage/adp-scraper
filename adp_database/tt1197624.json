@@ -1,0 +1,16 @@
+{
+  "Title": "Law Abiding Citizen",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70116679"
+    }
+  ],
+  "in_theaters": false
+}

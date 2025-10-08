@@ -1,0 +1,15 @@
+{
+  "Title": "Con Mum",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81708174"
+    }
+  ],
+  "in_theaters": false
+}

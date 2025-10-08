@@ -1,0 +1,25 @@
+{
+  "Title": "Elvis",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.47122eed-f2bc-4791-b08c-f867a5710391/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/0e4c74ab-9c45-4be9-ab07-5523a4bbf62e"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1625859236"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B5BKF2M8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

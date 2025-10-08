@@ -1,0 +1,18 @@
+{
+  "Title": "The Witch",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30dfa91d-3860-4fcc-9c01-afddd1886b7a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

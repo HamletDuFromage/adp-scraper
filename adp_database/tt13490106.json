@@ -1,0 +1,18 @@
+{
+  "Title": "The Meaning of Hitler",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary",
+    "Special Interest"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8049e23-1d6a-436f-9b66-0ba1f04c8816/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1575031404"
+    }
+  ],
+  "in_theaters": false
+}

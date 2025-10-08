@@ -1,0 +1,17 @@
+{
+  "Title": "Truth Be Told",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cd16006f-c2be-45ff-aaa2-2ffa415cf170/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6hegr60w8pjyfcblgocjek7oo"
+    }
+  ],
+  "in_theaters": false
+}

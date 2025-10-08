@@ -1,0 +1,24 @@
+{
+  "Title": "Soul",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Music",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/soul/77zlWrb9vRYp"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1553194587"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08X63FJT9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

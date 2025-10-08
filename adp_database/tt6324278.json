@@ -1,0 +1,23 @@
+{
+  "Title": "Abominable",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1480468378"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07Y4JN2TM/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66b6a295-4bcb-14a1-2fbf-d466fd3ef947/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

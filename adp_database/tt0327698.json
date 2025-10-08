@@ -1,0 +1,16 @@
+{
+  "Title": "The Even Stevens Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-even-stevens-movie/18XkyHRWT2Yu"
+    }
+  ],
+  "in_theaters": false
+}

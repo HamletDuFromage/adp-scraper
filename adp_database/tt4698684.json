@@ -1,0 +1,16 @@
+{
+  "Title": "Hunt for the Wilderpeople",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0caaba84-41e2-7775-4060-10e58f4313bd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

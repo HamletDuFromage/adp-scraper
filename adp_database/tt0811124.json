@@ -1,0 +1,16 @@
+{
+  "Title": "The Lost Tribe",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0a9f76e-6f8f-26f0-a06b-67a127adb499/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

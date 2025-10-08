@@ -1,0 +1,22 @@
+{
+  "Title": "Arcadian",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.496e8a89-c158-4e19-8387-9efa1c40a3ca/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1739138904"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D28RYDHS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

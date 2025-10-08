@@ -1,0 +1,17 @@
+{
+  "Title": "Aggie",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86ba8ef7-93b4-5863-97cd-8a04394e7547/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1533485323"
+    }
+  ],
+  "in_theaters": false
+}

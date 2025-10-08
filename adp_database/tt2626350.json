@@ -1,0 +1,19 @@
+{
+  "Title": "Step Up All In",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6aa9f724-9e17-e973-9503-d173f3ca6dff/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id905576297"
+    }
+  ],
+  "in_theaters": false
+}

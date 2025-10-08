@@ -1,0 +1,15 @@
+{
+  "Title": "The Golden Girls",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-golden-girls-a6e5db1c-ab70-451d-8b8c-2fba9ea29248"
+    }
+  ],
+  "in_theaters": false
+}

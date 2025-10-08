@@ -1,0 +1,17 @@
+{
+  "Title": "Las Bravas F.C.",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.17a99746-4582-45f4-a7a5-e985645e9fd4/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e0375dd6-9ef4-4d12-ac39-a4a115a535ec"
+    }
+  ],
+  "in_theaters": false
+}

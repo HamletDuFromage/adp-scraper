@@ -1,0 +1,19 @@
+{
+  "Title": "Skin Hunters",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Drama",
+    "Medical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d1607064-e7d0-4735-b501-e3901603c9b1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a4aecf47-90c0-4298-a72e-61857b154f15"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Dracula Untold",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70305899"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5aa9f7af-8525-0756-25cf-c57062b4ce90/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00OALA8YS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

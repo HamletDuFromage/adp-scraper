@@ -1,0 +1,14 @@
+{
+  "Title": "Brian Regan: On the Rocks",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81175613"
+    }
+  ],
+  "in_theaters": false
+}

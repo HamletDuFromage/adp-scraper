@@ -1,0 +1,22 @@
+{
+  "Title": "Who Framed Roger Rabbit",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/who-framed-roger-rabbit/20GDm8DYpIsC"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id579011609"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09H3TQYMT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Army of Darkness",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.71a85049-e556-4070-8b3c-b266baa793e4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

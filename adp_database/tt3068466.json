@@ -1,0 +1,17 @@
+{
+  "Title": "Christmas Belle",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6aa9f7a1-444d-d5a8-d21d-a9bd64e2ee28/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

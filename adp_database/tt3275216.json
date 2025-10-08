@@ -1,0 +1,16 @@
+{
+  "Title": "Manson Family Vacation",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80045783"
+    }
+  ],
+  "in_theaters": false
+}

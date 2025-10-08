@@ -1,0 +1,15 @@
+{
+  "Title": "Dancing Queen",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Music",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80198511"
+    }
+  ],
+  "in_theaters": false
+}

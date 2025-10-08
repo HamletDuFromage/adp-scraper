@@ -1,0 +1,16 @@
+{
+  "Title": "Easy-Bake Battle: The Home Cooking Competition",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81406124"
+    }
+  ],
+  "in_theaters": false
+}

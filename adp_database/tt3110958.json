@@ -1,0 +1,24 @@
+{
+  "Title": "Now You See Me 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56b87e84-2992-01ea-e04b-65bf45017635/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1117669501"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01H0O3X4I/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

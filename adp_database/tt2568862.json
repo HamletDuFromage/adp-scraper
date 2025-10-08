@@ -1,0 +1,18 @@
+{
+  "Title": "Going in Style",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1221216139"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B071WCM9CW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

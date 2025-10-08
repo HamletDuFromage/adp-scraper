@@ -1,0 +1,24 @@
+{
+  "Title": "Janet Planet",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.160e2ad6-3f11-4e90-b5ec-dd2b49a340e9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/91e3f9ea-e652-4754-814a-9b06d5bc3127"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1751756989"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3245605"
+    }
+  ],
+  "in_theaters": false
+}

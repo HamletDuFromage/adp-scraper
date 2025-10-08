@@ -1,0 +1,20 @@
+{
+  "Title": "Airplane!",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28b84e74-fa00-3dfe-836d-dc24c32bdfdb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id291552690"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/airplane-1980"
+    }
+  ],
+  "in_theaters": false
+}

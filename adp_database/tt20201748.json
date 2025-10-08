@@ -1,0 +1,21 @@
+{
+  "Title": "Greedy People",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3a3469e4-a316-477b-a2f0-3704e2606a56/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1762570427"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3370687"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Air Bud: World Pup",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/air-bud-world-pup/5F51YqXu5rLF"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id368927479"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Bonding",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81004814"
+    }
+  ],
+  "in_theaters": false
+}

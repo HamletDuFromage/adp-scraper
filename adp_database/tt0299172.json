@@ -1,0 +1,19 @@
+{
+  "Title": "Home on the Range",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/home-on-the-range/4hY2s8PmR4eT"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id535005066"
+    }
+  ],
+  "in_theaters": false
+}

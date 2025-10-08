@@ -1,0 +1,18 @@
+{
+  "Title": "The Little Whirlwind",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-little-whirlwind/1rfBhtW19hrN"
+    }
+  ],
+  "in_theaters": false
+}

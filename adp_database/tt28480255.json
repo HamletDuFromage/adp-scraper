@@ -1,0 +1,21 @@
+{
+  "Title": "Ninja Kamui",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Crime",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.793c3e74-50c6-4c8f-9d7f-85bf14332aa6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/163fa9d3-af20-4fb4-8918-628ba5725ca3"
+    }
+  ],
+  "in_theaters": false
+}

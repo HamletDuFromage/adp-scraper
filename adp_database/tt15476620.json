@@ -1,0 +1,18 @@
+{
+  "Title": "Ciao Alberto",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/ciao-alberto/79D7HDii6hHH"
+    }
+  ],
+  "in_theaters": false
+}

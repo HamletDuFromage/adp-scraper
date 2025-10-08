@@ -1,0 +1,30 @@
+{
+  "Title": "Ratatouille",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2b8201a-c3b5-6a57-eda4-85f6a1c5e75f/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/ratatouille/4zRnUvYGbUZG"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id265250067"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TPXM2FS/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/130841"
+    }
+  ],
+  "in_theaters": false
+}

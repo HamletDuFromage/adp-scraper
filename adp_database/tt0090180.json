@@ -1,0 +1,20 @@
+{
+  "Title": "To Live and Die in L.A.",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a9cd54bd-c057-441b-a04e-76196c4c3578/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/140358"
+    }
+  ],
+  "in_theaters": false
+}

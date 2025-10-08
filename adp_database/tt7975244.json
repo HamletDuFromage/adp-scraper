@@ -1,0 +1,22 @@
+{
+  "Title": "Jumanji: The Next Level",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0b764be-4838-4b3e-065a-f346a84c25cf/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1488964698"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07ZW9ZGFQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

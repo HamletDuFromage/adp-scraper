@@ -1,0 +1,16 @@
+{
+  "Title": "Sweet Home Carolina",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2bb3b5c-ec02-e785-8687-131b962f4cc5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

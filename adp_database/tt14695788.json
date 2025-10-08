@@ -1,0 +1,19 @@
+{
+  "Title": "Pause with Sam Jay",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "LGBTQ",
+    "TV Variety",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8360fb1c-afc5-4f49-b639-18b6428237f3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e14d4ee3-bca4-4269-ae93-a1314d16399f"
+    }
+  ],
+  "in_theaters": false
+}

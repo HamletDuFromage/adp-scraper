@@ -1,0 +1,17 @@
+{
+  "Title": "Torn",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/33377bec-8914-4587-8943-201ed3e5b592"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/torn/7C6rhBHfIlfP"
+    }
+  ],
+  "in_theaters": false
+}

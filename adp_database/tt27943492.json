@@ -1,0 +1,15 @@
+{
+  "Title": "First Five",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/6479c960-c8a4-492e-8d6b-9c201c4856a7"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "The King of Staten Island",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74b945bc-0ba2-15d9-9d79-67e522667180/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1516521313"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B089TVCHVD/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/the-king-of-staten-island/8853d2fd-bc89-3758-900d-69637dce6e52"
+    }
+  ],
+  "in_theaters": false
+}

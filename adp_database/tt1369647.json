@@ -1,0 +1,16 @@
+{
+  "Title": "Christmas Angel",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ea9f7a7-4d9d-f8ab-5430-d176725d5a5f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

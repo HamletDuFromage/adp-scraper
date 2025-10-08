@@ -1,0 +1,21 @@
+{
+  "Title": "Touch",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9c95f002-bada-49f1-b64f-f698ce8f6148/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1755049289"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3370111"
+    }
+  ],
+  "in_theaters": false
+}

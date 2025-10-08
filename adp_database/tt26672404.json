@@ -1,0 +1,15 @@
+{
+  "Title": "Butterfly",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ef9debd9-73ec-42ea-8fce-74a666c3d3de/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Home Before Dark",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fed47da1-28bf-4df4-b826-7b2da5ca9058/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.5yqy2wv4w7l0v4x5mn3le8l1y"
+    }
+  ],
+  "in_theaters": false
+}

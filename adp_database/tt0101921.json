@@ -1,0 +1,14 @@
+{
+  "Title": "Fried Green Tomatoes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bea9f6f8-854c-135a-868e-5410ee24b2d5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

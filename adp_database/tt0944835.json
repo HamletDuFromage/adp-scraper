@@ -1,0 +1,22 @@
+{
+  "Title": "Salt",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74a9f700-99b3-aa6b-8f3c-fea50ef86f03/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id386251756"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0045ODPKY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

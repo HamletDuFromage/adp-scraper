@@ -1,0 +1,18 @@
+{
+  "Title": "The Longest Yard",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id285666753"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/20178"
+    }
+  ],
+  "in_theaters": false
+}

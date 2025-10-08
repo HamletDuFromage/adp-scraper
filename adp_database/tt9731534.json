@@ -1,0 +1,22 @@
+{
+  "Title": "The Night House",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.df5c3af6-fbae-4222-af99-ad4d2088834d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1585398447"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09HSGYS8Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

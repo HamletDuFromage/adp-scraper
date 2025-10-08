@@ -1,0 +1,22 @@
+{
+  "Title": "Mr. Popper's Penguins",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f6bbaf43-d7d6-d071-bfca-6b4d14dcaed0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id452104118"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004A8ZX3C/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

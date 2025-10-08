@@ -1,0 +1,14 @@
+{
+  "Title": "Surrender",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/surrender-1987"
+    }
+  ],
+  "in_theaters": false
+}

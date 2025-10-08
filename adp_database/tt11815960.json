@@ -1,0 +1,15 @@
+{
+  "Title": "The Superdeep",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b829dda3-fc03-4727-9d25-e2aeb92de4d5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

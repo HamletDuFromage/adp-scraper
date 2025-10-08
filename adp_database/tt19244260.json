@@ -1,0 +1,14 @@
+{
+  "Title": "Red Right Hand",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.09fdac36-343b-4b80-bce4-34e34f684f0c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "The Rescuers",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-rescuers/5Zm5KWEB4rVz"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id309419308"
+    }
+  ],
+  "in_theaters": false
+}

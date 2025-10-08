@@ -1,0 +1,20 @@
+{
+  "Title": "The Emperor's New Groove",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-emperors-new-groove/3jFGExhfWgxg"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id206329594"
+    }
+  ],
+  "in_theaters": false
+}

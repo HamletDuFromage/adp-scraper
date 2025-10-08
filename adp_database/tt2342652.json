@@ -1,0 +1,18 @@
+{
+  "Title": "Getting On",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Medical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1a509da1-af09-49c2-9513-91a0346bcf41/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a11e24d5-182a-4690-9ea2-dbaf04965cbc"
+    }
+  ],
+  "in_theaters": false
+}

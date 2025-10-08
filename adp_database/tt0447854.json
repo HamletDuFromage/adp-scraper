@@ -1,0 +1,20 @@
+{
+  "Title": "Bambi II",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/bambi-ii/5tjSwpEusYaH"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id428798652"
+    }
+  ],
+  "in_theaters": false
+}

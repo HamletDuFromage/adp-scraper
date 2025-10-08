@@ -1,0 +1,17 @@
+{
+  "Title": "Step Up 3",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Dance",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id394048847"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Peter Pan & Wendy",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Coming of Age",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/peter-pan-wendy/147B2rQASB09"
+    }
+  ],
+  "in_theaters": false
+}

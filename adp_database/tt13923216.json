@@ -1,0 +1,21 @@
+{
+  "Title": "Showing Up",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0f532dbf-9906-4869-9e68-fa58cb7f1d7e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1684616228"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2321125"
+    }
+  ],
+  "in_theaters": false
+}

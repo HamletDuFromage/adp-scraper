@@ -1,0 +1,16 @@
+{
+  "Title": "The Final Rose",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/695077/the-final-rose"
+    }
+  ],
+  "in_theaters": false
+}

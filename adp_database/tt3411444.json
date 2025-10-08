@@ -1,0 +1,21 @@
+{
+  "Title": "Ferdinand",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1324404435"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0784L5QDY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

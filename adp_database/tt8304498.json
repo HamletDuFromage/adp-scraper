@@ -1,0 +1,15 @@
+{
+  "Title": "Turn Up Charlie",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80124723"
+    }
+  ],
+  "in_theaters": false
+}

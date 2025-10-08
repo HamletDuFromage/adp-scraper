@@ -1,0 +1,19 @@
+{
+  "Title": "Home Town Takeover",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/1eae6775-85d4-4a69-a468-f9d8b109a15f"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5290bc0d-ebd9-4b3e-92f4-210f1d9eeabe/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

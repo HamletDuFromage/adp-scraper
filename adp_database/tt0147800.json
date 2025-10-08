@@ -1,0 +1,22 @@
+{
+  "Title": "10 Things I Hate About You",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/10-things-i-hate-about-you/10OzquDiTIJB"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188765138"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/21059770"
+    }
+  ],
+  "in_theaters": false
+}

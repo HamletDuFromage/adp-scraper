@@ -1,0 +1,21 @@
+{
+  "Title": "Iyanu",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1b7dd8b1-e36a-497d-a5a1-9e4bbf183962/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/fe382a0a-e31b-4682-bb34-b5353bcd1c4d"
+    }
+  ],
+  "in_theaters": false
+}

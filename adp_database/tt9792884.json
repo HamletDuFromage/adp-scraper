@@ -1,0 +1,16 @@
+{
+  "Title": "Psych 2: Lassie Come Home",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/comedy/psych-2-lassie-come-home/10633c67-7e9f-3cdb-9017-a30781015ef7"
+    }
+  ],
+  "in_theaters": false
+}

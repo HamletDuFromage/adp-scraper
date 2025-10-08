@@ -1,0 +1,21 @@
+{
+  "Title": "Pooh's Heffalump Movie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/poohs-heffalump-movie/18iDJYdn5ukc"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id298484474"
+    }
+  ],
+  "in_theaters": false
+}

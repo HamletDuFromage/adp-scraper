@@ -1,0 +1,17 @@
+{
+  "Title": "Drew Michael: Red Blue Green",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5803ada6-a1ad-4367-9825-0dc052aed2fa/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d17fa0b0-8ce7-48e4-9553-bdbb3cfb6bd0"
+    }
+  ],
+  "in_theaters": false
+}

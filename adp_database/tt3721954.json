@@ -1,0 +1,19 @@
+{
+  "Title": "Maudie",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1270449083"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B074G9FGP5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Impractical Jokers",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e15f39b9-ecec-4c5e-b376-a46af94247e2/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8f3c6deb-d723-4b03-a8fc-cdafe8ed5d63/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/7e3a5d98-77b3-435e-888a-a78f51281596"
+    }
+  ],
+  "in_theaters": false
+}

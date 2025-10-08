@@ -1,0 +1,17 @@
+{
+  "Title": "Hey Arnold! The Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/hey-arnold-the-movie/BGUOTNjE4Zi5RLBwOqU76VZ7yd772CU5/"
+    }
+  ],
+  "in_theaters": false
+}

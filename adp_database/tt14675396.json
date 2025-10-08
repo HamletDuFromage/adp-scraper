@@ -1,0 +1,19 @@
+{
+  "Title": "On the Roam",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/4ca6831c-f62b-4310-a322-d347553a1995"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e1c29b4c-b0e2-4a97-a363-c0adad7f2bd7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

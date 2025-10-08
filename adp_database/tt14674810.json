@@ -1,0 +1,18 @@
+{
+  "Title": "Project Greenlight",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cfcf56c-74e1-4506-9d41-a17423a786ae/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/21a5b23a-8524-4988-8072-4aef233f962d"
+    }
+  ],
+  "in_theaters": false
+}

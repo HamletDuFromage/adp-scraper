@@ -1,0 +1,18 @@
+{
+  "Title": "FBI True",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/fbi-true/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2a2e7bf-7e98-4d5d-8458-aa3015fb920e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

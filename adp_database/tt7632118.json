@@ -1,0 +1,18 @@
+{
+  "Title": "Angelyne",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.93bc7149-40c3-446b-8a43-8263b4e9736f/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/angelyne/8168751557097919112"
+    }
+  ],
+  "in_theaters": false
+}

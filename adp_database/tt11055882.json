@@ -1,0 +1,14 @@
+{
+  "Title": "Good Sam",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1977921"
+    }
+  ],
+  "in_theaters": false
+}

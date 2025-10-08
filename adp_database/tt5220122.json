@@ -1,0 +1,24 @@
+{
+  "Title": "Hotel Transylvania 3: Summer Vacation",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1402855750"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07DY289WK/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80233925"
+    }
+  ],
+  "in_theaters": false
+}

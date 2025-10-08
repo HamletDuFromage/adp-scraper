@@ -1,0 +1,15 @@
+{
+  "Title": "The Postman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ea9f761-6547-b6dc-54d0-e9a5d44866d6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

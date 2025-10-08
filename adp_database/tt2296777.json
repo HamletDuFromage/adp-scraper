@@ -1,0 +1,21 @@
+{
+  "Title": "Sherlock Gnomes",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1bc478a1-afac-48b2-aaec-a01479685a99/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07BN7SSKX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

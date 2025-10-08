@@ -1,0 +1,18 @@
+{
+  "Title": "The Godfather",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64a9f786-efb1-28d3-bf27-6038d12cc53a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id285494571"
+    }
+  ],
+  "in_theaters": false
+}

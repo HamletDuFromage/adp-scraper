@@ -1,0 +1,19 @@
+{
+  "Title": "The Super Bob Einstein Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1796b8da-1f26-49bd-9c62-2e275954561d/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/890db639-68b1-4b6c-9c50-bdcec87fe070"
+    }
+  ],
+  "in_theaters": false
+}

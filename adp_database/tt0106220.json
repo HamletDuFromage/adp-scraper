@@ -1,0 +1,24 @@
+{
+  "Title": "Addams Family Values",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8420b5c8-4c11-41f7-96c0-d171fbdf9cbb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id329165439"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/15430"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/_w2qd9qyJKNDFlaYuqophEbrlNMPb2sl/"
+    }
+  ],
+  "in_theaters": false
+}

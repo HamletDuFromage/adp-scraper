@@ -1,0 +1,18 @@
+{
+  "Title": "Star Wars: Tales of the Jedi",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anthology",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/star-wars-tales-of-the-jedi/7ZQbZDR64MvB"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Safe Haven",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ca9f682-cc6e-7d0c-ba76-63491f3dbad4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

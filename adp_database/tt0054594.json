@@ -1,0 +1,19 @@
+{
+  "Title": "The Absent-Minded Professor",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-absent-minded-professor/2cY1hMRsG36v"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id294902955"
+    }
+  ],
+  "in_theaters": false
+}

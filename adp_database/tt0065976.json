@@ -1,0 +1,15 @@
+{
+  "Title": "The Beatles: Let It Be",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-72ad7b12-7cc6-4b43-aed0-83d382a5ff5c"
+    }
+  ],
+  "in_theaters": false
+}

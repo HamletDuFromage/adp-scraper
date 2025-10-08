@@ -1,0 +1,16 @@
+{
+  "Title": "Wild Cards",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a419096a-8cfd-4ef6-bc9b-7d2aeb04d88e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

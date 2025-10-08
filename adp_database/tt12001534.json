@@ -1,0 +1,17 @@
+{
+  "Title": "The Thursday Murder Club",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81751137"
+    }
+  ],
+  "in_theaters": false
+}

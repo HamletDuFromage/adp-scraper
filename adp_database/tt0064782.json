@@ -1,0 +1,19 @@
+{
+  "Title": "Paint Your Wagon",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Fandango1": "https://www.vudu.com/content/movies/details/title/22189"
+    },
+    {
+      "Fandango2": "https://www.vudu.com/content/movies/details/title/3421965"
+    }
+  ],
+  "in_theaters": false
+}

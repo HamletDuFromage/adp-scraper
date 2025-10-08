@@ -1,0 +1,15 @@
+{
+  "Title": "Reservation Dogs",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/reservation-dogs-5a310c23-e2db-4c9f-a66c-27c2fee43d92"
+    }
+  ],
+  "in_theaters": false
+}

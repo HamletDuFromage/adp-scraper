@@ -1,0 +1,16 @@
+{
+  "Title": "Look Both Ways",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81050546"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Benji the Hunted",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/benji-the-hunted/4RoTTdI8Ofux"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id297426009"
+    }
+  ],
+  "in_theaters": false
+}

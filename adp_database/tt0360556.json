@@ -1,0 +1,19 @@
+{
+  "Title": "Fahrenheit 451",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8b1bb8a-6cbc-7859-a854-79b758bfbd1e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1d6fa4b7-c58d-47cb-913e-01e0c329bcc7"
+    }
+  ],
+  "in_theaters": false
+}

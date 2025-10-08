@@ -1,0 +1,21 @@
+{
+  "Title": "The Spy Who Dumped Me",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6b38efe-4bd7-a197-b0ab-001f78715473/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1416993933"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07G14XPRR/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

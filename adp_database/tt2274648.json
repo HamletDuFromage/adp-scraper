@@ -1,0 +1,21 @@
+{
+  "Title": "Hellboy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f1c9c3e1-c6d6-47c6-aa33-86c374f24311/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1458063752"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07PXD7RXR/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

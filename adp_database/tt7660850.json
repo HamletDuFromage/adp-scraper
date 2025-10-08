@@ -1,0 +1,21 @@
+{
+  "Title": "Succession",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/a8484031-f244-4661-9fb7-0932bd1ba872"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2423699"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8b26472-27f6-d61c-db1f-d25b2534e375/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

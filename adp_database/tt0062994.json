@@ -1,0 +1,17 @@
+{
+  "Title": "Funny Girl",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6aa9f789-2f9b-03db-bf64-88e8ff546469/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

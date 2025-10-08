@@ -1,0 +1,16 @@
+{
+  "Title": "New Jack City",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4a9f749-1c58-716b-62e6-73d8970e2bf1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

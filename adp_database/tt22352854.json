@@ -1,0 +1,17 @@
+{
+  "Title": "Gyeongseong Creature",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81618079"
+    }
+  ],
+  "in_theaters": false
+}

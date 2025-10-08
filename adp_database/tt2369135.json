@@ -1,0 +1,19 @@
+{
+  "Title": "Need for Speed",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id835333138"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00KB49JDY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

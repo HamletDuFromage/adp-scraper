@@ -1,0 +1,17 @@
+{
+  "Title": "The Completely Made-Up Adventures of Dick Turpin",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.054f5fb2-c95a-414d-8ee6-e69a3b7d97b8/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.37r7vskzmm8hk2pfbzaxlcwzg"
+    }
+  ],
+  "in_theaters": false
+}

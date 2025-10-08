@@ -1,0 +1,20 @@
+{
+  "Title": "The Last Airbender",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B002VPE1BQ/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fc2d8697-0969-48ee-9a27-8d78c384a082/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

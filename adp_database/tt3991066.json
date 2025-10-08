@@ -1,0 +1,17 @@
+{
+  "Title": "A Dogwalker's Christmas Tale",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aa9f715-48ba-2695-411f-41a20b5a7ede/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

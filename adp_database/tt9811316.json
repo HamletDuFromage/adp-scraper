@@ -1,0 +1,18 @@
+{
+  "Title": "Marvel's Hit Monkey",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/marvels-hit-monkey-22dc20c4-eaed-492d-887e-e087585c0532"
+    }
+  ],
+  "in_theaters": false
+}

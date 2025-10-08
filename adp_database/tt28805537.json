@@ -1,0 +1,17 @@
+{
+  "Title": "aka Mr. Chow",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.804e81cb-f8c4-488d-9064-d56ef5958a97/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/376740da-2d45-4016-9138-7c7b981ce6cc"
+    }
+  ],
+  "in_theaters": false
+}

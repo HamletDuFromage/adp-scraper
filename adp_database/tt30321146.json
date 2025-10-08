@@ -1,0 +1,22 @@
+{
+  "Title": "In a Violent Nature",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d5427227-62a8-437a-97ef-1b2bf32e4029/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1747626626"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D7TW9C8P/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

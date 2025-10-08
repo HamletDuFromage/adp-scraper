@@ -1,0 +1,14 @@
+{
+  "Title": "Disney Summer Magic Quest",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Game Show"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disney-summer-magic-quest/6St1xzI1tJrw"
+    }
+  ],
+  "in_theaters": false
+}

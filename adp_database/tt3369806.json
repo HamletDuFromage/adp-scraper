@@ -1,0 +1,20 @@
+{
+  "Title": "Max",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1005400996"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00ZQ36S52/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

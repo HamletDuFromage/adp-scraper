@@ -1,0 +1,20 @@
+{
+  "Title": "The Hangover",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0aa9f78c-174c-4802-e41f-435d7b50645b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2a8a879a-f0eb-4df4-9206-d1d641589486"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id323818693"
+    }
+  ],
+  "in_theaters": false
+}

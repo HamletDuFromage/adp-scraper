@@ -1,0 +1,18 @@
+{
+  "Title": "Christina in the Country",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/aab6c266-5854-4207-a05d-bf21a129bbe8"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aa92d092-9a8c-4323-8dfa-c083cb198c0c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Bring It On",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6a9f796-cd65-f705-afb7-444307609538/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "Shrek",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dab0a83d-a456-2887-7423-48e96de4e8c7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1338530881"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0054JELTI/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60020686"
+    }
+  ],
+  "in_theaters": false
+}

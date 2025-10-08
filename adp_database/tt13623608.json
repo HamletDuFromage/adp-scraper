@@ -1,0 +1,23 @@
+{
+  "Title": "The Curse",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.567993a0-dec7-4c06-b32c-6b049faa8dee/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2981237"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-curse/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Dress My Tour",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Competition",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/1f810bce-3619-4ab8-8141-b41a9a15c515"
+    }
+  ],
+  "in_theaters": false
+}

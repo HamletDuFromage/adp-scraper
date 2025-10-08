@@ -1,0 +1,22 @@
+{
+  "Title": "Winning Time: The Rise of the Lakers Dynasty",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.63d05dcd-fae2-43ce-acc6-40496e9cb36a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/0b56e11a-a2ce-4225-9f05-2579b252dddb"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2613737"
+    }
+  ],
+  "in_theaters": false
+}

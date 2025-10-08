@@ -1,0 +1,14 @@
+{
+  "Title": "Wizard Mode",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/wizard-mode/e8c12a9b-9090-3ce6-a515-5e71461ed388"
+    }
+  ],
+  "in_theaters": false
+}

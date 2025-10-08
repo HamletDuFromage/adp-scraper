@@ -1,0 +1,16 @@
+{
+  "Title": "Daphne and Velma",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20b14f4a-9ddc-716d-1228-e4c1233bdeb2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

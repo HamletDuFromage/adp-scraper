@@ -1,0 +1,17 @@
+{
+  "Title": "Homeschool Musical: Class of 2020",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b01ba50c-e833-4ab5-8343-317092e98aa6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2d50d997-9c2c-4bcb-8687-815f885e129b"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Good Morning, Vietnam",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id480078729"
+    }
+  ],
+  "in_theaters": false
+}

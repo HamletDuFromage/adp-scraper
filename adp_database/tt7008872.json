@@ -1,0 +1,25 @@
+{
+  "Title": "Boy Erased",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80240538"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ec41ba34-40d0-434f-8599-00d0e3a2599d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1439662230"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07JX4PPQC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

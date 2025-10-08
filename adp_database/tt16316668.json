@@ -1,0 +1,14 @@
+{
+  "Title": "The Cut",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/e43f6265-d0f6-4da3-92dd-fda5276a6aba"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Madagascar: A Little Wild Holiday Goose Chase",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Holiday",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/madagascar-a-little-wild-holiday-goose-chase-2e425473-9c6d-4103-91f2-513a9e13006f"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/holiday-goose-chase/fcf5b4b0-2925-34e7-b2ad-8120f6c09853"
+    }
+  ],
+  "in_theaters": false
+}

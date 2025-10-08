@@ -1,0 +1,14 @@
+{
+  "Title": "Itzhak",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07H5VWGTS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

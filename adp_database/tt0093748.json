@@ -1,0 +1,22 @@
+{
+  "Title": "Planes, Trains and Automobiles",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/16890"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.51bd32f7-d31d-4751-bd8e-92f9ecf90c27/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/planes-trains-and-automobiles-1987"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "The Book of Life",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id920639804"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00Q599952/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

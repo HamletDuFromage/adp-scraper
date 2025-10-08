@@ -1,0 +1,19 @@
+{
+  "Title": "The Beatles: Eight Days a Week - The Touring Years",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary",
+    "History",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-beatles-eight-days-a-week-the-touring-years-d3b00689-e450-4fcb-9853-d37e78ed4c57"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1468185021"
+    }
+  ],
+  "in_theaters": false
+}

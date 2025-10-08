@@ -1,0 +1,25 @@
+{
+  "Title": "My Big Fat Greek Wedding 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80081792"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8a9f661-e4ca-62d9-f676-403a4becfe6c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1079272553"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01DFJMZKA/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

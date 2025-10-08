@@ -1,0 +1,15 @@
+{
+  "Title": "Appendage",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/5dee6ffc-dfb6-425e-b3b2-d665241e99b4"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "T2 Trainspotting",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1214132746"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06XSQVM5H/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

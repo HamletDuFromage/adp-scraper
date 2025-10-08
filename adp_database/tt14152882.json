@@ -1,0 +1,15 @@
+{
+  "Title": "Madu",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-79e502ae-2509-4e29-9f64-817168cc7179"
+    }
+  ],
+  "in_theaters": false
+}

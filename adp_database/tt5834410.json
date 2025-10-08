@@ -1,0 +1,25 @@
+{
+  "Title": "The Tiger's Apprentice",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.922607a1-c72f-4cb6-954d-35ec48000605/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1727307242"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3054787"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/pb5DuJTrSJgS1IY3onwjI0V2yiV7obri/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "X-Rated Queen",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.481556d0-5dde-4809-9bf1-949812c27a25/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/6bdfd891-2cb8-470e-8bfd-5b0e79cce3a7"
+    }
+  ],
+  "in_theaters": false
+}

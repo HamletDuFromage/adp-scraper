@@ -1,0 +1,19 @@
+{
+  "Title": "STAX: Soulsville U.S.A.",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5c52dba6-5f68-4905-b4fd-f767c9af6212/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a604e163-a96f-4ea4-96c3-09cfabf66b17"
+    }
+  ],
+  "in_theaters": false
+}

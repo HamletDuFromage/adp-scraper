@@ -1,0 +1,18 @@
+{
+  "Title": "By the Sea",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7caacad5-eeb5-eb29-f5e2-b5e693d5256e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B017Y11A1A/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "The Silence of the Lambs",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64a9f693-56af-a35d-68ff-749b64c66810/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

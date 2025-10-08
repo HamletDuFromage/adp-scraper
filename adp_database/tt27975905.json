@@ -1,0 +1,16 @@
+{
+  "Title": "A Paris Christmas Waltz",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81779944"
+    }
+  ],
+  "in_theaters": false
+}

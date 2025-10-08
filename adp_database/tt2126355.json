@@ -1,0 +1,24 @@
+{
+  "Title": "San Andreas",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a9f682-2395-44e9-92db-5a0b22a11784/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id994407231"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00YHRMMLC/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80027980"
+    }
+  ],
+  "in_theaters": false
+}

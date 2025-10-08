@@ -1,0 +1,16 @@
+{
+  "Title": "A Million Little Things",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/a-million-little-things-f03f355c-a6cf-4494-83cb-494ccd5afa92"
+    }
+  ],
+  "in_theaters": false
+}

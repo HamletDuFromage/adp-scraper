@@ -1,0 +1,15 @@
+{
+  "Title": "Final Destination 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.384b3b7f-21de-477c-872a-7ae227025604/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Love in Taipei",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cffaf31-b5f8-4e6b-bd6e-4798501611d2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1700692856"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2636523"
+    }
+  ],
+  "in_theaters": false
+}

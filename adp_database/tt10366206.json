@@ -1,0 +1,29 @@
+{
+  "Title": "John Wick: Chapter 4",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Disability",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8666b290-fafe-44a1-8683-f81e303f0159/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a183463a-b642-40fe-9457-99d9ea5e0be1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1676557004"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BZ59CQZV/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2388219"
+    }
+  ],
+  "in_theaters": false
+}

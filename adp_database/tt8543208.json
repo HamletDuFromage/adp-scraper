@@ -1,0 +1,24 @@
+{
+  "Title": "Looney Tunes Cartoons",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cdd85f48-6d7d-46a3-9f68-ad9db6c6b76f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e90f1b95-4825-4f3d-bbe2-4cbc82dc7229"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2384697"
+    }
+  ],
+  "in_theaters": false
+}

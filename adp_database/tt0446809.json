@@ -1,0 +1,22 @@
+{
+  "Title": "Deadliest Catch",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/0b0e7d13-ad3c-47f0-9d10-a7f322da9ed8"
+    },
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccbc1091-65d5-924d-c3e4-7d7a3bcf5fae/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f3fca438-7569-4c9b-adc9-467833a290e9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

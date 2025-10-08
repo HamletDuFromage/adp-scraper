@@ -1,0 +1,21 @@
+{
+  "Title": "Sympathy for the Devil",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1694833299"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C8VK9JWL/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8aefd195-cc41-477a-8a91-851bc8847c59/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

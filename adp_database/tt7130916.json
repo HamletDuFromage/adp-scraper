@@ -1,0 +1,22 @@
+{
+  "Title": "Dicks: The Musical",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "LGBTQ",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e775ecf7-e259-4b1d-b01c-e554a28c7d2e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1712964797"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2594899"
+    }
+  ],
+  "in_theaters": false
+}

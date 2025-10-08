@@ -1,0 +1,14 @@
+{
+  "Title": "Folklore",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/5fe23a1d-c2f8-4dc1-bf22-c15fc175f7e6"
+    }
+  ],
+  "in_theaters": false
+}

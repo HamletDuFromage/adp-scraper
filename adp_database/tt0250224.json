@@ -1,0 +1,18 @@
+{
+  "Title": "Crazy/Beautiful",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb942f9-499b-324b-704c-30e88550fe03/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id203616112"
+    }
+  ],
+  "in_theaters": false
+}

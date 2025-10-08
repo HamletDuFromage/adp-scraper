@@ -1,0 +1,16 @@
+{
+  "Title": "Castle Rock",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/castle-rock-b11816c9-9e35-44f3-bf04-220b1d12f770"
+    }
+  ],
+  "in_theaters": false
+}

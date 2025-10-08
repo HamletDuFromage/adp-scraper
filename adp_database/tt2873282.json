@@ -1,0 +1,19 @@
+{
+  "Title": "Red Sparrow",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1348194401"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B079PT6PV6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Little Fish",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1547038618"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4abc4270-3db2-1c31-581a-211d8b6dd82e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

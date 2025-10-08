@@ -1,0 +1,20 @@
+{
+  "Title": "The Sum of All Fears",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7e87ec43-f8da-4b0f-9a03-a0a54fe81786/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/M6sf20lzrz3fXd5ziQ8VFAkICibEgWvc/"
+    }
+  ],
+  "in_theaters": false
+}

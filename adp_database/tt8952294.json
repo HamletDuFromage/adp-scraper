@@ -1,0 +1,16 @@
+{
+  "Title": "Auntie Edna",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/auntie-edna/5GuxpoZePAD5"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Nonnas",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81936724"
+    }
+  ],
+  "in_theaters": false
+}

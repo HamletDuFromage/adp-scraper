@@ -1,0 +1,19 @@
+{
+  "Title": "The Incredible Dr. Pol",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-incredible-dr-pol-27ac71bb-7c7d-4012-88f1-fb0a6a9abfcd"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/the-incredible-dr-pol/6orpPWSacJXO"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Shang-Chi and the Legend of the Ten Rings",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dd32d65a-2b44-4bde-945a-a510b578dabc/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6b462973-1d66-4ef1-9796-4289aee79d3b/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/shang-chi-and-the-legend-of-the-ten-rings/5GyV9sf9Y041"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1589126465"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09KM3826S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

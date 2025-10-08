@@ -1,0 +1,22 @@
+{
+  "Title": "The One and Only Ivan",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ada442a1-c59c-455e-bfba-a4157a466101/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1708718808"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2627034"
+    }
+  ],
+  "in_theaters": false
+}

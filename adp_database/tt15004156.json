@@ -1,0 +1,18 @@
+{
+  "Title": "Music Box: Woodstock 99: Peace, Love, and Rage",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ce45374-7c07-4d38-a213-45d6e04575b4/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/243f5576-5d84-402f-98f5-89ea6c9a0e94"
+    }
+  ],
+  "in_theaters": false
+}

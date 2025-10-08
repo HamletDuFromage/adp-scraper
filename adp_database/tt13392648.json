@@ -1,0 +1,17 @@
+{
+  "Title": "I Love a Mama's Boy",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.23306de8-686d-4754-b89a-7bef7fbf8286/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1fe81940-56a0-4e25-808a-f3332d0fee30"
+    }
+  ],
+  "in_theaters": false
+}

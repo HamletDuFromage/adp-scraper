@@ -1,0 +1,15 @@
+{
+  "Title": "1000% Me: Growing Up Mixed",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Black Stories",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/4328f1cc-ef10-4ea6-817a-182030b1007c"
+    }
+  ],
+  "in_theaters": false
+}

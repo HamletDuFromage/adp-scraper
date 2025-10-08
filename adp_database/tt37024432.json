@@ -1,0 +1,18 @@
+{
+  "Title": "Not a Box",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.5v5f721a2mlxcurdhh0wm56if"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.df81aa90-c9d1-493d-beeb-c35bd7438b3f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

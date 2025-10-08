@@ -1,0 +1,19 @@
+{
+  "Title": "Road Diary: Bruce Springsteen and the E Street Band",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/bb32e6ab-d9ca-4b2d-9261-a68a1aa41eb0"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-bb32e6ab-d9ca-4b2d-9261-a68a1aa41eb0"
+    }
+  ],
+  "in_theaters": false
+}

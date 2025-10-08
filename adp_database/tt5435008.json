@@ -1,0 +1,15 @@
+{
+  "Title": "Gilmore Girls: A Year in the Life",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80109415"
+    }
+  ],
+  "in_theaters": false
+}

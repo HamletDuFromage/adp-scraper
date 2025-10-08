@@ -1,0 +1,21 @@
+{
+  "Title": "The Shack",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88ad41df-ed7c-9880-27dc-31f9f62e1621/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1207178555"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06ZY6F9GX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Mayor of Kingstown",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/mayor-of-kingstown/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c38579b2-2667-4aa5-982f-366e43907c5f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

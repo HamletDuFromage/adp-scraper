@@ -1,0 +1,22 @@
+{
+  "Title": "Scary Stories to Tell in the Dark",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62b6db8e-ae24-4720-d837-a9e71841d3c4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1474424685"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07Y9CG9VN/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

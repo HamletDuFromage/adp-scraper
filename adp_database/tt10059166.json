@@ -1,0 +1,14 @@
+{
+  "Title": "Washington Black",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/e379c9d5-c1d3-464b-b09b-1019d39a101e"
+    }
+  ],
+  "in_theaters": false
+}

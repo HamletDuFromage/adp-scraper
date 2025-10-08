@@ -1,0 +1,16 @@
+{
+  "Title": "Little Big Awesome",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4b17f2f-16f2-c884-6c5b-0dd57ef03955/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

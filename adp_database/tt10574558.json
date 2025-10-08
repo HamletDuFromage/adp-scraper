@@ -1,0 +1,16 @@
+{
+  "Title": "Midnight Mass",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81083626"
+    }
+  ],
+  "in_theaters": false
+}

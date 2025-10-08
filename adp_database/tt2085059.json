@@ -1,0 +1,17 @@
+{
+  "Title": "Black Mirror",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70264888"
+    }
+  ],
+  "in_theaters": false
+}

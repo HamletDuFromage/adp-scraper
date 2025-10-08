@@ -1,0 +1,18 @@
+{
+  "Title": "The Power of the Dog",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81127997"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B9ZGN1R4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

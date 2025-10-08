@@ -1,0 +1,14 @@
+{
+  "Title": "2nd Chance",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2184080"
+    }
+  ],
+  "in_theaters": false
+}

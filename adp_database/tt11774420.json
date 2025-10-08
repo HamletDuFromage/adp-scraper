@@ -1,0 +1,16 @@
+{
+  "Title": "Expedition X",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Adventure & Survival",
+    "Mystery",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ba9fc237-8804-4f73-93a9-86c6a4c21ffc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

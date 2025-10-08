@@ -1,0 +1,23 @@
+{
+  "Title": "Hocus Pocus",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/hocus-pocus/2iCcYcGrx7qD"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id329144864"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08BTZ8K9F/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Odd Squad: The Movie",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60ab1456-3052-ccb7-e633-d21ccc877484/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

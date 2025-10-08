@@ -1,0 +1,15 @@
+{
+  "Title": "The Book of Boba Fett",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/the-book-of-boba-fett/57TL7zLNu2wf"
+    }
+  ],
+  "in_theaters": false
+}

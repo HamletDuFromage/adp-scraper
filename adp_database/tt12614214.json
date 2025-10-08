@@ -1,0 +1,19 @@
+{
+  "Title": "The Afterparty",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.041e876b-04de-4cad-bad1-9c9d6813831a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.5wg8cnigwrkfzbdruaufzb6b0"
+    }
+  ],
+  "in_theaters": false
+}

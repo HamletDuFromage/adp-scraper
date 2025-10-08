@@ -1,0 +1,16 @@
+{
+  "Title": "An American in Paris",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id283258245"
+    }
+  ],
+  "in_theaters": false
+}

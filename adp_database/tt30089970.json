@@ -1,0 +1,18 @@
+{
+  "Title": "Design Down Under",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/a4d9a7f5-48a3-4f30-8201-58c818b4952c"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a5e2326-3326-4f89-a072-a53875eb6727/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

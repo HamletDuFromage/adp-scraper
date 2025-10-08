@@ -1,0 +1,22 @@
+{
+  "Title": "Anomalisa",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6906100-c3a7-4a30-90be-8ebcaabdb115/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1067043927"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B018IDVBGC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

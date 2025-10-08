@@ -1,0 +1,18 @@
+{
+  "Title": "Hawaiian Holiday",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Short",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/hawaiian-holiday/V7bFPKqKQpQJ"
+    }
+  ],
+  "in_theaters": false
+}

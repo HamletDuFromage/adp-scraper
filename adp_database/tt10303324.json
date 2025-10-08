@@ -1,0 +1,19 @@
+{
+  "Title": "Survive the Night",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2ffcf41-f8c4-439a-8368-22149a0882f5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/900c6bb2-c44f-4597-8258-b6e56d99b5cb"
+    }
+  ],
+  "in_theaters": false
+}

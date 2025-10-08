@@ -1,0 +1,14 @@
+{
+  "Title": "King Arthur",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54216db3-3537-424c-af50-777afeba0f44/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

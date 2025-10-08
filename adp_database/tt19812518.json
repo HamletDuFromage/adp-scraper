@@ -1,0 +1,17 @@
+{
+  "Title": "The Lost Weekend: A Love Story",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cb8cfe95-2462-4ed2-b1c8-e5d66142bedc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1701884512"
+    }
+  ],
+  "in_theaters": false
+}

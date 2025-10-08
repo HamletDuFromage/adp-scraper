@@ -1,0 +1,25 @@
+{
+  "Title": "F1: The Movie",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4240175"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1813006619"
+    },
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f9dfb440-ff50-48f3-a3a9-b95d036c7027/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f89a01dd-0f82-4907-af85-359b698bfd00/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Terrifier 2",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.13b35d19-0aa6-46a8-b184-76a5503ca2b5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

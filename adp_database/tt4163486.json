@@ -1,0 +1,15 @@
+{
+  "Title": "Bee and PuppyCat",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81245457"
+    }
+  ],
+  "in_theaters": false
+}

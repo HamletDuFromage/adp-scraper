@@ -1,0 +1,15 @@
+{
+  "Title": "Downton Abbey",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ca9f726-dc5e-2ff5-49fe-67198131541b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "My Week with Marilyn",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Art House",
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7d80e37e-0993-4a5b-998b-b2784d947ad0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

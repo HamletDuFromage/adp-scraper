@@ -1,0 +1,17 @@
+{
+  "Title": "Prime Minister",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/69745e57-7d29-4d98-bebd-078cc7f79355"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dfb22537-1d2d-4323-82ea-317e3ab52d8b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

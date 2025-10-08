@@ -1,0 +1,19 @@
+{
+  "Title": "The Bourne Supremacy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ff57bb1-dbf2-4cf6-8f21-c5569adb38c2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id277223201"
+    }
+  ],
+  "in_theaters": false
+}

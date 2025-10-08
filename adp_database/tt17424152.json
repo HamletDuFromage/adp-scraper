@@ -1,0 +1,15 @@
+{
+  "Title": "The Way of the Cheetah",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-way-of-the-cheetah/5CrnpYKUmKjq"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Ghosts of Beirut",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ab479a6-b8f6-4bfd-905e-a9853fd6cd9c/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2463778"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/ghosts-of-beirut/"
+    }
+  ],
+  "in_theaters": false
+}

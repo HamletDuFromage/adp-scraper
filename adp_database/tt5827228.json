@@ -1,0 +1,22 @@
+{
+  "Title": "Bull",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06baeb11-4048-3f39-2eed-c98c02fdabd2/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1899230"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/bull/"
+    }
+  ],
+  "in_theaters": false
+}

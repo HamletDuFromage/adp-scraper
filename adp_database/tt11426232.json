@@ -1,0 +1,14 @@
+{
+  "Title": "Totally Killer",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76b26309-1706-4a9e-95fc-afb23d0a48d0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

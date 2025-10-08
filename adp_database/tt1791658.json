@@ -1,0 +1,18 @@
+{
+  "Title": "Treasure Buddies",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/treasure-buddies/3dSFZs2TN4w7"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id480575192"
+    }
+  ],
+  "in_theaters": false
+}

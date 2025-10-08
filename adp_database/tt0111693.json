@@ -1,0 +1,15 @@
+{
+  "Title": "When a Man Loves a Woman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id426074646"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Blood & Water",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81044547"
+    }
+  ],
+  "in_theaters": false
+}

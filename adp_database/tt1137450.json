@@ -1,0 +1,23 @@
+{
+  "Title": "Death Wish",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1346258721"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07BQP1G94/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4bf462b1-56d8-42f7-a448-16db7f458e2f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

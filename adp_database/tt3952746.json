@@ -1,0 +1,18 @@
+{
+  "Title": "Just Add Magic",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0aaa365-837b-bd82-90ce-5edd2fe00a5c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

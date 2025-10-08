@@ -1,0 +1,14 @@
+{
+  "Title": "Fearless",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80078197"
+    }
+  ],
+  "in_theaters": false
+}

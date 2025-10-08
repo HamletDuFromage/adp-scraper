@@ -1,0 +1,17 @@
+{
+  "Title": "Mickey and the Seal",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mickey-and-the-seal/2gCXZTU7yWRe"
+    }
+  ],
+  "in_theaters": false
+}

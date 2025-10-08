@@ -1,0 +1,17 @@
+{
+  "Title": "Zoey's Extraordinary Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/597a64a4a25c5bf6af4a8c7053049a6f/zoeys-extraordinary-christmas"
+    }
+  ],
+  "in_theaters": false
+}

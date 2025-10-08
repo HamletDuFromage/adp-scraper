@@ -1,0 +1,17 @@
+{
+  "Title": "Fantastic Mr. Fox",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/fantastic-mr-fox/4cna09XI2gqn"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "Confess, Fletch",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e99eb78d-d79e-4d2c-b429-b55c1c8b9705/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1641225712"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BRNJSJ27/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/hbwF06BC1Tp1fAnWzMreeiebBs_wf4Me/"
+    }
+  ],
+  "in_theaters": false
+}

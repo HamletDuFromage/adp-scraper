@@ -1,0 +1,32 @@
+{
+  "Title": "IF",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7648df40-32d3-4027-8943-1d23ac770b7d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1742133068"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D3VF4Q5Z/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3143862"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/if-2024"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/SBX5VweSL3IMH3TOBsfUAa2yNuegg_47/"
+    }
+  ],
+  "in_theaters": false
+}

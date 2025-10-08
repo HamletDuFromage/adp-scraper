@@ -1,0 +1,14 @@
+{
+  "Title": "My Octopus Teacher",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81045007"
+    }
+  ],
+  "in_theaters": false
+}

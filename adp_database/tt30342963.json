@@ -1,0 +1,17 @@
+{
+  "Title": "Patrice: The Movie",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/36e4c1d4-83fa-4738-aa30-96766c5db50c"
+    }
+  ],
+  "in_theaters": false
+}

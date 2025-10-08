@@ -1,0 +1,21 @@
+{
+  "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ab16ecf-2a05-dca5-d2b6-a5af3d074f6c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id928582124"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00RO49JC0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

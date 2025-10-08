@@ -1,0 +1,14 @@
+{
+  "Title": "Tony Robbins: I Am Not Your Guru",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80102204"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Batman & Bill",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Documentary",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/batman-bill-74e2e518-151c-4ee0-9635-1dfdf551374a"
+    }
+  ],
+  "in_theaters": false
+}

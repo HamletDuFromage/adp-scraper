@@ -1,0 +1,15 @@
+{
+  "Title": "Suncoast",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/5fe1be49-a6de-4136-a947-559d1ff723eb"
+    }
+  ],
+  "in_theaters": false
+}

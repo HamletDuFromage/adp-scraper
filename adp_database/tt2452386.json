@@ -1,0 +1,16 @@
+{
+  "Title": "The Fundamentals of Caring",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Disability",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80097349"
+    }
+  ],
+  "in_theaters": false
+}

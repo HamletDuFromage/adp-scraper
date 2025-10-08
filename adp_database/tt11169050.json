@@ -1,0 +1,20 @@
+{
+  "Title": "Supernova",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1544124015"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08XFJ551J/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

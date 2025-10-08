@@ -1,0 +1,20 @@
+{
+  "Title": "Rush",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id700911218"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00BEIYP1W/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

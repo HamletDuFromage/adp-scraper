@@ -1,0 +1,22 @@
+{
+  "Title": "David Byrne's American Utopia",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Music",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0df1dd49-8de8-4f39-ac2c-8d1d873bc22a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/84d6fed0-3569-4f11-b9f2-b817d01fc03c"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1548615909"
+    }
+  ],
+  "in_theaters": false
+}

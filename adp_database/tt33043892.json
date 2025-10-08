@@ -1,0 +1,17 @@
+{
+  "Title": "Dexter: Resurrection",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/dexter-resurrection/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8500885e-a8bf-420a-bb55-eb33708aacee/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

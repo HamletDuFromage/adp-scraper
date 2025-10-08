@@ -1,0 +1,15 @@
+{
+  "Title": "Pants on Fire",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66a9f7b5-8cfc-6a0e-3fcf-31c7b50a2170/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

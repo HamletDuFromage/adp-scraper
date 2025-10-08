@@ -1,0 +1,18 @@
+{
+  "Title": "Brigsby Bear",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6aeb091-9acc-5a35-a2b0-d5dcdc97ce3e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B074GBGJH7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

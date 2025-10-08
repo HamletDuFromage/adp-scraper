@@ -1,0 +1,18 @@
+{
+  "Title": "Journey to Bethlehem",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Holiday",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1713645477"
+    }
+  ],
+  "in_theaters": false
+}

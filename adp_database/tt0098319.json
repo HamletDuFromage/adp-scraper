@@ -1,0 +1,19 @@
+{
+  "Title": "Shirley Valentine",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.00b2f6af-e86f-7238-ce79-2a217048ea2d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id326811140"
+    }
+  ],
+  "in_theaters": false
+}

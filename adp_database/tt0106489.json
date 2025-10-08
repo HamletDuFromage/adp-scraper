@@ -1,0 +1,15 @@
+{
+  "Title": "A Bronx Tale",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b40a7ce8-6b9f-4834-9e64-30e6db496dbf/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

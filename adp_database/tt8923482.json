@@ -1,0 +1,15 @@
+{
+  "Title": "One Child Nation",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0b976ae-f10b-6cff-c01e-f74d58f297ea/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

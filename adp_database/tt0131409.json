@@ -1,0 +1,18 @@
+{
+  "Title": "Geri's Game",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/geris-game/1hE8Cl4fYaYS"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "The Diary of a Teenage Girl",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0ba5035-88db-9517-1c4b-60dc1e79debb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1032834263"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B017RR79FM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Crimson Tide",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id204582081"
+    }
+  ],
+  "in_theaters": false
+}

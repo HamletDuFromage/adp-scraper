@@ -1,0 +1,14 @@
+{
+  "Title": "A Man in Full",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81506171"
+    }
+  ],
+  "in_theaters": false
+}

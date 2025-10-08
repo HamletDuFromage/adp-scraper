@@ -1,0 +1,17 @@
+{
+  "Title": "The Line",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62b26365-7229-4d29-85e3-7a9feb145724/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4u53f7zokr7g40tjj4gs61xbu"
+    }
+  ],
+  "in_theaters": false
+}

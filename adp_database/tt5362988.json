@@ -1,0 +1,17 @@
+{
+  "Title": "Wind River",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6abb56ca-9005-bed9-1a26-e1dc446d57c2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

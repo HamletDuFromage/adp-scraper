@@ -1,0 +1,14 @@
+{
+  "Title": "North of North",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81616012"
+    }
+  ],
+  "in_theaters": false
+}

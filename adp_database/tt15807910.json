@@ -1,0 +1,16 @@
+{
+  "Title": "I Used to Be Famous",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81426667"
+    }
+  ],
+  "in_theaters": false
+}

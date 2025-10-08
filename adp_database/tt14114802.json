@@ -1,0 +1,23 @@
+{
+  "Title": "The Outfit",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ebbd725d-522b-47b1-ad95-82b173637925/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1616083073"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09W4XDL4S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

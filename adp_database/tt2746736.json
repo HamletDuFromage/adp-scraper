@@ -1,0 +1,15 @@
+{
+  "Title": "Hawaii Life",
+  "Media Type": "Series",
+  "Rating": "ALL",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52570837-6770-464a-83f0-e4d84196dd1a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

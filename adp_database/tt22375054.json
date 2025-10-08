@@ -1,0 +1,18 @@
+{
+  "Title": "Strange Darling",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcc29189-00b3-451b-8fb1-accdd123387f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1834330434"
+    }
+  ],
+  "in_theaters": false
+}

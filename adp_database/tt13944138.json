@@ -1,0 +1,14 @@
+{
+  "Title": "Maggie",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/maggie-ebca130d-d901-4b5f-b893-9ecb7f406924"
+    }
+  ],
+  "in_theaters": false
+}

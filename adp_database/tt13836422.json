@@ -1,0 +1,15 @@
+{
+  "Title": "Secret Celebrity Renovation",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/60efc8c217ca0b0013097d01"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Undercurrent: The Disappearance of Kim Wall",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70ea4cf9-ba81-499f-9e29-5d8a42fa1a90/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/9e2b2ddb-6867-41b5-bb87-f807d26625ac"
+    }
+  ],
+  "in_theaters": false
+}

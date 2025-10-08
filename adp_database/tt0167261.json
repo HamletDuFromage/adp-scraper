@@ -1,0 +1,19 @@
+{
+  "Title": "The Lord of the Rings: The Two Towers",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2a9f6ce-d700-f70b-88bf-54f0968a48d5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1b73bd19-1229-4e5f-986a-ae38ac0f5476"
+    }
+  ],
+  "in_theaters": false
+}

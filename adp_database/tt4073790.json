@@ -1,0 +1,21 @@
+{
+  "Title": "The Darkest Minds",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1412296702"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07DL8NHQV/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

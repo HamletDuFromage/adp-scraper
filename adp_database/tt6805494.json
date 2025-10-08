@@ -1,0 +1,16 @@
+{
+  "Title": "Mr. Connolly Has ALS",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Disability",
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://reelabilities.org/stream/product/mr-connolly-has-als/"
+    }
+  ],
+  "in_theaters": false
+}

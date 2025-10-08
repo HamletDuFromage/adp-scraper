@@ -1,0 +1,21 @@
+{
+  "Title": "Fraggle Rock: Back to the Rock",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cb8ab088-bb96-4500-ae06-54009098ea91/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2r077021gw7fu0noml0hln2yq"
+    }
+  ],
+  "in_theaters": false
+}

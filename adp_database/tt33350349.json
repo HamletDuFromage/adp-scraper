@@ -1,0 +1,16 @@
+{
+  "Title": "Unleashing Hope",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animals & Nature",
+    "Disability",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/46875893-b0b9-4f58-ab04-9e5c2777a4c6"
+    }
+  ],
+  "in_theaters": false
+}

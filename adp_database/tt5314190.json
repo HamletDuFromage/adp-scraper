@@ -1,0 +1,21 @@
+{
+  "Title": "Sgt. Stubby: An American Hero",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "History",
+    "Kids & Family",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8b3743b-7e37-4b35-dc8a-248bb8bc993e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07J35G5QW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

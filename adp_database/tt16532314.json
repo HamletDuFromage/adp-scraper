@@ -1,0 +1,15 @@
+{
+  "Title": "It's A Wonderful Binge",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/its-a-wonderful-binge-55064e55-bd87-44d6-8798-411c767b1df3"
+    }
+  ],
+  "in_theaters": false
+}

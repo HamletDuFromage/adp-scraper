@@ -1,0 +1,21 @@
+{
+  "Title": "Anastasia",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Drama",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id270084599"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/7709"
+    }
+  ],
+  "in_theaters": false
+}

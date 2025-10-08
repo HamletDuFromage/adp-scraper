@@ -1,0 +1,24 @@
+{
+  "Title": "Trick or Treat Scooby-Doo!",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Horror",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5e0e4aef-fb3b-4dbc-b0ab-0312e721688a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/46ed662c-16e8-47d5-b5ee-9441157a68d3"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1638579790"
+    }
+  ],
+  "in_theaters": false
+}

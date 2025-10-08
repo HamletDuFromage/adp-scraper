@@ -1,0 +1,21 @@
+{
+  "Title": "Infinity Pool",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1661162319"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2249520"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Beloved",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "History",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id492443978"
+    }
+  ],
+  "in_theaters": false
+}

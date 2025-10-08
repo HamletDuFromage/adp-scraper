@@ -1,0 +1,16 @@
+{
+  "Title": "The Mexican",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/the-mexican/74smRWmY68pXQAoyXrfC1z8zWk6q5CgP/"
+    }
+  ],
+  "in_theaters": false
+}

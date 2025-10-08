@@ -1,0 +1,15 @@
+{
+  "Title": "The Do-Over",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80063265"
+    }
+  ],
+  "in_theaters": false
+}

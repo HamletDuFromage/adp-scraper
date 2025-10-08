@@ -1,0 +1,17 @@
+{
+  "Title": "Green Eggs and Ham",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80057250"
+    }
+  ],
+  "in_theaters": false
+}

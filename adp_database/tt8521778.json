@@ -1,0 +1,32 @@
+{
+  "Title": "Bob Marley: One Love",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4f0b63f2-cdfe-4c55-b2fb-b346ea01725d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1725794622"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CTHWRMHW/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2906735"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/bob-marley-one-love-2024"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/9_av_YZLphfkxDWubU31dU4uMMdxHDjA/"
+    }
+  ],
+  "in_theaters": false
+}

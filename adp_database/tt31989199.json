@@ -1,0 +1,18 @@
+{
+  "Title": "Dora: Say Hola to Adventure!",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8e23010e-0664-4117-8236-0e35a670e160/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/gSVWq4dYohGsCp2njzIPbJuspp0CZVp8/"
+    }
+  ],
+  "in_theaters": false
+}

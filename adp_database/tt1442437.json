@@ -1,0 +1,23 @@
+{
+  "Title": "Modern Family",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/modern-family-883c414c-34a3-4fcc-b50a-0ad5a184c977"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/modern-family/6158438733133910112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88b30ac4-bdb4-e62c-5c0a-44ce3b99fb71/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,35 @@
+{
+  "Title": "A Quiet Place: Day One",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9e833c01-8299-4ebf-823e-b5b24a67bd9d/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b979b010-8275-44d8-988e-2826d1046b12/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1748984656"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D7N8QQMP/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3144051"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/a-quiet-place-day-one-2024"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/42WBuatVbbtKijNa_Jzj_59bQhxOvUI5/"
+    }
+  ],
+  "in_theaters": false
+}

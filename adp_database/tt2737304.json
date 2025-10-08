@@ -1,0 +1,17 @@
+{
+  "Title": "Bird Box",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80196789"
+    }
+  ],
+  "in_theaters": false
+}

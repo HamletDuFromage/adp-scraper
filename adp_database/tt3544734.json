@@ -1,0 +1,19 @@
+{
+  "Title": "Zapped",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cf3e364-8a6e-405e-b56f-13fda1f817ee/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-a5a15e46-50bb-476c-9a29-af6f20cb89ad"
+    }
+  ],
+  "in_theaters": false
+}

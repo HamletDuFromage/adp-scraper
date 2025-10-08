@@ -1,0 +1,18 @@
+{
+  "Title": "Palm Royale",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.95873208-6fed-429e-b0db-5b4933e3869a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6vwg3ce7ovsexa3a6r7f6qk49"
+    }
+  ],
+  "in_theaters": false
+}

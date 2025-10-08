@@ -1,0 +1,21 @@
+{
+  "Title": "Spy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bca9f729-2f3f-0ea9-fb86-ad20d62f6e7e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1017088138"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013C6OUPO/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

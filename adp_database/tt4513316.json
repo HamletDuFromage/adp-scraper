@@ -1,0 +1,20 @@
+{
+  "Title": "Novitiate",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2b004c0-9f0d-7e40-261f-f1666bc42fa4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1313610877"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B077H7V5YP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

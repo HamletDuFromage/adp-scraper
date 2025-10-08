@@ -1,0 +1,22 @@
+{
+  "Title": "Star Trek: Discovery",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2214295"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/star-trek-discovery/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b045b087-0349-4064-9a3e-f032ab9e35d1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

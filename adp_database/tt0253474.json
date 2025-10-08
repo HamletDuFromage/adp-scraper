@@ -1,0 +1,16 @@
+{
+  "Title": "The Pianist",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0b82420-d96f-eddd-532a-51cbe9c9ecee/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

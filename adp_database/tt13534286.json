@@ -1,0 +1,18 @@
+{
+  "Title": "Crip Camp: A Disability Revolution",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Disability",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81001496"
+    },
+    {
+      "YouTube": "https://www.youtube.com/watch?v=Kffi5J61N0c"
+    }
+  ],
+  "in_theaters": false
+}

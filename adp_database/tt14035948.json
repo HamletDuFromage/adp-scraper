@@ -1,0 +1,17 @@
+{
+  "Title": "Sasquatch",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "History",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/sasquatch-6ddd5226-6a50-4bba-aa1c-391b76180b48"
+    }
+  ],
+  "in_theaters": false
+}

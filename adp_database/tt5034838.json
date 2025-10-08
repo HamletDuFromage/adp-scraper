@@ -1,0 +1,21 @@
+{
+  "Title": "Godzilla vs. Kong",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.044d47c4-3312-4123-8919-1128926bf173/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1560035868"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B091KWZMT8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

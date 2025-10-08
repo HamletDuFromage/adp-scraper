@@ -1,0 +1,16 @@
+{
+  "Title": "Stronger",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34af39f2-e0d6-0340-79b2-a9f2a61d52dd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Breakfast at Tiffany's",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id208560505"
+    }
+  ],
+  "in_theaters": false
+}

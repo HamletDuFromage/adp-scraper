@@ -1,0 +1,16 @@
+{
+  "Title": "Hummingbirds of Hollywood",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a592248a-8e33-49b3-a71d-c04d9e83126b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

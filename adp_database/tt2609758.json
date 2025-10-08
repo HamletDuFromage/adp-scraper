@@ -1,0 +1,20 @@
+{
+  "Title": "Tyler Perry's A Madea Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5dc6c9d4-c923-4383-936e-76f9c0d4b9f0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id923180948"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Alien Worlds",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80221410"
+    }
+  ],
+  "in_theaters": false
+}

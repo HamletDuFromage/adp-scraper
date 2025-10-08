@@ -1,0 +1,18 @@
+{
+  "Title": "Once Upon a Snowman",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/once-upon-a-snowman/2tBSdZv6bB4L"
+    }
+  ],
+  "in_theaters": false
+}

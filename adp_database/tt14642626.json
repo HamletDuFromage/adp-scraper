@@ -1,0 +1,24 @@
+{
+  "Title": "Sick",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8f619c9-a6fc-45fd-a4e1-c855e275f33e/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/sick/84a1c8a1-de82-3768-aaca-0c42d997b872"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1703279630"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2558390"
+    }
+  ],
+  "in_theaters": false
+}

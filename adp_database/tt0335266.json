@@ -1,0 +1,15 @@
+{
+  "Title": "Lost in Translation",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/5433"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "The Fallout",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Coming of Age",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ab50f9f6-3ccb-4213-aa87-005d9e2c0658/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/012b03e9-a117-42e2-b4e5-fadcec9edb30"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1606479044"
+    }
+  ],
+  "in_theaters": false
+}

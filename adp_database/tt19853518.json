@@ -1,0 +1,21 @@
+{
+  "Title": "Kite Man: Hell Yeah!",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1201dfab-ef09-49e6-aeaa-c6cdf3a66132/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/bc6c1cba-1310-4420-ad78-bd8bdcf65183"
+    }
+  ],
+  "in_theaters": false
+}

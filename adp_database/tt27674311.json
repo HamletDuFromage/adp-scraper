@@ -1,0 +1,17 @@
+{
+  "Title": "Mafia Spies",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5bff4f16-484e-410f-b5b7-f2d3d4d5c76e/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/mafia-spies/"
+    }
+  ],
+  "in_theaters": false
+}

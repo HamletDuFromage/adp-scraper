@@ -1,0 +1,17 @@
+{
+  "Title": "Twitches Too",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/twitches-too/1UufsTVN5n6N"
+    }
+  ],
+  "in_theaters": false
+}

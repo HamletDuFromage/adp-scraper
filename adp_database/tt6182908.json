@@ -1,0 +1,24 @@
+{
+  "Title": "Smallfoot",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70b3b363-ceee-e19a-206b-bbd4de5caa80/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1435410463"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07J33MNL5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

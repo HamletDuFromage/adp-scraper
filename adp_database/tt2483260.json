@@ -1,0 +1,21 @@
+{
+  "Title": "The Pirate Fairy",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-pirate-fairy/6LDoJYcdykPD"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id829447467"
+    }
+  ],
+  "in_theaters": false
+}

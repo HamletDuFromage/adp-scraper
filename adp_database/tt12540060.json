@@ -1,0 +1,14 @@
+{
+  "Title": "Say I Do",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81014405"
+    }
+  ],
+  "in_theaters": false
+}

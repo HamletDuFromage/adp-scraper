@@ -1,0 +1,16 @@
+{
+  "Title": "Sappy Holiday",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8827a41-fc73-44b6-a83d-1d3bc9490041/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

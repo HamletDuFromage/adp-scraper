@@ -1,0 +1,18 @@
+{
+  "Title": "The Birdcage",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f718-5f1f-2224-c373-e96acb2ef5ba/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/the-birdcage-1996"
+    }
+  ],
+  "in_theaters": false
+}

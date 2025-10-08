@@ -1,0 +1,15 @@
+{
+  "Title": "Ultimate Tag",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/series/300005831/ultimate-tag"
+    }
+  ],
+  "in_theaters": false
+}

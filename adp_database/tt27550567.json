@@ -1,0 +1,21 @@
+{
+  "Title": "Little Wing",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.716233ae-de6e-4549-abea-60239b5980d4/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3227728"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/_xUebc4mJ5XH3MrocnximUuyWYPIlgXD/"
+    }
+  ],
+  "in_theaters": false
+}

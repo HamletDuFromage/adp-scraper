@@ -1,0 +1,21 @@
+{
+  "Title": "Weapons",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1830433930"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F63dea40e697de1e45df3f50e&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.930793f1-4a5c-4998-b335-7150770e5fe0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

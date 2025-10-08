@@ -1,0 +1,19 @@
+{
+  "Title": "Cloudy with a Chance of Meatballs",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aa9f72a-24ec-a9cd-5b3e-cc8cf140667e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id345236501"
+    }
+  ],
+  "in_theaters": false
+}

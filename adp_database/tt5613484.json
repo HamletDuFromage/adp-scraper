@@ -1,0 +1,21 @@
+{
+  "Title": "Mid90s",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74a48187-32f0-42f1-8e69-3ea42915d25c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1438278601"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317563772/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

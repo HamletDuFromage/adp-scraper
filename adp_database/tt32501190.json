@@ -1,0 +1,15 @@
+{
+  "Title": "Battle Camp",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81701535"
+    }
+  ],
+  "in_theaters": false
+}

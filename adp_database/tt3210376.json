@@ -1,0 +1,17 @@
+{
+  "Title": "Holiday Road Trip",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58b53a9d-d74b-3362-2897-4afa677c3e1a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

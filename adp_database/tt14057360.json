@@ -1,0 +1,14 @@
+{
+  "Title": "The Lost Pirate Kingdom",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81035118"
+    }
+  ],
+  "in_theaters": false
+}

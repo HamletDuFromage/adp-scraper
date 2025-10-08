@@ -1,0 +1,19 @@
+{
+  "Title": "Hustlers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/a03d28ac-90ef-4e75-8f40-081a52e85f20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07XGDZMHZ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

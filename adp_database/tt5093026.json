@@ -1,0 +1,20 @@
+{
+  "Title": "Papillon",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8b350e1-9327-d879-f1ee-20b0041594c9/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07GJFS31Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

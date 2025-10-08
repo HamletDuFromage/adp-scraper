@@ -1,0 +1,18 @@
+{
+  "Title": "High School Musical: The Musical: The Series",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/high-school-musical-the-musical-the-series/22p0ndod96BX"
+    }
+  ],
+  "in_theaters": false
+}

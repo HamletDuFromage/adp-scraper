@@ -1,0 +1,20 @@
+{
+  "Title": "Vanilla Sky",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e1c76f5d-671d-43ef-8e19-d9e3d25c579d/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/T3B4Y25uWM0c5ybT7cu_EcU2q3UKeIBp/"
+    }
+  ],
+  "in_theaters": false
+}

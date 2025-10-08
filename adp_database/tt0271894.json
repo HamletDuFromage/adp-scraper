@@ -1,0 +1,16 @@
+{
+  "Title": "48 Hours",
+  "Media Type": "Series",
+  "Rating": "16+",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "News"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2d4176ef-d0f5-4f49-bc8d-fbc682d6da89/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

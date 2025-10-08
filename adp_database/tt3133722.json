@@ -1,0 +1,14 @@
+{
+  "Title": "No Way Jose",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46a9f791-ead0-9ba9-c326-bcb9ea8e1727/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

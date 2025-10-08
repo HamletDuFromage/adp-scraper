@@ -1,0 +1,18 @@
+{
+  "Title": "Earthsounds",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.967e09ed-bd53-49c6-8db5-3530c4ce32d1/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2blf5y8e9e818bpdp3xuar408"
+    }
+  ],
+  "in_theaters": false
+}

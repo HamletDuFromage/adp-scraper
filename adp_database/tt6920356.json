@@ -1,0 +1,16 @@
+{
+  "Title": "The Souvenir",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama",
+    "Independent",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98be9905-9cdd-4a22-8602-058cb3142d31/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

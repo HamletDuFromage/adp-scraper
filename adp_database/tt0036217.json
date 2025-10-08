@@ -1,0 +1,16 @@
+{
+  "Title": "The North Star",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f7a5-df08-ec96-7aff-dc066e2dbe1d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

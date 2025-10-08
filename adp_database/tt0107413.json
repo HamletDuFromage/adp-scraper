@@ -1,0 +1,18 @@
+{
+  "Title": "Life with Mikey",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/life-with-mikey/2j5yyjMgSO8L"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id440629418"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Area 51",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id989276290"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/area-51/2_HOcBgyVHD95uZ1Q4vKgdSG6ngVKI6H/"
+    }
+  ],
+  "in_theaters": false
+}

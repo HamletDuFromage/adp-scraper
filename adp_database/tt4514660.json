@@ -1,0 +1,18 @@
+{
+  "Title": "Terror Birds",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90a9f71b-d761-4fd5-6ece-ed59fbbaf317/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

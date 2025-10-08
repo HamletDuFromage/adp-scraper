@@ -1,0 +1,17 @@
+{
+  "Title": "Gumbo Coalition",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.13c83450-8497-4a66-95ce-39973f21e55a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/bf725175-769e-4e2c-8204-f3f1f04d6b77"
+    }
+  ],
+  "in_theaters": false
+}

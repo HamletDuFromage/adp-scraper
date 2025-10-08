@@ -1,0 +1,14 @@
+{
+  "Title": "Common Ground",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24b72811-5b93-4672-98d4-4765234ad600/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

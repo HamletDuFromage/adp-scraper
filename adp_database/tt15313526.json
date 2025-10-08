@@ -1,0 +1,18 @@
+{
+  "Title": "Inside Out",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1fe721e5-d10f-4a24-b18b-568c33bbfba2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/bdd76743-5330-427b-9a01-853041808674"
+    }
+  ],
+  "in_theaters": false
+}

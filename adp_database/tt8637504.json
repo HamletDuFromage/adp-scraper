@@ -1,0 +1,15 @@
+{
+  "Title": "Disclosure",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81284247"
+    }
+  ],
+  "in_theaters": false
+}

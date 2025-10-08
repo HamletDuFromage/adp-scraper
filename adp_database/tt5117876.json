@@ -1,0 +1,19 @@
+{
+  "Title": "Descendants 2",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/descendants-2/2Ider0w52fUV"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34cecc5a-9f61-45fb-973f-e36e6489d43c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

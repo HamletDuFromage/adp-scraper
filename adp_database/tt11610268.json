@@ -1,0 +1,17 @@
+{
+  "Title": "Visible: Out on Television",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.959ead30-8726-4246-b961-2f1340bbebe2/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1zkna505r4jre6fh7mjcncio0"
+    }
+  ],
+  "in_theaters": false
+}

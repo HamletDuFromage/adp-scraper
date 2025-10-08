@@ -1,0 +1,19 @@
+{
+  "Title": "Gringo",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cb9558c-271a-abf3-884d-ed17760203f1/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07B5W7DJR/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

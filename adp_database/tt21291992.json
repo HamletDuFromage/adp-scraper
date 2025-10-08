@@ -1,0 +1,21 @@
+{
+  "Title": "River Wild",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81697914"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1696205390"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2491228"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Tokyo Trial",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80091880"
+    }
+  ],
+  "in_theaters": false
+}

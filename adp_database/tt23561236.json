@@ -1,0 +1,22 @@
+{
+  "Title": "American Fiction",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58cb3b72-9cb7-41bc-83d4-3837fda6a071/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D2BTLCTG/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2878318"
+    }
+  ],
+  "in_theaters": false
+}

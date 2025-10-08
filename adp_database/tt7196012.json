@@ -1,0 +1,19 @@
+{
+  "Title": "Going to Mars: The Nikki Giovanni Project",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "LGBTQ",
+    "Science & Nature"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54275957-158d-4946-ab25-0e380c384b55/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/851ad3b3-c7ea-4e3d-af7c-06045a93f922"
+    }
+  ],
+  "in_theaters": false
+}

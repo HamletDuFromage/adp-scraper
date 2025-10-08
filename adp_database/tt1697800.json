@@ -1,0 +1,16 @@
+{
+  "Title": "Die in a Gunfight",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.771fe754-3581-498c-9055-97900909946e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

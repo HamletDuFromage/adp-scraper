@@ -1,0 +1,17 @@
+{
+  "Title": "The Girls on the Bus",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18712ce0-ab2f-4e86-97ec-fdb77294e724/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/bde4ccde-0cdf-4e54-9a1a-4e2488c71ae3"
+    }
+  ],
+  "in_theaters": false
+}

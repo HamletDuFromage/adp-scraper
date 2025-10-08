@@ -1,0 +1,15 @@
+{
+  "Title": "Beautiful Boy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0b86883-ccfd-80e0-aba4-79fc086cb44b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

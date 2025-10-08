@@ -1,0 +1,16 @@
+{
+  "Title": "The Dig",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81167887"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "The Whole Truth",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1cabea42-12e4-1322-6566-413383fcf3fc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

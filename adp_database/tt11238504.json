@@ -1,0 +1,16 @@
+{
+  "Title": "Skrrt with Offset",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Automotive",
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/d32c6213e10357f8bccd94e8e7c4e4cb/skrrt-with-offset"
+    }
+  ],
+  "in_theaters": false
+}

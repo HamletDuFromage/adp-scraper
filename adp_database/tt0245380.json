@@ -1,0 +1,16 @@
+{
+  "Title": "Quints",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/quints/7JQLYjFAWGb2"
+    }
+  ],
+  "in_theaters": false
+}

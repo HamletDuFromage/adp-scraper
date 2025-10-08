@@ -1,0 +1,28 @@
+{
+  "Title": "Pavarotti",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cb6a7ce-f6f1-05db-a318-77fbe89cdf1e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1475725120"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TNVX773/audiodescriin-20"
+    },
+    {
+      "Plex": "https://watch.plex.tv/movie/pavarotti"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/642262/pavarotti"
+    }
+  ],
+  "in_theaters": false
+}

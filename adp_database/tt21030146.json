@@ -1,0 +1,16 @@
+{
+  "Title": "Secret Chef",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Food & Home",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/secret-chef-93e19121-6bd7-4b70-92b7-9ce22228459d"
+    }
+  ],
+  "in_theaters": false
+}

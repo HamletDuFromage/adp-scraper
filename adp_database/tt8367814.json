@@ -1,0 +1,21 @@
+{
+  "Title": "The Gentlemen",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e78beff5-e24b-4ff4-a700-8e097a6c38e3/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B083XRZC3H/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81178299"
+    }
+  ],
+  "in_theaters": false
+}

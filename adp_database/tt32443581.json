@@ -1,0 +1,18 @@
+{
+  "Title": "Chopper Cops",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2e0d305c-51c3-4eb4-b568-153e284dacb9/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/chopper-cops/"
+    }
+  ],
+  "in_theaters": false
+}

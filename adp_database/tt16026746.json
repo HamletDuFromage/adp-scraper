@@ -1,0 +1,16 @@
+{
+  "Title": "X-Men '97",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-8dc91ed4-cdca-4fab-9723-d3d42f382d34"
+    }
+  ],
+  "in_theaters": false
+}

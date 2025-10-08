@@ -1,0 +1,16 @@
+{
+  "Title": "Mr. Baseball",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aa9f75a-f417-1db2-01ea-6111719cebfa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

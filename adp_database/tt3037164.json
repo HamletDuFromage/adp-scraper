@@ -1,0 +1,17 @@
+{
+  "Title": "Kills on Wheels",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Disability",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://reelabilities.org/stream/product/kills-on-wheels/"
+    }
+  ],
+  "in_theaters": false
+}

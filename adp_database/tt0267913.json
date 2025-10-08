@@ -1,0 +1,18 @@
+{
+  "Title": "Scooby-Doo",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f7ab-60e7-bf71-d525-6e4a87679429/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

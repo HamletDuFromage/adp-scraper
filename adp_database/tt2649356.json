@@ -1,0 +1,20 @@
+{
+  "Title": "Sharp Objects",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8040af51-b5ed-4cfe-9f91-cdc1e8c962c1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f9bb61ee-4dc9-40be-aaa1-e80c11b39531"
+    }
+  ],
+  "in_theaters": false
+}

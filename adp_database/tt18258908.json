@@ -1,0 +1,24 @@
+{
+  "Title": "NCIS: Sydney",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5872f98a-ec5a-4662-9ea8-679c2e1adec5/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/ncis-sydney/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/655be7c409a8930013184a31"
+    }
+  ],
+  "in_theaters": false
+}

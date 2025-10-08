@@ -1,0 +1,15 @@
+{
+  "Title": "Fantastic Four",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-d6592baa-0dc6-4549-a0cb-3b93a3b0e260"
+    }
+  ],
+  "in_theaters": false
+}

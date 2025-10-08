@@ -1,0 +1,18 @@
+{
+  "Title": "Vampirina",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/disney-vampirina/3t5jKgAPJpnb"
+    }
+  ],
+  "in_theaters": false
+}

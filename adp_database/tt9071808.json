@@ -1,0 +1,19 @@
+{
+  "Title": "Found",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/found/6174269654797323112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a245e57-c38b-4187-a2a7-2087a9dd0a93/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

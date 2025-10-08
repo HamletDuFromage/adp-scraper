@@ -1,0 +1,16 @@
+{
+  "Title": "High Plains Drifter",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/589340"
+    }
+  ],
+  "in_theaters": false
+}

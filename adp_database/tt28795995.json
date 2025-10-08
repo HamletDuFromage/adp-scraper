@@ -1,0 +1,15 @@
+{
+  "Title": "A Bestselling Kind of Love",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64988a24-7c97-461d-8e34-51f886754461/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

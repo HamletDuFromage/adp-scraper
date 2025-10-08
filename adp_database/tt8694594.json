@@ -1,0 +1,20 @@
+{
+  "Title": "The Mystery of D.B. Cooper",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "History",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8eeab73f-23d7-4dc5-a7ca-81c42f2ed1d9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/5ecc0c1a-a770-4a70-bd43-46bff6a43dc2"
+    }
+  ],
+  "in_theaters": false
+}

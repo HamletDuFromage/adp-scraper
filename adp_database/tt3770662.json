@@ -1,0 +1,15 @@
+{
+  "Title": "Tyler Perry's The Haves and the Have Nots",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36089a5f-9c8c-42fc-9330-54bc1d0f6c51/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

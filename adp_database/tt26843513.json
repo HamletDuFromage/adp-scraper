@@ -1,0 +1,22 @@
+{
+  "Title": "Sovereign",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1823244531"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.efe15e6f-12b1-47b8-b54a-940ffbeb0ff8/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4097229"
+    }
+  ],
+  "in_theaters": false
+}

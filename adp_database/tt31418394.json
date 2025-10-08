@@ -1,0 +1,14 @@
+{
+  "Title": "Brian Simpson: Live from the Mothership",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81684893"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Welcome to Chippendales",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/welcome-to-chippendales-00f77d8e-bbe3-4523-a73e-5deb475a3e47"
+    }
+  ],
+  "in_theaters": false
+}

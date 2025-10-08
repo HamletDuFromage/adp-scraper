@@ -1,0 +1,19 @@
+{
+  "Title": "The Country Bears",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-country-bears/7BTM6PN0NsTf"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188702395"
+    }
+  ],
+  "in_theaters": false
+}

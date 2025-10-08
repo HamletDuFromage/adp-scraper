@@ -1,0 +1,14 @@
+{
+  "Title": "The Wolfpack",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.baa9f776-eafa-ffdd-68cb-579067c31dd6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

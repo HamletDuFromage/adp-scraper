@@ -1,0 +1,23 @@
+{
+  "Title": "Risen",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46a9f796-a5f0-795e-19a4-9643d60cfe97/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1079613281"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01BZ4DS58/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Descendants 3 Sing-Along",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-cae0de19-7a02-43f2-877c-ebfcb91a8ee2"
+    }
+  ],
+  "in_theaters": false
+}

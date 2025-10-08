@@ -1,0 +1,18 @@
+{
+  "Title": "Girls",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1850d0ea-c95d-49e6-8886-ee268a52761a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/2262487a-fc52-4543-901d-c07d92ad8844"
+    }
+  ],
+  "in_theaters": false
+}

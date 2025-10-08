@@ -1,0 +1,18 @@
+{
+  "Title": "The Boy, the Mole, the Fox and the Horse",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b1355910-73a3-43e3-ac34-655d4a50da45/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.2aenzye90tqkj7iy0131oom9x"
+    }
+  ],
+  "in_theaters": false
+}

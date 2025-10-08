@@ -1,0 +1,18 @@
+{
+  "Title": "Hung",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a2c1bf4-6440-4dab-8ea7-d7b2ff263a73/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/0196dc5a-9a6f-44aa-985a-cc195e3de8c3"
+    }
+  ],
+  "in_theaters": false
+}

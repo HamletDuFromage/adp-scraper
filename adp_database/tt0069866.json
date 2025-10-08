@@ -1,0 +1,16 @@
+{
+  "Title": "Charley and the Angel",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id440796946"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Poltergeist",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30a9f722-c8bd-617a-cfe6-7637c17cbcba/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1002705818"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0118S6ZRE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

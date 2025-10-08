@@ -1,0 +1,16 @@
+{
+  "Title": "I Lost My Body",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81120982"
+    }
+  ],
+  "in_theaters": false
+}

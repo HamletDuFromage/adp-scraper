@@ -1,0 +1,18 @@
+{
+  "Title": "Fargo",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/fargo"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dca9f696-3efa-7486-3a20-2670831c4659/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

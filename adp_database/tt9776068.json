@@ -1,0 +1,15 @@
+{
+  "Title": "You Ain't Got These",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/9044026a3a2d5ba0b167da291dc3385c/you-aint-got-these"
+    }
+  ],
+  "in_theaters": false
+}

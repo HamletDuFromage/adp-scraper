@@ -1,0 +1,17 @@
+{
+  "Title": "We Need to Talk About Cosby",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.83db8bc5-5401-4867-9437-1f0e3a333f25/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/we-need-to-talk-about-cosby/"
+    }
+  ],
+  "in_theaters": false
+}

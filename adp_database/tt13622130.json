@@ -1,0 +1,18 @@
+{
+  "Title": "Fathom",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46fb2d22-2425-408b-b79d-9d7e430233e1/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.5dba56sgwst50iuh5h9uqpdsq"
+    }
+  ],
+  "in_theaters": false
+}

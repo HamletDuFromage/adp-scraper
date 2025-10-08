@@ -1,0 +1,14 @@
+{
+  "Title": "Bowfinger",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ca9f752-4911-3096-53cd-07909e57f852/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

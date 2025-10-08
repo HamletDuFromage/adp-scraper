@@ -1,0 +1,15 @@
+{
+  "Title": "The Quincy Avery Effect",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Black Stories",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/f5c4117c-fece-4f40-9b66-3c19b6763abb"
+    }
+  ],
+  "in_theaters": false
+}

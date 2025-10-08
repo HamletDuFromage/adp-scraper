@@ -1,0 +1,18 @@
+{
+  "Title": "Rich & Shameless",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40d81895-d58d-418b-8694-f29172d97fb0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/09e3f83b-444c-4600-8708-e89e750ee5d6"
+    }
+  ],
+  "in_theaters": false
+}

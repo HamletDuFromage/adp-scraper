@@ -1,0 +1,17 @@
+{
+  "Title": "The Buccaneers",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24c9c2bb-14ce-4a8a-b6d1-8826749961cf/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.g28hcpusm23xbs9zwvnwn9re"
+    }
+  ],
+  "in_theaters": false
+}

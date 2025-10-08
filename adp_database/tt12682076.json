@@ -1,0 +1,19 @@
+{
+  "Title": "The Wonder Years",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-wonder-years-dc8c5d8f-6934-461a-8a43-ee645c6f0b0c"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/the-wonder-years/1c7ZvkdOhTaT"
+    }
+  ],
+  "in_theaters": false
+}

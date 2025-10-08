@@ -1,0 +1,19 @@
+{
+  "Title": "Paul American",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Lifestyle & Culture",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a51951b5-7648-408f-8926-99621d859cce/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/abf903b8-45fd-4f89-8bd3-3aecfe5766a7"
+    }
+  ],
+  "in_theaters": false
+}

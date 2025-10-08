@@ -1,0 +1,20 @@
+{
+  "Title": "Shark Tale",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.deb0a828-fe80-2b72-8fe0-6b571a9f9eb8/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70002007"
+    }
+  ],
+  "in_theaters": false
+}

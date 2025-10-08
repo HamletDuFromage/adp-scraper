@@ -1,0 +1,19 @@
+{
+  "Title": "Meet the Deedles",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/meet-the-deedles/18SKDEYwmD6z"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id296957219"
+    }
+  ],
+  "in_theaters": false
+}

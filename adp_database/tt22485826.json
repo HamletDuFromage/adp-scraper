@@ -1,0 +1,17 @@
+{
+  "Title": "Bookie",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7d3f83e4-2b78-4d3c-8e78-6cc871662f4a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/31b46c23-4785-4410-90d0-4ed0b6bceb10"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Hocus Pocus 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/hocus-pocus-2/4Q5cWHlnVCun"
+    }
+  ],
+  "in_theaters": false
+}

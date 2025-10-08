@@ -1,0 +1,14 @@
+{
+  "Title": "Plan B",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/plan-b-c110016a-bfc4-4cff-957b-811c0d0faac1"
+    }
+  ],
+  "in_theaters": false
+}

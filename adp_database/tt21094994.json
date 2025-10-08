@@ -1,0 +1,24 @@
+{
+  "Title": "R.I.P.D. 2: Rise of the Damned",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81624693"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.01436aec-de65-4670-ae8d-d2fce49739d5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1653085436"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2143340"
+    }
+  ],
+  "in_theaters": false
+}

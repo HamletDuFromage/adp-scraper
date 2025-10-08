@@ -1,0 +1,18 @@
+{
+  "Title": "The Beanie Bubble",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d3c4bd40-28e8-47ee-bcf3-863285251780/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.4byzgw44377yxyjsl85rhn8vq"
+    }
+  ],
+  "in_theaters": false
+}

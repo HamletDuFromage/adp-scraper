@@ -1,0 +1,17 @@
+{
+  "Title": "Wedding Season",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "International",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/wedding-season-7e2e9883-f894-4abb-a734-03cf0ef70966"
+    }
+  ],
+  "in_theaters": false
+}

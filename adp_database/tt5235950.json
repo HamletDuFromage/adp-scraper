@@ -1,0 +1,15 @@
+{
+  "Title": "Word Party",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80063705"
+    }
+  ],
+  "in_theaters": false
+}

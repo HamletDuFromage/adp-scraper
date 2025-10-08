@@ -1,0 +1,19 @@
+{
+  "Title": "Deep Impact",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea9f76d-b50e-ccdb-7cf7-e9623e1be56a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id306470155"
+    }
+  ],
+  "in_theaters": false
+}

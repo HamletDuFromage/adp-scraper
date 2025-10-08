@@ -1,0 +1,21 @@
+{
+  "Title": "Us",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30b4af5b-3b8d-a23b-03aa-e8d9ba668fbf/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1455567882"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07PRNRTXX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Outlaws",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7d10fdcd-3af6-4eee-87e1-5dead94ca09d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

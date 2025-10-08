@@ -1,0 +1,18 @@
+{
+  "Title": "Child's Play 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40a9f716-63bb-e4dd-9ddb-42e1ff2eca26/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d9c9d707-1f30-4b1c-97dc-ec749c2adc63/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

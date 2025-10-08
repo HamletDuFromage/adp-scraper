@@ -1,0 +1,17 @@
+{
+  "Title": "Dead Ringers",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "LGBTQ",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1dc440f6-51a1-42db-b1b5-dfac8ddbb19f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

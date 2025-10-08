@@ -1,0 +1,24 @@
+{
+  "Title": "Godzilla: King of the Monsters",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88b86e2c-964e-2912-109a-9f944027543b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/46f2673c-be82-456b-9560-b3e45d833724"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1462805716"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07RMWPY3P/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

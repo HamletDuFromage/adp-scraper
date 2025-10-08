@@ -1,0 +1,23 @@
+{
+  "Title": "Now You See Me",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2224a1aa-76a5-47fc-913d-07e1d163d445/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id664964215"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00DWZHTOU/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

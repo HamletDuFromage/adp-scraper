@@ -1,0 +1,15 @@
+{
+  "Title": "Battlefield Earth",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.caa9f73b-9909-361a-2d22-4404e61a10c5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

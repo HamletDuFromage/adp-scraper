@@ -1,0 +1,14 @@
+{
+  "Title": "Romance on the Ranch",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.71df00b6-ccae-4f3d-b289-75843d8d3689/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

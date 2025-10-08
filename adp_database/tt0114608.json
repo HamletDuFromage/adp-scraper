@@ -1,0 +1,17 @@
+{
+  "Title": "Tales from the Crypt: Demon Knight",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ca9f796-80bb-66c8-374e-4de4cfa69b39/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

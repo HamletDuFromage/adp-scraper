@@ -1,0 +1,16 @@
+{
+  "Title": "Zero Chill",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80996811"
+    }
+  ],
+  "in_theaters": false
+}

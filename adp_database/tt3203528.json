@@ -1,0 +1,16 @@
+{
+  "Title": "Bad Samaritan",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4b21c0c-b02c-309f-809e-0b53f732eb69/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

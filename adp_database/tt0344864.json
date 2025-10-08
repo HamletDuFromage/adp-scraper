@@ -1,0 +1,21 @@
+{
+  "Title": "Atlantis: Milo's Return",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2a9f755-a714-f494-fea6-91b1c5c77a22/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/atlantis-milos-return/4Na8bOSQ3Vp0"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id491626382"
+    }
+  ],
+  "in_theaters": false
+}

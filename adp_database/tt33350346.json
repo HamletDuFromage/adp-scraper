@@ -1,0 +1,14 @@
+{
+  "Title": "CBS Fall First Look",
+  "Media Type": "Series",
+  "Rating": "7+",
+  "Genre": [
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/66f492f8af99a50013a68146"
+    }
+  ],
+  "in_theaters": false
+}

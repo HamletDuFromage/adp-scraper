@@ -1,0 +1,18 @@
+{
+  "Title": "Skinamarink",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1666074123"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BZGDX9LC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

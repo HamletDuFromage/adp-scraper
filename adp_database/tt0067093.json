@@ -1,0 +1,17 @@
+{
+  "Title": "Fiddler on the Roof",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54b8a8e4-8db5-7de3-9cb2-6595e9b262ec/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

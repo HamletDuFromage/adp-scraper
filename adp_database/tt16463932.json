@@ -1,0 +1,14 @@
+{
+  "Title": "Teardrop",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/663255/teardrop"
+    }
+  ],
+  "in_theaters": false
+}

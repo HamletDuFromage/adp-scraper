@@ -1,0 +1,20 @@
+{
+  "Title": "Dinner for Schmucks",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id401722190"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004AV5GX6/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92a9f69a-2b75-37e7-7917-6a6687e6f4c5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

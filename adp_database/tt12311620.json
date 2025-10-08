@@ -1,0 +1,19 @@
+{
+  "Title": "Breaking",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1636964890"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2074395"
+    }
+  ],
+  "in_theaters": false
+}

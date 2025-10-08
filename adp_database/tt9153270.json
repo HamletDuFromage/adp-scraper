@@ -1,0 +1,15 @@
+{
+  "Title": "Family Reunion",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80234451"
+    }
+  ],
+  "in_theaters": false
+}

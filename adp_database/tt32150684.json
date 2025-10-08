@@ -1,0 +1,18 @@
+{
+  "Title": "Liza: A Truly Terrific Absolutely True Story",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1790940423"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4012466"
+    }
+  ],
+  "in_theaters": false
+}

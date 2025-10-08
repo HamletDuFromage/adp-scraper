@@ -1,0 +1,22 @@
+{
+  "Title": "Insidious: The Red Door",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b212e04c-cb7a-4e79-8382-c0cec081fe44/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1694104718"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C958YQCF/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

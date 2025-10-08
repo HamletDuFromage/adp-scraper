@@ -1,0 +1,19 @@
+{
+  "Title": "Sharper",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64b413e0-5370-4fbf-9ddf-d32bb6dcb1b6/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.5ud0ivpwgqw2st0u4z73gwpar"
+    }
+  ],
+  "in_theaters": false
+}

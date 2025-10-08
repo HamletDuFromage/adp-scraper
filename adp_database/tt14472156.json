@@ -1,0 +1,25 @@
+{
+  "Title": "Paint",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2731fb4-9521-47cf-aa7b-96d590865a54/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/dc9aca40-81a9-46d0-800c-75744d036a48"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1685041311"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C35DF7C1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

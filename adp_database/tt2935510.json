@@ -1,0 +1,20 @@
+{
+  "Title": "Ad Astra",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1478332956"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07WGJJHWV/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Lady Dynamite",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80046193"
+    }
+  ],
+  "in_theaters": false
+}

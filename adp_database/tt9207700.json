@@ -1,0 +1,22 @@
+{
+  "Title": "Made in Italy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.273bd8c2-21cd-45d6-b9f3-1084c7eb9866/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1522185295"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07GNTSJZY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

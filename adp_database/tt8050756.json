@@ -1,0 +1,17 @@
+{
+  "Title": "The Owl House",
+  "Media Type": "Series",
+  "Rating": "TV-Y7-FV",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/the-owl-house/4cOTrEy0YyaX"
+    }
+  ],
+  "in_theaters": false
+}

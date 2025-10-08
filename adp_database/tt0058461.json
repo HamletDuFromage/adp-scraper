@@ -1,0 +1,19 @@
+{
+  "Title": "A Fistful of Dollars",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/a-fistful-of-dollars-1967"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30210e85-ee8d-4a99-a23f-23326a7925d5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

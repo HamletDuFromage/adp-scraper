@@ -1,0 +1,26 @@
+{
+  "Title": "Cloverfield",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0CX9FVHBT/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0a9f662-f0ad-35a2-7dea-33d323d36a4c/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/t6SsmnSGSM5ARhHN6udNqsZ8EHpFO36k/"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/cloverfield-2008"
+    }
+  ],
+  "in_theaters": false
+}

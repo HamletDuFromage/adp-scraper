@@ -1,0 +1,25 @@
+{
+  "Title": "Gone Girl",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ab0f623-cfe3-4214-ae7f-2eaffa38f89f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id917874539"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00Q599A8S/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/b4f32462-d856-4931-8248-4f389329c258"
+    }
+  ],
+  "in_theaters": false
+}

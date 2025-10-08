@@ -1,0 +1,23 @@
+{
+  "Title": "A Bug's Life",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/a-bugs-life/2kV0c48TF0Ea"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188837736"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B082JLJRMF/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "My Dog Skip",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animals & Nature",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86a9f74c-d076-6ac4-1baf-7dabcca0d202/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

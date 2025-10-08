@@ -1,0 +1,16 @@
+{
+  "Title": "I Believe in Santa",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81477797"
+    }
+  ],
+  "in_theaters": false
+}

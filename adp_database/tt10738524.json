@@ -1,0 +1,16 @@
+{
+  "Title": "Centerpiece",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/1de7bd5d9b7257629e442d8fe2cc416e/centerpiece"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Consecration",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7f8e4cd6-4f5d-4d29-8cc0-ae622fd997ef/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1669115092"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BWP7SPTK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

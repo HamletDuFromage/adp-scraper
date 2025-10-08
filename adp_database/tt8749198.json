@@ -1,0 +1,17 @@
+{
+  "Title": "Daisy Jones and the Six",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "LGBTQ",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4f900a88-a72b-42de-ada4-cf040dec1b4b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

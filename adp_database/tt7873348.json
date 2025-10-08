@@ -1,0 +1,19 @@
+{
+  "Title": "Save Yourselves!",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68ba6fd1-44ed-1014-52f6-5e918da91fa0/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08F719FN8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

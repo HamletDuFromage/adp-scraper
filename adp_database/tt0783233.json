@@ -1,0 +1,16 @@
+{
+  "Title": "Atonement",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70a9f74b-3a79-8ded-948c-a852f304be26/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Thing About Pam",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-thing-about-pam/7532970155027307112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6c3ddc2a-3f31-46ac-967e-2def8c43bf94/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

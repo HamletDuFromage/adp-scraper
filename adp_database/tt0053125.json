@@ -1,0 +1,16 @@
+{
+  "Title": "North by Northwest",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ea9f686-f3eb-a6ac-3cd2-6c3d6716be77/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

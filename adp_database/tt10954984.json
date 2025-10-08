@@ -1,0 +1,29 @@
+{
+  "Title": "Nope",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c62c3202-85f2-4bb6-8416-2bdfa1f27573/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1639496163"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B763MWYY/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2080660"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/nope/e6fe0906-490b-3634-9f13-f03a7e94eab3"
+    }
+  ],
+  "in_theaters": false
+}

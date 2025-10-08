@@ -1,0 +1,14 @@
+{
+  "Title": "The Hand That Robs the Cradle",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.006e7dc5-c3ff-4932-95a2-a85b8a7914e7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

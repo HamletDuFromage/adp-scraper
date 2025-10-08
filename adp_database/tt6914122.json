@@ -1,0 +1,24 @@
+{
+  "Title": "Resistance",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02af3a45-c83f-4e7b-a7ec-34136202e2bf/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1501365380"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0876ZLNRJ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

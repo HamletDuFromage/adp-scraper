@@ -1,0 +1,15 @@
+{
+  "Title": "Amazing Interiors",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80184067"
+    }
+  ],
+  "in_theaters": false
+}

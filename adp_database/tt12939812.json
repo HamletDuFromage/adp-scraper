@@ -1,0 +1,14 @@
+{
+  "Title": "Nail Bomber: Manhunt",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81184731"
+    }
+  ],
+  "in_theaters": false
+}

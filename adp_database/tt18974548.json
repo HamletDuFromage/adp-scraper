@@ -1,0 +1,14 @@
+{
+  "Title": "Claim to Fame",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/claim-to-fame-37467533-01d1-4b53-bf0c-68790adf41a4"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Tomb Raider: The Legend of Lara Croft",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81361105"
+    }
+  ],
+  "in_theaters": false
+}

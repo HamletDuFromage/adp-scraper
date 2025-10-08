@@ -1,0 +1,17 @@
+{
+  "Title": "A Lot Like Christmas",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.133f138f-f797-4290-8fd2-6a738806844e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Diamond Heist",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "History",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81701502"
+    }
+  ],
+  "in_theaters": false
+}

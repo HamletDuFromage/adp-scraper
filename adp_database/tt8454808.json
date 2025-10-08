@@ -1,0 +1,15 @@
+{
+  "Title": "Robozuna",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80147920"
+    }
+  ],
+  "in_theaters": false
+}

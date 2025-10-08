@@ -1,0 +1,23 @@
+{
+  "Title": "Halloween",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.beb33ccc-e3ac-180b-b4af-f2e9ed0236f7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1438044209"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07J3GTYC1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

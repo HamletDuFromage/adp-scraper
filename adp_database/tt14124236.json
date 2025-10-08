@@ -1,0 +1,17 @@
+{
+  "Title": "Frasier",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36ee3f9e-61a6-4090-833a-c7745d06dc66/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/frasier-2023/"
+    }
+  ],
+  "in_theaters": false
+}

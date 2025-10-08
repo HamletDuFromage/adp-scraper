@@ -1,0 +1,16 @@
+{
+  "Title": "The Flintstones",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ca9f795-68d3-1d38-0433-c24c1391450e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

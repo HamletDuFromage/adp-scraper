@@ -1,0 +1,18 @@
+{
+  "Title": "The Truman Show",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id311726400"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fec819d0-2706-4720-ad38-dd6f3cf36d7e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

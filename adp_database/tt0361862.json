@@ -1,0 +1,15 @@
+{
+  "Title": "The Machinist",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6abea5e-3061-c054-f757-86e913c7a35c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

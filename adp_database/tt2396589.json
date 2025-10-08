@@ -1,0 +1,18 @@
+{
+  "Title": "Mudbound",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80175694"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CL5K9BBF/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

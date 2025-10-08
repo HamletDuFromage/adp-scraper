@@ -1,0 +1,19 @@
+{
+  "Title": "Ballers",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.00c3813f-6af1-4d5c-a081-4b3454431102/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/94dd6aeb-8b3b-4fbb-9287-5d2711786e9d"
+    }
+  ],
+  "in_theaters": false
+}

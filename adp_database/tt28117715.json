@@ -1,0 +1,18 @@
+{
+  "Title": "Maxine",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Coming of Age",
+    "Drama",
+    "LGBTQ",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/maxine/6eZmmUlw8jFF"
+    }
+  ],
+  "in_theaters": false
+}

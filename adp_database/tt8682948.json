@@ -1,0 +1,17 @@
+{
+  "Title": "The Act",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-act-8cc910fe-b59e-46a5-9966-16c4e0ed208d"
+    }
+  ],
+  "in_theaters": false
+}

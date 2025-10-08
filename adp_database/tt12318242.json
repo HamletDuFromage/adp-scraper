@@ -1,0 +1,18 @@
+{
+  "Title": "Lift",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Dance",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ea6f6b58-3eba-4dde-8e93-3eaf9e334a78/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1696563068"
+    }
+  ],
+  "in_theaters": false
+}

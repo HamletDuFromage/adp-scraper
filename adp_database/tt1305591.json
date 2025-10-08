@@ -1,0 +1,23 @@
+{
+  "Title": "Mars Needs Moms",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mars-needs-moms/5kciHQqI5BSq"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id431236091"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004EPZ048/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

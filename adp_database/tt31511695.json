@@ -1,0 +1,14 @@
+{
+  "Title": "A Kind of Madness",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1b416fe7-ef9b-4687-8f5b-d8943c3d844b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

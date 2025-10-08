@@ -1,0 +1,17 @@
+{
+  "Title": "Get Santa",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ddf83ffb-6cf0-45c7-9274-e14698aa098f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

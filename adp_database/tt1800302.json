@@ -1,0 +1,20 @@
+{
+  "Title": "Gold",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80126750"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02bb29c7-eb8a-0132-4db2-b22add914c34/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

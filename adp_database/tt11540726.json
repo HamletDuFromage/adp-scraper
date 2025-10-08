@@ -1,0 +1,20 @@
+{
+  "Title": "Resurrection",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b74f517f-7c77-454d-9e44-8c87b783196f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1632777830"
+    }
+  ],
+  "in_theaters": false
+}

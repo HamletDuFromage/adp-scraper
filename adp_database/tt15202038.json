@@ -1,0 +1,17 @@
+{
+  "Title": "Sweet Pecan Summer",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7fd19d3e-be1f-4788-bed3-418c44c3b593/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

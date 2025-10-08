@@ -1,0 +1,16 @@
+{
+  "Title": "Chip an' Dale",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/chip-an-dale/5eSZRj5wMaTi"
+    }
+  ],
+  "in_theaters": false
+}

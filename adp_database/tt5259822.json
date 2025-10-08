@@ -1,0 +1,21 @@
+{
+  "Title": "Tesla",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6b9fe6e-745a-8cef-8781-daf93acf5740/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1524213771"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08MN7XSVX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

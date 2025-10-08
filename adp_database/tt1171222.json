@@ -1,0 +1,18 @@
+{
+  "Title": "Baggage Claim",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00H47IX5G/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94a9f66b-a5a6-b1af-ae39-411d5cf238c6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

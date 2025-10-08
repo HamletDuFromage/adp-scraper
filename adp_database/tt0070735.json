@@ -1,0 +1,16 @@
+{
+  "Title": "The Sting",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0a9f75b-6489-3147-a010-e610789efa84/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

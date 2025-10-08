@@ -1,0 +1,16 @@
+{
+  "Title": "Fire Island",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/fire-island-c2abb64a-bf06-48fa-8465-c0958e2b8ecd"
+    }
+  ],
+  "in_theaters": false
+}

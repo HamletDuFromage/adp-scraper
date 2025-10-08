@@ -1,0 +1,22 @@
+{
+  "Title": "12 Strong",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0b8f0bd-bd5a-da49-0496-2c9a640992de/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1332931594"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07BX9GK95/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

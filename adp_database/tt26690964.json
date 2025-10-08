@@ -1,0 +1,16 @@
+{
+  "Title": "Outlast",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81480322"
+    }
+  ],
+  "in_theaters": false
+}

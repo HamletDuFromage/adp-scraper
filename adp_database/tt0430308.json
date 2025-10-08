@@ -1,0 +1,16 @@
+{
+  "Title": "Get Rich or Die Tryin'",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ca9f6c5-8887-55fa-1a37-4461a1d635ec/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

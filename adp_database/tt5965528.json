@@ -1,0 +1,17 @@
+{
+  "Title": "Adele and Everything After",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Documentary",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/adele-and-everything-after/4f7c979f-df9c-32f5-9361-4ad7f2eb29cc"
+    }
+  ],
+  "in_theaters": false
+}

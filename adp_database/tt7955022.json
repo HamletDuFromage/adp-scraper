@@ -1,0 +1,14 @@
+{
+  "Title": "The Miseducation of Bindu",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5b19baef-ee7e-4890-8cf6-b2881a9e07d1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

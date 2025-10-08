@@ -1,0 +1,18 @@
+{
+  "Title": "Government Cheese",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1pgdmfreds5kuzmeo3xii0746"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cfd51610-03e1-4d32-b7b6-60b32cf3d28f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

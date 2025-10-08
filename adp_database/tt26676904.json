@@ -1,0 +1,16 @@
+{
+  "Title": "Ballard",
+  "Media Type": "Series",
+  "Rating": "13+",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0df6949c-9d46-4813-bbef-c8a1a47b7000/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

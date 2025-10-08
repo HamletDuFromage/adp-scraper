@@ -1,0 +1,16 @@
+{
+  "Title": "The Shaggy Dog",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-shaggy-dog-1959/6badFmZyayUv"
+    }
+  ],
+  "in_theaters": false
+}

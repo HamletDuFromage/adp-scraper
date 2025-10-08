@@ -1,0 +1,25 @@
+{
+  "Title": "Talk to Me",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.daa22a4b-1850-4c43-98d0-b5b1edd3a331/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1702278167"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2455138"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/79e23b6c-7938-444c-bc12-6801f29dc26b"
+    }
+  ],
+  "in_theaters": false
+}

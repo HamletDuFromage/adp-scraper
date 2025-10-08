@@ -1,0 +1,17 @@
+{
+  "Title": "Queens Court",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/queens-court/8667580744726512112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.149075f5-df5f-4a77-b06b-94947a287ef5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

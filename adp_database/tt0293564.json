@@ -1,0 +1,16 @@
+{
+  "Title": "Rush Hour 3",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f78e-04f0-14b6-d9b8-1484e53f3522/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

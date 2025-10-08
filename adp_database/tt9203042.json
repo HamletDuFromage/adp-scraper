@@ -1,0 +1,15 @@
+{
+  "Title": "Brainchild",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80215086"
+    }
+  ],
+  "in_theaters": false
+}

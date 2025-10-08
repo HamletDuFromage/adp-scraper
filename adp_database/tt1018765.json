@@ -1,0 +1,21 @@
+{
+  "Title": "Our Brand is Crisis",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02a9f766-c8e3-d93f-d3e4-30d8e78e82bd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1051532920"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B017GZFIN0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

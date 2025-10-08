@@ -1,0 +1,17 @@
+{
+  "Title": "Columbo",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b80878ad-aaba-4c7a-9878-eafcf79485f4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

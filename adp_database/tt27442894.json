@@ -1,0 +1,15 @@
+{
+  "Title": "WWE: Next Gen",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/2d4d7deb1dc54626a78986af4d4482e9/wwe-next-gen"
+    }
+  ],
+  "in_theaters": false
+}

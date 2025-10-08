@@ -1,0 +1,16 @@
+{
+  "Title": "Julie's Greenroom",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80113090"
+    }
+  ],
+  "in_theaters": false
+}

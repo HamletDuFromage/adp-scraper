@@ -1,0 +1,14 @@
+{
+  "Title": "The Report",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dab952f0-4e8d-35c7-625a-72755f471595/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Game of Thrones",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a1b50383-d60a-4296-a6bd-ae3013ca6c82/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/4f6b4985-2dc9-4ab6-ac79-d60f0860b0ac"
+    }
+  ],
+  "in_theaters": false
+}

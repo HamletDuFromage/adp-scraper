@@ -1,0 +1,15 @@
+{
+  "Title": "Dramarama",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B09K1TV2GT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

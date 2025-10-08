@@ -1,0 +1,19 @@
+{
+  "Title": "Sago Mini Friends",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9177046a-cbd2-4c4b-8dff-d516a46adb85/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4ckulbycyeuavnlen3du06vvy"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Sandman",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81150303"
+    }
+  ],
+  "in_theaters": false
+}

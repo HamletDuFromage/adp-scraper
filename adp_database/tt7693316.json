@@ -1,0 +1,25 @@
+{
+  "Title": "Devotion",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1653032651"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BMJM1SWR/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2189648"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6746e4b3-98fc-4998-ada9-9b872950fb4e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

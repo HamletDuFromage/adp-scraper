@@ -1,0 +1,16 @@
+{
+  "Title": "Joe Dirt",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fca9f6f5-db2a-2a28-af45-de4a396baaeb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

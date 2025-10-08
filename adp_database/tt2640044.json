@@ -1,0 +1,20 @@
+{
+  "Title": "Masters of the Air",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.965a0ec5-3ffb-42f4-b026-c36f5f17ebc3/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.7bxcni0vwgll9kmicq738k5q2"
+    }
+  ],
+  "in_theaters": false
+}

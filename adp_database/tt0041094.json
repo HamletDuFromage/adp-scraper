@@ -1,0 +1,21 @@
+{
+  "Title": "The Adventures of Ichabod and Mr. Toad",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Horror",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-adventures-of-ichabod-and-mr-toad/74sGKrq2Gm6j"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id621847556"
+    }
+  ],
+  "in_theaters": false
+}

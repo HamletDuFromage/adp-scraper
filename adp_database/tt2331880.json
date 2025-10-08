@@ -1,0 +1,22 @@
+{
+  "Title": "The Fitzgerald Family Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6a9f735-f133-fe98-9536-07033dcd4a0c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1787147529"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/387849"
+    }
+  ],
+  "in_theaters": false
+}

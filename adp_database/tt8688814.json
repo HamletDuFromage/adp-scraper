@@ -1,0 +1,16 @@
+{
+  "Title": "The Dragon Prince",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80212245"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Naked",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80142058"
+    }
+  ],
+  "in_theaters": false
+}

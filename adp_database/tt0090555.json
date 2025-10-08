@@ -1,0 +1,18 @@
+{
+  "Title": "Crocodile Dundee",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id266776392"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/22880"
+    }
+  ],
+  "in_theaters": false
+}

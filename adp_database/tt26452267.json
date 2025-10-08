@@ -1,0 +1,16 @@
+{
+  "Title": "Reptile Royalty",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/33fef72f327e5398ba2e918b4e62abf3/reptile-royalty"
+    }
+  ],
+  "in_theaters": false
+}

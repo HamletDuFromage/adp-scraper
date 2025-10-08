@@ -1,0 +1,29 @@
+{
+  "Title": "The Nutcracker and the Four Realms",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0b36845-0ccf-7f21-eeef-df3ba4294ffa/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28b36845-1296-9310-2a35-2aa8660de70f/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-nutcracker-and-the-four-realms/5dYD1WTOdnZm"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1439653715"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317550433/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

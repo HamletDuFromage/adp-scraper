@@ -1,0 +1,17 @@
+{
+  "Title": "Sam Jay: Salute Me or Shoot Me",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2090bcd9-3ba9-43c3-8b76-bcd4660758bf/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1f4202b7-4d01-45cc-b4d2-11752f2e1009"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Torn Hearts",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24892b4d-5308-42a7-abaf-ab3d55047d56/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1619944614"
+    }
+  ],
+  "in_theaters": false
+}

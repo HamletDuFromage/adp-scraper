@@ -1,0 +1,19 @@
+{
+  "Title": "The Lord of the Rings: The Return of the King",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.91d91081-a2e1-4004-af7d-4efb31e99e27/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/ad704585-6774-4d37-8c61-1bd41154173f"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Shaft",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4b6104c-9ecb-7f45-c508-90a110bb46b1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1466679247"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07S3D966S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

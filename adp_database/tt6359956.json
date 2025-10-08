@@ -1,0 +1,15 @@
+{
+  "Title": "A Bad Moms Christmas",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4b76eb4-d572-a8cc-147d-c51229431ebb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

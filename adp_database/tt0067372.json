@@ -1,0 +1,15 @@
+{
+  "Title": "Macbeth",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/25812"
+    }
+  ],
+  "in_theaters": false
+}

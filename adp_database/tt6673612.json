@@ -1,0 +1,22 @@
+{
+  "Title": "Dolittle",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64b7c0ab-dfe5-2681-79df-a35ee258fdff/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1493436662"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B083N4KV3T/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "Book Club: The Next Chapter",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.856af74f-35ac-4f4a-a460-81b0e06040ef/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1688340232"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C44TRFYX/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2386605"
+    }
+  ],
+  "in_theaters": false
+}

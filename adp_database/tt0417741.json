@@ -1,0 +1,29 @@
+{
+  "Title": "Harry Potter and the Half-Blood Prince",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e629f1db-f32d-4e2c-b7dd-bf440af2802b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/cba1d85a-5ef4-4ba3-b537-1d24554fe85c"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/sci-fi-and-fantasy/harry-potter-and-the-half-blood-prince/9207a956-5b00-3cd8-90bb-be75da90ba98"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id326568786"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01N384NWV/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

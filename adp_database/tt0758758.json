@@ -1,0 +1,17 @@
+{
+  "Title": "Into the Wild",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Coming of Age",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a19270bd-e988-4488-978b-34c43f1a875f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

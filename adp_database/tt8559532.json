@@ -1,0 +1,20 @@
+{
+  "Title": "The Changeling",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2466bbb1-134f-4e6e-a94d-1688ac2956d2/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.161vwm570k49vsn7xjtzvnwex"
+    }
+  ],
+  "in_theaters": false
+}

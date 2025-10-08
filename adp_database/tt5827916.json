@@ -1,0 +1,19 @@
+{
+  "Title": "A Hidden Life",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0b7ad1b-ed0d-c52e-e987-b5281f726c8f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1491845089"
+    }
+  ],
+  "in_theaters": false
+}

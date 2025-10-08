@@ -1,0 +1,15 @@
+{
+  "Title": "Deli Boys",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/9c3eebbe-95f7-479b-b730-ca5a0633a979"
+    }
+  ],
+  "in_theaters": false
+}

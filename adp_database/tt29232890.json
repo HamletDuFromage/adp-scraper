@@ -1,0 +1,15 @@
+{
+  "Title": "Make Me Scream",
+  "Media Type": "Series",
+  "Rating": "13+",
+  "Genre": [
+    "Horror",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f440670a-9115-434b-8d8f-db984c02bad0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

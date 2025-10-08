@@ -1,0 +1,21 @@
+{
+  "Title": "Kung Fu Panda 3",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1335684819"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01AYMA8D2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

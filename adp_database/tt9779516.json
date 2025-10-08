@@ -1,0 +1,23 @@
+{
+  "Title": "I Still Believe",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb9cf9b-0319-86d5-bd1b-3f80d5c304ed/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1501438510"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B085RR61P9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

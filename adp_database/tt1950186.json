@@ -1,0 +1,23 @@
+{
+  "Title": "Ford v Ferrari",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0eb8f8bd-093d-2fee-f2f4-1c228067d846/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1484427364"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07Z7531W9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

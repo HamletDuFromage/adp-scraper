@@ -1,0 +1,17 @@
+{
+  "Title": "Tulip Fever",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8aef666-927a-db57-8c19-9ca0d3077dc1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

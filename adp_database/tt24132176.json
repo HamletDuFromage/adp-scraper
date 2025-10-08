@@ -1,0 +1,14 @@
+{
+  "Title": "King Coal",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.481848ae-b6c1-4207-84ea-f83044a2aff3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

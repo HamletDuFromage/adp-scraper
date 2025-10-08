@@ -1,0 +1,21 @@
+{
+  "Title": "Clash of the Titans",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68a9f766-adca-519c-e690-fec5bf8debf2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/044913a1-6e61-4437-80a9-cfa620f326b2"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id369542541"
+    }
+  ],
+  "in_theaters": false
+}

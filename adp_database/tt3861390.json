@@ -1,0 +1,25 @@
+{
+  "Title": "Dumbo",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1cb8dec5-bcea-cd17-a630-351627c45711/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dumbo-2019/1JtOLaonibHo"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1456335626"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07QW4DJ68/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

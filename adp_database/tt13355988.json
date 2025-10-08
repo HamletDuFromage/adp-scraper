@@ -1,0 +1,17 @@
+{
+  "Title": "Burning Ojai: Our Fire Story",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a5ab6db4-3053-4ab7-a27a-399720b25365/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/9af5d1e1-268f-44c4-9729-782bd46a9f8b"
+    }
+  ],
+  "in_theaters": false
+}

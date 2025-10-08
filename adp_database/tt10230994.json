@@ -1,0 +1,17 @@
+{
+  "Title": "Beckett",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80994937"
+    }
+  ],
+  "in_theaters": false
+}

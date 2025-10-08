@@ -1,0 +1,22 @@
+{
+  "Title": "Star Trek V: The Final Frontier",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/13927"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.35a7a397-aa04-440f-8322-c8ec85a2dc34/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/u4LO96RFNGzcNzPgtHPzMd4UIcjHA29N/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "How Do You Measure a Year",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.63ef96c2-e6cb-4cea-a0b4-1eaf78d46f9c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6d2d8330-2f5f-4304-8f25-90a96bf20be9"
+    }
+  ],
+  "in_theaters": false
+}

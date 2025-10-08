@@ -1,0 +1,17 @@
+{
+  "Title": "The Conners",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81019973"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/the-conners-9558c2d0-085b-40e2-9447-4102cdfa28ba"
+    }
+  ],
+  "in_theaters": false
+}

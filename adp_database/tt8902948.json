@@ -1,0 +1,14 @@
+{
+  "Title": "Tigertail",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80202958"
+    }
+  ],
+  "in_theaters": false
+}

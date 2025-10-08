@@ -1,0 +1,20 @@
+{
+  "Title": "Annie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fca9f6b6-9889-d885-17da-913dad849381/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00R86KXM4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The Farewell",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5eb5f3a7-3917-cdf6-8184-97e09b55e08b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Coexist",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Disability",
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://reelabilities.org/stream/product/coexist/"
+    }
+  ],
+  "in_theaters": false
+}

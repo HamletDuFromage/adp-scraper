@@ -1,0 +1,15 @@
+{
+  "Title": "Carnival of Souls",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "YouTube": "https://www.youtube.com/watch?v=PaHSo0O53J8"
+    }
+  ],
+  "in_theaters": false
+}

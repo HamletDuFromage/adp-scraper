@@ -1,0 +1,14 @@
+{
+  "Title": "Her Last Will",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18af089f-2eed-7a30-6625-439836d5c3a7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

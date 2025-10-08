@@ -1,0 +1,17 @@
+{
+  "Title": "RuPaul's Drag Race All Stars: Untucked!",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.416b5440-0f10-49fa-a251-46fffac9ade2/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/rupauls-drag-race-all-stars-untucked/"
+    }
+  ],
+  "in_theaters": false
+}

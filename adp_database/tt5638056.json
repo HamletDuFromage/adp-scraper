@@ -1,0 +1,14 @@
+{
+  "Title": "The Mick",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-mick-1ad6f863-b760-4842-bee7-43059eae0fa2"
+    }
+  ],
+  "in_theaters": false
+}

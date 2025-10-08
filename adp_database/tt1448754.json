@@ -1,0 +1,23 @@
+{
+  "Title": "Thanksgiving",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8cca5a26-ee50-4661-b919-b5a5b17bb74b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1714531145"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CMXZFV74/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

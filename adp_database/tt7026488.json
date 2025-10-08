@@ -1,0 +1,24 @@
+{
+  "Title": "Come True",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/come-true-30b02ca4-077f-422e-9224-571b249eabb5"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1552328888"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07GQ5D8KK/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0c0d1834-5f82-44d5-8e2d-f1d0c22685e4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

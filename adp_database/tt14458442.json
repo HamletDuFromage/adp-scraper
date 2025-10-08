@@ -1,0 +1,14 @@
+{
+  "Title": "The Son",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0BVDCDWBP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

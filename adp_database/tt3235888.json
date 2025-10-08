@@ -1,0 +1,19 @@
+{
+  "Title": "It Follows",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/0067ef08-556d-48e4-9c32-4412ad43eacf"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50bb6c82-1abe-97a8-2daa-47c365c5b294/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

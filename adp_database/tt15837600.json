@@ -1,0 +1,17 @@
+{
+  "Title": "Griselda",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81133447"
+    }
+  ],
+  "in_theaters": false
+}

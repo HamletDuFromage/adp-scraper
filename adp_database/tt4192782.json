@@ -1,0 +1,16 @@
+{
+  "Title": "Glitch",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80108495"
+    }
+  ],
+  "in_theaters": false
+}

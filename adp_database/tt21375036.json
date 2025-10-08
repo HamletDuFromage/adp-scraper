@@ -1,0 +1,21 @@
+{
+  "Title": "The Regime",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.907aeee1-3ebe-4372-8741-eb9f2d9eb8a9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/efb05943-beee-4347-b12b-e181e606f345"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3113525"
+    }
+  ],
+  "in_theaters": false
+}

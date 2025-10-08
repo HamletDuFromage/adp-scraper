@@ -1,0 +1,28 @@
+{
+  "Title": "Drive-Away Dolls",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3c548896-fc18-4fea-b724-f42edc9b7326/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1729705165"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CNKR77DZ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2983871"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/drive-away-dolls/735690ce-efd0-311a-8d54-1296488f09ed"
+    }
+  ],
+  "in_theaters": false
+}

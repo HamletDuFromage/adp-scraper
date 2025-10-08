@@ -1,0 +1,14 @@
+{
+  "Title": "Better Days",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.11e38128-721f-40ea-9807-7edf17ea9481/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

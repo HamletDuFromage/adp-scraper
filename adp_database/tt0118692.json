@@ -1,0 +1,21 @@
+{
+  "Title": "Beauty and the Beast: The Enchanted Christmas",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Holiday",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/beauty-and-the-beast-the-enchanted-christmas/4OcpHSrxMFs0"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id467599742"
+    }
+  ],
+  "in_theaters": false
+}

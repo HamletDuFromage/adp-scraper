@@ -1,0 +1,17 @@
+{
+  "Title": "Tell Me Your Secrets",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4bbb6b9-c47b-82fc-a3cc-5a4357ff4e50/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

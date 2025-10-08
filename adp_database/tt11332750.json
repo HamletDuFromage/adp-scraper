@@ -1,0 +1,17 @@
+{
+  "Title": "Alien Xmas",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80226040"
+    }
+  ],
+  "in_theaters": false
+}

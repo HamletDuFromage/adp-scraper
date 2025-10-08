@@ -1,0 +1,26 @@
+{
+  "Title": "Toy Story 4",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2b7c605-8ced-4d92-0d1f-86252986b17f/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/toy-story-4/2CtjW4tKzIHp"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1466916618"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07VGTYHHM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

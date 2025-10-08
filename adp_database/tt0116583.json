@@ -1,0 +1,21 @@
+{
+  "Title": "The Hunchback of Notre Dame",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Drama",
+    "Kids & Family",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-hunchback-of-notre-dame/796BIJb9AlES"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id292004872"
+    }
+  ],
+  "in_theaters": false
+}

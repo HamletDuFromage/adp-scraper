@@ -1,0 +1,22 @@
+{
+  "Title": "Tales of the Teenage Mutant Ninja Turtles",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81936702"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84560c66-da6b-4b87-9222-26fb10a5d565/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/tales-of-the-teenage-mutant-ninja-turtles/"
+    }
+  ],
+  "in_theaters": false
+}

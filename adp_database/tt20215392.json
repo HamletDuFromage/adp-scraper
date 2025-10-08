@@ -1,0 +1,15 @@
+{
+  "Title": "Le Pupille",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/le-pupille/2Bunod4lQMSe"
+    }
+  ],
+  "in_theaters": false
+}

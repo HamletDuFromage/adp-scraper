@@ -1,0 +1,17 @@
+{
+  "Title": "All in a Nutshell",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/all-in-a-nutshell/2V71DtZVX5jV"
+    }
+  ],
+  "in_theaters": false
+}

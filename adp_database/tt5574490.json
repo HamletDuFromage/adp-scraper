@@ -1,0 +1,18 @@
+{
+  "Title": "Animal Kingdom",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0caa7a3c-3cc7-ea19-c0c0-7e6b91bcec17/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80104434"
+    }
+  ],
+  "in_theaters": false
+}

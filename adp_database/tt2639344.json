@@ -1,0 +1,18 @@
+{
+  "Title": "Love is Strange",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ea9f729-cc07-7d21-46dd-3a32a4575146/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00N5B5BHS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

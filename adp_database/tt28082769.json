@@ -1,0 +1,32 @@
+{
+  "Title": "September 5",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "History",
+    "Sports",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f81bbba8-b93d-4420-88de-9222f9a139d9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1786321388"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DQLVN26T/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3886038"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/8PT5sjd0j0SMVW3AYu6iSz_WsDF8wl5b/"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F64909793557af2489887051a&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    }
+  ],
+  "in_theaters": false
+}

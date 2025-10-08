@@ -1,0 +1,15 @@
+{
+  "Title": "Peaky Blinders",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80002479"
+    }
+  ],
+  "in_theaters": false
+}

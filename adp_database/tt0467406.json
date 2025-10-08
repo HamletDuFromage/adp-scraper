@@ -1,0 +1,18 @@
+{
+  "Title": "Juno",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cb67c2b5-b128-4f75-877e-c5d97c8619ea/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id272967311"
+    }
+  ],
+  "in_theaters": false
+}

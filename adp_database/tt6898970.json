@@ -1,0 +1,16 @@
+{
+  "Title": "Tidelands",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80191239"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "BlackBerry",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a081d0f0-5f7d-40b6-8742-2d646b87971f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1688100978"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C5S45976/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

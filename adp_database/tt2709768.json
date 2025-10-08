@@ -1,0 +1,26 @@
+{
+  "Title": "The Secret Life of Pets",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80095314"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24aacbc7-bd14-7681-682d-9a198d21e844/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1127896563"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01I5JTBRU/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

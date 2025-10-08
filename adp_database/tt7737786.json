@@ -1,0 +1,15 @@
+{
+  "Title": "Greenland",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B08Q6M7Q76/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

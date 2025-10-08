@@ -1,0 +1,25 @@
+{
+  "Title": "Minions",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80033394"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6a9f691-6df4-b9aa-cf5d-d8a682106fc7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id991372004"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00NYC73JW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

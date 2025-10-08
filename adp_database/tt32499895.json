@@ -1,0 +1,17 @@
+{
+  "Title": "Millers in Marriage",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1790616222"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3962137"
+    }
+  ],
+  "in_theaters": false
+}

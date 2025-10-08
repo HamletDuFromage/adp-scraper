@@ -1,0 +1,16 @@
+{
+  "Title": "Line of Duty",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28b72d74-2405-80cc-c841-022095dc95a9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

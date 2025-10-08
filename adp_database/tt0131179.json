@@ -1,0 +1,18 @@
+{
+  "Title": "Detective Conan",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.906a80b8-3847-4fac-af19-ffad4c82b3a0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

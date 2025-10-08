@@ -1,0 +1,18 @@
+{
+  "Title": "Three Blind Mouseketeers",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/three-blind-mouseketeers/15RuVsWMdbdW"
+    }
+  ],
+  "in_theaters": false
+}

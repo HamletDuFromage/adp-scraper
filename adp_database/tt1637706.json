@@ -1,0 +1,15 @@
+{
+  "Title": "Our Idiot Brother",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ad0aea5-c4b7-432d-83e8-fade8950b969/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

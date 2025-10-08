@@ -1,0 +1,18 @@
+{
+  "Title": "Lava",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Music",
+    "Romance",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lava/5aTDEpARfard"
+    }
+  ],
+  "in_theaters": false
+}

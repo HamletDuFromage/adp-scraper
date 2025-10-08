@@ -1,0 +1,18 @@
+{
+  "Title": "In the Know",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ae5ffaa-b991-4336-928a-c1d6a97c1090/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/in-the-know/8792614423899281112"
+    }
+  ],
+  "in_theaters": false
+}

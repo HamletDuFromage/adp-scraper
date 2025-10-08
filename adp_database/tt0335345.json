@@ -1,0 +1,14 @@
+{
+  "Title": "The Passion of the Christ",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00028HBKC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

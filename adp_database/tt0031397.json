@@ -1,0 +1,18 @@
+{
+  "Title": "Gulliver's Travels",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0a9f797-324f-6828-b466-58dc5e306fe2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

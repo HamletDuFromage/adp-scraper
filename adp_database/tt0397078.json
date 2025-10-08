@@ -1,0 +1,16 @@
+{
+  "Title": "Just My Luck",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fea9f7c1-d48c-81a3-4317-00f596ae2fdd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

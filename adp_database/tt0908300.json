@@ -1,0 +1,19 @@
+{
+  "Title": "The Liberty Story",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-liberty-story/76x3TaZfAl6q"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1013252668"
+    }
+  ],
+  "in_theaters": false
+}

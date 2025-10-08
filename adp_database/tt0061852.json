@@ -1,0 +1,17 @@
+{
+  "Title": "The Jungle Book",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-jungle-book-1967/5trzAb4Rz3F9"
+    }
+  ],
+  "in_theaters": false
+}

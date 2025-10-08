@@ -1,0 +1,19 @@
+{
+  "Title": "Family Guy",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Disability"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c314d302-b78b-47ba-a416-c397cb76c780/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/family-guy-3c3c0f8b-7366-4d15-88ab-18050285978e"
+    }
+  ],
+  "in_theaters": false
+}

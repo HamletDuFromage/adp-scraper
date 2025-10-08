@@ -1,0 +1,19 @@
+{
+  "Title": "Bad Sisters",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.596d2f94-7ab4-4060-ba8c-c1af4f3b9243/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.14kr4vv65unannh7doqgvlh20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "A Knight's Tale",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4a9f766-8f86-bd83-f855-6ffe1bba5cd6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

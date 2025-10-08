@@ -1,0 +1,17 @@
+{
+  "Title": "Play Dirty",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0aeb7d7-843e-44b5-a0ff-e74e06c6dabc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

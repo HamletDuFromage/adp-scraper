@@ -1,0 +1,17 @@
+{
+  "Title": "Rush Hour",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ed5afc7-923b-43c4-b809-4fd1e14abae4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Dumb and Dumber To",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8a9f720-0568-b5e6-6874-85536cca2f8b/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00PMKA3BE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

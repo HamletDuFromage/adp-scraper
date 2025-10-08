@@ -1,0 +1,25 @@
+{
+  "Title": "Aloha",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86a9f709-fa03-15a8-0ac2-31f60f64a4a8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id993999211"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00YHR5WSC/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80038361"
+    }
+  ],
+  "in_theaters": false
+}

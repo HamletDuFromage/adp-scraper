@@ -1,0 +1,14 @@
+{
+  "Title": "National Lampoon's Animal House",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/60029400"
+    }
+  ],
+  "in_theaters": false
+}

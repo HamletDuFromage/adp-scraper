@@ -1,0 +1,17 @@
+{
+  "Title": "Next Gen NYC",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/next-gen-nyc/4677501932570333112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.99b3e30a-a29d-4b68-9428-6be5c93a6fbc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

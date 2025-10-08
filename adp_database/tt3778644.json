@@ -1,0 +1,24 @@
+{
+  "Title": "Solo: A Star Wars Story",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ab1c9d8-8d4a-63b3-1bc4-1cf02a11ecb1/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/solo-a-star-wars-story/7ks3IYr1eU2P"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1382545660"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07CQKS23B/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

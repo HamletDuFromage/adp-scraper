@@ -1,0 +1,22 @@
+{
+  "Title": "Shadow Force",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4142352"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1811641094"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F3WZVHMZ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Oz",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e3caa714-3015-4dba-9a70-818aba2c4755/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/b8e4e09b-a10b-4b6d-9e85-40efbe3fa81c"
+    }
+  ],
+  "in_theaters": false
+}

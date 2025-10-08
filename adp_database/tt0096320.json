@@ -1,0 +1,15 @@
+{
+  "Title": "Twins",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea9f735-6fef-707c-b251-0f4dfe0eb2a9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

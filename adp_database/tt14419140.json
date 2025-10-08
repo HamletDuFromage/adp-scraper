@@ -1,0 +1,21 @@
+{
+  "Title": "Pee-wee as Himself",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/284e1634-0dda-4b42-bafb-de090ade6c5d"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4303102"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.075af7cc-7772-4589-aa08-63b14a43c67c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

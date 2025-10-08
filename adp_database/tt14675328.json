@@ -1,0 +1,18 @@
+{
+  "Title": "Sweet Life: Los Angeles",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.69ec2e6f-b114-483e-835c-5a7962645dda/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/7c1d6cd0-e8a7-4150-a27c-bb01e9646721"
+    }
+  ],
+  "in_theaters": false
+}

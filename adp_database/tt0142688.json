@@ -1,0 +1,16 @@
+{
+  "Title": "The Ninth Gate",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ca9f7b5-fd6d-412e-35b6-8e8b06976569/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

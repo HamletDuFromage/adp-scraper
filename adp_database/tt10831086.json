@@ -1,0 +1,23 @@
+{
+  "Title": "Pixie",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7f833f02-99fa-42c6-adaf-ec2d16b10f68/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1549528173"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08YHYPJNW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

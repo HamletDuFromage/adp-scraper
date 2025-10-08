@@ -1,0 +1,16 @@
+{
+  "Title": "White Lightning",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06adf37b-0ecd-dace-2644-f4da66ed94a3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

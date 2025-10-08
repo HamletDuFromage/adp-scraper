@@ -1,0 +1,18 @@
+{
+  "Title": "Fixer Upper: The Castle",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/590fe3a6-7dac-43e2-a264-a5bc699b454c"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9bec69e0-27f7-4bc1-bf30-fa802fab1dc0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

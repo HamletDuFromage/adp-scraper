@@ -1,0 +1,16 @@
+{
+  "Title": "Masterminds",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8190dab0-3b91-4fad-9000-16bd0b47d8d7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

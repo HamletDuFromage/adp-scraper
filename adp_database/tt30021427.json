@@ -1,0 +1,17 @@
+{
+  "Title": "Ferry 2",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81674409"
+    }
+  ],
+  "in_theaters": false
+}

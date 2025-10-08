@@ -1,0 +1,18 @@
+{
+  "Title": "The Calling",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3022b094-dbe5-455e-827e-f74dc66daee6/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-calling/6335383680358348112"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Poker Face",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.11a47ccc-0199-4615-8ea2-e12315c9b62a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "The Three Musketeers",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-three-musketeers/6qbhBGC3tK4C"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id203030416"
+    }
+  ],
+  "in_theaters": false
+}

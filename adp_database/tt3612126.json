@@ -1,0 +1,21 @@
+{
+  "Title": "The Grudge",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.deb7985d-d4f2-36e2-cfe5-0076c72a76c9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1491842471"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B082BWZJ8M/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

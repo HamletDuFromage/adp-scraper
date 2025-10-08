@@ -1,0 +1,15 @@
+{
+  "Title": "Me & Mickey",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/me-mickey/2fhg2hm6nxxp"
+    }
+  ],
+  "in_theaters": false
+}

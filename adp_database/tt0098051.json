@@ -1,0 +1,14 @@
+{
+  "Title": "The Package",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96b5f37e-08b8-e100-c183-154e3006b4ae/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

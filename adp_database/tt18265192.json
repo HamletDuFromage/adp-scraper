@@ -1,0 +1,18 @@
+{
+  "Title": "Grid",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/4fde6190-827b-4ff3-b527-ee31c922881e"
+    }
+  ],
+  "in_theaters": false
+}

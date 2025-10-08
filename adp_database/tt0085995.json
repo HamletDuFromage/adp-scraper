@@ -1,0 +1,14 @@
+{
+  "Title": "National Lampoon's Vacation",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Special Interest"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78a9f767-8019-ce00-3195-78938a8105d0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

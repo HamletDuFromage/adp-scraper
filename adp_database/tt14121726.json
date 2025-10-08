@@ -1,0 +1,16 @@
+{
+  "Title": "Jeepers Creepers Reborn",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6e5c0e24-60d2-44ef-98be-24875af30181/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

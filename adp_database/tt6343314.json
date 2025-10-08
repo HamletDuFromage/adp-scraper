@@ -1,0 +1,23 @@
+{
+  "Title": "Creed II",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Disability",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aab65618-eef1-2216-397a-d9e21d03d41c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1440204355"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317613044/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

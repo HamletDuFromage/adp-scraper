@@ -1,0 +1,16 @@
+{
+  "Title": "The Spiderwick Chronicles",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/f8853e6d6d185de0a1c4b1eaaf57aff9/the-spiderwick-chronicles"
+    }
+  ],
+  "in_theaters": false
+}

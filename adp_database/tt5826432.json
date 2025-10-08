@@ -1,0 +1,14 @@
+{
+  "Title": "Burning Sands",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80097003"
+    }
+  ],
+  "in_theaters": false
+}

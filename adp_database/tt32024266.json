@@ -1,0 +1,16 @@
+{
+  "Title": "Destination X",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/destination-x/7003802612736982112"
+    }
+  ],
+  "in_theaters": false
+}

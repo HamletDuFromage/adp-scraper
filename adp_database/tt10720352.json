@@ -1,0 +1,25 @@
+{
+  "Title": "Arthur the King",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3160fd9c-2299-4260-94cc-b11f476c00af/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1733798809"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CW3SZC8P/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3020941"
+    }
+  ],
+  "in_theaters": false
+}

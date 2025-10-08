@@ -1,0 +1,16 @@
+{
+  "Title": "Money for Nothing",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id492080092"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "To the Bone",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80171659"
+    }
+  ],
+  "in_theaters": false
+}

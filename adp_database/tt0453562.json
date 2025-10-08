@@ -1,0 +1,19 @@
+{
+  "Title": "42",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b462633-d01d-4afe-af39-8f1e8259a99d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id650192359"
+    }
+  ],
+  "in_theaters": false
+}

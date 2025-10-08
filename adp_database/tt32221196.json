@@ -1,0 +1,23 @@
+{
+  "Title": "One of Them Days",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/82006168"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1789246908"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DTB5RVWV/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4001748"
+    }
+  ],
+  "in_theaters": false
+}

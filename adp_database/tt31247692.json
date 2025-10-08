@@ -1,0 +1,18 @@
+{
+  "Title": "Blitz",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.410b0dd2-884c-4657-b0e2-255cbd76bbee/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.1ivowfwigmx4dmfii3xekmoaq"
+    }
+  ],
+  "in_theaters": false
+}

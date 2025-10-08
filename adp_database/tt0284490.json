@@ -1,0 +1,16 @@
+{
+  "Title": "Showtime",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ca9f71b-e57d-9422-cad5-d79d1728a71a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

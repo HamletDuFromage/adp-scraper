@@ -1,0 +1,17 @@
+{
+  "Title": "Your Friends & Neighbors",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.69bc550b-8624-49fc-9878-8493a41432d3/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.74o37kzay0yuuub8iumddjsg"
+    }
+  ],
+  "in_theaters": false
+}

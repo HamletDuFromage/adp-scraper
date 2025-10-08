@@ -1,0 +1,14 @@
+{
+  "Title": "Strip Search",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/bf3503b3-15fc-4392-a6b2-f224b6b77280"
+    }
+  ],
+  "in_theaters": false
+}

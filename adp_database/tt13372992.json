@@ -1,0 +1,15 @@
+{
+  "Title": "Bingo Hell",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.336e6a2d-af46-4567-ac47-75ca9967ee79/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

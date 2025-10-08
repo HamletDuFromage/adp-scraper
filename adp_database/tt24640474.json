@@ -1,0 +1,15 @@
+{
+  "Title": "Disconnect: The Wedding Planner",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81598307"
+    }
+  ],
+  "in_theaters": false
+}

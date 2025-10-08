@@ -1,0 +1,25 @@
+{
+  "Title": "Oppenheimer",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f60cf07a-7363-411e-9f4a-b93b568ef3d3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1710495188"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CL7FTCN5/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2535279"
+    }
+  ],
+  "in_theaters": false
+}

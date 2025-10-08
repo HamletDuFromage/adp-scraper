@@ -1,0 +1,27 @@
+{
+  "Title": "Megamind",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Crime",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6b0a844-77ee-4d10-c817-aef0ac8c5d6e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/61c6865b-575c-4ff9-a879-e0c31ab36930"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003UESJF6/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70120612"
+    }
+  ],
+  "in_theaters": false
+}

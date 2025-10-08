@@ -1,0 +1,18 @@
+{
+  "Title": "Bob Hearts Abishola",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cb9c9c54-4dd9-41df-bb67-d71a46663b8c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f5550bda-bb16-4f0f-a794-00a8fb9bc674"
+    }
+  ],
+  "in_theaters": false
+}

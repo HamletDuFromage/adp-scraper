@@ -1,0 +1,18 @@
+{
+  "Title": "Farmhouse Fixer",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/59768144-e300-4269-acd3-c6b660ec08bf"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c2bc46e2-4742-921b-d9b6-7e3bb1d1bafc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

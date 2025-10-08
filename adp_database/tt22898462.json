@@ -1,0 +1,16 @@
+{
+  "Title": "The Conjuring: Last Rites",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1830438012"
+    }
+  ],
+  "in_theaters": true
+}

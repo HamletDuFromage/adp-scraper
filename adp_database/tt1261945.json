@@ -1,0 +1,16 @@
+{
+  "Title": "Sex and the City 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.08b8712c-a2b4-96b1-467b-bd1c5f1a5a60/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

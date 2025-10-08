@@ -1,0 +1,16 @@
+{
+  "Title": "8 Seconds",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ab8bb0e-3289-51a1-d412-5c3859102a65/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

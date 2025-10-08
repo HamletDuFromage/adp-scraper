@@ -1,0 +1,16 @@
+{
+  "Title": "Cats & Dogs 3: Paws Unite!",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8b9c43e-d848-9170-a24b-8336329aa231/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

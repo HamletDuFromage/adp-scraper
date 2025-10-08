@@ -1,0 +1,21 @@
+{
+  "Title": "Hard Truths",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b5608f32-4043-47b0-9934-b01acb787063/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1781088216"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3931856"
+    }
+  ],
+  "in_theaters": false
+}

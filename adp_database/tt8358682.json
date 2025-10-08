@@ -1,0 +1,15 @@
+{
+  "Title": "Alone We Fight",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0b5022a-6a4a-b1bd-286d-36f9beab61ca/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "So You Think You Can Dance",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Dance",
+    "Music",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/series/300009137/so-you-think-you-can-dance"
+    }
+  ],
+  "in_theaters": false
+}

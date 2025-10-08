@@ -1,0 +1,22 @@
+{
+  "Title": "Mamma Mia! Here We Go Again",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ab252be-3708-1c55-f1f1-b1ee263040dc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1406380470"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07F9GVFK6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

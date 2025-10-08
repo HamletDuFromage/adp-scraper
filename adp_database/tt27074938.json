@@ -1,0 +1,21 @@
+{
+  "Title": "Every Body",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Documentary",
+    "Independent"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1aa9d94a-7775-43d8-8e41-71f919a853aa/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1696043405"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2472211"
+    }
+  ],
+  "in_theaters": false
+}

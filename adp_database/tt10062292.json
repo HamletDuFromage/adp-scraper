@@ -1,0 +1,15 @@
+{
+  "Title": "Never Have I Ever",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80179190"
+    }
+  ],
+  "in_theaters": false
+}

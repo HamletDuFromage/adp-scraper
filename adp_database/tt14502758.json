@@ -1,0 +1,18 @@
+{
+  "Title": "Renegade Nell",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-a70c322a-29f3-4828-8c6e-e58a4f803663"
+    }
+  ],
+  "in_theaters": false
+}

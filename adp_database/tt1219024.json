@@ -1,0 +1,18 @@
+{
+  "Title": "Castle",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4a9f75d-3cf2-a885-691b-a9e17164a2ca/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

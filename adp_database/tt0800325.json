@@ -1,0 +1,16 @@
+{
+  "Title": "The Dirt",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80169469"
+    }
+  ],
+  "in_theaters": false
+}

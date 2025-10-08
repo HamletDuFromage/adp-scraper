@@ -1,0 +1,18 @@
+{
+  "Title": "One Direction: This is Us",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82a9f797-18c8-a6a8-aba4-1b9f2d8606ac/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cea9f701-c94a-8009-d480-0204a3b3f2f2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

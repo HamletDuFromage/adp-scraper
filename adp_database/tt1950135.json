@@ -1,0 +1,17 @@
+{
+  "Title": "Drunk Wedding",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8bbefe5-22ab-4a65-edfd-ff42cd9af1cf/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id989132986"
+    }
+  ],
+  "in_theaters": false
+}

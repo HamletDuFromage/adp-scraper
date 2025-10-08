@@ -1,0 +1,17 @@
+{
+  "Title": "Vigil",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/vigil/7608453997953841112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14860842-1788-4404-a9c9-14393c91a952/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

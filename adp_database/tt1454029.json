@@ -1,0 +1,20 @@
+{
+  "Title": "The Help",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ecc6cfe-f2df-4c6c-b308-5c699ba4f9c4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id458062374"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004A8ZWVK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

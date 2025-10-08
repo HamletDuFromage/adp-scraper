@@ -1,0 +1,18 @@
+{
+  "Title": "Alma's Way: Alma Goes to Puerto Rico",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46a6bd22-d910-4fb1-aac4-d307ebec917c/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2442148"
+    }
+  ],
+  "in_theaters": false
+}

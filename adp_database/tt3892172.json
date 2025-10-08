@@ -1,0 +1,21 @@
+{
+  "Title": "Leave No Trace",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38b23ff6-e180-f26d-cad8-eb5e730735bc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1397482710"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07FGT76N4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

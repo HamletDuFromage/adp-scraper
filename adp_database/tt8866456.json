@@ -1,0 +1,25 @@
+{
+  "Title": "The Legend of Ochi",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1808816283"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3982313"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.01507c42-9c4b-4df7-a71c-3e9e7b257571/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d7a88d35-e424-443b-a9ea-30f46450a79c"
+    }
+  ],
+  "in_theaters": false
+}

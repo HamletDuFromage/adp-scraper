@@ -1,0 +1,33 @@
+{
+  "Title": "The Abyss",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d35c0f45-93b1-4622-9aa5-8452ba01812a/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ebdf73b-48ea-4862-8e44-50afbccf3982/audiodescriin-20"
+    },
+    {
+      "Prime Video3": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bfa49208-d24b-40e4-8646-a911a3255b4c/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/8063"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-733df76b-d280-4f96-b13e-3b0c0c345dee"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/the-abyss-1989"
+    }
+  ],
+  "in_theaters": false
+}

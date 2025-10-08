@@ -1,0 +1,17 @@
+{
+  "Title": "A Snow White Christmas",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ffd3f5c-3a6a-4de4-a372-be365f57e6d2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

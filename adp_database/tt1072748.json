@@ -1,0 +1,27 @@
+{
+  "Title": "Winchester",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2eb0ac18-1660-222c-51db-e253e81dcb6f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1339295055"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07B16NSK6/audiodescriin-20"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/639215/winchester"
+    }
+  ],
+  "in_theaters": false
+}

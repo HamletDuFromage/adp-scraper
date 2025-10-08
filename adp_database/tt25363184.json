@@ -1,0 +1,15 @@
+{
+  "Title": "Stan Lee",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/stan-lee/2rcOdxbFJSzw"
+    }
+  ],
+  "in_theaters": false
+}

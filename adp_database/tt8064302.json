@@ -1,0 +1,17 @@
+{
+  "Title": "Dead to Me",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80219707"
+    }
+  ],
+  "in_theaters": false
+}

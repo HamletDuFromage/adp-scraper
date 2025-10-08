@@ -1,0 +1,20 @@
+{
+  "Title": "Severance",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92c7e5ed-9cf4-4e34-93a8-3beb40f7b279/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Wrath of the Titans",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2a9f7ac-98ab-bb9d-21cc-3986d08e22e1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

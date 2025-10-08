@@ -1,0 +1,19 @@
+{
+  "Title": "Bono: Stories of Surrender",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.oxoxnpaecaatg9tzf6pgfsh2"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.51f9e7b7-c869-454a-9b20-7d55413effe0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "All's Fair in Love",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4f1fc4d-f9e5-49d3-8ee2-212d53649306/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

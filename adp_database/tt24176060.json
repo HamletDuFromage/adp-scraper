@@ -1,0 +1,27 @@
+{
+  "Title": "Queer",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44c6943c-ff31-4d0a-be00-abb2ae344355/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2999e62b-c5aa-4bab-8f6f-550b20ca718d"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1782168792"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3820893"
+    }
+  ],
+  "in_theaters": false
+}

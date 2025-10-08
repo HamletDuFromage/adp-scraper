@@ -1,0 +1,17 @@
+{
+  "Title": "Bruno",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ca9f724-57ae-a78f-93c7-34dbe93197dd/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002P7UCJ0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

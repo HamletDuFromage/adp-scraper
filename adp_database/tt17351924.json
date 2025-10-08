@@ -1,0 +1,22 @@
+{
+  "Title": "Saltburn",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6674b8e-5b88-45be-9361-63dd98818413/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1726970757"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2963917"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Amber Brown",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7c086791-71cf-4dd4-aa2d-0c9679b4f2c3/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.3rbpynkdkoc4rlyskaa8n3nmi"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "I Think I Love My Wife",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aa9f75d-624a-8c1f-200e-e0d4973d05f5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

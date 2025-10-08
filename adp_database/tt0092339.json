@@ -1,0 +1,14 @@
+{
+  "Title": "A Different World",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70157520"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Got to Get Out",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/c98bcb39-959c-420a-9eed-30fb3c9c7c2a"
+    }
+  ],
+  "in_theaters": false
+}

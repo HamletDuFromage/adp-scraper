@@ -1,0 +1,22 @@
+{
+  "Title": "John Wick: Chapter 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8978afca-e5be-47ef-ac7d-255cf12eaeac/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1199661949"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06XX7VWYP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

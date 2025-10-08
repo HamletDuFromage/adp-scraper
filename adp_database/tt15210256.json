@@ -1,0 +1,19 @@
+{
+  "Title": "Stephen Curry: Underrated",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9af99b1b-54ae-4816-8016-47e621571447/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.23v0wxaiwz60bjy1w4vg7npun"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Home Sweet Rome",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1fb2c31a-e398-46da-8734-e3eabb4a09d8/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/85969931-6d9c-44d6-8376-91482ec71d48"
+    }
+  ],
+  "in_theaters": false
+}

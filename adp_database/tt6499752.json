@@ -1,0 +1,19 @@
+{
+  "Title": "Upgrade",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80240085"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52b288aa-8781-29d4-b258-3404642ac2af/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

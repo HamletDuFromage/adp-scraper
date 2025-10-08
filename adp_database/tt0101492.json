@@ -1,0 +1,17 @@
+{
+  "Title": "Body Parts",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1220444"
+    }
+  ],
+  "in_theaters": false
+}

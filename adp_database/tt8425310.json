@@ -1,0 +1,18 @@
+{
+  "Title": "The Case Against Adnan Syed",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f9686325-bbbf-4036-a2bf-b69d9a130311/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/0675418a-8e41-4444-ab27-fbebadcb9dc4"
+    }
+  ],
+  "in_theaters": false
+}

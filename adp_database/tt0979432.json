@@ -1,0 +1,18 @@
+{
+  "Title": "Boardwalk Empire",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3f97ab46-5789-4043-b94d-408abe620748/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/369f71c8-bc34-4d3c-a594-3c413bb0ce4d"
+    }
+  ],
+  "in_theaters": false
+}

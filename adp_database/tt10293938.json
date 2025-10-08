@@ -1,0 +1,16 @@
+{
+  "Title": "Outer Banks",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80236318"
+    }
+  ],
+  "in_theaters": false
+}

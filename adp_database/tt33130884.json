@@ -1,0 +1,17 @@
+{
+  "Title": "Barbie Mysteries",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81572564"
+    }
+  ],
+  "in_theaters": false
+}

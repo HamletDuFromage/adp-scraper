@@ -1,0 +1,21 @@
+{
+  "Title": "Land",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1a5b1fa0-bfd7-41e3-ac60-fcfb78250cc1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1554319478"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08VVBTR3R/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

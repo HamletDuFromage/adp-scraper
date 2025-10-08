@@ -1,0 +1,15 @@
+{
+  "Title": "Crouching Tiger, Hidden Dragon: Sword of Destiny",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80039717"
+    }
+  ],
+  "in_theaters": false
+}

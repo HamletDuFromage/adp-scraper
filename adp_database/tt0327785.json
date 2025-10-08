@@ -1,0 +1,28 @@
+{
+  "Title": "The Killer's Game",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8098d6ef-a21b-4351-acde-490993c0c42d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1766761980"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DD588HYP/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3516406"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d77706931d95e001f1a0ce3&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    }
+  ],
+  "in_theaters": false
+}

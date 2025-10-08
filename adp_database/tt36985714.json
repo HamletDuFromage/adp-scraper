@@ -1,0 +1,18 @@
+{
+  "Title": "The Mortician",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/c11158e8-8bc4-4f05-ad93-4a62070988e8"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fdc06642-b73c-41d7-a060-35f7fd9de882/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

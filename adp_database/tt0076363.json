@@ -1,0 +1,17 @@
+{
+  "Title": "The Many Adventures of Winnie the Pooh",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-many-adventures-of-winnie-the-pooh/6PbecLLcSZQ0"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Anna Karenina",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88a9f799-b6b9-bc72-f326-4d2f3941c826/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

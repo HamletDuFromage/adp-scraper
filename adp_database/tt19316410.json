@@ -1,0 +1,19 @@
+{
+  "Title": "Who's Talking to Chris Wallace?",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "News",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f256bf9a-d711-41ef-b94c-a8a63e337649/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/893c4835-e237-4682-8ec6-6dd047570386"
+    }
+  ],
+  "in_theaters": false
+}

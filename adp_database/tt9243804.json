@@ -1,0 +1,22 @@
+{
+  "Title": "The Green Knight",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1b290217-8d98-4664-b93b-4f94033bbfdb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1577084825"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09BC445S5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

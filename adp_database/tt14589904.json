@@ -1,0 +1,16 @@
+{
+  "Title": "Farzar",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81259476"
+    }
+  ],
+  "in_theaters": false
+}

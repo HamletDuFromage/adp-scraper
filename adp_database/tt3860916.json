@@ -1,0 +1,17 @@
+{
+  "Title": "Cargo",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80161216"
+    }
+  ],
+  "in_theaters": false
+}

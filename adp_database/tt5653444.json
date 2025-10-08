@@ -1,0 +1,16 @@
+{
+  "Title": "The Swap",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-swap/6MPVIzr1HOna"
+    }
+  ],
+  "in_theaters": false
+}

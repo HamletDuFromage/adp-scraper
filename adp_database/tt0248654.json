@@ -1,0 +1,21 @@
+{
+  "Title": "Six Feet Under",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70180080"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d7894a29-fbf4-4d77-8784-0572ce08f858/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/8b7307e8-1034-426f-b01a-06c832e436ea"
+    }
+  ],
+  "in_theaters": false
+}

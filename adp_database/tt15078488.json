@@ -1,0 +1,18 @@
+{
+  "Title": "Eyes on the Prize: Hallowed Ground",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Black Stories",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.301a9f1c-07fe-48aa-bb87-d7251197b0ef/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/ff27438e-58cb-4106-b9f6-5d07384f39d3"
+    }
+  ],
+  "in_theaters": false
+}

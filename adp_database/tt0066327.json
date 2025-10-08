@@ -1,0 +1,18 @@
+{
+  "Title": "Santa Claus is Comin' to Town",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f78f-6571-904d-6475-1cec65004093/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

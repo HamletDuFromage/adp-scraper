@@ -1,0 +1,21 @@
+{
+  "Title": "The Last Breath",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.855c4b9c-cc81-40eb-8c49-e14ccb6b7ad3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1756237529"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DF85W3WH/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Bloodline",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80010655"
+    }
+  ],
+  "in_theaters": false
+}

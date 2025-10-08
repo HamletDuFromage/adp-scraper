@@ -1,0 +1,15 @@
+{
+  "Title": "Metal Monsters: The Righteous Redeemer",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/476eae42-4437-4486-87e3-af8177fc7435"
+    }
+  ],
+  "in_theaters": false
+}

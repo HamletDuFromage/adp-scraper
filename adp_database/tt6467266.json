@@ -1,0 +1,25 @@
+{
+  "Title": "Sing 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.51e18f5e-af0e-4349-84f3-9efe54feb1ef/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c800672a-6c35-4746-a086-8918c480c7af/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1602719910"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09NY3VYZQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

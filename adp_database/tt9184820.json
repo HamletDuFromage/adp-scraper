@@ -1,0 +1,20 @@
+{
+  "Title": "Star Trek: Lower Decks",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/star-trek-lower-decks/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.11bc351a-f9ef-4ccc-abd6-cb1dbd30dd1a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

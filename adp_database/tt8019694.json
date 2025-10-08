@@ -1,0 +1,21 @@
+{
+  "Title": "Frankie",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82b80b8f-2d04-4223-4455-b73060710f16/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1496290431"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B081WQQSW2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

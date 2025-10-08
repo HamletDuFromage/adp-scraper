@@ -1,0 +1,15 @@
+{
+  "Title": "Queenie",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/bcaf7b78-0171-41c5-859f-b81de14ddc88"
+    }
+  ],
+  "in_theaters": false
+}

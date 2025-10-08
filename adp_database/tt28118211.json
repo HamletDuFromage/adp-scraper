@@ -1,0 +1,17 @@
+{
+  "Title": "A Good Girl's Guide to Murder",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81759464"
+    }
+  ],
+  "in_theaters": false
+}

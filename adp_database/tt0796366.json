@@ -1,0 +1,21 @@
+{
+  "Title": "Star Trek",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cab851d-75a4-bc22-03ef-3cef833b0331/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id317909453"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/star-trek/aotpJ4rkRqtrqIITSdgM5SnOOzQhg9k9/"
+    }
+  ],
+  "in_theaters": false
+}

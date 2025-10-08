@@ -1,0 +1,14 @@
+{
+  "Title": "Frida",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a03ce47b-9933-4acb-9f36-c15fe3f82890/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

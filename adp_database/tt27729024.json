@@ -1,0 +1,18 @@
+{
+  "Title": "100 Years of Warner Bros.",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.744b80a7-f3af-4f92-8336-07d59ccd0293/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a42f0ac9-7799-4691-897d-27bca7c97c28"
+    }
+  ],
+  "in_theaters": false
+}

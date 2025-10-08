@@ -1,0 +1,16 @@
+{
+  "Title": "Clifford's Really Big Movie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.de21746e-b24e-4434-a2a7-c30e0b29651e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "Kingdom of the Planet of the Apes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.017a8a2c-e389-480a-87a2-95158e9d4499/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1751066181"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D8JCM9CM/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3140763"
+    }
+  ],
+  "in_theaters": false
+}

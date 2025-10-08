@@ -1,0 +1,18 @@
+{
+  "Title": "The Oprah Conversation",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "TV Variety",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49224319-9ebe-4d75-b7d6-1ab8fbdb536c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/us/show/the-oprah-conversation/umc.cmc.49yt85r7ow6904u0177r694qy?l=en"
+    }
+  ],
+  "in_theaters": false
+}

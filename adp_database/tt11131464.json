@@ -1,0 +1,19 @@
+{
+  "Title": "The Novice",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Sports",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cec085ff-1eb1-4894-bddc-faa37a311b2d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1595758850"
+    }
+  ],
+  "in_theaters": false
+}

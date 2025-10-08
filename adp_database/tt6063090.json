@@ -1,0 +1,16 @@
+{
+  "Title": "Light of My Life",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64b61156-2013-90f7-fcc1-e96bf20dafaf/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

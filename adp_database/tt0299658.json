@@ -1,0 +1,16 @@
+{
+  "Title": "Chicago",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/dAlmjRfD5H_2h9Za9pucVP0H8KeAKNcc/"
+    }
+  ],
+  "in_theaters": false
+}

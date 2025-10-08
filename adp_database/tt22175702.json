@@ -1,0 +1,14 @@
+{
+  "Title": "TMZ Presents: Prince Fatal Secrets",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/690128/tmz-presents-prince-fatal-secrets"
+    }
+  ],
+  "in_theaters": false
+}

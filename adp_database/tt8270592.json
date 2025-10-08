@@ -1,0 +1,19 @@
+{
+  "Title": "Miss Scarlet",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4abb291a-0643-2dc5-8de3-a270ff6b0491/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2908487"
+    }
+  ],
+  "in_theaters": false
+}

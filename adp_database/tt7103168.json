@@ -1,0 +1,18 @@
+{
+  "Title": "SparkShorts: Smash and Grab",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/smash-and-grab/3Kud6NSQ29Sn"
+    }
+  ],
+  "in_theaters": false
+}

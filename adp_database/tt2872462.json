@@ -1,0 +1,16 @@
+{
+  "Title": "Mistress America",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Independent"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1024777054"
+    }
+  ],
+  "in_theaters": false
+}

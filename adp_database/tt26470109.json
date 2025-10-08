@@ -1,0 +1,22 @@
+{
+  "Title": "Oddity",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Disability",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ec1dcf93-995d-4588-8799-37e83f850ab4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1756818454"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D9W7LR32/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

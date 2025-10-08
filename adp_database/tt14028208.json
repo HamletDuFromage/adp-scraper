@@ -1,0 +1,19 @@
+{
+  "Title": "Clone High",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5392c132-e405-4339-98b4-3d21f4ed0bfd/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/bd3ecf08-2ec6-4400-8c9a-06c0e6604740"
+    }
+  ],
+  "in_theaters": false
+}

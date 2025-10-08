@@ -1,0 +1,19 @@
+{
+  "Title": "Clean",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bc94925c-533d-414e-92f6-c8b782d665f0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1601563360"
+    }
+  ],
+  "in_theaters": false
+}

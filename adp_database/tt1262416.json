@@ -1,0 +1,16 @@
+{
+  "Title": "Scream 4",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d3671837-bcb9-4de8-a9f5-46fb96c67e52/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

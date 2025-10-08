@@ -1,0 +1,17 @@
+{
+  "Title": "The Spirit of Christmas",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68abdab1-0470-2056-3115-4288a3668aa7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

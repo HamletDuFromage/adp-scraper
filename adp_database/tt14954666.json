@@ -1,0 +1,21 @@
+{
+  "Title": "The Idol",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62f47b00-48cd-4c79-9cf5-47f41e841ecc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/8893abd5-1a33-477b-94e4-20329e2d37ef"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2482548"
+    }
+  ],
+  "in_theaters": false
+}

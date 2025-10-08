@@ -1,0 +1,16 @@
+{
+  "Title": "The Gallant Hours",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.baa9f67f-9609-1e6e-0ad9-a595b390f338/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

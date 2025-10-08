@@ -1,0 +1,18 @@
+{
+  "Title": "High School Musical: The Musical: The Holiday Special",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/high-school-musical-the-musical-the-holiday-special/77vM6dH7QRpf"
+    }
+  ],
+  "in_theaters": false
+}

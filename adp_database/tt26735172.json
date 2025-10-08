@@ -1,0 +1,14 @@
+{
+  "Title": "Dudes",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.720b45db-3364-46e5-aa3a-2ee709881467/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

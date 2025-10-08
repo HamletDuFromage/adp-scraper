@@ -1,0 +1,17 @@
+{
+  "Title": "Benedetta",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B09X5ZDQYS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

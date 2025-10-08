@@ -1,0 +1,18 @@
+{
+  "Title": "Tick Tock Tale",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tick-tock-tale/5rPSsnEdep1J"
+    }
+  ],
+  "in_theaters": false
+}

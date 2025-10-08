@@ -1,0 +1,20 @@
+{
+  "Title": "Miami Vice",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4a9f6c1-b064-b102-317b-78856f943069/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B000J4QWM2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Dog Soldiers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a25684b9-cb24-4668-b071-9bc6051a73f6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

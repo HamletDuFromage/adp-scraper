@@ -1,0 +1,19 @@
+{
+  "Title": "Axios",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "News",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0de1697-63c3-4d8d-af45-6f78a90bf6ea/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/4132a88f-c4a5-4427-a6f0-6c0533fad8da"
+    }
+  ],
+  "in_theaters": false
+}

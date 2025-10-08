@@ -1,0 +1,21 @@
+{
+  "Title": "Zombies 3",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/zombies-3/4kG37aA7S5Sa"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2640105"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "I Love That for You",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44822fd2-5873-417d-ad5d-f5ce0b3c7c06/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2090295"
+    }
+  ],
+  "in_theaters": false
+}

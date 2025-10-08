@@ -1,0 +1,21 @@
+{
+  "Title": "The Other Woman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6a9f7b9-1d87-8ff5-e9f7-f75773995b40/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id852763913"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00KNALRZ4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

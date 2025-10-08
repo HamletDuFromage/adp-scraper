@@ -1,0 +1,15 @@
+{
+  "Title": "Quarterback",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81482895"
+    }
+  ],
+  "in_theaters": false
+}

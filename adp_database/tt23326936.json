@@ -1,0 +1,14 @@
+{
+  "Title": "Director by Night",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/director-by-night/7LAI8wd0sRWN"
+    }
+  ],
+  "in_theaters": false
+}

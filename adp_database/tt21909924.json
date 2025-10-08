@@ -1,0 +1,16 @@
+{
+  "Title": "Joni Mitchell, Lady Blue",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64c9d93b-7046-4df6-ae8f-6b5a3bbea5cc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

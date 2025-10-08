@@ -1,0 +1,16 @@
+{
+  "Title": "The Parent Trap",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-parent-trap-1961/evKeUcz8M7Sh"
+    }
+  ],
+  "in_theaters": false
+}

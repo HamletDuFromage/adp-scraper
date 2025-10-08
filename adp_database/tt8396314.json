@@ -1,0 +1,18 @@
+{
+  "Title": "Exterminate All the Brutes",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2fadee58-4925-44ea-b2f9-f91c31ee33c8/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/8b4445f1-6319-46c6-93d8-df6dd8802c10"
+    }
+  ],
+  "in_theaters": false
+}

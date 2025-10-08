@@ -1,0 +1,15 @@
+{
+  "Title": "A Patch of Blue",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id303285397"
+    }
+  ],
+  "in_theaters": false
+}

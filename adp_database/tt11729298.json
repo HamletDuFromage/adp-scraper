@@ -1,0 +1,19 @@
+{
+  "Title": "American Underdog",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1601308546"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09KTMBYYV/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

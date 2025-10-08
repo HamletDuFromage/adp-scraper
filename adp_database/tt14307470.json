@@ -1,0 +1,18 @@
+{
+  "Title": "Koala Man",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Superhero",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/koala-man-ff03d7eb-4315-4d3b-85ec-b9b5158e371c"
+    }
+  ],
+  "in_theaters": false
+}

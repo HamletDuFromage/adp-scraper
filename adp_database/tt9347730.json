@@ -1,0 +1,21 @@
+{
+  "Title": "Candyman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.014b76c2-a5ea-46b4-955a-73041a71edfd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1584336210"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09D8XWB66/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

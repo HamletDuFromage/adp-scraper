@@ -1,0 +1,15 @@
+{
+  "Title": "Home Fires",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72a9f791-840d-7b97-79c3-3ddfa4104394/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "Marry Me",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0df9232-27af-4899-88f2-4f57e9df6c00/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1607687173"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09RNTQBZG/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81041317"
+    }
+  ],
+  "in_theaters": false
+}

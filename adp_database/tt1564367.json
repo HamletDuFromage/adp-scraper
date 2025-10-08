@@ -1,0 +1,21 @@
+{
+  "Title": "Just Go with It",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id433839216"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003Y5H524/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/hf5cOIzEnNxGTHR2aR9MiFRQETnPXNHl/"
+    }
+  ],
+  "in_theaters": false
+}

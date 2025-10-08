@@ -1,0 +1,16 @@
+{
+  "Title": "Imagine Dragons Live in Vegas",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Concert",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/aea0c966-0a48-4446-8ffd-f59d3bac9314"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Bearly Asleep",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-4594758f-8ae2-427a-ae12-8327a5938d9e"
+    }
+  ],
+  "in_theaters": false
+}

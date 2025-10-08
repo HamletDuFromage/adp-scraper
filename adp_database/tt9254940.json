@@ -1,0 +1,26 @@
+{
+  "Title": "Sneaks",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4097248"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.85ca0716-c36e-4784-bcd8-01f77f7cfc6b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1810107821"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F536BCBH/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

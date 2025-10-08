@@ -1,0 +1,19 @@
+{
+  "Title": "The Ultimate Gift",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4a9f750-4a07-ca84-c660-89210e3ad6c4/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B000QUU7KC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

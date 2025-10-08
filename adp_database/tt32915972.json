@@ -1,0 +1,16 @@
+{
+  "Title": "Chain Food: All-Star Dishes",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/ae708543d68a316c67e7dff3e2c328c2/chain-food-all-star-dishes"
+    }
+  ],
+  "in_theaters": false
+}

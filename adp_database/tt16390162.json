@@ -1,0 +1,20 @@
+{
+  "Title": "Surfside Girls",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Kids & Family",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.45aa51ce-e0f6-4b2c-8f93-da1857e3bc21/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4371g2xacdr0wfs071dm3q30x"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Peter Rabbit",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80201039"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ab09233-aefa-6470-2ee5-d2a67965714e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B079J83TXK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

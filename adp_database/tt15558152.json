@@ -1,0 +1,23 @@
+{
+  "Title": "The Visitor",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.45014c42-2ae4-498c-8319-8473e201e3cc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1642689120"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2114568"
+    }
+  ],
+  "in_theaters": false
+}

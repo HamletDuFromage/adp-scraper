@@ -1,0 +1,17 @@
+{
+  "Title": "Willie Nelson & Family",
+  "Media Type": "Series",
+  "Rating": "7+",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.426cd76d-204a-45b1-a27d-f11477b9695e/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/willie-nelson-and-family/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Money Heist",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80192098"
+    }
+  ],
+  "in_theaters": false
+}

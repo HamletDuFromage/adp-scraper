@@ -1,0 +1,16 @@
+{
+  "Title": "Muppets Now",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/muppets-now/DoUahSFYwznB"
+    }
+  ],
+  "in_theaters": false
+}

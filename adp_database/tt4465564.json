@@ -1,0 +1,26 @@
+{
+  "Title": "Fifty Shades Darker",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4aadc40e-295b-29ea-3a41-28fba6d63db9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1231623633"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01MUT7XRB/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80131194"
+    }
+  ],
+  "in_theaters": false
+}

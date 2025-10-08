@@ -1,0 +1,16 @@
+{
+  "Title": "America's Funniest Home Videos",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/americas-funniest-home-videos-e802641a-22bc-4496-b1fa-5f26422df0b4"
+    }
+  ],
+  "in_theaters": false
+}

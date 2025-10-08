@@ -1,0 +1,18 @@
+{
+  "Title": "Fast Times at Ridgemont High",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80a9f708-c4db-c2ee-a9fe-c4ace7358b9e/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60035933"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Normal Heart",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/7dc59bcb-7630-407b-b873-dfac0282f877"
+    }
+  ],
+  "in_theaters": false
+}

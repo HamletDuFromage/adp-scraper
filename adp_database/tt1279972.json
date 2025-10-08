@@ -1,0 +1,18 @@
+{
+  "Title": "Treme",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6c936a44-5c71-480e-b5b2-dfecd6a8e69a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/fd3fae1f-05b2-4062-80e0-940e8c45b624"
+    }
+  ],
+  "in_theaters": false
+}

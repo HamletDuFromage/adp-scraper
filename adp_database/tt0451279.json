@@ -1,0 +1,25 @@
+{
+  "Title": "Wonder Woman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20ba67f5-40a6-93b9-db8b-8e55e26a9f0f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a618358a-a71d-44a2-8294-24da8fae8591"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1235765633"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B074JS9QJB/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

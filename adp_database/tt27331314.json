@@ -1,0 +1,17 @@
+{
+  "Title": "The Secrets of Hillsong",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82b7a060-30af-461e-aa11-89712519e852/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/the-secrets-of-hillsong-41cb2b50-df48-485c-8963-0aafca4a8601"
+    }
+  ],
+  "in_theaters": false
+}

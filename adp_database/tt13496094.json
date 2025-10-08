@@ -1,0 +1,15 @@
+{
+  "Title": "The Chase",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-chase-99696993-dcf8-4ea7-99c7-8854e081c842"
+    }
+  ],
+  "in_theaters": false
+}

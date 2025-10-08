@@ -1,0 +1,18 @@
+{
+  "Title": "The Weight of Gold",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4f73759f-b0c4-4d20-97f0-cb586ccad407/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/e664cada-9c49-4ba1-b160-23210df80774"
+    }
+  ],
+  "in_theaters": false
+}

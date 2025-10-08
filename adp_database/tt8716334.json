@@ -1,0 +1,15 @@
+{
+  "Title": "Springsteen on Broadway",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80232329"
+    }
+  ],
+  "in_theaters": false
+}

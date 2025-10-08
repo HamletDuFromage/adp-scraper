@@ -1,0 +1,21 @@
+{
+  "Title": "Planet of the Apes",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.362bfb44-7291-41b7-8206-0624d29c8593/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id435011890"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/8732"
+    }
+  ],
+  "in_theaters": false
+}

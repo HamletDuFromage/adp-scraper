@@ -1,0 +1,18 @@
+{
+  "Title": "Return to Halloweentown",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Horror",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/return-to-halloweentown/3nhK1GLgPLqa"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Charlie Brown's Christmas Tales",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ce0da365-1b5f-456f-9f48-2f40c2706f60/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.3kzb220yzo1iz1oy11kpu498x"
+    }
+  ],
+  "in_theaters": false
+}

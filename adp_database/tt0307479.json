@@ -1,0 +1,17 @@
+{
+  "Title": "Solaris",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0a9f73a-550c-b7a0-93a3-812082513ce5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

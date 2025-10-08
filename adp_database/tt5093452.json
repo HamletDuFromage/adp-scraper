@@ -1,0 +1,15 @@
+{
+  "Title": "Shots Fired",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/shots-fired-9ea4a6be-05ba-4e80-8ca7-66c2a5834564"
+    }
+  ],
+  "in_theaters": false
+}

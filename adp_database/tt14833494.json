@@ -1,0 +1,17 @@
+{
+  "Title": "Twisted House Sitter",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8603db0a-6a20-4e3b-928b-30dc17c6e753/audiodescriin-20"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/608840/twisted-house-sitter"
+    }
+  ],
+  "in_theaters": false
+}

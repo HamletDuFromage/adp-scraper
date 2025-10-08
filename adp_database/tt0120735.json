@@ -1,0 +1,16 @@
+{
+  "Title": "Lock, Stock and Two Smoking Barrels",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28a9f729-b40e-5944-56df-9c37fe3d92d5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

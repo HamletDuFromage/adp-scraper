@@ -1,0 +1,20 @@
+{
+  "Title": "Logan Lucky",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1266109512"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B074WLJ2T4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

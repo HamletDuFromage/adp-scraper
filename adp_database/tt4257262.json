@@ -1,0 +1,20 @@
+{
+  "Title": "American Gigolo",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f92ddc4f-1a32-4375-94e4-2da85cdcbc61/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2262683"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Nixon",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id426032294"
+    }
+  ],
+  "in_theaters": false
+}

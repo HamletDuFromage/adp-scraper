@@ -1,0 +1,16 @@
+{
+  "Title": "The Assessment",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.968532f8-b14d-40b9-9f45-b01b0d078885/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

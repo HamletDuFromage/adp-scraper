@@ -1,0 +1,15 @@
+{
+  "Title": "Sugar Rush",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80201328"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The East",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00DVD5STQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

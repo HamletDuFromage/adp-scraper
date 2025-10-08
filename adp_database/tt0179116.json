@@ -1,0 +1,19 @@
+{
+  "Title": "But I'm a Cheerleader",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42bb46f2-79be-7f8a-4c64-916ddc52ae7c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id712632655"
+    }
+  ],
+  "in_theaters": false
+}

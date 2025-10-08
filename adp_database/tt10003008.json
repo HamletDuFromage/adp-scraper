@@ -1,0 +1,21 @@
+{
+  "Title": "The Rental",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.622abe46-8049-4be8-946f-6d88328e97f0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1519817179"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07GNVSNN4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

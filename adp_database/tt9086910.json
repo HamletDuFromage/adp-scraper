@@ -1,0 +1,14 @@
+{
+  "Title": "Home is Where the Killer Is",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bab6ba79-fefb-b824-5212-d116a3c2cdf6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

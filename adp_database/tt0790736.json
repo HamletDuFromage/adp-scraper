@@ -1,0 +1,20 @@
+{
+  "Title": "R.I.P.D.: Rest in Peace Department",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B008JFUPPI/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70267729"
+    }
+  ],
+  "in_theaters": false
+}

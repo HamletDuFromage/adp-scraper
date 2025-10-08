@@ -1,0 +1,15 @@
+{
+  "Title": "Tyrel",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccbab7f0-1b22-a605-7b62-42654e5a85d2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

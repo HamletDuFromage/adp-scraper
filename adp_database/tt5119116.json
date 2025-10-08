@@ -1,0 +1,19 @@
+{
+  "Title": "Pyewacket",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4911806e-4dcb-4ff7-927b-688d1c698af3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1352250861"
+    }
+  ],
+  "in_theaters": false
+}

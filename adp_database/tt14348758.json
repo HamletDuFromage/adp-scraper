@@ -1,0 +1,19 @@
+{
+  "Title": "The Sisters Grimm",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2hc9ggvxaqddv779k4zupmrw"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ada913e6-9a05-467c-9001-370be1b93318/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

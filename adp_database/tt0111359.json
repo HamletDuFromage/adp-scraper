@@ -1,0 +1,17 @@
+{
+  "Title": "Tall Tale",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tall-tale/3JpmsTd0PF3G"
+    }
+  ],
+  "in_theaters": false
+}

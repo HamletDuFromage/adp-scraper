@@ -1,0 +1,17 @@
+{
+  "Title": "Moses Storm: Trash White",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a45f875a-cb73-40bd-b61a-66710d46890a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/9c0dd552-b64e-4422-99ba-cb7223ed12af"
+    }
+  ],
+  "in_theaters": false
+}

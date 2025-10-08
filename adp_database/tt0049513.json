@@ -1,0 +1,15 @@
+{
+  "Title": "Moby Dick",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4cb40946-1969-fe1e-d2ea-e48dc9a37bec/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

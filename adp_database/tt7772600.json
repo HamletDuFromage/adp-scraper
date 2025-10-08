@@ -1,0 +1,21 @@
+{
+  "Title": "The Adventures of Paddington",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4851b436-728b-4a4e-bb60-50268b3634fe/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-adventures-of-paddington/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "A Christmas Carol",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneys-a-christmas-carol/QnakzyiFzOeP"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id383304202"
+    }
+  ],
+  "in_theaters": false
+}

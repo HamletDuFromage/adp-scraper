@@ -1,0 +1,21 @@
+{
+  "Title": "Hunter Killer",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1438934087"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317570868/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88b34d73-2fda-e8ed-d0bb-fe75b7fbd109/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

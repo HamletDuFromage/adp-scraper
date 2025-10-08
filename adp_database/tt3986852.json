@@ -1,0 +1,19 @@
+{
+  "Title": "Dr. K's Exotic Animal ER",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/dr-ks-exotic-animal-er-3c71bea2-b4fb-4a11-90b7-4a855e8819f0"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/dr-ks-exotic-animal-er/3J605ENuvDBw"
+    }
+  ],
+  "in_theaters": false
+}

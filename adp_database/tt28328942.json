@@ -1,0 +1,18 @@
+{
+  "Title": "Dino Dex",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8621b6e4-dfe3-4d17-aaf9-d2b525cc8f19/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

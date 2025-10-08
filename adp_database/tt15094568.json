@@ -1,0 +1,14 @@
+{
+  "Title": "First Person Shooter",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/641141/first-person-shooter"
+    }
+  ],
+  "in_theaters": false
+}

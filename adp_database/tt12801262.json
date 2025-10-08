@@ -1,0 +1,27 @@
+{
+  "Title": "Luca",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24cd9f08-78f7-4914-af34-f8bb7da05456/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/luca/7K1HyQ6Hl16P"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1573868033"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B098GQSMBL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

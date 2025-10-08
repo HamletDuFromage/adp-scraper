@@ -1,0 +1,17 @@
+{
+  "Title": "Anthropoid",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12ab2c14-71de-5e44-14da-80e886c4c78d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

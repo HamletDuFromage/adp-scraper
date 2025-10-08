@@ -1,0 +1,16 @@
+{
+  "Title": "Surprise and Seek",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Reality TV",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e5adf041-b4b1-4cb8-8130-b42eeb7d3787/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Indecent Proposal",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f6c7-b9ef-2b7e-90e1-b6805ea386c7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id303609201"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/25302"
+    }
+  ],
+  "in_theaters": false
+}

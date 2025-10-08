@@ -1,0 +1,17 @@
+{
+  "Title": "The Ringleader: The Case of the Bling Ring",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6269e34-e3d4-404a-a530-963a78c38973/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/89d4f9ea-a07d-428b-b074-eb094414444e"
+    }
+  ],
+  "in_theaters": false
+}

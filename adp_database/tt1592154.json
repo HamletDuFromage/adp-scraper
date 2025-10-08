@@ -1,0 +1,18 @@
+{
+  "Title": "Nikita",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32a9f746-88d2-0218-29d7-6f68df350835/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

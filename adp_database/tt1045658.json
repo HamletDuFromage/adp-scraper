@@ -1,0 +1,19 @@
+{
+  "Title": "Silver Linings Playbook",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/9b600c90-f6f0-4480-884a-fb028e709f40"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.97be48c9-ed96-4c2c-9450-b1f0b7ee3c5e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

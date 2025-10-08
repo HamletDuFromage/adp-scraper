@@ -1,0 +1,19 @@
+{
+  "Title": "Bad Company",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.487219fe-5be4-4063-a8da-e00cbf88b2fb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id351051988"
+    }
+  ],
+  "in_theaters": false
+}

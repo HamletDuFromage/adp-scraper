@@ -1,0 +1,17 @@
+{
+  "Title": "The Baby-Sitters Club",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81005407"
+    }
+  ],
+  "in_theaters": false
+}

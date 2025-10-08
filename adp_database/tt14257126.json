@@ -1,0 +1,19 @@
+{
+  "Title": "The Challenge: All Stars",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82bc4209-03cf-c421-7c0f-362abb87facb/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-challenge-all-stars/"
+    }
+  ],
+  "in_theaters": false
+}

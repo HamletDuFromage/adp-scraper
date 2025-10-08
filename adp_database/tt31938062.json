@@ -1,0 +1,18 @@
+{
+  "Title": "The Pitt",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Medical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5d7068c2-c1d0-4714-b2a6-406611d6f978/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e6e7bad9-d48d-4434-b334-7c651ffc4bdf"
+    }
+  ],
+  "in_theaters": false
+}

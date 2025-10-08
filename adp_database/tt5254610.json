@@ -1,0 +1,16 @@
+{
+  "Title": "Final Score",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cb2e2f7-b9e6-74fb-d8f5-bdfddd018909/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

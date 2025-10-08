@@ -1,0 +1,14 @@
+{
+  "Title": "Ladykiller",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/ladykiller/b0d8d5bd-8306-3632-a08b-9e753cabfb0e"
+    }
+  ],
+  "in_theaters": false
+}

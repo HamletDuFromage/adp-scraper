@@ -1,0 +1,24 @@
+{
+  "Title": "The Boss Baby",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06b0a9c9-a247-4a3e-82ed-e3263ade9162/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1331613683"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06XYSH42H/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

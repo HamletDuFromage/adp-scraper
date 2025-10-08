@@ -1,0 +1,16 @@
+{
+  "Title": "Three Little Pigs",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/three-little-pigs/3MAQz8SCcfB1"
+    }
+  ],
+  "in_theaters": false
+}

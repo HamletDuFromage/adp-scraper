@@ -1,0 +1,16 @@
+{
+  "Title": "Skater Girl",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81283585"
+    }
+  ],
+  "in_theaters": false
+}

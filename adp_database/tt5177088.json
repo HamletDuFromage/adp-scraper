@@ -1,0 +1,23 @@
+{
+  "Title": "The Girl in the Spider's Web",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dcb37d0c-650d-1fe1-dbbf-0bdec92e3bd7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1440275512"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317582041/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

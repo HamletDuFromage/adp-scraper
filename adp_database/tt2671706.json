@@ -1,0 +1,21 @@
+{
+  "Title": "Fences",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Black Stories",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bd4f31f3-99e0-4731-8558-56f0fb00a364/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1178250784"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI0KQK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

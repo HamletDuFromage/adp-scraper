@@ -1,0 +1,16 @@
+{
+  "Title": "Loving Pablo",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0b1cc98-094b-d823-7809-a4a7df5c316f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

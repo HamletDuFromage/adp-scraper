@@ -1,0 +1,18 @@
+{
+  "Title": "Vikings",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70301870"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ea9f713-187f-617f-a4bd-623310641c51/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Pati",
+  "Media Type": "Series",
+  "Rating": "18+",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ed64814a-2f42-40c6-8bb2-981294dbe563/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/6bd4976d-d098-43b9-87ce-75a697a4c49e"
+    }
+  ],
+  "in_theaters": false
+}

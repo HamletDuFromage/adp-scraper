@@ -1,0 +1,19 @@
+{
+  "Title": "Basic Instinct",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18a9f730-b962-79af-a611-474fb1963e42/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/078401020X/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

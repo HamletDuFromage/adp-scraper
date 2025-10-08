@@ -1,0 +1,23 @@
+{
+  "Title": "Green Zone",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ea9f742-76da-fd9a-0d1c-0591337e55b4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id364196254"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002ZG97RE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Troll",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81245455"
+    }
+  ],
+  "in_theaters": false
+}

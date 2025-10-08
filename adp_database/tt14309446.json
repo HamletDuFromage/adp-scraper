@@ -1,0 +1,14 @@
+{
+  "Title": "Me Time",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81161828"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Secret of NIMH",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38a9f77f-eaf0-6ef4-97b6-faf8d8dfdfd4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

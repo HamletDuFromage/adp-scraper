@@ -1,0 +1,14 @@
+{
+  "Title": "RBG",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.47d00000-e147-447d-89eb-b6e220f54563/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

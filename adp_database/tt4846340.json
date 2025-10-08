@@ -1,0 +1,22 @@
+{
+  "Title": "Hidden Figures",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ab8c01b-a530-5865-60bc-eeedf40e97b4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1186154683"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI1RHG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

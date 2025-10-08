@@ -1,0 +1,30 @@
+{
+  "Title": "The Dark Knight",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Superhero",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6a9f794-9738-c419-fc51-3cf8eff1ce99/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4aa9f68b-5e9d-1955-a451-d4d0087ef56c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/52217243-a137-45d6-9c6a-0dfab4633034"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id764632601"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B001GZ6QEC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

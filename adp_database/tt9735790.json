@@ -1,0 +1,17 @@
+{
+  "Title": "Me You Madness",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/comedy/me-you-madness/ecbb6995-6058-3786-97e1-645c96b6be6f"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1547061771"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "The Search for Santa Paws",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Holiday",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-search-for-santa-paws/14kpSTMjKoIB"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id395579435"
+    }
+  ],
+  "in_theaters": false
+}

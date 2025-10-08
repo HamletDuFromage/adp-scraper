@@ -1,0 +1,16 @@
+{
+  "Title": "Nitram",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/nitram-f7ab455b-a2bd-4d78-96b0-48248eaef415"
+    }
+  ],
+  "in_theaters": false
+}

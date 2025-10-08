@@ -1,0 +1,20 @@
+{
+  "Title": "A Banquet",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "Independent",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b31de28-047e-4087-b6c4-47075c416d3a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1604502909"
+    }
+  ],
+  "in_theaters": false
+}

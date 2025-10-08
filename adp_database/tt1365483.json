@@ -1,0 +1,14 @@
+{
+  "Title": "Main Street",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cca9f7c6-6200-0a9a-41e6-b6eda8f96346/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Tenet",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8bb0e4e-a5af-14d4-004c-3a38fdd9ce3b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1538251548"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08KPX62V4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

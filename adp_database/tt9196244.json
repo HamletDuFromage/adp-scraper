@@ -1,0 +1,15 @@
+{
+  "Title": "Flinch",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80207066"
+    }
+  ],
+  "in_theaters": false
+}

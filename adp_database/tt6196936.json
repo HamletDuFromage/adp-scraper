@@ -1,0 +1,18 @@
+{
+  "Title": "The Kill Team",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fab6ba5a-1448-41c1-1e39-783fdbec348f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

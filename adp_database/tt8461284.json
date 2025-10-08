@@ -1,0 +1,15 @@
+{
+  "Title": "Just Another Immigrant",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/just-another-immigrant/"
+    }
+  ],
+  "in_theaters": false
+}

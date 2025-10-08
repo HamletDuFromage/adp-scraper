@@ -1,0 +1,14 @@
+{
+  "Title": "Lucy and Desi",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.03bc62b0-251b-4779-ad0b-2705a0955fbb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

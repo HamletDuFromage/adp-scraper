@@ -1,0 +1,17 @@
+{
+  "Title": "You Were My First Boyfriend",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fd5f7a27-2028-4477-b746-e63e634738d5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/167f3cc0-7875-4d2c-a190-602173447887"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "The Big Short",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aa9f694-a338-0e31-fdb1-93891a7b5c0a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1061320456"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0177ZM3MI/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/730488"
+    }
+  ],
+  "in_theaters": false
+}

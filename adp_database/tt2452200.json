@@ -1,0 +1,17 @@
+{
+  "Title": "Son of a Gun",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3d3cb101-0120-4804-8ded-efa414a5c21d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

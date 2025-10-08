@@ -1,0 +1,14 @@
+{
+  "Title": "Katherine",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74a9f732-912d-6c8f-00c7-eceb2d609f5a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

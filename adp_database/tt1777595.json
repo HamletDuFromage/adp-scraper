@@ -1,0 +1,14 @@
+{
+  "Title": "50 to 1",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88a9f783-0a65-09db-e610-ef231c43d56d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

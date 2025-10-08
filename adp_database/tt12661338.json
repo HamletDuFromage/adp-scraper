@@ -1,0 +1,19 @@
+{
+  "Title": "A Friend of the Family",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/a-friend-of-the-family/6230943089616214112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.33d50057-e935-4269-a120-f66560b92408/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

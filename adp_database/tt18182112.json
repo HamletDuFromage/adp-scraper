@@ -1,0 +1,20 @@
+{
+  "Title": "Fantasmas",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b73aba9f-527a-4225-aec6-6ff5d10c6a8d/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/25e36613-26ba-44ff-a777-b39ceafbcf58"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3513435"
+    }
+  ],
+  "in_theaters": false
+}

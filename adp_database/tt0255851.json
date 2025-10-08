@@ -1,0 +1,18 @@
+{
+  "Title": "Boycott",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fa525da6-ea6b-4c11-8697-0104d754aa7a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a2909c85-8ff3-476c-a1c0-91c284525852"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "The Contractor",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f096f467-cfae-4a56-a217-c16a41062680/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09TVPJQH6/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/CHgsbYwslIN1LnldtHS8seBCmFadvVc_/"
+    }
+  ],
+  "in_theaters": false
+}

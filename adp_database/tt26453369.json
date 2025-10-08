@@ -1,0 +1,17 @@
+{
+  "Title": "Marc Maron: From Bleak to Dark",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1140d915-66a2-4c66-84ee-9992b161fa96/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/644dd8e2-30ff-4e17-aa0e-187df4c587bd"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Valley Girl",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B08F6RYJCG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

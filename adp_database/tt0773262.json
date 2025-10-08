@@ -1,0 +1,20 @@
+{
+  "Title": "Dexter",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/dexter/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6a9f6b8-ba99-3313-d355-aa5d4351d344/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

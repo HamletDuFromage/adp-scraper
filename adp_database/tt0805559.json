@@ -1,0 +1,17 @@
+{
+  "Title": "Jump In!",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/jump-in/3YEuVnzD7JCE"
+    }
+  ],
+  "in_theaters": false
+}

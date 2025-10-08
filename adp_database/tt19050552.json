@@ -1,0 +1,15 @@
+{
+  "Title": "Dance 100",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81127121"
+    }
+  ],
+  "in_theaters": false
+}

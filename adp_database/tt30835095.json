@@ -1,0 +1,17 @@
+{
+  "Title": "Ren Faire",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c35407e1-3faa-433c-8b0a-1338a7b82ede/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/26c3aa7a-e262-4883-913d-3d4043a7ee7e"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "Encanto",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/encanto/33q7DY1rtHQH"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1598277918"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09NP3JJQB/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1966331"
+    }
+  ],
+  "in_theaters": false
+}

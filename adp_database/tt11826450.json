@@ -1,0 +1,15 @@
+{
+  "Title": "Lady of the Manor",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.37129b59-cb7c-45bf-b48e-cddb76b5257c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

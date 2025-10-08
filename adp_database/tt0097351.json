@@ -1,0 +1,17 @@
+{
+  "Title": "Field of Dreams",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aca9f763-4d96-23c2-dca8-7bba5922f5c4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

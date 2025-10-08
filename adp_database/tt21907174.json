@@ -1,0 +1,16 @@
+{
+  "Title": "Friends till Death",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4761d73c-6ce9-46fa-b1e1-0a36936d14c5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

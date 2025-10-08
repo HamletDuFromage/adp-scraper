@@ -1,0 +1,18 @@
+{
+  "Title": "The Devil Wears Prada",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.faa9f789-522a-08be-d9f4-1f8773c1fbf9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id288968049"
+    }
+  ],
+  "in_theaters": false
+}

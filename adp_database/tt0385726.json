@@ -1,0 +1,16 @@
+{
+  "Title": "Glory Road",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/glory-road/33N7pEEGffQ7"
+    }
+  ],
+  "in_theaters": false
+}

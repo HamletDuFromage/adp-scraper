@@ -1,0 +1,26 @@
+{
+  "Title": "Significant Other",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a3f007d0-c184-41f7-a940-8b5729563886/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1660937687"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2270428"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/gt2ppPdQfZ6Q_8xrw9Vz2D8rap9RQtgT/?intcid=PPI-16-10abd1b"
+    }
+  ],
+  "in_theaters": false
+}

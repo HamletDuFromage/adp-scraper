@@ -1,0 +1,16 @@
+{
+  "Title": "Christmas as Usual",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81657786"
+    }
+  ],
+  "in_theaters": false
+}

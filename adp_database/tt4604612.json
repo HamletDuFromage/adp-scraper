@@ -1,0 +1,19 @@
+{
+  "Title": "The Alienist",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3225cf96-488d-4a4c-b519-8bd5863eb34a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/927bfb68-1a93-4bea-94b1-5257a004331f"
+    }
+  ],
+  "in_theaters": false
+}

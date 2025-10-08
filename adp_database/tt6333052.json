@@ -1,0 +1,14 @@
+{
+  "Title": "Casting JonBenet",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80142316"
+    }
+  ],
+  "in_theaters": false
+}

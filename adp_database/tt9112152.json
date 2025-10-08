@@ -1,0 +1,17 @@
+{
+  "Title": "The Investigation",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/79706f44-b64a-42be-b029-3b8d229bb5f8"
+    }
+  ],
+  "in_theaters": false
+}

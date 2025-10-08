@@ -1,0 +1,20 @@
+{
+  "Title": "Good Bad Things",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Disability",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1788102803"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3911279"
+    }
+  ],
+  "in_theaters": false
+}

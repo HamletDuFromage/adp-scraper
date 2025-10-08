@@ -1,0 +1,16 @@
+{
+  "Title": "Never a Dull Moment",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id437183238"
+    }
+  ],
+  "in_theaters": false
+}

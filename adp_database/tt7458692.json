@@ -1,0 +1,23 @@
+{
+  "Title": "Tyler Perry's Boo! A Madea Halloween",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38abd946-f4d8-a06b-71ed-6675f2fdb6aa/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1163549145"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/boo-a-madea-halloween-2016"
+    }
+  ],
+  "in_theaters": false
+}

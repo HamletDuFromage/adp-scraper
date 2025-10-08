@@ -1,0 +1,17 @@
+{
+  "Title": "Tyler Perry's A Madea Family Funeral",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cab6910e-b9fa-da7e-cb1e-cfc56d69ad44/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07Q47ZXQ1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

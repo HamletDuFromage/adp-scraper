@@ -1,0 +1,18 @@
+{
+  "Title": "PD True",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7cccc556-8497-4168-b074-f8ac95c13b44/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/pd-true/"
+    }
+  ],
+  "in_theaters": false
+}

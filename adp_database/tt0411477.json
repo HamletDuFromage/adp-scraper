@@ -1,0 +1,23 @@
+{
+  "Title": "Hellboy II: The Golden Army",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38a9f786-d27b-563e-c252-6c8490c4c970/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id288157354"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B001F7MSFM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

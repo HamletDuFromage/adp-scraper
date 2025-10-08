@@ -1,0 +1,26 @@
+{
+  "Title": "Dora and the Search for Sol Dorado",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4325819"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/0rGhxcREd3RTSw_bnVFG5S8JRwQ57JEV/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6f7ead8-fd42-48d2-829b-4a96bf5eb934/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1820289894"
+    }
+  ],
+  "in_theaters": false
+}

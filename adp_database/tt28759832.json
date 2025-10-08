@@ -1,0 +1,18 @@
+{
+  "Title": "Football Must Go On",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.523eea76-7fee-4ee1-b7ca-57eed5f9122e/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/football-must-go-on/"
+    }
+  ],
+  "in_theaters": false
+}

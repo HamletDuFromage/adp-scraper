@@ -1,0 +1,16 @@
+{
+  "Title": "The Old Man",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-old-man-15d6075d-dc33-438b-851f-0d504405c91a"
+    }
+  ],
+  "in_theaters": false
+}

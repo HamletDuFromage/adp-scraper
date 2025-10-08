@@ -1,0 +1,26 @@
+{
+  "Title": "Evil Dead Rise",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9fe47bee-2cec-4031-8566-fa813be0b293/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b971dd2b-2906-43a7-bd98-753f4088838f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/8db82f99-0c69-4a9f-b125-7e0eb1bb4dd2"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1675700044"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C2WMZ832/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

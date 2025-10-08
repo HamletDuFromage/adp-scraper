@@ -1,0 +1,15 @@
+{
+  "Title": "Pulp Fiction",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b850d802-224f-403d-80a5-a3f64abb2b79/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The Assistant",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/710225/the-assistant"
+    }
+  ],
+  "in_theaters": false
+}

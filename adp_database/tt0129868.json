@@ -1,0 +1,15 @@
+{
+  "Title": "Dennis the Menace Strikes Again",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/9732"
+    }
+  ],
+  "in_theaters": false
+}

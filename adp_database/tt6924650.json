@@ -1,0 +1,26 @@
+{
+  "Title": "Midway",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81110665"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.329c751a-d2b1-48b5-80e0-ae169ef9dea8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1485448967"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07ZW8WTVN/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

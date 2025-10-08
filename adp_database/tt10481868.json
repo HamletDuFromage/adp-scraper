@@ -1,0 +1,23 @@
+{
+  "Title": "Black Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Holiday",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4cb7573e-36f9-14f2-e303-04c678225b63/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1490441834"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B082BYVCVT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

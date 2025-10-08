@@ -1,0 +1,27 @@
+{
+  "Title": "Thor: Ragnarok",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14afaf5a-3703-cf01-acb5-a2eeb7d6e1ed/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2cb82d10-673e-80c9-5ea2-2cd5a4dcfaa9/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-thor-ragnarok/3XqAT8UV8ojS"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1298386140"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B078859F1K/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

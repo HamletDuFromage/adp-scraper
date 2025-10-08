@@ -1,0 +1,17 @@
+{
+  "Title": "Dracula",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80997687"
+    }
+  ],
+  "in_theaters": false
+}

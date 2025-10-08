@@ -1,0 +1,26 @@
+{
+  "Title": "Wanted",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Superhero",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2b528b4-8460-4a71-e7fa-320e6695a256/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id286532012"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B001GKJ2E8/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70075479"
+    }
+  ],
+  "in_theaters": false
+}

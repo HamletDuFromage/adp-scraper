@@ -1,0 +1,30 @@
+{
+  "Title": "The Bob's Burgers Movie",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.db885a62-3df8-41a8-abb1-1a3ce2204288/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/the-bobs-burgers-movie-a90a300b-2ee8-4446-84a8-441d37d06b86"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1626267263"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B2TRCYB4/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2033804"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Shaun White: The Last Run",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/96cfe7e2-a136-4b74-9870-c7d54a2dc0a3"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fa751b37-3787-4872-a230-2c0e492f6e98/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

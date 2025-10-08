@@ -1,0 +1,18 @@
+{
+  "Title": "The Flipping El Moussas",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/f4166627-ba6c-454d-b172-5e7eac9b6908"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42d6f2cb-08a4-4410-a5bc-38299e0402a8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

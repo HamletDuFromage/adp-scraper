@@ -1,0 +1,16 @@
+{
+  "Title": "Young Woman and the Sea",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-80d31abf-2a96-4fc9-9103-421b9b7a4dc9"
+    }
+  ],
+  "in_theaters": false
+}

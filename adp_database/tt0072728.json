@@ -1,0 +1,16 @@
+{
+  "Title": "The Boy Who Talked to Badgers",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-boy-who-talked-to-badgers/16ah2tfrkUyq"
+    }
+  ],
+  "in_theaters": false
+}

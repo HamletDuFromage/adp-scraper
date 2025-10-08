@@ -1,0 +1,18 @@
+{
+  "Title": "Liar Liar",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.daa9f763-d867-f838-e011-f542ebd5e58c/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/1152469"
+    }
+  ],
+  "in_theaters": false
+}

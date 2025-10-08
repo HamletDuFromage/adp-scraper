@@ -1,0 +1,17 @@
+{
+  "Title": "Wendell & Wild",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80231433"
+    }
+  ],
+  "in_theaters": false
+}

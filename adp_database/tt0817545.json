@@ -1,0 +1,16 @@
+{
+  "Title": "The Power of Few",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00CBDG5Z8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Austin & Ally",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/austin-ally/iQHHqO1BkRPx"
+    }
+  ],
+  "in_theaters": false
+}

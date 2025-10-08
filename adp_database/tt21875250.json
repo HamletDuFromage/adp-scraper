@@ -1,0 +1,18 @@
+{
+  "Title": "Casa Susanna",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0d755ea5-6634-49d5-9ca5-04ab0e981ec0/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2468386"
+    }
+  ],
+  "in_theaters": false
+}

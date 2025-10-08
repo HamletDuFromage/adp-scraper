@@ -1,0 +1,16 @@
+{
+  "Title": "Human Resources",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81092963"
+    }
+  ],
+  "in_theaters": false
+}

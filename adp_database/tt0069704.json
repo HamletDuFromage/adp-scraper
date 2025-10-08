@@ -1,0 +1,18 @@
+{
+  "Title": "American Graffiti",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36a9f720-4a45-1a9c-942f-35e6a931fe59/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6d9e4ab-76cf-4cf8-929c-9a0eaaf506e6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Most Wanted: Teen Hacker",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7f06e63c-5a5e-4b07-9539-867e509551c6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c99442c6-ebdb-46cc-bc00-79d71f5d66d7"
+    }
+  ],
+  "in_theaters": false
+}

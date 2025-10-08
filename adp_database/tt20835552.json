@@ -1,0 +1,15 @@
+{
+  "Title": "Eradication",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/677551/eradication"
+    }
+  ],
+  "in_theaters": false
+}

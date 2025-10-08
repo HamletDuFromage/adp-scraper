@@ -1,0 +1,14 @@
+{
+  "Title": "The Amityville Horror",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1cb30c37-80b8-421d-0e4b-1beca12e7731/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

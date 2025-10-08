@@ -1,0 +1,15 @@
+{
+  "Title": "American Dreamz",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4a9f7ab-0fd4-a1e7-d7c8-9f56fec054a6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,29 @@
+{
+  "Title": "Harry Potter and the Goblet of Fire",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c28f8c3b-282d-404a-969d-7d8554277f85/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d2e9ff29-e71d-4eae-9a4b-7cd0e00236ea"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/sci-fi-and-fantasy/harry-potter-and-the-goblet-of-fire/ecbd3cce-9f35-3f40-bb37-cad7ac54e166"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id285832716"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B075VVYQGN/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

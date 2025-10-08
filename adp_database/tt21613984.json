@@ -1,0 +1,17 @@
+{
+  "Title": "Silos Baking Competition: Holiday Edition",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Game Show",
+    "Holiday",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/8f73df5e-6481-4dd8-ad86-2baed416e3a0"
+    }
+  ],
+  "in_theaters": false
+}

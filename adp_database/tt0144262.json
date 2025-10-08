@@ -1,0 +1,18 @@
+{
+  "Title": "The Jungle Book: Mowgli's Story",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-jungle-book-mowglis-story/3d6MpxjkqLfw"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id631191962"
+    }
+  ],
+  "in_theaters": false
+}

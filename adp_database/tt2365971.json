@@ -1,0 +1,17 @@
+{
+  "Title": "Sweetwater",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2323454"
+    }
+  ],
+  "in_theaters": false
+}

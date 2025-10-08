@@ -1,0 +1,18 @@
+{
+  "Title": "Long Way Up",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Travel"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4befb68-6c45-4607-abce-d5eb271dd8b0/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1nv0tluok21c2f8549mdjqdnh"
+    }
+  ],
+  "in_theaters": false
+}

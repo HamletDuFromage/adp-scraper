@@ -1,0 +1,23 @@
+{
+  "Title": "Se7en",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58a9f7ae-e989-6bf7-a14d-e7465c7e1aa6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id534912090"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/12463"
+    }
+  ],
+  "in_theaters": false
+}

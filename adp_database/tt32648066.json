@@ -1,0 +1,18 @@
+{
+  "Title": "Pinkalicious & Peterrific: A Pinkerton Family Vacation",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.abfa02fb-a739-4c8d-8770-a65d8c23d27b/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3315694"
+    }
+  ],
+  "in_theaters": false
+}

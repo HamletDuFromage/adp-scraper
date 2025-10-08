@@ -1,0 +1,17 @@
+{
+  "Title": "The Greatest Hits",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/ac6ed39b-a4e7-4f1c-b085-d071d52df314"
+    }
+  ],
+  "in_theaters": false
+}

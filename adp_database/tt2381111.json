@@ -1,0 +1,18 @@
+{
+  "Title": "Brooklyn",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1057395809"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B019WMTX72/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

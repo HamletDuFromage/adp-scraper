@@ -1,0 +1,17 @@
+{
+  "Title": "Street Outlaws: Fastest in America",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.41841e77-1873-4bd0-a799-091dc80e16c0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/9177ef9f-5832-4a56-b4c2-1617d105adcb"
+    }
+  ],
+  "in_theaters": false
+}

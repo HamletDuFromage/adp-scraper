@@ -1,0 +1,17 @@
+{
+  "Title": "The Mole",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Mystery",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81286686"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Lunatics",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80198950"
+    }
+  ],
+  "in_theaters": false
+}

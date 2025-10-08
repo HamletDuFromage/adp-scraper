@@ -1,0 +1,17 @@
+{
+  "Title": "The Boss",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6aa6a14-c107-2b11-8c31-ca46d783194e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01E0833YC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

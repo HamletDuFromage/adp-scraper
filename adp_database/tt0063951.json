@@ -1,0 +1,21 @@
+{
+  "Title": "Sesame Street",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a705ac09-1eaf-4744-8373-3be385cac10f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f175ce7b-ab72-4ac9-a029-c8c29bd17b7c"
+    }
+  ],
+  "in_theaters": false
+}

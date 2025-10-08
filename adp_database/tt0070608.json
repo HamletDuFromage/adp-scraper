@@ -1,0 +1,24 @@
+{
+  "Title": "Robin Hood",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/robin-hood/5ACMz1bJJwwZ"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id656527876"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317611343/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

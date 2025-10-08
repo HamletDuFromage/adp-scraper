@@ -1,0 +1,22 @@
+{
+  "Title": "The Seagull",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76b2ff09-b105-54f7-94b8-3fee040bd16c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1405185492"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07F83JPP3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

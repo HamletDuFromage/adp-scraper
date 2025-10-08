@@ -1,0 +1,20 @@
+{
+  "Title": "Clear and Present Danger",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bea9f752-1265-ae27-6fe9-6fd5ae1a15ff/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id268768002"
+    }
+  ],
+  "in_theaters": false
+}

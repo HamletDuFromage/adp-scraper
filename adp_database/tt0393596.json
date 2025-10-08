@@ -1,0 +1,17 @@
+{
+  "Title": "Pixel Perfect",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Music",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/pixel-perfect/5laaCjBiXabI"
+    }
+  ],
+  "in_theaters": false
+}

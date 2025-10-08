@@ -1,0 +1,14 @@
+{
+  "Title": "Hello Ladies: The Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/970531bf-ba5d-4e10-aa47-b5ca5a2c6b8c"
+    }
+  ],
+  "in_theaters": false
+}

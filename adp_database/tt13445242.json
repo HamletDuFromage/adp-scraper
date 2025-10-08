@@ -1,0 +1,18 @@
+{
+  "Title": "Spookley and the Christmas Kittens",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Drama",
+    "Holiday",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28b7673a-8b24-67ab-288b-479824a192fd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

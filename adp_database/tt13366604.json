@@ -1,0 +1,18 @@
+{
+  "Title": "Platonic",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9b7ca5af-a149-4b37-b247-0da6b464217f/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.y7bc18x7co813l8i2tlsyb4l"
+    }
+  ],
+  "in_theaters": false
+}

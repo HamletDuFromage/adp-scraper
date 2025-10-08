@@ -1,0 +1,18 @@
+{
+  "Title": "Easter Under Wraps",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.feb7fcae-7ab7-a53b-0e68-6cca412fb331/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

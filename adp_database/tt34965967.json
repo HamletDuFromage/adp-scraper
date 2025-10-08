@@ -1,0 +1,18 @@
+{
+  "Title": "Deaf President Now!",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.4db5r1gvgok0a0dtdmkj44ea4"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.991f4e52-d8b8-4393-b439-e47f9d7de0ff/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

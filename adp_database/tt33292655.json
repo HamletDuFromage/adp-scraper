@@ -1,0 +1,14 @@
+{
+  "Title": "Oh, Hi!",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4460787"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "An American Tail",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f784-8425-d631-5f08-2979fc4c438c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Atlas of a Changing Earth",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "MagellanTV": "https://www.magellantv.com/video/atlas-of-a-changing-earth"
+    }
+  ],
+  "in_theaters": false
+}

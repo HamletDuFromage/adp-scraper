@@ -1,0 +1,19 @@
+{
+  "Title": "The Zone of Interest",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/6a82c24c-5638-463c-8fa3-529610cf3537"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2794803"
+    }
+  ],
+  "in_theaters": false
+}

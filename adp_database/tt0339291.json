@@ -1,0 +1,17 @@
+{
+  "Title": "Lemony Snicket's A Series of Unfortunate Events",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67c5fb87-2baa-4970-a91c-c5b094cc273b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

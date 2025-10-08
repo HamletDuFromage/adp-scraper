@@ -1,0 +1,16 @@
+{
+  "Title": "Journey 2: The Mysterious Island",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eda713db-2666-4916-8c3c-9aac820c6434/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

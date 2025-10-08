@@ -1,0 +1,14 @@
+{
+  "Title": "Huge in France",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80211621"
+    }
+  ],
+  "in_theaters": false
+}

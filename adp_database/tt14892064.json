@@ -1,0 +1,17 @@
+{
+  "Title": "Explant",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.73906f65-9f1e-4221-9670-68223fe88b20/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/explant/CsOasdeWOXUIocp0Q2HVtCfjwhJpllgc/"
+    }
+  ],
+  "in_theaters": false
+}

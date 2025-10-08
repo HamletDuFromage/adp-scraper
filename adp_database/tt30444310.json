@@ -1,0 +1,21 @@
+{
+  "Title": "Murderbot",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.5owrzntj9v1gpg31wshflud03"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7b4fc8bc-ba32-4832-9d7a-71413bf30fe1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

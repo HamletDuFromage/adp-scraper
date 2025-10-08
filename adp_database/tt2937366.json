@@ -1,0 +1,16 @@
+{
+  "Title": "Little Evil",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80139506"
+    }
+  ],
+  "in_theaters": false
+}

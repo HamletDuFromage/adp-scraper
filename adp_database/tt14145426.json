@@ -1,0 +1,19 @@
+{
+  "Title": "Beavis and Butt-Head Do the Universe",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bf422f0c-15cd-4e6a-bba3-789f8e4a8a66/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/bHGsyVXxaX_qX99D8FR7qRuE6yktLmfR/"
+    }
+  ],
+  "in_theaters": false
+}

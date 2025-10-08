@@ -1,0 +1,14 @@
+{
+  "Title": "Reign of the Superwomen",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/911c898a-29c0-4cce-b3ff-754efc04cffa"
+    }
+  ],
+  "in_theaters": false
+}

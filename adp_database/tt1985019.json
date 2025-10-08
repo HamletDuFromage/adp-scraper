@@ -1,0 +1,15 @@
+{
+  "Title": "Austenland",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02a9f762-1044-ef5c-f6ac-715944fdb48d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Kings of Mulberry Street: Let Love Reign",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81573195"
+    }
+  ],
+  "in_theaters": false
+}

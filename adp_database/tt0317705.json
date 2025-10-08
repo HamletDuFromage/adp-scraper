@@ -1,0 +1,23 @@
+{
+  "Title": "The Incredibles",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-incredibles/4jfOKErlmVcJ"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188702939"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004I654UI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

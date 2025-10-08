@@ -1,0 +1,18 @@
+{
+  "Title": "Lifted",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lifted/5JtfxNxw1d7f"
+    }
+  ],
+  "in_theaters": false
+}

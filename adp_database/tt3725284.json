@@ -1,0 +1,16 @@
+{
+  "Title": "Nanny Cam",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0bc761b4-a874-467a-a2db-3661d0db6c90/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

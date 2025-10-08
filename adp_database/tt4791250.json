@@ -1,0 +1,19 @@
+{
+  "Title": "Naked and Afraid XL",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Adventure & Survival",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4bc3632-4104-f13c-e205-5cd8c1e2d9a9/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2c555f5d-048b-4c2d-a498-830b82141b17/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

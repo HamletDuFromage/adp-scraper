@@ -1,0 +1,15 @@
+{
+  "Title": "Bring It On: In It to Win It",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2a9f705-5ac7-ba27-2556-0cc02a8620a0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

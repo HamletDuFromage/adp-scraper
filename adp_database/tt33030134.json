@@ -1,0 +1,18 @@
+{
+  "Title": "Cowboy Cartel",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6424c045-c899-4539-8643-d0b07a81f93d/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2vru12c9n7324q0tdk324i0f"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Supreme Team",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.daff3e4e-6d16-4a33-90ed-93d1ce0eeff4/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2079676"
+    }
+  ],
+  "in_theaters": false
+}

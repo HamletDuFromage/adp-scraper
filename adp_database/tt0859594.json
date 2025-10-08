@@ -1,0 +1,15 @@
+{
+  "Title": "Barbie in the 12 Dancing Princesses",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f702-c5bc-018a-5ab2-4312a992e2ef/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "The Goldfinch",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28b69611-f3ba-788e-40c4-ebabc0133259/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1478231406"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07XN1JFF2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Rubikon",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.690ebe15-5c8d-4e22-a4e5-05391ec545f8/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/rubikon-16a945a5-5cdc-4359-872c-b6f93f8b63c1"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BBH4XH7B/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

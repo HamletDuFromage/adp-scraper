@@ -1,0 +1,21 @@
+{
+  "Title": "Spin the Bottle",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9cfb8f17-17d7-47bc-91cb-753bb7b185e7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1766595442"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3461026"
+    }
+  ],
+  "in_theaters": false
+}

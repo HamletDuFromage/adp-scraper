@@ -1,0 +1,18 @@
+{
+  "Title": "Tiger Cruise",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tiger-cruise/2GzITnJIxaRX"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4187307"
+    }
+  ],
+  "in_theaters": false
+}

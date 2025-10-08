@@ -1,0 +1,22 @@
+{
+  "Title": "The Equalizer 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ab2a1f6-993b-e085-4729-e897d3cc2bbd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1406533645"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07FSRB4NM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

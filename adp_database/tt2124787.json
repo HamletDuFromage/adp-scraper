@@ -1,0 +1,15 @@
+{
+  "Title": "Final Girl",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48b0ff6f-aa04-08e7-a4bc-68f3840b1ca9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

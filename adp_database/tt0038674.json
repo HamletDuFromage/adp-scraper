@@ -1,0 +1,18 @@
+{
+  "Title": "A Knight for a Day",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/a-knight-for-a-day/4fcYMrRF972c"
+    }
+  ],
+  "in_theaters": false
+}

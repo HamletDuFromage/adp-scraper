@@ -1,0 +1,15 @@
+{
+  "Title": "Magic for Humans",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80190510"
+    }
+  ],
+  "in_theaters": false
+}

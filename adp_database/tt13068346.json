@@ -1,0 +1,15 @@
+{
+  "Title": "Great Expectations",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/great-expectations-29e58880-3cbd-4f47-a878-ef9edebb5e46"
+    }
+  ],
+  "in_theaters": false
+}

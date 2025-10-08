@@ -1,0 +1,17 @@
+{
+  "Title": "Avatar the Last Airbender",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80237957"
+    }
+  ],
+  "in_theaters": false
+}

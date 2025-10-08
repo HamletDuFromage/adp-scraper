@@ -1,0 +1,18 @@
+{
+  "Title": "The Book Thief",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ca9f792-e48f-bd73-8ab1-1b47593e17eb/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00G15MDI0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

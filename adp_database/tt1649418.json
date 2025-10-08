@@ -1,0 +1,15 @@
+{
+  "Title": "The Gray Man",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81160697"
+    }
+  ],
+  "in_theaters": false
+}

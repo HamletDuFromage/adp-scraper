@@ -1,0 +1,19 @@
+{
+  "Title": "The Strangers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54a9f723-a328-cf69-744c-d3f4dcea8386/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70060008"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Transformers: The Last Knight",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.19013d7b-24c7-44cf-8316-f8de97e31cac/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1242544331"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B071XDKMFQ/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/transformers-the-last-knight/f_TOiFMXxJsbF9aILMI9bIxgOHHMkZpC/"
+    }
+  ],
+  "in_theaters": false
+}

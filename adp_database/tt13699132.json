@@ -1,0 +1,15 @@
+{
+  "Title": "The Supremes at Earl's All-You-Can-Eat",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/8b801223-8f24-429b-a00e-b9fefdec1546"
+    }
+  ],
+  "in_theaters": false
+}

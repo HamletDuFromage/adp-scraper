@@ -1,0 +1,14 @@
+{
+  "Title": "Buy My House",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81074133"
+    }
+  ],
+  "in_theaters": false
+}

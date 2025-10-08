@@ -1,0 +1,15 @@
+{
+  "Title": "Cold Zone",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44adc3d4-ffab-fa8e-883b-8593031a2dc1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

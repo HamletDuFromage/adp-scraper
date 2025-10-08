@@ -1,0 +1,16 @@
+{
+  "Title": "Wingwomen",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81282091"
+    }
+  ],
+  "in_theaters": false
+}

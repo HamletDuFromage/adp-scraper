@@ -1,0 +1,18 @@
+{
+  "Title": "The Revenant",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1067140154"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01AB0DVYK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

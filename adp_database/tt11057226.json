@@ -1,0 +1,20 @@
+{
+  "Title": "DMZ",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.adab9827-98e9-4ea3-9a36-9709ad9daa04/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1ffa69a4-4f42-4716-8057-3ee157b52b30"
+    }
+  ],
+  "in_theaters": false
+}

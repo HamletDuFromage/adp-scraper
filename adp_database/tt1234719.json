@@ -1,0 +1,16 @@
+{
+  "Title": "Red Dawn",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02a9f6c7-a92c-76c3-2e4a-ac3bae1ffff3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Bridgerton",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80232398"
+    }
+  ],
+  "in_theaters": false
+}

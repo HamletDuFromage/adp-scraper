@@ -1,0 +1,18 @@
+{
+  "Title": "Tom and Huck",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tom-and-huck/1BZDGmXrqkza"
+    }
+  ],
+  "in_theaters": false
+}

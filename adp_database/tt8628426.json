@@ -1,0 +1,18 @@
+{
+  "Title": "Christina on the Coast",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/c5769d66-1c1d-4e0c-8a70-6d046590991d"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cbd62975-a8db-4972-875f-e2879e5f485a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

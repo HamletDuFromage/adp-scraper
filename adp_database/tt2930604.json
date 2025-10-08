@@ -1,0 +1,17 @@
+{
+  "Title": "Star Wars Rebels",
+  "Media Type": "Series",
+  "Rating": "TV-Y7-FV",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/star-wars-rebels/64MCZgAzY0Zw"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Worst Ex Ever",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81666858"
+    }
+  ],
+  "in_theaters": false
+}

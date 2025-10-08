@@ -1,0 +1,17 @@
+{
+  "Title": "The Three Caballeros",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-three-caballeros/6WyetrsbzAf6"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "HA Festival: The Art of Comedy",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ca7141f7-3e0b-43f0-a8ef-9ba876df4f73/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/4527a6d7-c767-43c6-aa68-dc9c8534cecc"
+    }
+  ],
+  "in_theaters": false
+}

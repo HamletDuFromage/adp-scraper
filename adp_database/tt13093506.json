@@ -1,0 +1,19 @@
+{
+  "Title": "Bruce Springsteen's Letter to You",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f378183e-9974-47b2-9147-4300b0ffbd30/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.1hij2tkngu40vo4bq3rejym8v"
+    }
+  ],
+  "in_theaters": false
+}

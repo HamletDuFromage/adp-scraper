@@ -1,0 +1,19 @@
+{
+  "Title": "All Quiet on the Western Front",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81260280"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BTV1C21L/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

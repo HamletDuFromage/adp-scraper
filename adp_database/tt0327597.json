@@ -1,0 +1,19 @@
+{
+  "Title": "Coraline",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.372708e1-f35b-4d45-9e88-abd1d09eb510/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.61a03891-ecf3-4ce4-97cc-89daa8370bb9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

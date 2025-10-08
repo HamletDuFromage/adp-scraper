@@ -1,0 +1,19 @@
+{
+  "Title": "Conan O'Brien Must Go",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Lifestyle & Culture",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62f2dd3e-5772-4d4a-b0cb-e15c3ab252fc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/64e28eee-b3cc-4e08-b071-5a795b911dd2"
+    }
+  ],
+  "in_theaters": false
+}

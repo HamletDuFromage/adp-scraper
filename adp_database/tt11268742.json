@@ -1,0 +1,16 @@
+{
+  "Title": "The Ultimate Playlist of Noise",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-ultimate-playlist-of-noise-1220fb36-bf86-4225-b0ed-34bc32f39ce5"
+    }
+  ],
+  "in_theaters": false
+}

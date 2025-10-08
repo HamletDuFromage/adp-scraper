@@ -1,0 +1,15 @@
+{
+  "Title": "Brittany Runs a Marathon",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bab7145a-24fb-7b80-19ea-dc8e50e99138/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

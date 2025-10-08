@@ -1,0 +1,16 @@
+{
+  "Title": "What the Love! with Karan Johar",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81038824"
+    }
+  ],
+  "in_theaters": false
+}

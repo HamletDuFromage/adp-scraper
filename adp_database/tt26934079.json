@@ -1,0 +1,14 @@
+{
+  "Title": "Queen of Cocaine",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/100000334/queen-of-cocaine"
+    }
+  ],
+  "in_theaters": false
+}

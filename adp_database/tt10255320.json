@@ -1,0 +1,14 @@
+{
+  "Title": "Deviant Love",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4b7ed3b-57de-8040-299d-e804af734f51/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

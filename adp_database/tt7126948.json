@@ -1,0 +1,25 @@
+{
+  "Title": "Wonder Woman 1984",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f1b65247-0b98-4a4b-a21e-0d02cae1fc66/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/4296565c-c6c9-4b81-9398-fdf996e7d925"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1545235353"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08VV9SX12/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Children of Men",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02a9f756-65f3-0fc7-3603-ab1a664620ce/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

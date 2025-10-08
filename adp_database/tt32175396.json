@@ -1,0 +1,18 @@
+{
+  "Title": "Caillou",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/caillou/6265421423447882112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.63e01a2c-c0cf-4bdc-ada6-648ede18cf35/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "The Flash",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bb96b290-739b-4c0f-8823-22dfa1052036/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68864294-00b8-41ab-a54f-5f35decf4186/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/69cf2552-e159-43c7-ad8e-34f7f3393514"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1686474491"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C7XF9HSY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

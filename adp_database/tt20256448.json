@@ -1,0 +1,22 @@
+{
+  "Title": "Force of Nature: The Dry 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2fc9b726-4032-4c76-8182-700aeb590036/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1739504657"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D5BVS5VX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Drink Masters",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81437299"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Flow",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/83df1c2b-db9d-49cd-bf83-9ddbaa7e5e30"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.978146a2-ab97-47bc-8b79-2f773fc32c3f/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DYJJSPJJ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Morimoto's Sushi Master",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/c362803410fcbd4a550cddfa99f908b3/morimotos-sushi-master"
+    }
+  ],
+  "in_theaters": false
+}

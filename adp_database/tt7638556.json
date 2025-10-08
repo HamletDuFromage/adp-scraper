@@ -1,0 +1,17 @@
+{
+  "Title": "Come from Away",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ed1e9ad7-b5c4-42f2-9333-96a273c7c8b6/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.262n0v53nmotkz7ulzuuco7rq"
+    }
+  ],
+  "in_theaters": false
+}

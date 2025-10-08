@@ -1,0 +1,17 @@
+{
+  "Title": "Guest House",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81321644"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8ba2af4-ecf0-c020-ef9f-073c2cd8c2f5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "The Wedding Banquet",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1802287597"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4e93218-dba0-4e19-938f-fc05635e78c4/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4142528"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F2DL8XD8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Green Book",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66b38541-76e5-ada4-6294-f63d00f23ce1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1441554470"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07KBTKCFZ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

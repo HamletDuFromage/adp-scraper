@@ -1,0 +1,16 @@
+{
+  "Title": "The Twilight Zone (Classic)",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6d2eff00-58a9-4c96-aeff-23f8920c499e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

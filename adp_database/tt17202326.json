@@ -1,0 +1,14 @@
+{
+  "Title": "Matriarch",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/matriarch-e9bf60cc-2250-4d30-885e-4b2527c8ff3e"
+    }
+  ],
+  "in_theaters": false
+}

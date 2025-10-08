@@ -1,0 +1,21 @@
+{
+  "Title": "Partly Cloudy",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/partly-cloudy/4HHbdt8WH4L0"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id317100593"
+    }
+  ],
+  "in_theaters": false
+}

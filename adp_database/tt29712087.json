@@ -1,0 +1,17 @@
+{
+  "Title": "Leo Reich: Literally Who Cares?!",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5075635a-4092-41b0-8645-82717957e64e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/4bcce981-6aff-496a-840b-55e1e281125b"
+    }
+  ],
+  "in_theaters": false
+}

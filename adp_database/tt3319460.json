@@ -1,0 +1,21 @@
+{
+  "Title": "Lisey's Story",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ba77dfe-2b05-4710-8456-f92bbd55f262/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.34uwnqvp7211b9fl3vb25vled"
+    }
+  ],
+  "in_theaters": false
+}

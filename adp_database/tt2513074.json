@@ -1,0 +1,23 @@
+{
+  "Title": "Billy Lynn's Long Halftime Walk",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2ac2248-eabf-2a7b-a3dc-37dfc3829aad/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1169305645"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHYDZ0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

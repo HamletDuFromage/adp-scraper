@@ -1,0 +1,23 @@
+{
+  "Title": "True Detective",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/9a4a3645-74e0-4e4d-9f35-31464b402357"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2991354"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04a9f6b4-f07a-012d-686e-425f618e8a9d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "The Starling Girl",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2411856"
+    }
+  ],
+  "in_theaters": false
+}

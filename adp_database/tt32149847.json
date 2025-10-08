@@ -1,0 +1,28 @@
+{
+  "Title": "Drop",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1805272098"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4097236"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.757cb236-900d-4065-a5c0-b867b87443b6/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F3G18CGG/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/drop/3b0697d0-545c-340f-bb38-7b3e74c7d4b8"
+    }
+  ],
+  "in_theaters": false
+}

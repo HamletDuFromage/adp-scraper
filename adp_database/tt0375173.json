@@ -1,0 +1,19 @@
+{
+  "Title": "Alfie",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id208835244"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/46307"
+    }
+  ],
+  "in_theaters": false
+}

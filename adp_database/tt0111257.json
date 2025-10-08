@@ -1,0 +1,25 @@
+{
+  "Title": "Speed",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6a9f705-9067-8786-a5b3-8b20d69590df/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d9598019-0c78-422c-bec9-88f58b56ecd9"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id271889540"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08ZQJMFZS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

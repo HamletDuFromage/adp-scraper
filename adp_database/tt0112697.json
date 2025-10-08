@@ -1,0 +1,24 @@
+{
+  "Title": "Clueless",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id300913833"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/140063"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/LNvLQIBYxRqC8X4k_hYnHgcT2ePHR0pe/"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/384406"
+    }
+  ],
+  "in_theaters": false
+}

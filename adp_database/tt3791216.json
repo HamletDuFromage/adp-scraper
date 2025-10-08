@@ -1,0 +1,19 @@
+{
+  "Title": "All the Way",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f6f9c7eb-fa76-4cc8-90a6-66083f775e91/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/7d3aa330-625a-4c9f-b067-12243eb49e13"
+    }
+  ],
+  "in_theaters": false
+}

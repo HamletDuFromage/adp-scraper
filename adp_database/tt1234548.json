@@ -1,0 +1,15 @@
+{
+  "Title": "The Men Who Stare at Goats",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c9545ada-5c57-4da7-849d-4f8d6aa78613/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

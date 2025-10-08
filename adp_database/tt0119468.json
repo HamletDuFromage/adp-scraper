@@ -1,0 +1,20 @@
+{
+  "Title": "Kiss the Girls",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.93a16af9-6ca2-44cd-b9f6-a55620135ea3/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/mfG7bAhoL9FoYRO_YqixQ4BO27VSc9h9/"
+    }
+  ],
+  "in_theaters": false
+}

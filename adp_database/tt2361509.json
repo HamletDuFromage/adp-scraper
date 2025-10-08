@@ -1,0 +1,24 @@
+{
+  "Title": "The Intern",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20a9f76f-758a-518a-68fe-2d9a74b6a432/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0b3634c-4b4b-7572-46b4-761a6f64389f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1041445878"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B015TGNODE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Welcome to Chechnya",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/23b5e980-9423-432c-97b3-b9de004598d0"
+    }
+  ],
+  "in_theaters": false
+}

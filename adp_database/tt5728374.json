@@ -1,0 +1,15 @@
+{
+  "Title": "Give Me My Baby",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54ae97c2-3ad8-5ba2-f6f0-17c48021fe1c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

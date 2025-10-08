@@ -1,0 +1,19 @@
+{
+  "Title": "Taken",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4aa9f75c-03d9-99b7-f7c0-a9e43926ec58/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id301490915"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Only Jokes Allowed",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81422607"
+    }
+  ],
+  "in_theaters": false
+}

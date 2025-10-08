@@ -1,0 +1,19 @@
+{
+  "Title": "Molly of Denali",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fe741d4a-34ea-40f2-a626-026a72e9a7e7/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2317472"
+    }
+  ],
+  "in_theaters": false
+}

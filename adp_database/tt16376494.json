@@ -1,0 +1,14 @@
+{
+  "Title": "Descendant",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81586731"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Prime",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58a9f74d-aa0b-6fe1-e42e-98ca7c3c50a3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Best. Christmas. Ever!",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81416268"
+    }
+  ],
+  "in_theaters": false
+}

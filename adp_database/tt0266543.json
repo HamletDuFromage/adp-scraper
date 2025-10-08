@@ -1,0 +1,16 @@
+{
+  "Title": "Finding Nemo Collector's Edition",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00867GJYK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

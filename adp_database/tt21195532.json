@@ -1,0 +1,16 @@
+{
+  "Title": "Justice Served",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81287440"
+    }
+  ],
+  "in_theaters": false
+}

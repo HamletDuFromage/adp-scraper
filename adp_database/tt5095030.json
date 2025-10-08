@@ -1,0 +1,28 @@
+{
+  "Title": "Ant-Man and the Wasp",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ab21c9a-aef8-7801-a659-c1cb6d33b422/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92b71e69-2502-ab3b-2b39-a0b110635c0f/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-ant-man-and-the-wasp/5D7wkVHmlCKU"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1400637562"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07G2MYV7Z/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

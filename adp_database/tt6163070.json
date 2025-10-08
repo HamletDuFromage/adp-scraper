@@ -1,0 +1,16 @@
+{
+  "Title": "StoryBots Super Songs",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80113144"
+    }
+  ],
+  "in_theaters": false
+}

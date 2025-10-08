@@ -1,0 +1,26 @@
+{
+  "Title": "Signs",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32a9f6c5-a25b-72be-dda7-0e97a09298c1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188765169"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/30267"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/signs-2002"
+    }
+  ],
+  "in_theaters": false
+}

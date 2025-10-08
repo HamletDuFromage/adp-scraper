@@ -1,0 +1,17 @@
+{
+  "Title": "Firestarter",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5aa9f741-8884-ace9-d878-56502419b3fa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

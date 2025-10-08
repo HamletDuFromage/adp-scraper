@@ -1,0 +1,15 @@
+{
+  "Title": "Kids Are Growing Up: A Story About a Kid Named Laroi",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8aca0e57-3ea2-4b6b-9222-71a6770c086b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

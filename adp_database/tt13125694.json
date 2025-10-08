@@ -1,0 +1,18 @@
+{
+  "Title": "Before We Die",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ab2c8391-4c3a-4b72-80ab-adf7eb34698b/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2470493"
+    }
+  ],
+  "in_theaters": false
+}

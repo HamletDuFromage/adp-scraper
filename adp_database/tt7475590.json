@@ -1,0 +1,19 @@
+{
+  "Title": "Kung Fu",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6673aa70-9484-45b6-a810-62b9b948298e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e98a9a31-ff33-4e89-9a60-e4a9db5bc1ae"
+    }
+  ],
+  "in_theaters": false
+}

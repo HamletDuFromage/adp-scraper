@@ -1,0 +1,18 @@
+{
+  "Title": "One for the Money",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f724c2c0-de61-418a-8f22-a718da892d6f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

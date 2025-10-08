@@ -1,0 +1,26 @@
+{
+  "Title": "Kandahar",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Independent",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b17fa613-8ed2-45a6-bc48-74c1375e646b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1690916186"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C4RHSR94/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2419509"
+    }
+  ],
+  "in_theaters": false
+}

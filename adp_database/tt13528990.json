@@ -1,0 +1,15 @@
+{
+  "Title": "Shawn Mendes: Live in Concert",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Concert",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81254437"
+    }
+  ],
+  "in_theaters": false
+}

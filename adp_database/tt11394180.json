@@ -1,0 +1,19 @@
+{
+  "Title": "Dick Johnson is Dead",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80234465"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09JLH59HX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

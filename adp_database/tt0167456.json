@@ -1,0 +1,15 @@
+{
+  "Title": "Thunderbirds",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58a9f70e-5149-d2f1-95ac-c61c98196b73/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

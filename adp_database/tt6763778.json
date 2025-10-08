@@ -1,0 +1,17 @@
+{
+  "Title": "Holler",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.85a28ee0-08b8-4248-8159-57ba02b10dc2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1567136822"
+    }
+  ],
+  "in_theaters": false
+}

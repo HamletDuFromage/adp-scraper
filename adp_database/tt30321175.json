@@ -1,0 +1,14 @@
+{
+  "Title": "Penelope",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81786897"
+    }
+  ],
+  "in_theaters": false
+}

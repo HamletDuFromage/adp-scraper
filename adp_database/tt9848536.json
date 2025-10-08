@@ -1,0 +1,17 @@
+{
+  "Title": "We Are Who We Are",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1d850daa-5b58-48b7-b777-b42ab24d0713/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/cdf4cf38-d8ce-4be3-9bb4-0799e0a2b65b"
+    }
+  ],
+  "in_theaters": false
+}

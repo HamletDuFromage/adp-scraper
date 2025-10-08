@@ -1,0 +1,16 @@
+{
+  "Title": "Collateral",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80185171"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Your Honor",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81684531"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6c7a9ec2-6431-4400-8188-a0973040028d/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/your-honor/"
+    }
+  ],
+  "in_theaters": false
+}

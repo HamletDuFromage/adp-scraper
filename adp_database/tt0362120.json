@@ -1,0 +1,15 @@
+{
+  "Title": "Scary Movie 4",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6d28ccb-cc7d-4606-ab95-ab8eba0b15de/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Boxtrolls",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb91d83-e770-71a6-3376-07d23ad968a0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Shaun the Sheep: The Flight Before Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81193166"
+    }
+  ],
+  "in_theaters": false
+}

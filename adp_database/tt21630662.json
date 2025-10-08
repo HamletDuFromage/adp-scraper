@@ -1,0 +1,18 @@
+{
+  "Title": "South to Black Power",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Black Stories",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e5f68e0f-1c07-4167-920a-5cdf70ffa01b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/e86c27b0-ab20-4c94-8e6c-863d6c46aabb"
+    }
+  ],
+  "in_theaters": false
+}

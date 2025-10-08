@@ -1,0 +1,18 @@
+{
+  "Title": "Fatherhood",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81435227"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09ZBHDC71/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

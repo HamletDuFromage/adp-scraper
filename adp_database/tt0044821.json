@@ -1,0 +1,17 @@
+{
+  "Title": "Lambert, the Sheepish Lion",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lambert-the-sheepish-lion/1vIyapm7OXaq"
+    }
+  ],
+  "in_theaters": false
+}

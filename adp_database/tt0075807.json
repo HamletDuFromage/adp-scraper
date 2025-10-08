@@ -1,0 +1,19 @@
+{
+  "Title": "Candleshoe",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/candleshoe/1hqE9ySkcEVi"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id299438789"
+    }
+  ],
+  "in_theaters": false
+}

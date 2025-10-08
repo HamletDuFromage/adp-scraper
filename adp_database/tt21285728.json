@@ -1,0 +1,14 @@
+{
+  "Title": "First Time Female Director",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/d09660ea9f8699b876d642e01af07553/first-time-female-director"
+    }
+  ],
+  "in_theaters": false
+}

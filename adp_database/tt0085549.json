@@ -1,0 +1,19 @@
+{
+  "Title": "Flashdance",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.37ce5fa8-bbd8-4988-8b08-8e402242ac6f/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0863RQNVS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Monster High",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/monster-high/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0d5fa38b-a85a-4816-a85b-2385abb2e8a6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

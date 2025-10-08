@@ -1,0 +1,14 @@
+{
+  "Title": "Judy Blume Forever",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e223d65b-4826-407d-91a0-f0ae5c143e9c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

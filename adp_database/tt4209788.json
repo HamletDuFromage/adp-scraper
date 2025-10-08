@@ -1,0 +1,22 @@
+{
+  "Title": "Molly's Game",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12b09153-660e-a752-75c0-9da95d4d849a/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0788YKWLC/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80199959"
+    }
+  ],
+  "in_theaters": false
+}

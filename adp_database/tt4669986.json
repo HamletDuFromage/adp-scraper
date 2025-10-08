@@ -1,0 +1,22 @@
+{
+  "Title": "Loving",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96ac38c1-43bf-0610-fd15-d4d2f72835e0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1171874704"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHZK34/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

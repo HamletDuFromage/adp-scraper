@@ -1,0 +1,20 @@
+{
+  "Title": "Kingsman: The Golden Circle",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1281206636"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B075B3B135/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

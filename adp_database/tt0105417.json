@@ -1,0 +1,19 @@
+{
+  "Title": "Sister Act",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/sister-act/70Zz3F8TI5LO"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id599494761"
+    }
+  ],
+  "in_theaters": false
+}

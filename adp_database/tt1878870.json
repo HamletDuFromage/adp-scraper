@@ -1,0 +1,15 @@
+{
+  "Title": "The Edge of Seventeen",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHZRTG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

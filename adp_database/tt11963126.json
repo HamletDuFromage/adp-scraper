@@ -1,0 +1,14 @@
+{
+  "Title": "A Spark Story",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/a-spark-story/5X6a8pxqXkLQ"
+    }
+  ],
+  "in_theaters": false
+}

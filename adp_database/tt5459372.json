@@ -1,0 +1,15 @@
+{
+  "Title": "Acapulco Shore",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/66df633b4d30430013a88a50"
+    }
+  ],
+  "in_theaters": false
+}

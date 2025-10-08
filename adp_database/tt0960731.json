@@ -1,0 +1,19 @@
+{
+  "Title": "Bedtime Stories",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/bedtime-stories/2yhb68hGaXZE"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id301177697"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "The Bourne Legacy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8a9f72e-2ff9-6e4b-a2f6-5269b197d2f5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id562617876"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIIPS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

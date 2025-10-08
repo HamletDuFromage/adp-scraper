@@ -1,0 +1,18 @@
+{
+  "Title": "Something the Lord Made",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ab55f22-a08b-441e-9202-45de036324e9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a5bc79e1-c681-49cc-ad84-e1a201c78f89"
+    }
+  ],
+  "in_theaters": false
+}

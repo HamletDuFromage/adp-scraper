@@ -1,0 +1,21 @@
+{
+  "Title": "We Baby Bears",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0b113a82-4e01-4ad7-8f2e-c255b3cab9fb/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/017e5272-38aa-44fb-bb92-14f246916643"
+    }
+  ],
+  "in_theaters": false
+}

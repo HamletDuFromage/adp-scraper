@@ -1,0 +1,24 @@
+{
+  "Title": "Tuesday",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2b232d4d-1933-4313-9bc1-a13378ce73df/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/4b1e4f94-c2f7-4189-8610-bb1ff1d65a86"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1750792992"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3245601"
+    }
+  ],
+  "in_theaters": false
+}

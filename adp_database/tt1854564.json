@@ -1,0 +1,23 @@
+{
+  "Title": "Percy Jackson: Sea of Monsters",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0b860af-d9e5-9d36-1d01-215f583142c2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id704994304"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B008JFUNTG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

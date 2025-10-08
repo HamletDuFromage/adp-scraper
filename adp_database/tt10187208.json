@@ -1,0 +1,17 @@
+{
+  "Title": "A Boy Called Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81029733"
+    }
+  ],
+  "in_theaters": false
+}

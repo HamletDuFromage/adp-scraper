@@ -1,0 +1,16 @@
+{
+  "Title": "Nancy Drew",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fca15d2e-17cf-43d0-a7fb-5572badc0f0e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

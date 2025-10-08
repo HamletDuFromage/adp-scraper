@@ -1,0 +1,17 @@
+{
+  "Title": "A Very Merry Toy Store",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94b001df-95cd-7c7d-2f38-2e139a93dba7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

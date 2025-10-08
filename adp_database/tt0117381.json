@@ -1,0 +1,23 @@
+{
+  "Title": "Primal Fear",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2a391a74-6292-407b-b475-de2522ad59d9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id252803305"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/rHXh4HkdDQNnXXSA2PBwcdep7hr_kJX0/"
+    }
+  ],
+  "in_theaters": false
+}

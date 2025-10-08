@@ -1,0 +1,17 @@
+{
+  "Title": "They Called Him Mostly Harmless",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/36619087-40d1-4558-87d7-43945f6bc0cf"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1837959514"
+    }
+  ],
+  "in_theaters": true
+}

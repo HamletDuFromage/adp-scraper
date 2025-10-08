@@ -1,0 +1,21 @@
+{
+  "Title": "The Outsider",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4b8f484-a7b7-4d53-a4ff-2a64d243020f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/77c92a27-f409-45fe-9747-4ca2455cd952"
+    }
+  ],
+  "in_theaters": false
+}

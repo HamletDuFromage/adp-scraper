@@ -1,0 +1,16 @@
+{
+  "Title": "Carl's Date",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/carls-date/7awQSDHSijMt"
+    }
+  ],
+  "in_theaters": false
+}

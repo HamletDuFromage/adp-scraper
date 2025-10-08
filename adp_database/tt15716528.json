@@ -1,0 +1,16 @@
+{
+  "Title": "Joy for Christmas",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48f698c9-ceba-4d4d-80a0-f4d23810cd35/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

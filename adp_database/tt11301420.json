@@ -1,0 +1,15 @@
+{
+  "Title": "The Ultimate Surfer",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-ultimate-surfer-4d7ec420-4c0a-4f82-b8b5-e6e8021d1387"
+    }
+  ],
+  "in_theaters": false
+}

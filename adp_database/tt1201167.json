@@ -1,0 +1,18 @@
+{
+  "Title": "Funny People",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.daa9f738-140c-4510-5c6c-e402e277c20b/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002PLPQM4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

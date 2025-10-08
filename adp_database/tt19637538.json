@@ -1,0 +1,15 @@
+{
+  "Title": "The Full Monty",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-full-monty-8def075f-d6b8-4c39-8440-55342e3dc0f2"
+    }
+  ],
+  "in_theaters": false
+}

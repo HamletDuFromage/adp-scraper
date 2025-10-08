@@ -1,0 +1,15 @@
+{
+  "Title": "#1 Happy Family USA",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7e205d42-33d4-48f1-8c5d-73d599a6bdf3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

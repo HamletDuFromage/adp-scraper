@@ -1,0 +1,15 @@
+{
+  "Title": "Tow",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/674931/tow"
+    }
+  ],
+  "in_theaters": false
+}

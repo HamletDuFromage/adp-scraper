@@ -1,0 +1,17 @@
+{
+  "Title": "The Tortoise and the Hare",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-tortoise-and-the-hare/7SvvEmHocH6O"
+    }
+  ],
+  "in_theaters": false
+}

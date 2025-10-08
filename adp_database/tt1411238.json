@@ -1,0 +1,21 @@
+{
+  "Title": "No Strings Attached",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0ddd713-b786-4ce3-b33a-b6681b6fc716/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004RC8NUQ/audiodescriin-20"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/movies/63d45a45163e9100130d1ba8"
+    }
+  ],
+  "in_theaters": false
+}

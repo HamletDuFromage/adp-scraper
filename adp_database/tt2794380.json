@@ -1,0 +1,16 @@
+{
+  "Title": "Liv and Maddie",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/liv-and-maddie/3F9iOsYw2vff"
+    }
+  ],
+  "in_theaters": false
+}

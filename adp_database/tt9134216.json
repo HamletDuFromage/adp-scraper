@@ -1,0 +1,21 @@
+{
+  "Title": "Playing with Fire",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ab71b57-1a76-d239-8c02-5d8e7b85641f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1484447202"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07Z74DLDC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

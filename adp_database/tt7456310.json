@@ -1,0 +1,21 @@
+{
+  "Title": "Anna",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1467309141"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TKNGB1N/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80b5cf76-ac0b-db9f-a275-0886807cb501/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

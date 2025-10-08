@@ -1,0 +1,16 @@
+{
+  "Title": "The Art of the Steal",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f780-b0e0-1846-4ca5-9699f2ca11ae/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

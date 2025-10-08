@@ -1,0 +1,16 @@
+{
+  "Title": "The Reluctant Dragon",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-reluctant-dragon/5y4yjoo0bVZt"
+    }
+  ],
+  "in_theaters": false
+}

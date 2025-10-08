@@ -1,0 +1,17 @@
+{
+  "Title": "The Truth About Jim",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/30e44639-3345-461c-8ee0-1f48090d7d67"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.51d25844-e6d7-43fb-b833-6b7a44868f65/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

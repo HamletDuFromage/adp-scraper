@@ -1,0 +1,21 @@
+{
+  "Title": "Salem's Lot",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a96dc70c-d7ff-4be5-bc29-73cb3244a4f6/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80aba25d-9257-f7d0-d037-4552c9497fc4/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/b1aaea47-b2e8-4418-a181-91de7102d04f"
+    }
+  ],
+  "in_theaters": false
+}

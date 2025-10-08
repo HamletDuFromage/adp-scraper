@@ -1,0 +1,17 @@
+{
+  "Title": "Street Outlaws: Memphis",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42bc2a30-2b6a-3345-7d72-ee14e84e8fed/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/43bfadf9-824f-4167-965e-9fc5f183f858"
+    }
+  ],
+  "in_theaters": false
+}

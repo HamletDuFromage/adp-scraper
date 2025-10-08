@@ -1,0 +1,15 @@
+{
+  "Title": "The Yellow Birds",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72130ca8-04b0-4e41-9eab-6b11ea2d52e7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

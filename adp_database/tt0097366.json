@@ -1,0 +1,14 @@
+{
+  "Title": "Fletch Lives",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6a9f787-36ea-e300-190a-c2cf03327654/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

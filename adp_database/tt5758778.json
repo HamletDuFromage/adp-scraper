@@ -1,0 +1,21 @@
+{
+  "Title": "Skyscraper",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dcb240b7-234e-0587-abd2-06a5b34d42e1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1405620210"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07F5CPBPQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

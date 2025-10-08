@@ -1,0 +1,18 @@
+{
+  "Title": "Beauty and the Beast: Belle's Magical World",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Musical",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/beauty-and-the-beast-belles-magical-world/62Wbvx3MkSNT"
+    }
+  ],
+  "in_theaters": false
+}

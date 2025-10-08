@@ -1,0 +1,22 @@
+{
+  "Title": "Maria by Callas",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ceb46714-6627-f022-aa2e-df4e83a9b6d1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1449297378"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07MPK2XZP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

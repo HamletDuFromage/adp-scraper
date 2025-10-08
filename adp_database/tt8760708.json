@@ -1,0 +1,28 @@
+{
+  "Title": "M3GAN",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b64cd816-81bd-49f0-a0a8-d2b8b95852d8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1664525851"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BQKDRSCK/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2193251"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/m3gan/f5dac84c-3950-3bb8-a35b-638f0b8a886a"
+    }
+  ],
+  "in_theaters": false
+}

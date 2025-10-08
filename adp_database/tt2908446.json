@@ -1,0 +1,22 @@
+{
+  "Title": "The Divergent Series: Insurgent",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6397314b-3a85-4399-96b5-91dee2a949ec/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id972241187"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00V5E7YR2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Bones",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/bones-08cc467f-2057-4331-825a-1f993c79c862"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6aad22a-2255-8b85-3b35-1d3c93082bc6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

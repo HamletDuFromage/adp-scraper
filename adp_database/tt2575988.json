@@ -1,0 +1,17 @@
+{
+  "Title": "Silicon Valley",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ee60da9-8bcb-4f45-8525-5e761e9f0d3f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/b4583939-e39f-4b5c-822d-5b6cc186172d"
+    }
+  ],
+  "in_theaters": false
+}

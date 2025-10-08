@@ -1,0 +1,14 @@
+{
+  "Title": "Buddy Games",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18bad760-0599-ff22-63a9-c43c9c2c7240/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

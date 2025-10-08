@@ -1,0 +1,21 @@
+{
+  "Title": "The Best Christmas Pageant Ever",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Holiday",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1777269155"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3752808"
+    }
+  ],
+  "in_theaters": false
+}

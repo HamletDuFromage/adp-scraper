@@ -1,0 +1,25 @@
+{
+  "Title": "The Fall Guy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a66c1ff4-34df-4952-87c9-386cd76ec104/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1742648242"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D2LZMTL2/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3140387"
+    }
+  ],
+  "in_theaters": false
+}

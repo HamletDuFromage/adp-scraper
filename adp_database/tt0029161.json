@@ -1,0 +1,17 @@
+{
+  "Title": "Lonesome Ghosts",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lonesome-ghosts/31pYojB6eDUT"
+    }
+  ],
+  "in_theaters": false
+}

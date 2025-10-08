@@ -1,0 +1,22 @@
+{
+  "Title": "Beverly Hills Cop",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B08JDTNPCL/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/140053"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60010139"
+    }
+  ],
+  "in_theaters": false
+}

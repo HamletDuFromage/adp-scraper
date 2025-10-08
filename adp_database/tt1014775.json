@@ -1,0 +1,19 @@
+{
+  "Title": "Beverly Hills Chihuahua",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/beverly-hills-chihuahua/YWreitZ25c2V"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id300544518"
+    }
+  ],
+  "in_theaters": false
+}

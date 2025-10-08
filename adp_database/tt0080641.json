@@ -1,0 +1,16 @@
+{
+  "Title": "The Dogs of War",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ca9f691-0c35-5914-dd8e-b40f50384f97/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Fletch",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/510088"
+    }
+  ],
+  "in_theaters": false
+}

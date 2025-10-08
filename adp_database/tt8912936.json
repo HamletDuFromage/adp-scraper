@@ -1,0 +1,25 @@
+{
+  "Title": "DC League of Super-Pets",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90ee18de-2fab-4279-ab37-55df35d593a6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/01eec62a-f4cd-43b9-a07b-a4ead7ffc089"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1631404458"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B7VD5P8J/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

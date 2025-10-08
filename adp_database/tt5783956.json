@@ -1,0 +1,16 @@
+{
+  "Title": "When We First Met",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80117531"
+    }
+  ],
+  "in_theaters": false
+}

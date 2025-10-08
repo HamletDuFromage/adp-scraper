@@ -1,0 +1,18 @@
+{
+  "Title": "Kneecap",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81956594"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3517158"
+    }
+  ],
+  "in_theaters": false
+}

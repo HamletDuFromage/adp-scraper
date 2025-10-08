@@ -1,0 +1,17 @@
+{
+  "Title": "Love Island Games",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/love-island-games/8186114457955944112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c7a8cba2-97f6-4e52-8983-39df72337431/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

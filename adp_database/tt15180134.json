@@ -1,0 +1,14 @@
+{
+  "Title": "Reboot",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/reboot-e8c26c94-e813-4160-b36e-1b367ebcebe8"
+    }
+  ],
+  "in_theaters": false
+}

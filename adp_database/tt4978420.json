@@ -1,0 +1,23 @@
+{
+  "Title": "Borderlands",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1760374381"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D8NB897B/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3324616"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Aimee Victoria",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "LGBTQ",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://w.reelabilities.org/stream/product/aimee-victoria/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Batman Begins",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2a9f69d-861e-995c-5d7e-aee64f47d596/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/9cd867d4-81e5-433a-839a-a1c111b2623d"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id271469254"
+    }
+  ],
+  "in_theaters": false
+}

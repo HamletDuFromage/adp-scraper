@@ -1,0 +1,19 @@
+{
+  "Title": "Goldie",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a5034a3b-5779-493c-abbb-62146dc0bcff/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2reh3g5q197hlblohp6l3fzk5"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Dee & Friends in Oz",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81223055"
+    }
+  ],
+  "in_theaters": false
+}

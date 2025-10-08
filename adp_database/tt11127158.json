@@ -1,0 +1,15 @@
+{
+  "Title": "The Hustler",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-hustler-6c27d213-b594-4740-84a9-b62eb561cec4"
+    }
+  ],
+  "in_theaters": false
+}

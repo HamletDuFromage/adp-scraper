@@ -1,0 +1,22 @@
+{
+  "Title": "The BFG",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-bfg/pvXae9wPk8HT"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1125590283"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01G4N5PWY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

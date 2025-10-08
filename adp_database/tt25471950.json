@@ -1,0 +1,19 @@
+{
+  "Title": "Flora and Son",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.624aab9c-8930-45df-96be-c45b48ad3ade/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.1ol2idv8q2iftiyjfkuyfki5l"
+    }
+  ],
+  "in_theaters": false
+}

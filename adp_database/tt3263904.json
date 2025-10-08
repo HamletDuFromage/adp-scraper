@@ -1,0 +1,25 @@
+{
+  "Title": "Sully",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24ae0bf4-4317-4742-38d6-89d90959df85/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/0a01e016-2569-421e-9361-54b3a3a54138"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1145038137"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LBWHQ70/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

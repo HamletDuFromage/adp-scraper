@@ -1,0 +1,17 @@
+{
+  "Title": "Twisted Metal",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3bf3ddec-59e9-4d6f-84f3-d347d627b117/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/twisted-metal/7535133008773329112"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Disturbia",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82a9f66a-f473-4325-4f94-78d9969f89b1/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/iaiObrww9wahVmSJlMYhod8sYOR8sShX/"
+    }
+  ],
+  "in_theaters": false
+}

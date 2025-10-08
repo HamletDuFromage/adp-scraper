@@ -1,0 +1,18 @@
+{
+  "Title": "Kung Fu Panda 4 3D",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3123571"
+    }
+  ],
+  "in_theaters": false
+}

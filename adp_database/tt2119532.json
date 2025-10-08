@@ -1,0 +1,27 @@
+{
+  "Title": "Hacksaw Ridge",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bcabfd02-02d5-06a7-63be-f2ccbf2bb0e9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1168450249"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHZVSI/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80108975"
+    }
+  ],
+  "in_theaters": false
+}

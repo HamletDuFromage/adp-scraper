@@ -1,0 +1,19 @@
+{
+  "Title": "Mariachis",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.459c3412-a3b5-4c96-bfd1-b02c236c2dc6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/2c3d5060-471c-4c5e-ad5a-6b048e64c866"
+    }
+  ],
+  "in_theaters": false
+}

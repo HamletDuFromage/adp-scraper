@@ -1,0 +1,18 @@
+{
+  "Title": "Renovation Aloha",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/d68fb96b-561d-45d9-b9e3-e6e9a7ae060b"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bc71ffda-88a7-4bf2-b1b7-3601b553c627/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

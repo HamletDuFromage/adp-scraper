@@ -1,0 +1,27 @@
+{
+  "Title": "Violent Night",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aab489de-9e9b-46ee-9323-00d4bd2fb041/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1657493964"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BN5BFKXD/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2208920"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/violent-night/50de1a9c-eea5-3776-9c98-d8dfff3a5ae6"
+    }
+  ],
+  "in_theaters": false
+}

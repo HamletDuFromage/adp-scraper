@@ -1,0 +1,16 @@
+{
+  "Title": "Slumdog Millionaire",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/a266669c-8cb2-4f10-b4df-da57010af6b8"
+    }
+  ],
+  "in_theaters": false
+}

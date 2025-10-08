@@ -1,0 +1,19 @@
+{
+  "Title": "House of Hammer",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e7fdc294-a583-4934-ace9-8d00d0099fcd/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3e0ff566-db40-42ec-b88c-37b7a5bb1be1"
+    }
+  ],
+  "in_theaters": false
+}

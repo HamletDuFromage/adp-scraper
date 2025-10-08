@@ -1,0 +1,22 @@
+{
+  "Title": "Inception",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04a9f72c-f9c8-c4d1-f97b-6d7ad986a51f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id400763833"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/14552c93-d318-4563-a00b-343df7e35d0b"
+    }
+  ],
+  "in_theaters": false
+}

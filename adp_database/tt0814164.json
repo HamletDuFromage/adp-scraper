@@ -1,0 +1,19 @@
+{
+  "Title": "John from Cincinnati",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.73d1414c-2800-4027-ae31-161bcaf048ea/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3469cb75-f70c-4a1c-b651-1b073f753230"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,27 @@
+{
+  "Title": "Rosemary's Baby",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0d975cc-43e7-45b0-abf4-448dbc285ce0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id574188979"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CC9N65Y1/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/16658"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/w0ipNtmtE8LzdX2ichqDwHY2gF41h1PJ/"
+    }
+  ],
+  "in_theaters": false
+}

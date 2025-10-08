@@ -1,0 +1,18 @@
+{
+  "Title": "The Venture Bros.: Radiant is the Blood of the Baboon Heart",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6114510-6fae-47c8-b157-9a7c849a905c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/472f91c5-a441-40fb-800b-d26ea304e268"
+    }
+  ],
+  "in_theaters": false
+}

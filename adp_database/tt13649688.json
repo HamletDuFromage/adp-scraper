@@ -1,0 +1,14 @@
+{
+  "Title": "Best of Stand-Up 2020",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81297141"
+    }
+  ],
+  "in_theaters": false
+}

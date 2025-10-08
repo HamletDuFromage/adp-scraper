@@ -1,0 +1,19 @@
+{
+  "Title": "Vita & Virginia",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1474916582"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8342f6bc-17a5-4766-b5e9-87ad207b8ea5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

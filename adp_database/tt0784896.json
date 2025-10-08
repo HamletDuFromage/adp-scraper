@@ -1,0 +1,17 @@
+{
+  "Title": "Mickey Mouse Clubhouse",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/mickey-mouse-clubhouse/5iD5lXOdr1lj"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,27 @@
+{
+  "Title": "The Batman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Superhero",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f50f8c44-66ba-4e83-94bb-82fb40c52159/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/dfa50804-e6f6-4fa2-a732-693dbc50527b"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1606824145"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09XN5XX5R/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

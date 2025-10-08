@@ -1,0 +1,16 @@
+{
+  "Title": "Sleeper Cell",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/sleeper-cell/"
+    }
+  ],
+  "in_theaters": false
+}

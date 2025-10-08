@@ -1,0 +1,18 @@
+{
+  "Title": "Mike & Molly",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7a7497d5-d949-495a-add7-2d3059b16f51/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/90d64c30-1e96-43a3-b9c5-970a648eb696"
+    }
+  ],
+  "in_theaters": false
+}

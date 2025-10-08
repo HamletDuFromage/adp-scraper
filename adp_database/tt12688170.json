@@ -1,0 +1,17 @@
+{
+  "Title": "The Kids Tonight Show",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-kids-tonight-show/7677421435376091112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ea8783a-b8b3-4b7f-a0cd-ae2c43cbe80f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

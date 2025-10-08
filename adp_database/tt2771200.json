@@ -1,0 +1,29 @@
+{
+  "Title": "Beauty and the Beast",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52ad48ea-7630-96ed-6ad8-8907261c7e26/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8ad48e1-423e-72fd-9854-c4881245126a/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/beauty-and-the-beast-2017/227lND2lKmLZ"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1212678379"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01MV0KF7V/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Which Brings Me to You",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2b83b006-1ff5-46be-b22a-1dd504ac69f7/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/b0d5bcff-ee65-4575-8bff-812154e8c2b8"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1721395807"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CXC27FNQ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2871189"
+    }
+  ],
+  "in_theaters": false
+}

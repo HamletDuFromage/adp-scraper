@@ -1,0 +1,14 @@
+{
+  "Title": "The Big Family Cooking Showdown",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80186090"
+    }
+  ],
+  "in_theaters": false
+}

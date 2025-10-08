@@ -1,0 +1,15 @@
+{
+  "Title": "Too Much",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81671844"
+    }
+  ],
+  "in_theaters": false
+}

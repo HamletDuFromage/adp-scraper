@@ -1,0 +1,23 @@
+{
+  "Title": "Elf",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.712a5b64-2b9b-4a4f-a965-ceae2917dfe4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id287917512"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BD93YRG2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Epic",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea9f796-e3df-de4e-7cde-93c795a7b84e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id657510588"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00CWM58WY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

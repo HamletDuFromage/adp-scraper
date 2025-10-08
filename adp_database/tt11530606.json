@@ -1,0 +1,16 @@
+{
+  "Title": "Amazing Grace",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Disability",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://w.reelabilities.org/stream/product/amazing-grace/"
+    }
+  ],
+  "in_theaters": false
+}

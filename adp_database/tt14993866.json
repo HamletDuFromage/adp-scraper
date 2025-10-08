@@ -1,0 +1,15 @@
+{
+  "Title": "My Dad's On Death Row",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "MagellanTV": "https://www.magellantv.com/video/my-dads-on-death-row"
+    }
+  ],
+  "in_theaters": false
+}

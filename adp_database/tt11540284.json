@@ -1,0 +1,25 @@
+{
+  "Title": "8-Bit Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0350224c-eda3-4c08-ab8e-efd1f54b1dfb/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/01d3fe24-a0ec-432f-bdd5-4c513472b528"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1594733564"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BCGYK64S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

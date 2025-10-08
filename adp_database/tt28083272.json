@@ -1,0 +1,17 @@
+{
+  "Title": "Betrayal",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-f54cdacf-b70b-4dd5-9d44-7e37923b9dab"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/002226aa-c9f5-4433-b982-be31ead74624"
+    }
+  ],
+  "in_theaters": false
+}

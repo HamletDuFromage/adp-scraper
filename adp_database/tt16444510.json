@@ -1,0 +1,17 @@
+{
+  "Title": "2nd Annual HA Festival: The Art of Comedy",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1bba7c7a-dfc9-459c-afde-e5f642ce8c37/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/4be2f3e8-e5d8-49fd-9a52-ca3eaec9d5bc"
+    }
+  ],
+  "in_theaters": false
+}

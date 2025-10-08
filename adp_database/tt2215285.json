@@ -1,0 +1,22 @@
+{
+  "Title": "Tyler Perry's Madea's Witness Protection",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id554300707"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/tyler-perrys-madeas-witness-protection-2012"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ca4c7ef8-8d7e-456a-8e77-f890d087f595/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

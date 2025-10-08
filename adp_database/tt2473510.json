@@ -1,0 +1,21 @@
+{
+  "Title": "Paranormal Activity: The Ghost Dimension",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ca9f7b1-468b-06dd-8ad7-f88b3b256bb3/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ad635c6-5079-4f23-b383-105fab1bf7b3/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/paranormal-activity-the-ghost-dimension/ZR52njdsvytj5PSScVfsrqC0chw_ECnV/"
+    }
+  ],
+  "in_theaters": false
+}

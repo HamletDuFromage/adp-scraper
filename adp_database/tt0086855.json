@@ -1,0 +1,17 @@
+{
+  "Title": "The Adventures of André & Wally B.",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-adventures-of-andre-wally-b/3NpHD7vwk2Ov"
+    }
+  ],
+  "in_theaters": false
+}

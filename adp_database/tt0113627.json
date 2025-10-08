@@ -1,0 +1,15 @@
+{
+  "Title": "Leaving Las Vegas",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46a9f757-b518-88f9-7ed9-c818913a0f60/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

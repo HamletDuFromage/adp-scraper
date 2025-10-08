@@ -1,0 +1,18 @@
+{
+  "Title": "The Croods: Family Tree",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-croods-family-tree-ad7f22bd-633d-452d-88b0-a87f26923a79"
+    }
+  ],
+  "in_theaters": false
+}

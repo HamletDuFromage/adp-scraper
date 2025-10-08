@@ -1,0 +1,24 @@
+{
+  "Title": "Lilo & Stitch",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1820575493"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0c58964-b8a8-4ce6-9848-7a3d86cb0b8f/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0FJSN1JMF/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

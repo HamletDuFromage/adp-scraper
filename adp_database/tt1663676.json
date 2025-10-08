@@ -1,0 +1,16 @@
+{
+  "Title": "Awkward.",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4a9f74c-9523-c0e5-dd61-80344a0a29dc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

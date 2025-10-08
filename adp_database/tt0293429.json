@@ -1,0 +1,25 @@
+{
+  "Title": "Mortal Kombat",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.416f5206-e14b-4bde-b208-dcdc4ab99592/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1562064160"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B091VKQ565/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/4a9c7b65-5122-4c78-ba8e-36eabb043249"
+    }
+  ],
+  "in_theaters": false
+}

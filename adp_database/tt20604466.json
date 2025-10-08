@@ -1,0 +1,14 @@
+{
+  "Title": "Glamour Girls",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81478629"
+    }
+  ],
+  "in_theaters": false
+}

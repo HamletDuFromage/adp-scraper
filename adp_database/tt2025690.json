@@ -1,0 +1,26 @@
+{
+  "Title": "The Finest Hours",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-finest-hours/4qRYVbzOHKwZ"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1075745452"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B019PQ0IWY/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5aaa6780-88a4-0607-bf1e-a89021f9408a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

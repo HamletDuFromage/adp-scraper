@@ -1,0 +1,23 @@
+{
+  "Title": "In the Heart of the Sea",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76a9f72c-f9c6-7fc2-05e7-e246e7d4e4fb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id996535172"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01AH3QSEG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

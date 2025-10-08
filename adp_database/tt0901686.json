@@ -1,0 +1,18 @@
+{
+  "Title": "Mater and the Ghostlight",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Horror",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id299568535"
+    }
+  ],
+  "in_theaters": false
+}

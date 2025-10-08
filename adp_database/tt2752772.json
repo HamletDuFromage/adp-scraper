@@ -1,0 +1,20 @@
+{
+  "Title": "Sinister 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52a9f6f8-eeed-a352-afae-877e968dfb50/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80043834"
+    }
+  ],
+  "in_theaters": false
+}

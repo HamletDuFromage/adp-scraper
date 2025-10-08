@@ -1,0 +1,19 @@
+{
+  "Title": "Bolt",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/bolt/3rv7GKMZTggh"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id299891336"
+    }
+  ],
+  "in_theaters": false
+}

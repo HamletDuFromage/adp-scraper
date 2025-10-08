@@ -1,0 +1,18 @@
+{
+  "Title": "Rock Dog",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98bb28c4-cebe-1d12-1775-37884a5ef226/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

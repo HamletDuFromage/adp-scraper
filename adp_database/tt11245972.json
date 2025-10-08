@@ -1,0 +1,25 @@
+{
+  "Title": "Scream",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04829dd7-d512-4a3a-8cb0-a134774e67f1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1603469106"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09PVTQN8T/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/PMVl0J76szUg1_j3hhRG3uTHGTst_uxy/"
+    }
+  ],
+  "in_theaters": false
+}

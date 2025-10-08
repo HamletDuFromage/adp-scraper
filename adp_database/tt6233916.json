@@ -1,0 +1,16 @@
+{
+  "Title": "I'm with the Band: Nasty Cherry",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80217594"
+    }
+  ],
+  "in_theaters": false
+}

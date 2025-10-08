@@ -1,0 +1,17 @@
+{
+  "Title": "The Mountain Kitchen",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home",
+    "Kids & Family",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/07f9dce9-ae0e-4769-b539-ff9a695588e0"
+    }
+  ],
+  "in_theaters": false
+}

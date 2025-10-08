@@ -1,0 +1,19 @@
+{
+  "Title": "The Resurrection of Gavin Stone",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0ad9d2a-14c9-7133-740e-3843ff31d263/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01MUVIA5N/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

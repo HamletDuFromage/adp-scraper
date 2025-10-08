@@ -1,0 +1,18 @@
+{
+  "Title": "The Wild Ones",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4w1tfn11hyb3frc9tp5fpksbb"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.09fcbdaa-5543-462c-97a8-5d952da18236/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

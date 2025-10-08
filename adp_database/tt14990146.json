@@ -1,0 +1,17 @@
+{
+  "Title": "Charlie and the Hunt",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Disability",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://w.reelabilities.org/stream/product/charlie-and-the-hunt/"
+    }
+  ],
+  "in_theaters": false
+}

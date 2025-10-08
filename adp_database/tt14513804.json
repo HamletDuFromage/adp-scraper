@@ -1,0 +1,28 @@
+{
+  "Title": "Captain America: Brave New World",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1802325431"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3946124"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2e89338-67ea-4541-a909-4e377609740b/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F4B68F6X/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-3064ac7f-ef4d-4f89-b92f-b5524da92a72"
+    }
+  ],
+  "in_theaters": false
+}

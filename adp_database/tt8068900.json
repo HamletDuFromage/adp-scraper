@@ -1,0 +1,18 @@
+{
+  "Title": "Home",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Food & Home"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8317b59-6441-4a4e-b08a-de2e9a403ac8/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.5xjrgoblr5l5i1ypamtayuhe9"
+    }
+  ],
+  "in_theaters": false
+}

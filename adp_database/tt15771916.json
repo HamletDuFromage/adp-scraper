@@ -1,0 +1,27 @@
+{
+  "Title": "You Hurt My Feelings",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.57c824db-ee06-4a5a-842d-9d269db65f0b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1687414980"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2321136"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/BZpG3iFm89ZGvWa4UDz2xaQVlcbz6Wwt/"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2dc8b9d6-8ad0-49be-99b7-fc37361be96c"
+    }
+  ],
+  "in_theaters": false
+}

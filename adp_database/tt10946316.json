@@ -1,0 +1,19 @@
+{
+  "Title": "The Institute",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/series/the-institute"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ca122acd-11eb-4d9d-aa42-b41c47c07560/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

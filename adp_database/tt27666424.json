@@ -1,0 +1,14 @@
+{
+  "Title": "We Live Here: The Midwest",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/99c9cb62-a936-4adc-a04b-26088477b512"
+    }
+  ],
+  "in_theaters": false
+}

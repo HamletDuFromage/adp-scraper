@@ -1,0 +1,19 @@
+{
+  "Title": "Switched at Birth",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82a9f782-f3c4-9433-9828-32f37b9bce75/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/switched-at-birth-fb899e5f-647c-4e69-931e-15abbd999cf5"
+    }
+  ],
+  "in_theaters": false
+}

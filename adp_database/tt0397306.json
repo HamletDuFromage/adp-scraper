@@ -1,0 +1,15 @@
+{
+  "Title": "American Dad!",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/american-dad-977c8e25-cde0-41b7-80ce-e746f2d2093f"
+    }
+  ],
+  "in_theaters": false
+}

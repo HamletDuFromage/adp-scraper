@@ -1,0 +1,16 @@
+{
+  "Title": "Johnny Tsunami",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/johnny-tsunami/5Jt0TCvG59GD"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Barbie & Stacie to the Rescue",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81607692"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "LEGO Ninjago: Dragons Rising",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Short",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81519765"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/66fee583b99f8500131a150b"
+    }
+  ],
+  "in_theaters": false
+}

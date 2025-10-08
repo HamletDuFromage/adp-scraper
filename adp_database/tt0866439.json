@@ -1,0 +1,15 @@
+{
+  "Title": "Made of Honor",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60a9f718-723a-a457-95f1-bad5131f7b2a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

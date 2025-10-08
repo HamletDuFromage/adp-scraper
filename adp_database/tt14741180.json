@@ -1,0 +1,17 @@
+{
+  "Title": "Vanderpump Dogs",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/vanderpump-dogs/4970394904588946112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ebb666a-6f24-49ac-a12b-d473665fc535/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

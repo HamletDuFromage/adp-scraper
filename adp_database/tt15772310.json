@@ -1,0 +1,15 @@
+{
+  "Title": "Paris in Love",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/paris-in-love/7951775937123430112"
+    }
+  ],
+  "in_theaters": false
+}

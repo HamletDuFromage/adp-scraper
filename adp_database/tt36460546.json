@@ -1,0 +1,18 @@
+{
+  "Title": "The Dark Money Game",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Politics"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/f5936e7a-ef43-4a57-9717-097beb887b69"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ac607139-c576-418b-b233-8c0174487ac2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

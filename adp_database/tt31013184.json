@@ -1,0 +1,17 @@
+{
+  "Title": "Jeff Dunham: I'm with Cupid",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d314673e-7527-4c99-a9d2-1e137832ab26/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/AJbrWjpugOHXOOuCTSGj_mAhwcTqQkVv/"
+    }
+  ],
+  "in_theaters": false
+}

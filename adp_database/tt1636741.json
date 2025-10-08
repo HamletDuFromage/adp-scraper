@@ -1,0 +1,15 @@
+{
+  "Title": "Caddyshack: The Inside Story",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0dfa4cc4-0931-468d-a512-4ad60bf5ad8f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

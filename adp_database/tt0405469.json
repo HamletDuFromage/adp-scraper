@@ -1,0 +1,16 @@
+{
+  "Title": "The Wild",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-wild/3FhO77hopwH8"
+    }
+  ],
+  "in_theaters": false
+}

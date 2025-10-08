@@ -1,0 +1,18 @@
+{
+  "Title": "90 Day Fiancé",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/f00f5486-4bf3-461f-8272-a5598cc7865d"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0c0c8c57-26da-4c41-92d2-e717666abea9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

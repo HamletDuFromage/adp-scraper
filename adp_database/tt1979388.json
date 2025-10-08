@@ -1,0 +1,30 @@
+{
+  "Title": "The Good Dinosaur",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8a9f71f-4bae-8e92-07d7-be8e521dc607/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10a9f79d-22fe-8cf0-68df-6a2c2b48f4fa/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-good-dinosaur/6xKEV7M8fiiu"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1057860639"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B016P2TPEI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

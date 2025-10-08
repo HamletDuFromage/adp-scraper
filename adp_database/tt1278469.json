@@ -1,0 +1,15 @@
+{
+  "Title": "Temple Grandin",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/670fcfdd-b70b-4826-8966-66370ee59e7d"
+    }
+  ],
+  "in_theaters": false
+}

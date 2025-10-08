@@ -1,0 +1,19 @@
+{
+  "Title": "The Murders at Starved Rock",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.361d72ee-9f04-4d88-b52e-4389f8f7a7d7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/70dc7034-aa7f-42d6-9a71-ca6bf04e19b2"
+    }
+  ],
+  "in_theaters": false
+}

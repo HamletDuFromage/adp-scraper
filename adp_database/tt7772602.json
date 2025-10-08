@@ -1,0 +1,18 @@
+{
+  "Title": "In the Dark",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Disability",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81078217"
+    }
+  ],
+  "in_theaters": false
+}

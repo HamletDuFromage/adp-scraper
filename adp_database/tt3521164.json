@@ -1,0 +1,27 @@
+{
+  "Title": "Moana",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccac3775-96dd-25d7-547d-b3996834b8f7/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/moana/70GoJHflgHH9"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1175204079"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01MAZGH7Z/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

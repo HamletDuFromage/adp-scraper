@@ -1,0 +1,16 @@
+{
+  "Title": "The Master",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88b87782-4217-d928-3a1a-8be5203ccc42/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

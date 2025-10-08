@@ -1,0 +1,19 @@
+{
+  "Title": "Eighth Grade",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Coming of Age",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aadae3dc-9445-4356-97cc-419a526f41c5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1398117250"
+    }
+  ],
+  "in_theaters": false
+}

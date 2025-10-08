@@ -1,0 +1,27 @@
+{
+  "Title": "Love Lies Bleeding",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "LGBTQ",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f9c84ff4-85d2-4875-8c5f-a6308b9c306f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/552f0116-65dc-4a87-9666-b2ef6135ed3d"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1736056231"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3020922"
+    }
+  ],
+  "in_theaters": false
+}

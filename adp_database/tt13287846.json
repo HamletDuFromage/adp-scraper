@@ -1,0 +1,21 @@
+{
+  "Title": "Napoleon",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.17e41396-add7-458a-8617-7b9e0f9c9b9d/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.25k80oxl3vo69c8rimk8v81s1"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1720014471"
+    }
+  ],
+  "in_theaters": false
+}

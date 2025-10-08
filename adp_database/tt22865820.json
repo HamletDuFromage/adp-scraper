@@ -1,0 +1,15 @@
+{
+  "Title": "City Island",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.65e896a6-4c9a-484e-bb6a-f14b4f155795/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

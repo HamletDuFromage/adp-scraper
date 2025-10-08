@@ -1,0 +1,21 @@
+{
+  "Title": "Silence",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6fb5e3e-f152-450b-b0a5-ebf6092d3234/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1182256141"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI11A4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "8 Heads in a Duffel Bag",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/8-heads-in-a-duffel-bag"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4b48ec9-5085-0589-42bd-95adabf94d2e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Star Trek IX: Insurrection",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54b43410-5eea-2e37-4fe1-3b8e95b78520/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/14093"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/z4QF94bldMkQpyafpHziL4xOiWoOwJvk/"
+    }
+  ],
+  "in_theaters": false
+}

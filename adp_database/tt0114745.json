@@ -1,0 +1,19 @@
+{
+  "Title": "The Tuskegee Airmen",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ddd4fba-647e-48f6-b48a-6791f7107273/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/13b612e0-6666-4e5c-b844-c1284ecaff5a"
+    }
+  ],
+  "in_theaters": false
+}

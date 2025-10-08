@@ -1,0 +1,19 @@
+{
+  "Title": "His Dark Materials",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9819694b-7095-460d-a54b-ae1050d381e2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c85c42d0-3d9b-4d5c-bf5d-9a976dbbe7d2"
+    }
+  ],
+  "in_theaters": false
+}

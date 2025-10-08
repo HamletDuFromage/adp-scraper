@@ -1,0 +1,27 @@
+{
+  "Title": "Empire of Light",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3cc27309-4e67-41cd-86b8-4719da8459ff/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0def116-733f-4e4b-99ef-fbe16daeda2e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1664472742"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BT22DLTN/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2254980"
+    }
+  ],
+  "in_theaters": false
+}

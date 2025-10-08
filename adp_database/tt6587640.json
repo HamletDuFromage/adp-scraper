@@ -1,0 +1,23 @@
+{
+  "Title": "Trolls World Tour",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8b88e97-e98f-2e23-60d0-33cff2c92c31/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1502943464"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B086PPHNJB/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

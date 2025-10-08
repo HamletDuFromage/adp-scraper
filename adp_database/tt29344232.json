@@ -1,0 +1,18 @@
+{
+  "Title": "Painkiller: The Tylenol Murders",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28d76efe-9ac6-4c2d-818f-a5741b0b8492/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/painkiller-the-tylenol-murders/"
+    }
+  ],
+  "in_theaters": false
+}

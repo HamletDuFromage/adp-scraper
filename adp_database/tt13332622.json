@@ -1,0 +1,18 @@
+{
+  "Title": "Before",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fb39a75f-b733-4c43-8cdc-7d23e0493b1c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.4uwoba1ftlsr5da94wc98ilsc"
+    }
+  ],
+  "in_theaters": false
+}

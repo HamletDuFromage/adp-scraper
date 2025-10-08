@@ -1,0 +1,15 @@
+{
+  "Title": "Handsome: A Netflix Mystery Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80106793"
+    }
+  ],
+  "in_theaters": false
+}

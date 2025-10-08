@@ -1,0 +1,17 @@
+{
+  "Title": "A StoryBots Space Adventure",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81484111"
+    }
+  ],
+  "in_theaters": false
+}

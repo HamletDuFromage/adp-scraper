@@ -1,0 +1,18 @@
+{
+  "Title": "Good Burger 2",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30644aa7-9f62-4546-ae1f-b99dc0e07ad0/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/vzMug2ck4Gcl1gI65VWrJDGPLVjnxG0a/"
+    }
+  ],
+  "in_theaters": false
+}

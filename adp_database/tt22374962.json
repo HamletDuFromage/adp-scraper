@@ -1,0 +1,15 @@
+{
+  "Title": "The Manny",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/698978/the-manny"
+    }
+  ],
+  "in_theaters": false
+}

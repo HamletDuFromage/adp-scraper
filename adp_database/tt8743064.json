@@ -1,0 +1,16 @@
+{
+  "Title": "See You Yesterday",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80216758"
+    }
+  ],
+  "in_theaters": false
+}

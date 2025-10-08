@@ -1,0 +1,16 @@
+{
+  "Title": "The Siege of Jadotville",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80041653"
+    }
+  ],
+  "in_theaters": false
+}

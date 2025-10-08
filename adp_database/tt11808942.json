@@ -1,0 +1,20 @@
+{
+  "Title": "Schmigadoon!",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Musical",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ff7b6fe-15ca-47bb-8180-1359e4189285/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1tqmf2znhr4oui4vo69ircyui"
+    }
+  ],
+  "in_theaters": false
+}

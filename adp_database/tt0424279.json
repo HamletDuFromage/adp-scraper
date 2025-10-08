@@ -1,0 +1,23 @@
+{
+  "Title": "Mickey's Twice Upon a Christmas",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ca9f73c-025b-c26a-6afb-a713e684e1e2/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mickeys-twice-upon-a-christmas/4RwFm3SJKgX4"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id297558510"
+    }
+  ],
+  "in_theaters": false
+}

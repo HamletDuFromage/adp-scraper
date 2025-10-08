@@ -1,0 +1,18 @@
+{
+  "Title": "The Change-Up",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ea9f74d-fc3a-cb11-e35c-62523d282fcb/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004HO6I2E/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

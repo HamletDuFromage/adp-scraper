@@ -1,0 +1,18 @@
+{
+  "Title": "Mariah's Christmas: The Magic Continues",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Holiday",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.811389ba-5948-441f-8a57-eabd77ae2851/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.227bl4rudf84e4pwouml1lss0"
+    }
+  ],
+  "in_theaters": false
+}

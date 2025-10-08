@@ -1,0 +1,16 @@
+{
+  "Title": "They Might Be Giants",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Mystery",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32aa9bc9-32ba-4b0c-7ad0-b52ee55da09f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

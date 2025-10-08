@@ -1,0 +1,25 @@
+{
+  "Title": "The Hunger Games: Mockingjay - Part 1",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ca9f76f-67b2-cd74-9339-caa753dc6b9e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id938538816"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00PYLT0OW/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/41f9514c-ff04-4ddc-9bb5-a679ce69a070"
+    }
+  ],
+  "in_theaters": false
+}

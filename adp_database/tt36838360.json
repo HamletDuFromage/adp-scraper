@@ -1,0 +1,15 @@
+{
+  "Title": "Kings Court",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aeacde8e-6a99-4a4e-a714-59fd35fc13cd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Fatale",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B08R6MTBPP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

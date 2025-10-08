@@ -1,0 +1,15 @@
+{
+  "Title": "Chaos: The Manson Murders",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81482892"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Brené Brown: The Call to Courage",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81010166"
+    }
+  ],
+  "in_theaters": false
+}

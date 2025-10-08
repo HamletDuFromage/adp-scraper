@@ -1,0 +1,21 @@
+{
+  "Title": "The Adjustment Bureau",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52a9f77d-7693-574e-b7da-d7ba0e6ac040/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004WCTLNY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

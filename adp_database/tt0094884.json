@@ -1,0 +1,14 @@
+{
+  "Title": "Clean and Sober",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/9163"
+    }
+  ],
+  "in_theaters": false
+}

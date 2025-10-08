@@ -1,0 +1,23 @@
+{
+  "Title": "Candy Cane Lane",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2c28f1d0-45dd-4f39-be36-1e0f9ab5a9ba/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1720050793"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2909512"
+    }
+  ],
+  "in_theaters": false
+}

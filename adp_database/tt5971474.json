@@ -1,0 +1,27 @@
+{
+  "Title": "The Little Mermaid",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Musical",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-little-mermaid/5V7zkeKCcrWo"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1694118353"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CB8YG5V7/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2429598"
+    }
+  ],
+  "in_theaters": false
+}

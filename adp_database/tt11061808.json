@@ -1,0 +1,17 @@
+{
+  "Title": "Tough as Nails",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6e45861-556c-486d-8d3c-34402434e707/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/tough-as-nails/"
+    }
+  ],
+  "in_theaters": false
+}

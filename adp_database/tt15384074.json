@@ -1,0 +1,19 @@
+{
+  "Title": "Marie Antoinette",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6817cd49-2f44-4e14-86da-7950851cb08b/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2319607"
+    }
+  ],
+  "in_theaters": false
+}

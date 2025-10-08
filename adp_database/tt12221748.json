@@ -1,0 +1,15 @@
+{
+  "Title": "Becoming",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81122487"
+    }
+  ],
+  "in_theaters": false
+}

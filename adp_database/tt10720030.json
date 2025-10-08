@@ -1,0 +1,18 @@
+{
+  "Title": "Atlanta's Missing and Murdered: The Lost Children",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e74c6d7f-5798-426b-8550-1e83ccb25e88/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e364d775-f7d8-46f5-b267-b5e155856250"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Father of the Bride Part II",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/father-of-the-bride-part-ii/3Qd0sESpephM"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id864087134"
+    }
+  ],
+  "in_theaters": false
+}

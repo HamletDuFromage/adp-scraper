@@ -1,0 +1,16 @@
+{
+  "Title": "Shanty Town",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81630495"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "David Holmes: The Boy Who Lived",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Disability",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c80b6ecb-cd42-451b-be70-2eeab7614ad0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/79abc2df-3e0a-49d5-952e-463d4f1bfff7"
+    }
+  ],
+  "in_theaters": false
+}

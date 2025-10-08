@@ -1,0 +1,19 @@
+{
+  "Title": "Murder in Boston: Roots, Rampage & Reckoning",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7e1750e3-799a-497f-a7c8-7bb41ceee677/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/68af2b13-0855-4d8f-aca4-040802d63fcb"
+    }
+  ],
+  "in_theaters": false
+}

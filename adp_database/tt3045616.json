@@ -1,0 +1,17 @@
+{
+  "Title": "Mortdecai",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00V37CE0S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

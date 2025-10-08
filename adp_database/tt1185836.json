@@ -1,0 +1,16 @@
+{
+  "Title": "Adam",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14bacf88-1564-23dc-c0c3-9174ed93299b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

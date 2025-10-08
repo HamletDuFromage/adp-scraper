@@ -1,0 +1,15 @@
+{
+  "Title": "Aftershock",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/aftershock-c1414fdf-0741-4bd2-b62c-554db3d8f643"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The Worst Witch",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80130521"
+    }
+  ],
+  "in_theaters": false
+}

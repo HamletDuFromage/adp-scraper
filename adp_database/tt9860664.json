@@ -1,0 +1,14 @@
+{
+  "Title": "The Goes Wrong Show",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10b9f2fd-b5c2-b793-0043-63f990fd887f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

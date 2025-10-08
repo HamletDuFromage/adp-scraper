@@ -1,0 +1,18 @@
+{
+  "Title": "It's the Small Things, Charlie Brown",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.326e20e0-4dda-4181-aa77-b0fbd09e4453/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.gr1rsr9lp2tzfwb0w6zhq9y3"
+    }
+  ],
+  "in_theaters": false
+}

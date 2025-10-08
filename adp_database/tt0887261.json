@@ -1,0 +1,16 @@
+{
+  "Title": "Hellraiser",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/eb138082-5c40-4a8f-aa30-3fc66ef615fd"
+    }
+  ],
+  "in_theaters": false
+}

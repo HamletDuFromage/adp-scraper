@@ -1,0 +1,18 @@
+{
+  "Title": "Miracle at Midnight",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/miracle-at-midnight/3piiWJOC6C1T"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id826420355"
+    }
+  ],
+  "in_theaters": false
+}

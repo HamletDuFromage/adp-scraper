@@ -1,0 +1,33 @@
+{
+  "Title": "Dog Man",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7c5ad19b-f77c-4c19-a400-97b0eb4db52e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1791208392"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DTQC85WC/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3931888"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/dog-man/9efd5a22-5a94-3bd4-bde2-cb9176b68b9f"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81975712"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "If These Walls Could Sing",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/d17ae8b5-4051-4e9a-84eb-ab92ff45de21"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/if-these-walls-could-sing/6qV9r0UnbXdm"
+    }
+  ],
+  "in_theaters": false
+}

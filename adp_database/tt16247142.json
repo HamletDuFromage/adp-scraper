@@ -1,0 +1,18 @@
+{
+  "Title": "German Genius",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.31e1ddab-a57a-4ee8-94d6-993ccc457572/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/d103b385-8d4e-4934-b84e-0a3415ad3df0"
+    }
+  ],
+  "in_theaters": false
+}

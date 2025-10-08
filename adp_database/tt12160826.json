@@ -1,0 +1,19 @@
+{
+  "Title": "Duster",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/44cf11c4-1a5f-439b-85d0-3b8114616493"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d9faffb6-cb0d-4d44-9d6c-eb58fb1a0d2f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "All Together Now",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80237870"
+    }
+  ],
+  "in_theaters": false
+}

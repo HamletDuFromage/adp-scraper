@@ -1,0 +1,18 @@
+{
+  "Title": "LEGO Marvel Avengers: Mission Demolition",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7-FV",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-166d42c1-9757-49c1-8a65-7eec13f6817f"
+    }
+  ],
+  "in_theaters": false
+}

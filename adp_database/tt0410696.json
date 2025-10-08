@@ -1,0 +1,16 @@
+{
+  "Title": "Stuck in the Suburbs",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/stuck-in-the-suburbs/22bx6eTQa0hf"
+    }
+  ],
+  "in_theaters": false
+}

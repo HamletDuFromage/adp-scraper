@@ -1,0 +1,17 @@
+{
+  "Title": "We Can Be Heroes",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80994666"
+    }
+  ],
+  "in_theaters": false
+}

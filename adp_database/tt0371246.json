@@ -1,0 +1,16 @@
+{
+  "Title": "Spanglish",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aa9f6d4-8ea9-6eaa-4e5c-bce05c0dd9d2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

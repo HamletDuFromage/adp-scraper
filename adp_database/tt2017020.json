@@ -1,0 +1,24 @@
+{
+  "Title": "The Smurfs 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id717567624"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B008JFUREC/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/VWfUTROUtUWaWEkzAuKjshutncaZnE0J/"
+    }
+  ],
+  "in_theaters": false
+}

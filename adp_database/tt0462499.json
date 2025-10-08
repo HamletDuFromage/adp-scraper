@@ -1,0 +1,16 @@
+{
+  "Title": "Rambo",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68a9f731-b1db-b80c-3f62-85496d9791a2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

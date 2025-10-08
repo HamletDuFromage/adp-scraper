@@ -1,0 +1,21 @@
+{
+  "Title": "Monster Hunter",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4bb12b1-a20e-b7d9-1f74-4ca7a77c3019/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1544577239"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08QS9V2YV/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

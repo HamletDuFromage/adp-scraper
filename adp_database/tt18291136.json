@@ -1,0 +1,26 @@
+{
+  "Title": "Knuckles",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4ebccf1-be54-4a73-9340-8eaba04783e7/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D21Q1LKX/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3370327"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/knuckles/"
+    }
+  ],
+  "in_theaters": false
+}

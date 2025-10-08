@@ -1,0 +1,18 @@
+{
+  "Title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.058728d8-083c-4e78-981c-cc85a4ca79c1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d86dcb48-688a-4985-ae39-9f84e4e03776"
+    }
+  ],
+  "in_theaters": false
+}

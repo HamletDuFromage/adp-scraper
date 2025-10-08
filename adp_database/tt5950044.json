@@ -1,0 +1,37 @@
+{
+  "Title": "Superman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1821672911"
+    },
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f7089fd6-afe1-4e42-a692-be74e5426062/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72e041dc-573e-4d1d-87a0-c79ddb7004bd/audiodescriin-20"
+    },
+    {
+      "Prime Video3": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.632fa8f9-fdba-464c-a652-17dbd6e05cee/audiodescriin-20"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d776c73ad5437001f7be813&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    },
+    {
+      "HBO Max1": "https://play.max.com/movie/b22d075e-d037-4c61-9b03-2e406f293b0e"
+    },
+    {
+      "HBO Max2": "https://play.max.com/movie/b2bece24-7dad-4984-b370-7810a150e27c"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0FDFDPW5W/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

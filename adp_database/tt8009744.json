@@ -1,0 +1,16 @@
+{
+  "Title": "Worth",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80226212"
+    }
+  ],
+  "in_theaters": false
+}

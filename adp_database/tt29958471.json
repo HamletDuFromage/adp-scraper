@@ -1,0 +1,19 @@
+{
+  "Title": "Roller Jam",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cf61cafd-c657-416f-a0ca-5aaae84c64ad/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/378176f7-87f4-49b9-af35-be720b904d59"
+    }
+  ],
+  "in_theaters": false
+}

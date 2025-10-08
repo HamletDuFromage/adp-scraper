@@ -1,0 +1,15 @@
+{
+  "Title": "Strawberry Shortcake's Spring Spectacular",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81611034"
+    }
+  ],
+  "in_theaters": false
+}

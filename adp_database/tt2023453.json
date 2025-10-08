@@ -1,0 +1,15 @@
+{
+  "Title": "Diary of a Wimpy Kid: Dog Days",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIIT4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

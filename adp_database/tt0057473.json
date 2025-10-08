@@ -1,0 +1,17 @@
+{
+  "Title": "Savage Sam",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id282102139"
+    }
+  ],
+  "in_theaters": false
+}

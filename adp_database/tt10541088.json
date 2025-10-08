@@ -1,0 +1,16 @@
+{
+  "Title": "Clarkson's Farm",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7a1b91e4-dc7a-4437-af84-e66937991dd6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

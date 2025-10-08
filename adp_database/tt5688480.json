@@ -1,0 +1,16 @@
+{
+  "Title": "Stop the Wedding",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34ba06ba-872b-f122-ca48-a0f4a309b9fa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Disneynature: Monkey Kingdom",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneynature-monkey-kingdom/12pZp4AQpjfA"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id983655754"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00W43AF10/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

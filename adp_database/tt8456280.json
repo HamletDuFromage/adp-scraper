@@ -1,0 +1,19 @@
+{
+  "Title": "Yabba Dabba Dinosaurs",
+  "Media Type": "Series",
+  "Rating": "TV-Y7-FV",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2f1b6cea-f86a-4141-a349-e104bc9c8712/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2261660"
+    }
+  ],
+  "in_theaters": false
+}

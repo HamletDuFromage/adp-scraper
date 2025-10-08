@@ -1,0 +1,21 @@
+{
+  "Title": "Angel Has Fallen",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52bbcb00-5d72-2cd3-87df-57b162c04d0e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1476130485"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07YBVDKG7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

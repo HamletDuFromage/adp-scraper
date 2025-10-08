@@ -1,0 +1,14 @@
+{
+  "Title": "The Lady Bird Diaries",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/48967c41-c397-47c2-a4b4-b087b7034017"
+    }
+  ],
+  "in_theaters": false
+}

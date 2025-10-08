@@ -1,0 +1,19 @@
+{
+  "Title": "The Best Exotic Marigold Hotel",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id511070134"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005S9EJ14/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "Shazam! Fury of the Gods",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.99855df5-7121-4534-bfd9-bae43ac3593b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f51ad955-30ef-43fc-9ffa-38de98c55f93"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1669969383"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BXTPZDHQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

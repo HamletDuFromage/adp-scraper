@@ -1,0 +1,17 @@
+{
+  "Title": "Teen Mom Family Reunion",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.743ce000-8fe9-4bbd-9a25-ecfd7cc8dfd7/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/teen-mom-family-reunion/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Wicked Woods: A Descendants Halloween Story",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-13bfabe1-a67e-4287-9f16-b87446cf27b6"
+    }
+  ],
+  "in_theaters": false
+}

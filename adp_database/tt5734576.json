@@ -1,0 +1,22 @@
+{
+  "Title": "The Possession of Hannah Grace",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.feb3b311-4d25-da82-7b25-2bc2cd71d40a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1441588093"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317599971/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

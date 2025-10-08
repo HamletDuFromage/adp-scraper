@@ -1,0 +1,18 @@
+{
+  "Title": "Echo Valley",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.1al6pi2y17htw3z98tbacgo55"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e651af6a-513f-411b-b538-5aad48446f80/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

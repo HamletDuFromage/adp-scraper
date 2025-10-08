@@ -1,0 +1,17 @@
+{
+  "Title": "Bar Fight!",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ba7ddca0-9a99-4c45-bfbb-f21da2b68ab1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1649818083"
+    }
+  ],
+  "in_theaters": false
+}

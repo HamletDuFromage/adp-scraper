@@ -1,0 +1,21 @@
+{
+  "Title": "Revolutionary Road",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ab3f5c8-7b59-81b5-5ce3-39bd6746187e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id305333724"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/162217"
+    }
+  ],
+  "in_theaters": false
+}

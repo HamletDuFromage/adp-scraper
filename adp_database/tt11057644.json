@@ -1,0 +1,17 @@
+{
+  "Title": "The Christmas Chronicles: Part Two",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80988988"
+    }
+  ],
+  "in_theaters": false
+}

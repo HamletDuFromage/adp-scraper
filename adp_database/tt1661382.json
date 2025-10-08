@@ -1,0 +1,19 @@
+{
+  "Title": "Grudge Match",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ca9f7a6-912c-2b2f-5522-6b42792624c7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id777014109"
+    }
+  ],
+  "in_theaters": false
+}

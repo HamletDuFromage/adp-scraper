@@ -1,0 +1,14 @@
+{
+  "Title": "Behind the Curtain: Stranger Things the First Shadow",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81768470"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Campaign",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.00a9f779-f329-c9e4-5359-7f2d9900e9e6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id563491387"
+    }
+  ],
+  "in_theaters": false
+}

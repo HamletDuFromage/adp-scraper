@@ -1,0 +1,20 @@
+{
+  "Title": "The Wife",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eab43e6a-d6fb-ef7a-60a0-e9b01bda721d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1435545549"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07GVZJWD8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

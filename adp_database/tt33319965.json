@@ -1,0 +1,18 @@
+{
+  "Title": "Tom Petty: Heartbreakers Beach Party",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eecf7f50-d24c-45e9-81c3-e6696424821a/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/YP4um6Ey_qFQq9mLqUrEFLVH5SjNQHXo/"
+    }
+  ],
+  "in_theaters": false
+}

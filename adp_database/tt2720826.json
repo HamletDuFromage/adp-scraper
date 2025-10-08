@@ -1,0 +1,16 @@
+{
+  "Title": "Birth of the Dragon",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c2aef668-e1fa-997e-dfd7-802ac3880b4a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

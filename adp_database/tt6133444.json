@@ -1,0 +1,23 @@
+{
+  "Title": "The Fire Inside",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a83b5b1c-693f-4808-8008-f31cb7aa5dee/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1784591829"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3878481"
+    }
+  ],
+  "in_theaters": false
+}

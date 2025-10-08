@@ -1,0 +1,29 @@
+{
+  "Title": "Scouts Guide to the Zombie Apocalypse",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Action & Adventure",
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1045218929"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00NGL7J68/audiodescriin-20"
+    },
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06a9f684-ee89-b2d0-37bc-df8aabc83602/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8a0ebef-d403-4c21-bb91-a86063684d47/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/kvUlTd7SMofQVMgt07x3orUo_NG_fK0k/"
+    }
+  ],
+  "in_theaters": false
+}

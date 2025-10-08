@@ -1,0 +1,14 @@
+{
+  "Title": "Your Friend, Nate Bargatze",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81722080"
+    }
+  ],
+  "in_theaters": false
+}

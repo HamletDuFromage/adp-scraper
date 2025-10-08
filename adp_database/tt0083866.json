@@ -1,0 +1,22 @@
+{
+  "Title": "E.T. The Extra-Terrestrial",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f78a-fd51-d9b7-c114-58f511f74d79/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id544128124"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60022398"
+    }
+  ],
+  "in_theaters": false
+}

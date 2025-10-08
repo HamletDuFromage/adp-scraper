@@ -1,0 +1,19 @@
+{
+  "Title": "The Legend of the Underground",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Documentary",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a42cf20a-a884-47f8-8a2d-6d677379e492/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/026feeb7-9fc1-4622-9fef-e320bf5a7e11"
+    }
+  ],
+  "in_theaters": false
+}

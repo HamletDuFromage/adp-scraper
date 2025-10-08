@@ -1,0 +1,15 @@
+{
+  "Title": "Famous Last Words: Dr. Jane Goodall",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/82053197"
+    }
+  ],
+  "in_theaters": false
+}

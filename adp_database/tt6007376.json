@@ -1,0 +1,18 @@
+{
+  "Title": "Josh Blue: Delete",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Disability",
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/josh-blue-delete/39948db3-129d-3837-8bda-1a629b1da591"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cab3e0a3-d2f9-16fb-310e-ba2814d3efcb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

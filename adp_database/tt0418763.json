@@ -1,0 +1,19 @@
+{
+  "Title": "Jarhead",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86a9f721-2421-8d70-5448-1d1a5b24d001/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70021659"
+    }
+  ],
+  "in_theaters": false
+}

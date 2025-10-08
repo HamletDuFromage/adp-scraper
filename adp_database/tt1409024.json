@@ -1,0 +1,25 @@
+{
+  "Title": "Men in Black 3",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70a9f6bc-5a69-2c4a-547c-797f0b6dc4a3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id536851553"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B008Y1YK9Y/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/kHgGqF6Rg650DgMWpyUb6V3LlQ_Q8oio/"
+    }
+  ],
+  "in_theaters": false
+}

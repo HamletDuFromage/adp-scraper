@@ -1,0 +1,15 @@
+{
+  "Title": "The Heartbreak Kid",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/movies/5f244c136b68ff00075b0fc1"
+    }
+  ],
+  "in_theaters": false
+}

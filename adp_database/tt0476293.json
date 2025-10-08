@@ -1,0 +1,16 @@
+{
+  "Title": "Love Thy Neighbor",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0aa6a1d-185c-cdf4-1ef2-470f50ab76ac/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

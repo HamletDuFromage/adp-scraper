@@ -1,0 +1,17 @@
+{
+  "Title": "I Can Only Imagine",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38b551dd-7a8d-8a4c-2815-9f0680a39fbf/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Izzy's Koala World",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81142848"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Ranch",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80077977"
+    }
+  ],
+  "in_theaters": false
+}

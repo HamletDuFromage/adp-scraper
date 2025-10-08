@@ -1,0 +1,18 @@
+{
+  "Title": "Sort Of",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66578124-5b2d-4c7d-98b2-9de390b43806/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/fd2a57e4-c0cc-497f-9989-34971877ff41"
+    }
+  ],
+  "in_theaters": false
+}

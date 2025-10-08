@@ -1,0 +1,17 @@
+{
+  "Title": "Futurama",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/futurama-85bf4cc1-cd8b-4469-ad87-7289217a0b74"
+    }
+  ],
+  "in_theaters": false
+}

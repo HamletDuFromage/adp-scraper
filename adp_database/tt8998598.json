@@ -1,0 +1,21 @@
+{
+  "Title": "Kill Giggles",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4278720"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1833573523"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72e157e3-6672-422a-b724-69aa4db1a01f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

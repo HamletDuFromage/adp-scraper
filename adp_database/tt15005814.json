@@ -1,0 +1,18 @@
+{
+  "Title": "The Courtship",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-courtship/7812307941322603112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6dab3f7e-a785-4f40-999e-5070ba3d51ae/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

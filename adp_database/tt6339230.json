@@ -1,0 +1,17 @@
+{
+  "Title": "Deadly Exposé",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.825cdbe8-67d1-4fdf-ae18-8df37a626650/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

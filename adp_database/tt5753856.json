@@ -1,0 +1,17 @@
+{
+  "Title": "Dark",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80100172"
+    }
+  ],
+  "in_theaters": false
+}

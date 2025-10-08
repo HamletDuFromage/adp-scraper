@@ -1,0 +1,15 @@
+{
+  "Title": "Front of the Class",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8a1d66ff-a639-4f18-a59c-300bb6b6998d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

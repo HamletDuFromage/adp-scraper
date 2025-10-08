@@ -1,0 +1,18 @@
+{
+  "Title": "The Family Plan",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e7dd0a23-c91f-432f-92ca-d44a713a40ce/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.6o6y3wel2lez2tkdu2cv8dzd1"
+    }
+  ],
+  "in_theaters": false
+}

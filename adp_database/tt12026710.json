@@ -1,0 +1,20 @@
+{
+  "Title": "Suspicion",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cee344e0-e7dc-47db-a97a-08970502315e/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.64yj71dmrdihhmo96h0lgjmw5"
+    }
+  ],
+  "in_theaters": false
+}

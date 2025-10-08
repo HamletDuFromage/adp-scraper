@@ -1,0 +1,16 @@
+{
+  "Title": "Bombay Rose",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Animation",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81270289"
+    }
+  ],
+  "in_theaters": false
+}

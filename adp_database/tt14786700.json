@@ -1,0 +1,17 @@
+{
+  "Title": "Alice's Wonderland Bakery",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/disney-junior-alices-wonderland-bakery/6WQ9PvGPOYhE"
+    }
+  ],
+  "in_theaters": false
+}

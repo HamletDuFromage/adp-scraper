@@ -1,0 +1,16 @@
+{
+  "Title": "American Horror Stories",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/american-horror-stories-04d07a40-2e27-4141-aa47-cef856aeee60"
+    }
+  ],
+  "in_theaters": false
+}

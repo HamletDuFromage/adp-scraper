@@ -1,0 +1,20 @@
+{
+  "Title": "Booksmart",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bab5f62a-cf81-c015-7883-3b5aafa26d8e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1463525201"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07RF4G6Z1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

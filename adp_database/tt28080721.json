@@ -1,0 +1,16 @@
+{
+  "Title": "Choir",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/details/2ZObNbv5pKlj"
+    }
+  ],
+  "in_theaters": false
+}

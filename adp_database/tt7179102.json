@@ -1,0 +1,14 @@
+{
+  "Title": "Obey Giant",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/obey-giant-26c3c7ca-412b-49e0-a075-7b36992a9177"
+    }
+  ],
+  "in_theaters": false
+}

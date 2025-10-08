@@ -1,0 +1,16 @@
+{
+  "Title": "Brand New Cherry Flavor",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80233374"
+    }
+  ],
+  "in_theaters": false
+}

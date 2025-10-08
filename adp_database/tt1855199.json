@@ -1,0 +1,16 @@
+{
+  "Title": "End of Watch",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72a9f78b-b14c-c395-5aa3-31d7e6213c1b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

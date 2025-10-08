@@ -1,0 +1,18 @@
+{
+  "Title": "There is No \"I\" in Threesome",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bc809eb8-a881-4194-8ac7-f18a19b3d3a7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/e4c5cce7-00ef-4dd3-86cc-04dba2f7cd8c"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "The Room Next Door",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81900236"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1792329107"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DMF95K7F/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4006802"
+    }
+  ],
+  "in_theaters": false
+}

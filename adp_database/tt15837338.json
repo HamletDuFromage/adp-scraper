@@ -1,0 +1,33 @@
+{
+  "Title": "PAW Patrol: The Mighty Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ed3158a5-3ede-47ad-924c-841e30c9532a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1706279965"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CJ47XFJB/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2553962"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/paw-patrol-the-mighty-movie-2023"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/I7Kzam954ZDiTSqtO4SMFF_dfYCJt1ii/"
+    }
+  ],
+  "in_theaters": false
+}

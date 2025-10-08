@@ -1,0 +1,17 @@
+{
+  "Title": "State of Play",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.08b04b01-3389-417f-5ddb-fd46f16eefc1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

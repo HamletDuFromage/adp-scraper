@@ -1,0 +1,25 @@
+{
+  "Title": "The Hill",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8ceaede-7d25-4a5d-b7e7-88b33d77683d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1704853042"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CG2LQSDF/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2590324"
+    }
+  ],
+  "in_theaters": false
+}

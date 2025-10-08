@@ -1,0 +1,19 @@
+{
+  "Title": "Stardust",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1537505092"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c5b3c795-4386-47d0-8244-f8b9bc3ad307/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

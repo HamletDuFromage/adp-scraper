@@ -1,0 +1,22 @@
+{
+  "Title": "Summerland",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e33f18c4-eb26-4b5c-9027-d43a4455f282/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1520710569"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08FP25KK2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

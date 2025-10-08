@@ -1,0 +1,16 @@
+{
+  "Title": "Killer Cakes",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Game Show",
+    "Horror",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e350b40a-6632-4c21-a94b-06b35f213922/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

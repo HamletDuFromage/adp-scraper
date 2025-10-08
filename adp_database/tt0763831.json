@@ -1,0 +1,22 @@
+{
+  "Title": "A Thousand Words",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bde2a3ef-c820-4e04-882d-512e871418c5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id524404544"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIGIM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

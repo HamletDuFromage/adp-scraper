@@ -1,0 +1,16 @@
+{
+  "Title": "Colette",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07H5VTTBH/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

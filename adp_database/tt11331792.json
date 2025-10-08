@@ -1,0 +1,17 @@
+{
+  "Title": "Great Photo, Lovely Life",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dd9fb3a4-79d1-4be8-b9a5-3303a00ba567/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/33c87966-a20f-4f0f-9843-af69a0afabb7"
+    }
+  ],
+  "in_theaters": false
+}

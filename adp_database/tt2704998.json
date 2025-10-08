@@ -1,0 +1,23 @@
+{
+  "Title": "Game Night",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48b0d84d-80e1-e9c8-9a77-8f37aa100635/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1348407955"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07CF6X78K/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "One Missed Call",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10a9f73b-f129-4b9c-b8c6-6c8c9fe86df4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

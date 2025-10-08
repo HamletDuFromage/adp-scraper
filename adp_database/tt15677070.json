@@ -1,0 +1,14 @@
+{
+  "Title": "Voir",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80990130"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Settlers",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1573089266"
+    }
+  ],
+  "in_theaters": false
+}

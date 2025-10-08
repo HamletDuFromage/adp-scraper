@@ -1,0 +1,14 @@
+{
+  "Title": "Joseph & Mary",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B01E606F7G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

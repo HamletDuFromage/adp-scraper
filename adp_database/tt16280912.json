@@ -1,0 +1,19 @@
+{
+  "Title": "Humane",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64d980ee-9880-465f-a835-c07902e239fc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1737509055"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Big George Foreman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ba24567-6ecd-4162-aaef-cb15bb869285/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C343J2H6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Rocky IV",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e3efaa74-b716-47dc-b26a-df87eb59a2cf/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1eb5f093-dfbd-b7e9-1c61-d92172246142/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

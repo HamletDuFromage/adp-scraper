@@ -1,0 +1,24 @@
+{
+  "Title": "Aquaman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6abbf101-cb31-7daa-d84b-e1867e20361f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/7b5168e8-da4e-4b49-bd29-091bc899ef2b"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1444244278"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317631093/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

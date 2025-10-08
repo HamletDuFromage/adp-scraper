@@ -1,0 +1,18 @@
+{
+  "Title": "Fixer Upper",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.291e219f-e058-46d0-b043-f1ad26737bec/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/4031eb1f-d10a-4008-9590-4ec67ae29a8a"
+    }
+  ],
+  "in_theaters": false
+}

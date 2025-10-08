@@ -1,0 +1,15 @@
+{
+  "Title": "Buffalo Dreams",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/buffalo-dreams/3oXNPVamMTFq"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Beastie Boys Story",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67d93bd4-a256-4c70-865f-c4fd540c688a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.6d0mrskjsusw2jd2d228p88c2"
+    }
+  ],
+  "in_theaters": false
+}

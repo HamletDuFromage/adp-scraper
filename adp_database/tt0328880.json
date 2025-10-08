@@ -1,0 +1,19 @@
+{
+  "Title": "Brother Bear",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/brother-bear/2asiYJlL0GMa"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id206329413"
+    }
+  ],
+  "in_theaters": false
+}

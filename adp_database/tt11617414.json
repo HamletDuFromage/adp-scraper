@@ -1,0 +1,17 @@
+{
+  "Title": "1000-lb Sisters",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/08ebaa74-41f1-41d8-9273-fdd7a7e8994c"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.314dc3f8-52cd-4e98-ad7c-20e27baba9f0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

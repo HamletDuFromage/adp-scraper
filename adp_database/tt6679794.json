@@ -1,0 +1,16 @@
+{
+  "Title": "Outlaw King",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80190859"
+    }
+  ],
+  "in_theaters": false
+}

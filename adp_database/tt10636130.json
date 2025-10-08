@@ -1,0 +1,14 @@
+{
+  "Title": "Making Sense",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1561880710"
+    }
+  ],
+  "in_theaters": false
+}

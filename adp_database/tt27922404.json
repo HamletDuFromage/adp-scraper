@@ -1,0 +1,19 @@
+{
+  "Title": "Daughters of the Cult",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/ecb95c0a-c542-4716-8320-24e0a67e133b"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-b8a705ed-d66d-4693-bb43-47c9ef03c3fe"
+    }
+  ],
+  "in_theaters": false
+}

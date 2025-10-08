@@ -1,0 +1,21 @@
+{
+  "Title": "Vacation",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48b36ad8-34c4-2ff0-0a77-fed012495472/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1020517477"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0134BHI2Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Best in Dough",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Food & Home",
+    "Game Show",
+    "Lifestyle & Culture",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/best-in-dough-9665d5be-9c7b-439f-be18-e8cb970372ba"
+    }
+  ],
+  "in_theaters": false
+}

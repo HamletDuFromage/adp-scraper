@@ -1,0 +1,17 @@
+{
+  "Title": "The Gifted",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-gifted-b50703ac-5fcd-48dd-8547-272f8fa519b9"
+    }
+  ],
+  "in_theaters": false
+}

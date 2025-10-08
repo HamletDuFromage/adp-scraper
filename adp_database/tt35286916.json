@@ -1,0 +1,17 @@
+{
+  "Title": "Wife Stalker",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8de1e9ff-a30c-4be4-a6da-8462696c756a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

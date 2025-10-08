@@ -1,0 +1,26 @@
+{
+  "Title": "Beauty and the Beast",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4b808da-f5b7-b4e6-d892-b2af5a6e8f15/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/beauty-and-the-beast-1991/3oEh78YRc9VN"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id439510925"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B082PQKM5N/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

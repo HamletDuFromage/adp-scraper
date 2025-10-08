@@ -1,0 +1,19 @@
+{
+  "Title": "Bored to Death",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2fac492f-e4ba-460a-b6e3-e20da93d3d34/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1509255f-0eed-4929-9ee1-7535b7ad407f"
+    }
+  ],
+  "in_theaters": false
+}

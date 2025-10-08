@@ -1,0 +1,17 @@
+{
+  "Title": "Christmas Eve on Sesame Street",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4a9f76f-6d74-ebc8-fe64-6851b756c881/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

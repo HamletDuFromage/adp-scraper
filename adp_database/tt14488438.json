@@ -1,0 +1,22 @@
+{
+  "Title": "Dreaming Whilst Black",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4b6abfb-02de-4b75-84d6-f06adf1c8617/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2676965"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/dreaming-whilst-black/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Sea Scouts",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/sea-scouts/6cy7mVacC1i0"
+    }
+  ],
+  "in_theaters": false
+}

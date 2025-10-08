@@ -1,0 +1,21 @@
+{
+  "Title": "Tom & Jerry in New York",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.381a01de-9507-4ae5-9c68-da6ff9417a21/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e54d023e-55ad-4c1a-9b16-319a41cb6a4f"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Midsommar",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2b5bd9d-9831-c10b-22f1-91648371368c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1469317089"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1ce3b54f-7e35-4cdf-a60e-b52b5468ac27"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Abbott Elementary",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ec965858-76aa-471f-bf2a-9fcc90776f4c/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/abbott-elementary-7c33eeb2-5d16-4a10-ad9e-ee31f9fff15c"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/229855e0-bbfb-4f5b-970c-b26a911a44a7"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "The Glass Castle",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cabb181e-161f-69a6-c05b-23d2f8fbbaad/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1266086288"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B075FM4GJL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

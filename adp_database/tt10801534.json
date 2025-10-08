@@ -1,0 +1,18 @@
+{
+  "Title": "How To with John Wilson",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.621477cb-9f57-4ce4-8f84-3595c5416d94/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/2a73975c-0315-4741-888f-d9779fb3adb5"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Operation Finale",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80986885"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07GX5PW3P/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

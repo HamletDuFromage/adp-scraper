@@ -1,0 +1,18 @@
+{
+  "Title": "Bloody Trophy",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/5e5b23a4-0fe4-470c-94f2-bbfd24fe93e0"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d7b7d03a-bcbe-4a99-815d-57d156b08de0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

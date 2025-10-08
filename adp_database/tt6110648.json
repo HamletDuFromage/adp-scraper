@@ -1,0 +1,18 @@
+{
+  "Title": "The Purge",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68b2cfc4-b0b6-8342-57fa-67479f669f54/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Jay and Silent Bob Reboot",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90b7441c-15b8-5f18-41db-b56f90b940b0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

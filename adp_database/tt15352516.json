@@ -1,0 +1,20 @@
+{
+  "Title": "Merry Little Batman",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.61f49fee-f971-44b4-9ec5-82f3b9d630be/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1768967466"
+    }
+  ],
+  "in_theaters": false
+}

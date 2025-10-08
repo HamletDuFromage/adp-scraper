@@ -1,0 +1,20 @@
+{
+  "Title": "Care Bears: Unlock the Magic",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ef8066e1-6628-4e83-92e9-688bd8725845/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3b381cfb-315b-43c5-aa24-719073e3219f"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Madagascar: A Little Wild",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/madagascar-a-little-wild-7a11e023-5762-4980-bfce-7f337e4c28ef"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/madagascar-a-little-wild/6494384629026654112"
+    }
+  ],
+  "in_theaters": false
+}

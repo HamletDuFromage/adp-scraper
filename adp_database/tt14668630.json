@@ -1,0 +1,26 @@
+{
+  "Title": "Lyle, Lyle, Crocodile",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1646645635"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BHKK31YH/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/31d0077f-8985-4b4a-8eec-3a98a649837b"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccaf88ce-bad7-4f48-bdf6-38d153afb88a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

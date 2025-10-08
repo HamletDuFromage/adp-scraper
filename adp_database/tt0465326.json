@@ -1,0 +1,17 @@
+{
+  "Title": "Elizabeth I (Part 2)",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04f85818-dbee-4e20-b590-9d7bc641d7a4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

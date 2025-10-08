@@ -1,0 +1,23 @@
+{
+  "Title": "Fog of War",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1798826918"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4082808"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F528HRFK/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4496432-4437-43e8-9f38-bd88db3b868d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Stick It",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188702974"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Cry Freedom",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56a9f72f-7ef3-c0c1-01e9-7b113199b6d4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

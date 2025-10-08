@@ -1,0 +1,16 @@
+{
+  "Title": "Agent Elvis",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80240585"
+    }
+  ],
+  "in_theaters": false
+}

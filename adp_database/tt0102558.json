@@ -1,0 +1,14 @@
+{
+  "Title": "Nothing But Trouble",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ea7e9110-0f50-4a4c-8373-03b10da21b1d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

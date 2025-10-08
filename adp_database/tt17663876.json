@@ -1,0 +1,22 @@
+{
+  "Title": "Muzzle",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.67efa002-0651-433a-bcbe-a8c7a736527e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1706393278"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CGMH1856/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

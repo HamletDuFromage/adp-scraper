@@ -1,0 +1,17 @@
+{
+  "Title": "Requiem",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80184068"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Barbie: A Touch of Magic",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81607695"
+    }
+  ],
+  "in_theaters": false
+}

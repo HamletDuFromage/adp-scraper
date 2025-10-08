@@ -1,0 +1,18 @@
+{
+  "Title": "Scrooge: A Christmas Carol",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81028225"
+    }
+  ],
+  "in_theaters": false
+}

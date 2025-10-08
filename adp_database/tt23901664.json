@@ -1,0 +1,17 @@
+{
+  "Title": "Oswald the Lucky Rabbit",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/oswald-the-lucky-rabbit/6ZyyxlhLz13D"
+    }
+  ],
+  "in_theaters": false
+}

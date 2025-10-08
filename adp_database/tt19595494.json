@@ -1,0 +1,17 @@
+{
+  "Title": "Next Exit",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Mystery",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d3cd9cd3-ff89-49ae-9e51-47c7664d7f04/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

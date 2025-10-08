@@ -1,0 +1,15 @@
+{
+  "Title": "The Secret: Dare to Dream",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.937fb519-85c1-489b-a278-af0e6dd88784/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

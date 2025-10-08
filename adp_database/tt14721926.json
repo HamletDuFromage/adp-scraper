@@ -1,0 +1,18 @@
+{
+  "Title": "Trixie Motel",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/209807ef-cd09-4828-a621-fe8f403c31e3"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cc60fcef-09f4-45f1-87fc-dbf61d7dd330/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Ghost Town",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8aabea5d-a519-3805-b343-fd8442572412/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

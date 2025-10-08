@@ -1,0 +1,19 @@
+{
+  "Title": "Up in the Air",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id355559079"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/172095"
+    }
+  ],
+  "in_theaters": false
+}

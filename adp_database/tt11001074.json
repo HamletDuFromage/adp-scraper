@@ -1,0 +1,15 @@
+{
+  "Title": "Rust",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d1ed7350-caa2-453b-a503-570d71e25547/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

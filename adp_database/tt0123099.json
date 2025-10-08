@@ -1,0 +1,21 @@
+{
+  "Title": "Happy New Year, Charlie Brown!",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Musical",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.72bog44gdxl0cafwane0z8r32"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e3322aeb-e888-4996-9726-3f9a89f87938/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

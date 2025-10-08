@@ -1,0 +1,15 @@
+{
+  "Title": "The Locksmith",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d43a700e-a7d8-490b-9f6c-747019fb9dee/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

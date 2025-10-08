@@ -1,0 +1,22 @@
+{
+  "Title": "I'm Totally Fine",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/im-totally-fine-c66b124a-43ef-495b-88f1-03b38afb9d9a"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1646120353"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2126123"
+    }
+  ],
+  "in_theaters": false
+}

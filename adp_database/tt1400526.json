@@ -1,0 +1,17 @@
+{
+  "Title": "Lost Boys: The Thirst",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.faa9f79c-ce41-3e3c-1931-48571a294f0e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

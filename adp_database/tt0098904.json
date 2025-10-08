@@ -1,0 +1,14 @@
+{
+  "Title": "Seinfeld",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70153373"
+    }
+  ],
+  "in_theaters": false
+}

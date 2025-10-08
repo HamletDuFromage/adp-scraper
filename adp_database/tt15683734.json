@@ -1,0 +1,22 @@
+{
+  "Title": "It Lives Inside",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a8353a6-fba5-42f3-bd2d-333e229e36ee/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1701664204"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2594878"
+    }
+  ],
+  "in_theaters": false
+}

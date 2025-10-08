@@ -1,0 +1,18 @@
+{
+  "Title": "Cujo",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id737278669"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/16208"
+    }
+  ],
+  "in_theaters": false
+}

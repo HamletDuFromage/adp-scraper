@@ -1,0 +1,18 @@
+{
+  "Title": "The Possession",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id572189364"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cba21ad-4f23-bde8-e733-5afa2d0d05c9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

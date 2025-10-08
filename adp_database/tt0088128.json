@@ -1,0 +1,18 @@
+{
+  "Title": "Sixteen Candles",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14a9f65c-336e-ad44-825d-c5d005009c3c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id280497940"
+    }
+  ],
+  "in_theaters": false
+}

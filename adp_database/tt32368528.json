@@ -1,0 +1,15 @@
+{
+  "Title": "Buy It Now",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.23400ea0-bb93-4159-b0ba-ac3687a5a6ed/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

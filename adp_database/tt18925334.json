@@ -1,0 +1,25 @@
+{
+  "Title": "Pearl: An X-traordinary Origin Story",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b92231a4-ecc8-40be-868f-b2e8a50324b4/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f7039518-3cfb-494b-a66b-a7fca42acefb"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1643713899"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2112545"
+    }
+  ],
+  "in_theaters": false
+}

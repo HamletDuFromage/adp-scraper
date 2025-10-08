@@ -1,0 +1,19 @@
+{
+  "Title": "Adventure Time: Distant Lands",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6c9d24c-48a8-4a6f-8319-f45fa844bfeb/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/9141a8ca-0a07-4278-9488-1f7776597ed6"
+    }
+  ],
+  "in_theaters": false
+}

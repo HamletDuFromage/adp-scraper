@@ -1,0 +1,20 @@
+{
+  "Title": "Gordon Ramsay: Uncharted",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Documentary",
+    "Reality TV",
+    "Travel"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/gordon-ramsay-uncharted-9e1d7559-e1c4-4dce-9fbf-9b8ca7a80403"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/gordon-ramsay-uncharted/3UDBjRNsA7fq"
+    }
+  ],
+  "in_theaters": false
+}

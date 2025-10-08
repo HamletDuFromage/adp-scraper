@@ -1,0 +1,16 @@
+{
+  "Title": "Bride of Chucky",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9aa9f76e-bb6f-e03d-e52b-4e8cbb83d14a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

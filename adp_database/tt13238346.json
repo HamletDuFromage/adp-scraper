@@ -1,0 +1,27 @@
+{
+  "Title": "Past Lives",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.33278892-b325-4e22-926d-81be76bc6795/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1697436787"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C7YK53QR/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2373472"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/ROoMrhUeHivNsVm3HV80FuaaH__nb3Ew/"
+    }
+  ],
+  "in_theaters": false
+}

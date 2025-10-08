@@ -1,0 +1,28 @@
+{
+  "Title": "Blue Bloods",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c704bbd9-adc3-45f9-8927-c4e21b9174b2/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2026558"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/blue_bloods/"
+    },
+    {
+      "Pluto1": "https://pluto.tv/us/on-demand/series/60beb6a2f35137000716b9b4"
+    },
+    {
+      "Pluto2": "https://pluto.tv/us/on-demand/series/620159f3dae983001ace02ac"
+    }
+  ],
+  "in_theaters": false
+}

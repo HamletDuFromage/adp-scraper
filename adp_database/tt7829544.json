@@ -1,0 +1,16 @@
+{
+  "Title": "Angela's Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80230507"
+    }
+  ],
+  "in_theaters": false
+}

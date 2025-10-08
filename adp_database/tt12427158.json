@@ -1,0 +1,25 @@
+{
+  "Title": "A Thousand and One",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e67ec166-3afc-40c3-924d-442e2b2a6296/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1681211125"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BZ73VH95/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2323465"
+    }
+  ],
+  "in_theaters": false
+}

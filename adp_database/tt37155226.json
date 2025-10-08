@@ -1,0 +1,16 @@
+{
+  "Title": "Animal Pride",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.acdde7e8-e658-40b6-ae1a-5ab79d8eed73/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

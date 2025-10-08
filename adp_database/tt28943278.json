@@ -1,0 +1,15 @@
+{
+  "Title": "Heart of the Hunter",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81579704"
+    }
+  ],
+  "in_theaters": false
+}

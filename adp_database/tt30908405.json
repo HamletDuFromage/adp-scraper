@@ -1,0 +1,15 @@
+{
+  "Title": "The Last Rodeo",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4353831"
+    }
+  ],
+  "in_theaters": false
+}

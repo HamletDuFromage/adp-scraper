@@ -1,0 +1,18 @@
+{
+  "Title": "Mickey Mouse Roadster Racers",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Short",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/mickey-mouse-roadster-racers/2DYUg9ep4NRG"
+    }
+  ],
+  "in_theaters": false
+}

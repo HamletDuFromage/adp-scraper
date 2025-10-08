@@ -1,0 +1,22 @@
+{
+  "Title": "Christmas Takes Flight",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.11fef516-d126-4d92-b10c-dacd556acb06/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1596238967"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/christmas-takes-flight/"
+    }
+  ],
+  "in_theaters": false
+}

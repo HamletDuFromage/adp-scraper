@@ -1,0 +1,15 @@
+{
+  "Title": "Yes, Chef!",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/yes-chef/7807234988170190112"
+    }
+  ],
+  "in_theaters": false
+}

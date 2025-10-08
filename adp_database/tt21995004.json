@@ -1,0 +1,18 @@
+{
+  "Title": "The Fire That Took Her",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/ic8hltRIC14XlBHp1sJ_WHU3GgroSmdj/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62414d0c-a925-4bb4-bf5a-56ed93c3158e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "George of the Jungle",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/george-of-the-jungle/2emaVQ4AQ9Pd"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id204622887"
+    }
+  ],
+  "in_theaters": false
+}

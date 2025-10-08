@@ -1,0 +1,18 @@
+{
+  "Title": "Inner Workings",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/inner-workings/2am4tRzFOOXl"
+    }
+  ],
+  "in_theaters": false
+}

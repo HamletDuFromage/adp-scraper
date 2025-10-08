@@ -1,0 +1,19 @@
+{
+  "Title": "Maiden",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1467455980"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07VBH722Z/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

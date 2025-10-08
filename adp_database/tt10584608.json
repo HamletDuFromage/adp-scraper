@@ -1,0 +1,16 @@
+{
+  "Title": "Teenage Bounty Hunters",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80244296"
+    }
+  ],
+  "in_theaters": false
+}

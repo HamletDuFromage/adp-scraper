@@ -1,0 +1,27 @@
+{
+  "Title": "Ticket to Paradise",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7942ddb2-0702-4735-992a-330d169aef61/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1651546487"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BJ8K3KN9/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2151884"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/ticket-to-paradise/6c929db9-81a7-321b-a6a9-b1ec12f1d3a5"
+    }
+  ],
+  "in_theaters": false
+}

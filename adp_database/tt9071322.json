@@ -1,0 +1,22 @@
+{
+  "Title": "Dark Waters",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6b73311-9e06-1b77-7872-e437b0923c68/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1488016650"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B081KPWLK4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

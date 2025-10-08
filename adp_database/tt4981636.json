@@ -1,0 +1,21 @@
+{
+  "Title": "Middle School: The Worst Years of My Life",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5aabc6ab-60d3-6b4e-d5f6-cbe3218f9a94/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1158585674"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHWXWU/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

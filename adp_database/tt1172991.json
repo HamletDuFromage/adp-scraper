@@ -1,0 +1,14 @@
+{
+  "Title": "The Company Men",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4cc85897-4e5c-414f-ab12-aa74e125f6bb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

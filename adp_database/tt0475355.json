@@ -1,0 +1,15 @@
+{
+  "Title": "Pride",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ca9f729-7c87-1627-90b3-6c2c3b52c034/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Just Getting Started",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34b10692-2470-56f4-16b5-aa44cfc96cb5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

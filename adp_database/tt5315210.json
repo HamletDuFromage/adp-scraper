@@ -1,0 +1,18 @@
+{
+  "Title": "Lou",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81058695"
+    }
+  ],
+  "in_theaters": false
+}

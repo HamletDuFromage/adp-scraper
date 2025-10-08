@@ -1,0 +1,20 @@
+{
+  "Title": "Life of the Party",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44b19e23-c23d-8fec-7a02-cd147b847101/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1378483393"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07DQ4158L/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

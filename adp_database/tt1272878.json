@@ -1,0 +1,25 @@
+{
+  "Title": "2 Guns",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cad7ed0-94a5-64df-4e76-a34b5c65fa0f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id693060747"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00BEIYN9Q/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70270776"
+    }
+  ],
+  "in_theaters": false
+}

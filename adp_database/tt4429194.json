@@ -1,0 +1,22 @@
+{
+  "Title": "Paris Can Wait",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2ae1b4c-06f0-5aaf-0a02-5a09f52ad6f8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1232049547"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B073LWNDRD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Sunny",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.29b25ec2-9eb3-48cb-b470-8ed83ccb0fb5/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.7c5t9dde8dxoaxwyl5rkuw38p"
+    }
+  ],
+  "in_theaters": false
+}

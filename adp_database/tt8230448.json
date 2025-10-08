@@ -1,0 +1,19 @@
+{
+  "Title": "A Gentleman in Moscow",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d5fa15bb-fedf-4511-ac4d-a31aacc4b53c/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/a-gentleman-in-moscow/"
+    }
+  ],
+  "in_theaters": false
+}

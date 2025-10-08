@@ -1,0 +1,15 @@
+{
+  "Title": "The Umbrella Academy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80186863"
+    }
+  ],
+  "in_theaters": false
+}

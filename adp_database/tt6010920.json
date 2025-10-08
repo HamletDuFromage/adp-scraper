@@ -1,0 +1,14 @@
+{
+  "Title": "White Gold",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80191680"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "The Croods",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1332029341"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00CHVJODE/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2a9f6c2-3485-d1ae-ae76-0fb4b344ce8a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

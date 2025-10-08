@@ -1,0 +1,18 @@
+{
+  "Title": "Tempest",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "International",
+    "Korean",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/608ce266-aa57-40cf-aae2-8531358f2153"
+    }
+  ],
+  "in_theaters": false
+}

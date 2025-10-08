@@ -1,0 +1,17 @@
+{
+  "Title": "Ask the StoryBots",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80108159"
+    }
+  ],
+  "in_theaters": false
+}

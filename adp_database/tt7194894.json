@@ -1,0 +1,14 @@
+{
+  "Title": "Greed",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2b8e97c-1183-c279-afd3-615e7b82da2f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

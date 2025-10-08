@@ -1,0 +1,26 @@
+{
+  "Title": "The Royal Hotel",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.794be8e7-c22b-454b-bdbe-a59b1bf38fd9/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/e79d199e-f2ec-4253-9a16-3c76164300d4"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1708484242"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CNQ87KKW/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2626069"
+    }
+  ],
+  "in_theaters": false
+}

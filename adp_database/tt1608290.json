@@ -1,0 +1,21 @@
+{
+  "Title": "Zoolander 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4483a237-dd91-48f0-842c-8c9d9afadc0e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1077824273"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B018IDVBCG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Grotesquerie",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/56121192-4f38-4706-b4a3-a0edeef026af"
+    }
+  ],
+  "in_theaters": false
+}

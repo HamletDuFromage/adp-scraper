@@ -1,0 +1,17 @@
+{
+  "Title": "Reformed",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f1a780da-bcd3-47e2-9081-b91f9db9c6f9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/064d824c-1f14-483f-8495-e2b73e03bc53"
+    }
+  ],
+  "in_theaters": false
+}

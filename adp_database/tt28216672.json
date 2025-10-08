@@ -1,0 +1,16 @@
+{
+  "Title": "Pride from Above",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "LGBTQ",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/pride-from-above/4PbQozDTZmzs"
+    }
+  ],
+  "in_theaters": false
+}

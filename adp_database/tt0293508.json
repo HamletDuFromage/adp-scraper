@@ -1,0 +1,17 @@
+{
+  "Title": "The Phantom of the Opera",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Musical",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eab9dda3-8992-5a00-db85-11ed7501490e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

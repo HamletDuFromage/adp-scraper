@@ -1,0 +1,15 @@
+{
+  "Title": "Muxes",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/eb1aef6a-429d-469f-9e64-9d2c6461dc80"
+    }
+  ],
+  "in_theaters": false
+}

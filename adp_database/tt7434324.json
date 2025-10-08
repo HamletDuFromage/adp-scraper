@@ -1,0 +1,15 @@
+{
+  "Title": "Low Tide",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96f882bf-5c2c-4c3c-9ccb-5a71bfe00dde/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

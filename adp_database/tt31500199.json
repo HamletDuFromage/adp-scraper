@@ -1,0 +1,15 @@
+{
+  "Title": "Natti Natasha",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/e6aefce2-7886-4f95-9ed9-c8e0b8398d3f"
+    }
+  ],
+  "in_theaters": false
+}

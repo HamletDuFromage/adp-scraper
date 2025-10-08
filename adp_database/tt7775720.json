@@ -1,0 +1,25 @@
+{
+  "Title": "Spoiler Alert",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1657810943"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BNM4KWPK/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2205640"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/spoiler-alert/87e496c6-cb36-382e-88aa-2ca6b353e2de"
+    }
+  ],
+  "in_theaters": false
+}

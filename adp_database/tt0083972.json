@@ -1,0 +1,15 @@
+{
+  "Title": "Friday the 13th Part III",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/8xEWGn5ydq0TvZsp5qjMtv7KpYB5uLKJ/"
+    }
+  ],
+  "in_theaters": false
+}

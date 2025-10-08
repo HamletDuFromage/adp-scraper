@@ -1,0 +1,20 @@
+{
+  "Title": "Spider-Man: Across the Spider-Verse",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1688506685"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C67WR1VR/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

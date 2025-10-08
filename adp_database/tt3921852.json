@@ -1,0 +1,15 @@
+{
+  "Title": "Barbie and the Secret Door",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4a9f744-27a6-cae4-513f-c02c02ba26a0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

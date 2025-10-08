@@ -1,0 +1,16 @@
+{
+  "Title": "Dept. Q",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81487660"
+    }
+  ],
+  "in_theaters": false
+}

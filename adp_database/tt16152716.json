@@ -1,0 +1,16 @@
+{
+  "Title": "The Consultant",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62b6acb8-c28e-42e7-81e5-b465e93509f7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

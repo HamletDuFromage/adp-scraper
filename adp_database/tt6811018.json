@@ -1,0 +1,18 @@
+{
+  "Title": "The Kid Who Would Be King",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1449202253"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07LD4Z2M2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

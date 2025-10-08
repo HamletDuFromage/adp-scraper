@@ -1,0 +1,16 @@
+{
+  "Title": "Femme",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "LGBTQ",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1729685982"
+    }
+  ],
+  "in_theaters": false
+}

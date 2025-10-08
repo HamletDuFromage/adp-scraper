@@ -1,0 +1,16 @@
+{
+  "Title": "Chernobyl Diaries",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aaa9f766-8c25-cc5f-dd5d-01796301d0d2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

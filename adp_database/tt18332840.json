@@ -1,0 +1,17 @@
+{
+  "Title": "Gaming Wall St",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44f8d89d-c4fc-469e-b208-cffd3b11cc55/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/61d252ae-72c6-49d9-8ca1-8800baa06e8d"
+    }
+  ],
+  "in_theaters": false
+}

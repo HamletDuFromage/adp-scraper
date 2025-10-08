@@ -1,0 +1,25 @@
+{
+  "Title": "Star Wars: Episode IV - A New Hope",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50bc6424-b6fb-1d7a-28ee-1c5cf662577a/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-a-new-hope-episode-iv/12fVeZxD2fWJ"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id978943481"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013JAFWLE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Hemingway & Gellhorn",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.336c02d9-50f2-4c33-a295-666955837671/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/7af1c759-767c-48c5-9add-e1cac6c9e049"
+    }
+  ],
+  "in_theaters": false
+}

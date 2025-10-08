@@ -1,0 +1,17 @@
+{
+  "Title": "To Have and Have Not",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Film Noir"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id388400053"
+    }
+  ],
+  "in_theaters": false
+}

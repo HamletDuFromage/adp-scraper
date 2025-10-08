@@ -1,0 +1,18 @@
+{
+  "Title": "Oprah's Book Club",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "TV Variety",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1980ed04-0aa5-4bc6-a1ca-84ed84370455/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.5h8lbz88c6dbjm6suhviylcui"
+    }
+  ],
+  "in_theaters": false
+}

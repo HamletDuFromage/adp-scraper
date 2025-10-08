@@ -1,0 +1,21 @@
+{
+  "Title": "Spectre",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f534-b5ac-29af-c294-2945de2a7393/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1042425776"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B018WXLEKQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

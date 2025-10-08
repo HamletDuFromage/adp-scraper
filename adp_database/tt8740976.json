@@ -1,0 +1,15 @@
+{
+  "Title": "Inventing Anna",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81008305"
+    }
+  ],
+  "in_theaters": false
+}

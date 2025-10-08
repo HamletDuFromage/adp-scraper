@@ -1,0 +1,19 @@
+{
+  "Title": "Back to the Future Part II",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92a9f7a9-9e1f-8289-25a2-ec6e514f9c40/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id380040080"
+    }
+  ],
+  "in_theaters": false
+}

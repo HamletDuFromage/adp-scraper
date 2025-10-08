@@ -1,0 +1,20 @@
+{
+  "Title": "The Long Game",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f3b2f75b-8e5a-49be-92f9-1f49c9cd429a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1738993299"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3118995"
+    }
+  ],
+  "in_theaters": false
+}

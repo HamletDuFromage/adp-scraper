@@ -1,0 +1,14 @@
+{
+  "Title": "The Last Laugh",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80202273"
+    }
+  ],
+  "in_theaters": false
+}

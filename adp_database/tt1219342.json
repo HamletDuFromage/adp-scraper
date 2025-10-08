@@ -1,0 +1,21 @@
+{
+  "Title": "Legend Of The Guardians: The Owls Of Ga'Hoole",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42a9f6fa-0724-d561-811c-95989b1fab32/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/fafa2a83-c33c-4f56-bd39-b80278f8f70f"
+    }
+  ],
+  "in_theaters": false
+}

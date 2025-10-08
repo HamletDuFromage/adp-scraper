@@ -1,0 +1,17 @@
+{
+  "Title": "We Met in Virtual Reality",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4457f51-0c48-42b2-83ff-928741cab49b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f0b18c30-cf26-409b-b1f7-131900072bed"
+    }
+  ],
+  "in_theaters": false
+}

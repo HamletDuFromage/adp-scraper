@@ -1,0 +1,22 @@
+{
+  "Title": "The Sorcerer's Apprentice",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-sorcerers-apprentice/1pmGRTbT3qjz"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id391133618"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002ZG99KO/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

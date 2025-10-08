@@ -1,0 +1,18 @@
+{
+  "Title": "Homestead Rescue",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Adventure & Survival",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/7e4180d8-70da-4c22-bd6f-a395f18c0fef"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aab3f79-8582-468d-98f5-fdff1fa25e2a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

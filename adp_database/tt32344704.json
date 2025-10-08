@@ -1,0 +1,20 @@
+{
+  "Title": "Tougen Anki",
+  "Media Type": "Series",
+  "Rating": "16+",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1dc1b013-a63e-41d3-a02b-da91f626bd0f/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88302d9c-32f2-427f-8968-a0c5b4a5ead7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

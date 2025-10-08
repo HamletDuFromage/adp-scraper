@@ -1,0 +1,22 @@
+{
+  "Title": "Biosphere",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0921df97-3ce4-41dc-a2ac-c4786c4a4057/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1690901748"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C8VSLHMQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

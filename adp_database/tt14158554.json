@@ -1,0 +1,16 @@
+{
+  "Title": "Fistful of Vengeance",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80240904"
+    }
+  ],
+  "in_theaters": false
+}

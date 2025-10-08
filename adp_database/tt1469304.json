@@ -1,0 +1,25 @@
+{
+  "Title": "Baywatch",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cae2fbd-2358-8bcc-5d9f-ec7463d003ba/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60ae10dd-0b74-5960-58ca-64b4876b17c5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1231988578"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0725W7B9X/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

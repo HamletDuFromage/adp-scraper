@@ -1,0 +1,22 @@
+{
+  "Title": "Belfast",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8fd1f086-5ad5-42ac-b76b-e9b037bc03ae/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1596587857"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09LDWQPC1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

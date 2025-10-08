@@ -1,0 +1,16 @@
+{
+  "Title": "Bachelor in Paradise",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/bachelor-in-paradise-b6ee3e1c-fcdc-4101-bed8-336c43f7c690"
+    }
+  ],
+  "in_theaters": false
+}

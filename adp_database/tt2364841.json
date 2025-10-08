@@ -1,0 +1,16 @@
+{
+  "Title": "Runner Runner",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00GICP7UW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

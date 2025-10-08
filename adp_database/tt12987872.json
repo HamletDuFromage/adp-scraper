@@ -1,0 +1,15 @@
+{
+  "Title": "Country Ever After",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Music",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81269298"
+    }
+  ],
+  "in_theaters": false
+}

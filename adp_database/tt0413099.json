@@ -1,0 +1,22 @@
+{
+  "Title": "Evan Almighty",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20a9f6db-69a9-a9df-08ac-75c942d175e0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id272049250"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B000UNYK4E/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

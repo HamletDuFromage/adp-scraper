@@ -1,0 +1,17 @@
+{
+  "Title": "Faith Under Fire",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16bae03e-7425-e88c-a4d0-e5476d0e96e5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1539854139"
+    }
+  ],
+  "in_theaters": false
+}

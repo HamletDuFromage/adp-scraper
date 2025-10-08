@@ -1,0 +1,15 @@
+{
+  "Title": "Sesame Street: Elmo's Potty Time",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92a9f78e-91ab-61dc-4ad7-b9add1c809ac/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

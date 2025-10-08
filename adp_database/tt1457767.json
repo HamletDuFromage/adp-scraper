@@ -1,0 +1,19 @@
+{
+  "Title": "The Conjuring",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2eb10715-f27f-e730-ae85-a45fae7a5583/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d1b146e9-7426-4463-804d-3ca656e38492"
+    }
+  ],
+  "in_theaters": false
+}

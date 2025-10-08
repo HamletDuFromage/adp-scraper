@@ -1,0 +1,16 @@
+{
+  "Title": "The Best of Enemies",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07Q6HPG9W/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

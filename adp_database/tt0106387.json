@@ -1,0 +1,19 @@
+{
+  "Title": "Benny & Joon",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62a9f68a-d582-30a9-4027-9cc1f36b9a8e/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/benny-and-joon-1993"
+    }
+  ],
+  "in_theaters": false
+}

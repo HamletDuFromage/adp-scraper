@@ -1,0 +1,21 @@
+{
+  "Title": "Peacemaker",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ca66ed2-04c4-46cd-a9cc-882165d88eda/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a939d96b-7ffb-4481-96f6-472838d104ca"
+    }
+  ],
+  "in_theaters": false
+}

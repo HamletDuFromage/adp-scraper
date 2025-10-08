@@ -1,0 +1,18 @@
+{
+  "Title": "Small Town News: KPVM Pahrump",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.387be415-433d-44f4-b3a8-7e80c6931b9e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e93d82d6-e11b-4165-9c5c-85a0d4bb72ab"
+    }
+  ],
+  "in_theaters": false
+}

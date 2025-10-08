@@ -1,0 +1,16 @@
+{
+  "Title": "Aladdin: The Return of Jafar",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/aladdin-the-return-of-jafar/3a7AbdVtMz01"
+    }
+  ],
+  "in_theaters": false
+}

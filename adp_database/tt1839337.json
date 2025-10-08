@@ -1,0 +1,14 @@
+{
+  "Title": "The Voice",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-voice/7958122402999891112"
+    }
+  ],
+  "in_theaters": false
+}

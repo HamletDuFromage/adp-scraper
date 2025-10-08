@@ -1,0 +1,17 @@
+{
+  "Title": "The Magician's Elephant",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80234520"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Dan Brown's The Lost Symbol",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/dan-browns-the-lost-symbol/5952493920723809112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6f99dce-d83f-4b55-ac90-f9149b1ef84c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

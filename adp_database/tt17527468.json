@@ -1,0 +1,21 @@
+{
+  "Title": "Bottoms",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0b1c3ce1-4f4a-44b9-96a2-9ef0b014f3fc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1695199329"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2542250"
+    }
+  ],
+  "in_theaters": false
+}

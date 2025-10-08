@@ -1,0 +1,24 @@
+{
+  "Title": "Trolls",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04b0a839-04fc-8f2a-66aa-e9b42846f211/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1338616398"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHXYXM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

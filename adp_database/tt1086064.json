@@ -1,0 +1,25 @@
+{
+  "Title": "Bill & Ted Face the Music",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cb9f23c-8db0-ab4b-123b-22711f9ea6d0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1516316312"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08HTG61YF/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/bill-and-ted-face-the-music-2020"
+    }
+  ],
+  "in_theaters": false
+}

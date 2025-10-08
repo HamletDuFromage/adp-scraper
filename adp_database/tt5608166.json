@@ -1,0 +1,17 @@
+{
+  "Title": "Dashing Through the Snow",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dashing-through-the-snow/6oiqPXqHXrjp"
+    }
+  ],
+  "in_theaters": false
+}

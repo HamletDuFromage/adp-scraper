@@ -1,0 +1,17 @@
+{
+  "Title": "How to Survive a Pandemic",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.679c5900-63d2-4189-b720-6c39495fcb2c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a0eb4cf9-2f65-487d-969d-d44e61fec897"
+    }
+  ],
+  "in_theaters": false
+}

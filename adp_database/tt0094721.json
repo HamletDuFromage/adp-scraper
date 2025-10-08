@@ -1,0 +1,15 @@
+{
+  "Title": "Beetlejuice",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a43cdd55-9694-4527-98c2-cebed7834774/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

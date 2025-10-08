@@ -1,0 +1,15 @@
+{
+  "Title": "Jeopardy! Masters",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/jeopardy-masters-8dd4da86-5af2-4cc4-af90-77dae9243d6b"
+    }
+  ],
+  "in_theaters": false
+}

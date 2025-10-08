@@ -1,0 +1,15 @@
+{
+  "Title": "Life is Ruff",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/life-is-ruff/33xyvyjgJ9vx"
+    }
+  ],
+  "in_theaters": false
+}

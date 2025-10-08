@@ -1,0 +1,18 @@
+{
+  "Title": "The Counselor",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00HF98SPS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

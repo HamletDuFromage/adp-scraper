@@ -1,0 +1,14 @@
+{
+  "Title": "One Mississippi",
+  "Media Type": "Series",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16ab128e-3d43-3582-fce5-e9d1ee3f7f68/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

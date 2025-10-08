@@ -1,0 +1,15 @@
+{
+  "Title": "Clinical",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80096955"
+    }
+  ],
+  "in_theaters": false
+}

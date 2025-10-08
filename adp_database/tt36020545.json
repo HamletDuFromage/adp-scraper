@@ -1,0 +1,18 @@
+{
+  "Title": "Suspicious Minds",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/9e2619bc-7223-4f71-86ac-24f77fbd641d"
+    }
+  ],
+  "in_theaters": false
+}

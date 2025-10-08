@@ -1,0 +1,14 @@
+{
+  "Title": "Magic Trip",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6aa9f791-eee2-eae7-bc64-cd9781cd04a5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

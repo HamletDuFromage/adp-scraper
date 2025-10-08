@@ -1,0 +1,17 @@
+{
+  "Title": "The Valley",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-valley/6304977607946814112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b3c80b4d-dc0a-4f75-90df-956791856546/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

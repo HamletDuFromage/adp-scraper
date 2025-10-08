@@ -1,0 +1,21 @@
+{
+  "Title": "Batman Ninja vs. Yakuza League",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.661cf216-4c7b-474f-8369-8d8d06066ae4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1793895241"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d7aa6310-18ca-4a72-b8c7-ac60cb4c6a24"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Freaky Friday",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Music",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/freaky-friday-2003/3fHmXbluw63h"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id202102688"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/36680"
+    }
+  ],
+  "in_theaters": false
+}

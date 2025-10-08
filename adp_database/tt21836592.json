@@ -1,0 +1,15 @@
+{
+  "Title": "Ivy + Bean: The Ghost That Had to Go",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81000063"
+    }
+  ],
+  "in_theaters": false
+}

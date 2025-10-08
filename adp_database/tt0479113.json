@@ -1,0 +1,18 @@
+{
+  "Title": "One Man Band",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Music",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/one-man-band/1w7PzHfaZ2uX"
+    }
+  ],
+  "in_theaters": false
+}

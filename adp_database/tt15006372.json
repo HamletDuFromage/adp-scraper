@@ -1,0 +1,14 @@
+{
+  "Title": "Journey of My Heart",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1db249e5-beae-4587-99ec-c1d927276b1c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

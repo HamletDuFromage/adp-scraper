@@ -1,0 +1,17 @@
+{
+  "Title": "When Sharks Attack",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/when-sharks-attack-fb1c9131-9fde-4a76-a7f3-f9f7f81012a3"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/when-sharks-attack/204JDZ1iunEN"
+    }
+  ],
+  "in_theaters": false
+}

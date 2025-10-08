@@ -1,0 +1,16 @@
+{
+  "Title": "Hitched for the Holidays",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4389211-ad7b-46be-ae56-435f9b12a133/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

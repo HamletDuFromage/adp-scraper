@@ -1,0 +1,18 @@
+{
+  "Title": "Chillin Island",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6b22ea43-8cab-4c59-b1cc-04adaf78d0c3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/74470a8c-c645-4217-8bc7-4232e68d0c5b"
+    }
+  ],
+  "in_theaters": false
+}

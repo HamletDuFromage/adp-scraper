@@ -1,0 +1,15 @@
+{
+  "Title": "Mysteries of the Abandoned",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Science & Nature"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/77c26cdf-ce9e-4bf9-808e-2f4081f67732"
+    }
+  ],
+  "in_theaters": false
+}

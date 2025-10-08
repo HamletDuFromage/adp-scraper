@@ -1,0 +1,16 @@
+{
+  "Title": "Zenimation",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Anthology",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/zenimation/6hSv4CBT2Q3N"
+    }
+  ],
+  "in_theaters": false
+}

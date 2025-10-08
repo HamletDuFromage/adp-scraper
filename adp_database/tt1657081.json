@@ -1,0 +1,17 @@
+{
+  "Title": "Law & Order: Los Angeles",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4a9f706-2ec8-c2da-14e0-944296e70428/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

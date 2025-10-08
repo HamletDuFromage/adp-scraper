@@ -1,0 +1,16 @@
+{
+  "Title": "Adam Ray is Dr. Phil Unleashed",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Stand-up",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81944995"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Space Jam: A New Legacy",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4f61e1c4-494c-4efb-9c3d-86f341e369d7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1574411351"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09CG5PMSL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

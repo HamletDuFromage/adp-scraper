@@ -1,0 +1,14 @@
+{
+  "Title": "Fakes",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81446305"
+    }
+  ],
+  "in_theaters": false
+}

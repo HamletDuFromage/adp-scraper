@@ -1,0 +1,20 @@
+{
+  "Title": "Shadow Land",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1741691115"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3136052"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/zl70o1IrfP8W8RzRVU75acsvldZNcJmS/"
+    }
+  ],
+  "in_theaters": false
+}

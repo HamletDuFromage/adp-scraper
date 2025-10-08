@@ -1,0 +1,18 @@
+{
+  "Title": "The Americas",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Science & Nature"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-americas/6502487792004490112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1d0d296e-e878-421d-ade5-924b23c84cf5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

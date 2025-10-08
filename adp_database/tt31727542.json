@@ -1,0 +1,17 @@
+{
+  "Title": "Alex Edelman: Just for Us",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b696311-3db9-40a7-b8e8-6c5a38761847/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/7032329c-4bff-4456-92d3-4847ec61cfc1"
+    }
+  ],
+  "in_theaters": false
+}

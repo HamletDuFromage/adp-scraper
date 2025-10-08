@@ -1,0 +1,17 @@
+{
+  "Title": "The Shrink Next Door",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2271dbc7-74bd-4729-b39b-15d95f56827c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.jov1gljmqnux0i15rbqsoyfk"
+    }
+  ],
+  "in_theaters": false
+}

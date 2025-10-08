@@ -1,0 +1,17 @@
+{
+  "Title": "Training Day",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e42f28ff-5c5a-4ed9-bf63-4f0fef6973c4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

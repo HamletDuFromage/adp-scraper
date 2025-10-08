@@ -1,0 +1,21 @@
+{
+  "Title": "Branson",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6c971e5-47d1-42a1-a9b9-e02cea60ed60/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f73d39dc-ca5e-4b72-936a-ffcfdae33f3b"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2463717"
+    }
+  ],
+  "in_theaters": false
+}

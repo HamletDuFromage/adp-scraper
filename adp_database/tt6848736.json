@@ -1,0 +1,17 @@
+{
+  "Title": "Far from the Tree",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1435993960"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6f5274e4-f6a8-4c69-8008-2bfe132ec3ce/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

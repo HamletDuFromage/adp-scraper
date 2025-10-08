@@ -1,0 +1,27 @@
+{
+  "Title": "Mission: Impossible",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea9f752-154a-b9a5-f010-2fe81985ea2a/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a3516132-8d6a-45b3-aa0f-96737c6196b1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id266810607"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/mission-impossible/sIVdbx89_q4lRxCnt1j3yMx7d03eE_Tx/"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/mission-impossible-1996"
+    }
+  ],
+  "in_theaters": false
+}

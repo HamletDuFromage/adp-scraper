@@ -1,0 +1,32 @@
+{
+  "Title": "Zodiac",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9b23c1bd-9b02-4555-947a-6832b5708f58/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id268162808"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DB77GWFH/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/128809"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/wjQ4RChi6BHHu4MVTncppVuCwu44uq2Q/"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/zodiac-2007"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Dynasty: New England Patriots",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.af7f2098-c1ae-4fe6-9dcb-7411fc010d85/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.e399kebej378s053scn8nghf"
+    }
+  ],
+  "in_theaters": false
+}

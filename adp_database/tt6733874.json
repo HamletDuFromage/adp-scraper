@@ -1,0 +1,16 @@
+{
+  "Title": "America: The Motion Picture",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80189631"
+    }
+  ],
+  "in_theaters": false
+}

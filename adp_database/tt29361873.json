@@ -1,0 +1,17 @@
+{
+  "Title": "Mourning in Lod",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b9234917-eed1-4ace-a768-96e5497c2d39/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/TAOwL_lrEz1V0qTZ7Ta_IHpgX_RCvreQ/"
+    }
+  ],
+  "in_theaters": false
+}

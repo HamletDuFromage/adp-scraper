@@ -1,0 +1,25 @@
+{
+  "Title": "How to Be Single",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80075563"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3b14107b-6173-45cf-ab7e-08ef93df54ff/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1082582175"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01BU9B67U/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

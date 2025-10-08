@@ -1,0 +1,18 @@
+{
+  "Title": "The Good House",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1646758470"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dd418cae-70a1-4a88-9881-4528ee3ed2cb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

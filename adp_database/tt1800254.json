@@ -1,0 +1,16 @@
+{
+  "Title": "Barbie: A Fairy Secret",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48a9f775-81ac-e2c1-7210-f31fea4cf82c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

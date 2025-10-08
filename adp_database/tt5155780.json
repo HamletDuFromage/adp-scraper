@@ -1,0 +1,16 @@
+{
+  "Title": "The Discovery",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80115857"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Abbott and Costello Meet Frankenstein",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72a9f749-3002-b8b7-cc43-aabbb18d4b4e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Humpday",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0aa9f7a3-015d-39e1-cab9-abc8cbf6c998/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

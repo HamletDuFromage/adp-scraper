@@ -1,0 +1,25 @@
+{
+  "Title": "The Dead Don't Die",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80244534"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cb591d3-0271-391c-2743-32eebf73081f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1466254470"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07SQ66W4S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

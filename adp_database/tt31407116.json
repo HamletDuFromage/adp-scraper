@@ -1,0 +1,15 @@
+{
+  "Title": "PULSE",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Medical"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81498229"
+    }
+  ],
+  "in_theaters": false
+}

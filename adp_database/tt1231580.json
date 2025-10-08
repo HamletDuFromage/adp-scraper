@@ -1,0 +1,19 @@
+{
+  "Title": "Alvin and the Chipmunks: The Squeakquel",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id346350886"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00365F6I2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

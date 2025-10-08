@@ -1,0 +1,15 @@
+{
+  "Title": "Girls from Ipanema",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80208298"
+    }
+  ],
+  "in_theaters": false
+}

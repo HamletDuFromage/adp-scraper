@@ -1,0 +1,15 @@
+{
+  "Title": "The Final Table",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80201866"
+    }
+  ],
+  "in_theaters": false
+}

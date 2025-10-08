@@ -1,0 +1,26 @@
+{
+  "Title": "Grown Ups 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50a9f7b6-3695-ec24-bef8-88054236b158/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bca9f695-dd57-cf82-10ef-e17e902022ed/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id700374618"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0090SI53C/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/P44FBgHD7wkWSD46N8uuTZomKSpBZtRX/"
+    }
+  ],
+  "in_theaters": false
+}

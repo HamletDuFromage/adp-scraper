@@ -1,0 +1,26 @@
+{
+  "Title": "I Saw the TV Glow",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "LGBTQ",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d10eb1a4-e64c-4d5d-a4f5-c3976d1a0013/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/54c4cadd-7d0b-4fb9-bb37-2c4a50cf3dee"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1745006179"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3150284"
+    }
+  ],
+  "in_theaters": false
+}

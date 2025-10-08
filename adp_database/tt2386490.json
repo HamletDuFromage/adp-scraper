@@ -1,0 +1,24 @@
+{
+  "Title": "How to Train Your Dragon: The Hidden World",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1451994559"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07NN3R1BS/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.adc48b9a-f949-432e-8e64-94a4e47b23b5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

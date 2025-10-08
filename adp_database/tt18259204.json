@@ -1,0 +1,17 @@
+{
+  "Title": "Sexy Beast",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/sexy-beast/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e38687e3-2af3-4548-bdd9-7758c6933ce1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

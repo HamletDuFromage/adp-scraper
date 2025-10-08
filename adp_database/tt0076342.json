@@ -1,0 +1,17 @@
+{
+  "Title": "MacArthur",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14a9f72e-ff45-de52-4a14-e6b74caa9218/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

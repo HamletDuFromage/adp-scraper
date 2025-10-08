@@ -1,0 +1,14 @@
+{
+  "Title": "A Green Fever",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e87c79cc-2947-42db-ac60-1dfb03b4d870/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Irresistible",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dab961dc-b69c-591e-7c1d-aba5b237eb41/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1518694884"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08BDZ29KQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

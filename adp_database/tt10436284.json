@@ -1,0 +1,21 @@
+{
+  "Title": "Kamp Koral: SpongeBob's Under Years",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Music",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/kamp-koral/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d7c74c3c-4311-4d06-95f6-e69ff56ae23e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

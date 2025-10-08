@@ -1,0 +1,16 @@
+{
+  "Title": "Speed Kills",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d1318163-c064-4410-ab8d-493edcf661a4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

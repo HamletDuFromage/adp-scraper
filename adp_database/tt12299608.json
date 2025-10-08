@@ -1,0 +1,31 @@
+{
+  "Title": "Mickey 17",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9dbfd795-2e64-4056-809a-ac27aa285876/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9d306f56-1b6d-4bdf-b667-0ef974a693b2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1792699025"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5eb8f25e3f398b00402fbe55&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DYJJCG2N/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/fbe17356-9db7-4ab3-928e-32978e0cfbc7"
+    }
+  ],
+  "in_theaters": false
+}

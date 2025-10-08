@@ -1,0 +1,19 @@
+{
+  "Title": "The Rescuers Down Under",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-rescuers-down-under/2PADbLhnZ6SH"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id281766114"
+    }
+  ],
+  "in_theaters": false
+}

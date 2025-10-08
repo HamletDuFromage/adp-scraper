@@ -1,0 +1,22 @@
+{
+  "Title": "In Time",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52a9f72c-cf70-c0a7-3c1d-ed788afc79b8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id476869088"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004LWZW7E/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

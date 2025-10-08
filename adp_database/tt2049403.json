@@ -1,0 +1,34 @@
+{
+  "Title": "Beetlejuice Beetlejuice",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cce7f3be-5e37-4bf5-b4b0-fe07f8e026d5/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96828817-6775-4182-b598-bdf7d1a22bd7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/51e27399-e0ad-4450-bf86-7479d8e7e766"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1758604055"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DDV427S2/audiodescriin-20"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d776c787a53e9001e743c4e&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81902482"
+    }
+  ],
+  "in_theaters": false
+}

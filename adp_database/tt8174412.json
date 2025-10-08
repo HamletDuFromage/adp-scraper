@@ -1,0 +1,20 @@
+{
+  "Title": "Funny Pages",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c58bb592-8bfa-488b-a275-34134fea6c0c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1638207923"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2072671"
+    }
+  ],
+  "in_theaters": false
+}

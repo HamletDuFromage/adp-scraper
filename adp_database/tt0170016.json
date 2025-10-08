@@ -1,0 +1,23 @@
+{
+  "Title": "Dr. Seuss' How the Grinch Stole Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.27a64f34-cff8-4707-90a1-cedd72e1b1ca/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id286621192"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00005LOUP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

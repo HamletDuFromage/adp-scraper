@@ -1,0 +1,16 @@
+{
+  "Title": "Two Brothers",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f768-75ea-4f02-de41-67b27d878177/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

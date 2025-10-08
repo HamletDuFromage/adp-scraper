@@ -1,0 +1,20 @@
+{
+  "Title": "Total DramaRama: A Very Special Special That's Quite Special",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/8829503a-aa2e-41e7-913f-93066036f08a"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.772d5bd4-51d5-439d-9b98-ccdd454342cb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

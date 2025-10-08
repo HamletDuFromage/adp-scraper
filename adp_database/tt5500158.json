@@ -1,0 +1,15 @@
+{
+  "Title": "Pitch",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/pitch-bb0db3c2-ad43-4556-a7ba-842077fb6acd"
+    }
+  ],
+  "in_theaters": false
+}

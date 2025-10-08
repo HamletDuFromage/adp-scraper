@@ -1,0 +1,15 @@
+{
+  "Title": "Our Blues Make US Gold",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.092fd820-13eb-4d32-96fc-9ad0a09f7aa1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

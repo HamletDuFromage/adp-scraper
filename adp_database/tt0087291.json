@@ -1,0 +1,18 @@
+{
+  "Title": "Frankenweenie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/frankenweenie-short/4Ox22B5uQV9O"
+    }
+  ],
+  "in_theaters": false
+}

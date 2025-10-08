@@ -1,0 +1,24 @@
+{
+  "Title": "Opus",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e7a3caa4-f007-4d84-8436-aab00e3237bd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1800141270"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4044706"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1a5977b7-6df0-43aa-be50-2238c2536bc4"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Insurrectionist Next Door",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f989dc86-086e-4294-98ac-a3b12b783d85/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a23d2bbc-6093-45d8-bf9a-0bc6ea1870f7"
+    }
+  ],
+  "in_theaters": false
+}

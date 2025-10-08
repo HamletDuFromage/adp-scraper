@@ -1,0 +1,26 @@
+{
+  "Title": "La La Land",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ab8a100-8125-e6ce-3912-4d26b084d5ff/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1179249419"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI1WA8/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80095365"
+    }
+  ],
+  "in_theaters": false
+}

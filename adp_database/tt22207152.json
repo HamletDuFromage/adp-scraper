@@ -1,0 +1,23 @@
+{
+  "Title": "A Christmas Mystery",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.71121fd4-f614-49c2-ad6c-d1651c666e07/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d0a9dfaa-2c9e-4b9c-b1d2-7c0db6701944"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1653549826"
+    }
+  ],
+  "in_theaters": false
+}

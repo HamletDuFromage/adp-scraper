@@ -1,0 +1,16 @@
+{
+  "Title": "Rim of the World",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80218306"
+    }
+  ],
+  "in_theaters": false
+}

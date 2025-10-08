@@ -1,0 +1,24 @@
+{
+  "Title": "Tron",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tron/4MFq1JeXEe1z"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id420230498"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/12968"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4b780e6-bc41-85a4-7e3f-87d487817ec7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

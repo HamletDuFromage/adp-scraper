@@ -1,0 +1,21 @@
+{
+  "Title": "Keeping Up with the Joneses",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22b8e6fc-99d0-a280-2e6d-10d9398fe870/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1160606899"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHYYI6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

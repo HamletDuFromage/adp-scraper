@@ -1,0 +1,16 @@
+{
+  "Title": "The Christmas Retreat",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9c8e5102-bfb8-4eac-8cdd-4ceddbaeba99/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Going My Way",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aa9f751-3722-aa1d-3a1d-abfc35bdb9eb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

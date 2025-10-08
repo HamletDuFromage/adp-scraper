@@ -1,0 +1,24 @@
+{
+  "Title": "Barbershop: The Next Cut",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18aa69f7-1dbd-529d-ab52-24bf7762a968/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1092358110"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01E9MTYGA/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/barbershop-the-next-cut"
+    }
+  ],
+  "in_theaters": false
+}

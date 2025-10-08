@@ -1,0 +1,15 @@
+{
+  "Title": "Act of Valor",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cf165a9-e3c4-4566-9f92-a6b17ae005ed/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

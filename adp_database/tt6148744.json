@@ -1,0 +1,14 @@
+{
+  "Title": "Pete the Cat",
+  "Media Type": "Series",
+  "Rating": "7+",
+  "Genre": [
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64b2f5b5-d7bd-6a84-94f3-bfa82aca661b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

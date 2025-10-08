@@ -1,0 +1,19 @@
+{
+  "Title": "Martin",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70157348"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7bf8a48a-039f-4e58-8adb-22323f48f60e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

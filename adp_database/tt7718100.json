@@ -1,0 +1,15 @@
+{
+  "Title": "Heist 88",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6c5097a3-625f-4959-99c0-101238beba31/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Margarita with a Straw",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Disability",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B01E6K8TC0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Wendy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ebb32a1-caf3-9dbe-bf06-fa298391062e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1500508934"
+    }
+  ],
+  "in_theaters": false
+}

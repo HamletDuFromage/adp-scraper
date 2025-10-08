@@ -1,0 +1,17 @@
+{
+  "Title": "Cars Toon: Rescue Squad Mater",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/cars-toon-rescue-squad-mater/5A3hihRE5g1s"
+    }
+  ],
+  "in_theaters": false
+}

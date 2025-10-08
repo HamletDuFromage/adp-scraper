@@ -1,0 +1,15 @@
+{
+  "Title": "Year One",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Politics"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3aa9f71d-0fe9-782a-ce65-77a74df6950f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

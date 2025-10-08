@@ -1,0 +1,17 @@
+{
+  "Title": "An Alan Smithee Film: Burn Hollywood Burn",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4ba7e26-52df-24d7-a37d-57e2964c3cad/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id216159323"
+    }
+  ],
+  "in_theaters": false
+}

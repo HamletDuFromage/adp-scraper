@@ -1,0 +1,16 @@
+{
+  "Title": "The Night Agent",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81450827"
+    }
+  ],
+  "in_theaters": false
+}

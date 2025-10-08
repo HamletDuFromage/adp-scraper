@@ -1,0 +1,16 @@
+{
+  "Title": "Doug's 1st Movie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dougs-1st-movie/7aa8rWA1FCFV"
+    }
+  ],
+  "in_theaters": false
+}

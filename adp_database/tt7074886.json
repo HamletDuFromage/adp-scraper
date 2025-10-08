@@ -1,0 +1,20 @@
+{
+  "Title": "The Front Runner",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1440920347"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317582084/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

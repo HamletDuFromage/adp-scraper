@@ -1,0 +1,16 @@
+{
+  "Title": "Sing On!",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Music",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81024999"
+    }
+  ],
+  "in_theaters": false
+}

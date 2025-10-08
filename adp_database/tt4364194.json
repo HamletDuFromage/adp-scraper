@@ -1,0 +1,23 @@
+{
+  "Title": "The Peanut Butter Falcon",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Disability",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8b793a7-9f44-32c6-07bb-4c03bda832bd/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5497c6fe-6af3-4925-8fb6-91e664c4e2a3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/55bf1f90-3759-44c5-a5a5-1387f6f3b163"
+    }
+  ],
+  "in_theaters": false
+}

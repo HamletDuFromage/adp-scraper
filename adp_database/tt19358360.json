@@ -1,0 +1,18 @@
+{
+  "Title": "Favorite Daughter",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3b32ed52-5e41-400c-b793-ca00d04b2e45/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/0Jkorx20KMuBA5vh5W8s6rxdmzPwujLp/"
+    }
+  ],
+  "in_theaters": false
+}

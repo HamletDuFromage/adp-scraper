@@ -1,0 +1,18 @@
+{
+  "Title": "You're Next",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/467480"
+    }
+  ],
+  "in_theaters": false
+}

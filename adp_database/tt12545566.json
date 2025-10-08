@@ -1,0 +1,19 @@
+{
+  "Title": "Mr. Malcolm's List",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1624931990"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2037272"
+    }
+  ],
+  "in_theaters": false
+}

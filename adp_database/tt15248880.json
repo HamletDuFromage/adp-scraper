@@ -1,0 +1,19 @@
+{
+  "Title": "Adventure Time: Fionna & Cake",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.947d6589-7266-4f6b-8ea8-d994cd462cef/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ec92dad5-265d-4b09-a27e-c7f7629cdfc3"
+    }
+  ],
+  "in_theaters": false
+}

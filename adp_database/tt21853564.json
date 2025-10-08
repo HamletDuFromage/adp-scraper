@@ -1,0 +1,14 @@
+{
+  "Title": "Maia",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9b8c0973-1699-4999-ba8a-d2168a103c9e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

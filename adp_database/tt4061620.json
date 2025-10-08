@@ -1,0 +1,18 @@
+{
+  "Title": "Firebird",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "LGBTQ",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.714946c2-ac85-4050-9583-f033fecf07e8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Invisible Sister",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/invisible-sister/4XLkQ95dRew5"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4187340"
+    }
+  ],
+  "in_theaters": false
+}

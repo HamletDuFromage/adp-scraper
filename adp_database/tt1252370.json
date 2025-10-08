@@ -1,0 +1,17 @@
+{
+  "Title": "The Real Housewives of Atlanta",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-real-housewives-of-atlanta/6574381223813355112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64668eae-5fe1-4c80-9a5b-8cded90e1d70/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

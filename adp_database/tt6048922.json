@@ -1,0 +1,26 @@
+{
+  "Title": "Greyhound",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.o5z5ztufuu3uv8lx7m0jcega"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4287284"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1805971117"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.da5cc225-5932-4494-b11c-66b2311a97aa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

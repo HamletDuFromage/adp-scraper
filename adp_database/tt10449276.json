@@ -1,0 +1,21 @@
+{
+  "Title": "Get Away",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70878e81-61a5-4e2a-a538-b3665343f460/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1784358676"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DVJ5P4M8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

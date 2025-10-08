@@ -1,0 +1,14 @@
+{
+  "Title": "Arsenio Hall: Smart & Classy",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81148672"
+    }
+  ],
+  "in_theaters": false
+}

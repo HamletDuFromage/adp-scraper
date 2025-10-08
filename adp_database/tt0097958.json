@@ -1,0 +1,15 @@
+{
+  "Title": "National Lampoon's Christmas Vacation",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ca9f6c5-3835-b089-7d97-674f83aab0f0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

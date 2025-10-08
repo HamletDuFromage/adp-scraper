@@ -1,0 +1,16 @@
+{
+  "Title": "I'm Gonna Git You Sucka",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2457874-f762-4e9c-8473-ec2771797db5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

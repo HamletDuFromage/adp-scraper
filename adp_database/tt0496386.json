@@ -1,0 +1,18 @@
+{
+  "Title": "The Secret of the Magic Gourd",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-secret-of-the-magic-gourd/3zVLswDX5vuJ"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Loot",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4598509a-2b6c-440e-aad2-424112777d8a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.5erbujil1mpazuerhr1udnk45"
+    }
+  ],
+  "in_theaters": false
+}

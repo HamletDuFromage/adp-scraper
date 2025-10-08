@@ -1,0 +1,14 @@
+{
+  "Title": "Proof of Concept",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "CuriousityStream": "https://curiositystream.com/video/6902"
+    }
+  ],
+  "in_theaters": false
+}

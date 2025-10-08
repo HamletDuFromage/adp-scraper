@@ -1,0 +1,18 @@
+{
+  "Title": "Monarch: Legacy of Monsters",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.868fff89-2d44-4c37-b738-e0cec9bfef02/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew"
+    }
+  ],
+  "in_theaters": false
+}

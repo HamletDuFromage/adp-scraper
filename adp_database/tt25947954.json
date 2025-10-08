@@ -1,0 +1,19 @@
+{
+  "Title": "Gray Matter",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cf95a0d0-db87-4e88-bf3c-8aac85e9fb81/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/5639c996-940d-440f-ab51-5eb5345bf52c"
+    }
+  ],
+  "in_theaters": false
+}

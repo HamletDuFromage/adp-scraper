@@ -1,0 +1,25 @@
+{
+  "Title": "Spider-Man: Homecoming",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/spider-man-homecoming/4cLMEzWGqQaG"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1243195844"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B073RVFNV2/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8ae7ac5-df1a-918c-02be-56fea135a055/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

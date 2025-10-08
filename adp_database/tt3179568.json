@@ -1,0 +1,18 @@
+{
+  "Title": "Men, Women & Children",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72a9f75d-6625-2f60-7ef3-3d9812aa9200/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00NGL7JK4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

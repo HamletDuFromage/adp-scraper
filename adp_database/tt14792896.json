@@ -1,0 +1,18 @@
+{
+  "Title": "Liaison",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f5a64b39-bcfa-4809-b992-6fbb5da1dd5f/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.62t13xacr3mxnit5a40g8tkla"
+    }
+  ],
+  "in_theaters": false
+}

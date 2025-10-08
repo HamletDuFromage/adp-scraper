@@ -1,0 +1,14 @@
+{
+  "Title": "Lucky 13",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/8dda953c-5df4-405a-95b9-548bbe33210b"
+    }
+  ],
+  "in_theaters": false
+}

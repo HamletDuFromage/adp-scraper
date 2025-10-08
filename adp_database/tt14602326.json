@@ -1,0 +1,18 @@
+{
+  "Title": "Muppets Haunted Mansion",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/muppets-haunted-mansion/5F6XYZYVhMms"
+    }
+  ],
+  "in_theaters": false
+}

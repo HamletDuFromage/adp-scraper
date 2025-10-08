@@ -1,0 +1,15 @@
+{
+  "Title": "If Beale Street Could Talk",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/6317613230/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

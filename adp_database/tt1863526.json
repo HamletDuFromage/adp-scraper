@@ -1,0 +1,17 @@
+{
+  "Title": "Bar Rescue",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fb31dc24-277c-4e80-914b-cd0232100c59/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/bar-rescue/"
+    }
+  ],
+  "in_theaters": false
+}

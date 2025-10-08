@@ -1,0 +1,17 @@
+{
+  "Title": "Obsession",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81478642"
+    }
+  ],
+  "in_theaters": false
+}

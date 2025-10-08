@@ -1,0 +1,22 @@
+{
+  "Title": "Aftersun",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1650269030"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2145007"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58ebf52e-ee51-4e44-bacf-2b994cd15fdb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

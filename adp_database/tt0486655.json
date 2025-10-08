@@ -1,0 +1,20 @@
+{
+  "Title": "Stardust",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ecabf5b0-4240-1f47-6ded-f1bf95fba4ce/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id273701540"
+    }
+  ],
+  "in_theaters": false
+}

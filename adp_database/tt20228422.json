@@ -1,0 +1,18 @@
+{
+  "Title": "Snake in the Grass",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/snake-in-the-grass/5856637422944396112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c47bb250-b802-441e-ad1f-5be89fb966b5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Night School",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56b306b0-f861-8712-50db-0332ca76eb4d/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07HGQ53LY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

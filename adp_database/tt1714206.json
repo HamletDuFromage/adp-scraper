@@ -1,0 +1,15 @@
+{
+  "Title": "The Spectacular Now",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.43ba91d2-1cb9-4d7c-b117-20a800009c1b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

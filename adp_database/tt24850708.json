@@ -1,0 +1,25 @@
+{
+  "Title": "Gunslingers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8799d67c-4150-4c41-8eff-c2fdf9a2cdca/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1805689646"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3931834"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F3WXVKS6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

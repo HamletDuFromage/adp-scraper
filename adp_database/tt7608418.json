@@ -1,0 +1,17 @@
+{
+  "Title": "A Christmas Prince",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80160759"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Corrupted",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ab7b69f-65cd-bc1e-a2a3-1cfdcdd08a23/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

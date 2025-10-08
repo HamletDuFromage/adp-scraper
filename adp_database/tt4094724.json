@@ -1,0 +1,26 @@
+{
+  "Title": "The Purge: Election Year",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8eaaf093-fa2f-c928-dd86-f7c537a41fa7/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5eab5ede-2b01-fdd6-7b02-53aa2efe7bd9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1125555618"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01HU0W69U/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

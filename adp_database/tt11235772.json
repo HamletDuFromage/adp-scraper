@@ -1,0 +1,22 @@
+{
+  "Title": "The Voyeurs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5d5bd244-7e9f-4c27-b50c-96ab4a5b7bca/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1677653456"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2355981"
+    }
+  ],
+  "in_theaters": false
+}

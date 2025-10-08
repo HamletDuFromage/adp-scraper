@@ -1,0 +1,17 @@
+{
+  "Title": "Race to Witch Mountain",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/race-to-witch-mountain/562vJK3ASSGl"
+    }
+  ],
+  "in_theaters": false
+}

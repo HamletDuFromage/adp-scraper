@@ -1,0 +1,29 @@
+{
+  "Title": "Despicable Me 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58a9f6cc-d37f-7c76-e234-22212a166ad2/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fea9f785-40c1-09be-ef34-32bf6cfcc006/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id664370402"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B008JFUQ16/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70264803"
+    }
+  ],
+  "in_theaters": false
+}

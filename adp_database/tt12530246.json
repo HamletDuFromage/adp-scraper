@@ -1,0 +1,25 @@
+{
+  "Title": "Emancipation",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.29024979-ac36-4332-898e-75e89e05f6ea/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.1j6fdxookwtqml3bd8ivvcbbv"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4217140"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1806224589"
+    }
+  ],
+  "in_theaters": false
+}

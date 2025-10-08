@@ -1,0 +1,18 @@
+{
+  "Title": "Colin from Accounts",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Disability"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.93486387-51b4-4025-8b49-7005aa9c9a11/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/colin-from-accounts/"
+    }
+  ],
+  "in_theaters": false
+}

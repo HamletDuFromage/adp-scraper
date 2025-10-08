@@ -1,0 +1,20 @@
+{
+  "Title": "The LEGO Movie 2: The Second Part",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d3d9b410-6d8d-4f08-a2c9-398b016ef005/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1450601534"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07MS59V7S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

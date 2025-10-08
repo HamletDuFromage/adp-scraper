@@ -1,0 +1,19 @@
+{
+  "Title": "The Tigger Movie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-tigger-movie/PyKGhDOvU0z2"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id281754675"
+    }
+  ],
+  "in_theaters": false
+}

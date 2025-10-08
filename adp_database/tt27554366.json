@@ -1,0 +1,18 @@
+{
+  "Title": "A Bloody Lucky Day",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dd0830be-5868-4646-8751-8377aa574576/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/a-bloody-lucky-day/"
+    }
+  ],
+  "in_theaters": false
+}

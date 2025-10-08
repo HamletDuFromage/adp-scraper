@@ -1,0 +1,15 @@
+{
+  "Title": "Hip-Hop and the White House",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/67ea6e54-b498-4c75-bac1-8790689a7406"
+    }
+  ],
+  "in_theaters": false
+}

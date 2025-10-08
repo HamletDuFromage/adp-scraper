@@ -1,0 +1,16 @@
+{
+  "Title": "Double Teamed",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/double-teamed/2Oi6kt7yWQfW"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,29 @@
+{
+  "Title": "Beau is Afraid",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1fd4f0ba-eab6-41df-a08a-7797f104dde3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/421e8de8-33ca-4192-a9cb-e99787bdced2"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1686286479"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C29GPHX7/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2321129"
+    }
+  ],
+  "in_theaters": false
+}

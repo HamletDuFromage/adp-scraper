@@ -1,0 +1,25 @@
+{
+  "Title": "Dr. Seuss' The Lorax",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86a9f796-a538-2129-6100-86243403d57d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id513208819"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIH4A/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70208102"
+    }
+  ],
+  "in_theaters": false
+}

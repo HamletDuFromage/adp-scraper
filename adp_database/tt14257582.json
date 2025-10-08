@@ -1,0 +1,23 @@
+{
+  "Title": "Wolfs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.c3xhu25rw4jxxxzq4oio6snu"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1806229657"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4242124"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2f27820-dac9-4a9e-953b-57d4ddb13a9b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

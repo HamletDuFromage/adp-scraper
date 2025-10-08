@@ -1,0 +1,14 @@
+{
+  "Title": "Family Film and TV Awards",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "TV Variety"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/family-film-and-tv-awards/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Planet 51",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88a9f75e-1862-2c6f-b2cd-232c18175750/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B001PR0YEE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

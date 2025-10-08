@@ -1,0 +1,15 @@
+{
+  "Title": "Pup Academy",
+  "Media Type": "Series",
+  "Rating": "TV-Y7-FV",
+  "Genre": [
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81040639"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Hysterical",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Documentary",
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/hysterical-0801b00d-f2b9-4035-862e-be657bc54560"
+    }
+  ],
+  "in_theaters": false
+}

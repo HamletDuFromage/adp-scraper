@@ -1,0 +1,27 @@
+{
+  "Title": "The Bad Guys",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Crime",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1621678814"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09YKQLVZB/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/the-bad-guys/f10184a1-d13f-33dd-9e31-9e735748a40f"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fdf2dd41-8183-493e-bdad-8a3695a30c69/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

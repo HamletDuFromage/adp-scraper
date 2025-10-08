@@ -1,0 +1,19 @@
+{
+  "Title": "Music Box: Jason Isbell: Running with Our Eyes Closed",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.de229750-7827-4146-8962-0410a4a2ada6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/50a8b535-e4ee-40e6-b2ab-8fc9d88ee0c2"
+    }
+  ],
+  "in_theaters": false
+}

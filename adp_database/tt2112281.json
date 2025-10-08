@@ -1,0 +1,17 @@
+{
+  "Title": "Tangled Ever After",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tangled-ever-after/76OFplGYDJQk"
+    }
+  ],
+  "in_theaters": false
+}

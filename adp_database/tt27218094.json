@@ -1,0 +1,15 @@
+{
+  "Title": "A Toast to Love",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e7fa92b1-05f0-4dca-b2e2-f3a3745917d4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "102 Dalmatians",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/102-dalmatians/6Ljtg0iqG58i"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id282938246"
+    }
+  ],
+  "in_theaters": false
+}

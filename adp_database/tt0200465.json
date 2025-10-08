@@ -1,0 +1,16 @@
+{
+  "Title": "The Bank Job",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dabbdb7f-da00-d024-ba51-98d4d81363f6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

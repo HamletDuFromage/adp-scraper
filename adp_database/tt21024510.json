@@ -1,0 +1,15 @@
+{
+  "Title": "A Farewell to Ozark",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81519166"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Ouija",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70305901"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0a9f69f-39cf-6757-9502-09156bd0f9ec/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00OV60I6K/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

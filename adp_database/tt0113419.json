@@ -1,0 +1,16 @@
+{
+  "Title": "The Indian in the Cupboard",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2cb3ecb8-9366-b929-b5a0-2e36cc68dfa2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

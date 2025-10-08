@@ -1,0 +1,17 @@
+{
+  "Title": "A Christmas Horror Story",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Holiday",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.345c3729-865e-4471-93d0-8245687d73aa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

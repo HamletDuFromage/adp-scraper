@@ -1,0 +1,18 @@
+{
+  "Title": "LEGO Disney Princess: The Castle Quest",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lego-disney-princess-the-castle-quest/3RaClHoA0suM"
+    }
+  ],
+  "in_theaters": false
+}

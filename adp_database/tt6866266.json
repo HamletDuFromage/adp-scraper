@@ -1,0 +1,20 @@
+{
+  "Title": "Escape at Dannemora",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80242020"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/escape-at-dannemora/"
+    }
+  ],
+  "in_theaters": false
+}

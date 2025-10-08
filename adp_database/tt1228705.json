@@ -1,0 +1,22 @@
+{
+  "Title": "Iron Man 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-iron-man-2/lXjCr9QmGGQJ"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id688844810"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003UYV08E/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

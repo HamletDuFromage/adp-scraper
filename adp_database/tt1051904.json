@@ -1,0 +1,23 @@
+{
+  "Title": "Goosebumps",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2a9f6c3-d412-136e-d19d-cfc40ebdbeaf/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1044876394"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B016QQZB4G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Bill Maher: Is Anyone Else Seeing This?",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2660c50-5503-4a84-a157-3fc2621289e4/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6c2efc93-9f26-46af-9b77-dc2e7d53d53e"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Turner & Hooch",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/turner-hooch/7L6KHWI6CXRb"
+    }
+  ],
+  "in_theaters": false
+}

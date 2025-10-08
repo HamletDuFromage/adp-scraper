@@ -1,0 +1,15 @@
+{
+  "Title": "Four Weddings and a Funeral",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/four-weddings-and-a-funeral-2e17b3b3-cadf-41ee-b8a2-59fe64c17f67"
+    }
+  ],
+  "in_theaters": false
+}

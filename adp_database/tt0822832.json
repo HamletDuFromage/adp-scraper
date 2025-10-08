@@ -1,0 +1,19 @@
+{
+  "Title": "Marley & Me",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animals & Nature",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36a9f776-43b8-a9ab-9e1d-e92b3ec0d386/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id300783706"
+    }
+  ],
+  "in_theaters": false
+}

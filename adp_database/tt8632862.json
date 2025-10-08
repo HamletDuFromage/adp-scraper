@@ -1,0 +1,15 @@
+{
+  "Title": "Fahrenheit 11/9",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Documentary",
+    "Politics"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36b3d6f9-3a6b-e0d0-687f-d62b0a2f8755/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

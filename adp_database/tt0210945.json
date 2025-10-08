@@ -1,0 +1,17 @@
+{
+  "Title": "Remember the Titans",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Black Stories",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/remember-the-titans/6itmwJfRJIfd"
+    }
+  ],
+  "in_theaters": false
+}

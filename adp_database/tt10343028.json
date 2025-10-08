@@ -1,0 +1,26 @@
+{
+  "Title": "Armageddon Time",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dcdbacb0-ab4e-4b02-9cfe-d52ea1ec678f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1653856096"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BKNRK5DG/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2171094"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/armageddon-time/e80cd7ad-17df-3a18-9ad8-171c80fe54d9"
+    }
+  ],
+  "in_theaters": false
+}

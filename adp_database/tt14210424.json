@@ -1,0 +1,15 @@
+{
+  "Title": "The Wedding Coach",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81046203"
+    }
+  ],
+  "in_theaters": false
+}

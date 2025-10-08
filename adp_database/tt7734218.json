@@ -1,0 +1,21 @@
+{
+  "Title": "Stuber",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1471744108"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07SVF1N22/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Snow White and the Seven Dwarfs",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/snow-white-and-the-seven-dwarfs/7X592hsrOB4X"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1062450802"
+    }
+  ],
+  "in_theaters": false
+}

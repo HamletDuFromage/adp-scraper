@@ -1,0 +1,19 @@
+{
+  "Title": "The Perfect Guy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0159OSR24/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/Ut8o9tRHiYgUCCtHgLAzN5gn74P6z4tD/"
+    }
+  ],
+  "in_theaters": false
+}

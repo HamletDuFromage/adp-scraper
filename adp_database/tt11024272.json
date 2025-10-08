@@ -1,0 +1,15 @@
+{
+  "Title": "The Babysitter: Killer Queen",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81012366"
+    }
+  ],
+  "in_theaters": false
+}

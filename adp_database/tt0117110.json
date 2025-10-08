@@ -1,0 +1,15 @@
+{
+  "Title": "Muppet Treasure Island",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/muppet-treasure-island/vllwtnLKWByk"
+    }
+  ],
+  "in_theaters": false
+}

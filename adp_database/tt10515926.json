@@ -1,0 +1,21 @@
+{
+  "Title": "Half Brothers",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8bb2a6a-3753-3eab-061d-196fd13e13d0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1544443930"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08P495CDJ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

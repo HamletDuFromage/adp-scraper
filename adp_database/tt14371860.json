@@ -1,0 +1,27 @@
+{
+  "Title": "Apartment 7A",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7681487e-9d8e-4b1f-895c-747f17b3b5a2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1766577927"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DDCLVQSN/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3544565"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/iMwn9YBobQsMh_QR28DUMERgPuB_cleL/"
+    }
+  ],
+  "in_theaters": false
+}

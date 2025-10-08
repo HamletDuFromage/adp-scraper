@@ -1,0 +1,16 @@
+{
+  "Title": "The Haunting of Hill House",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80189221"
+    }
+  ],
+  "in_theaters": false
+}

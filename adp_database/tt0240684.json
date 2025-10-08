@@ -1,0 +1,20 @@
+{
+  "Title": "The Little Mermaid II: Return to the Sea",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-little-mermaid-ii-return-to-the-sea/6RDBhfjwO85E"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id669336220"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Valentine's Day",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id358936485"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/57a02b6b-ebde-4a09-b4dc-a1840e1a5e2d"
+    }
+  ],
+  "in_theaters": false
+}

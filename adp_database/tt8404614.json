@@ -1,0 +1,16 @@
+{
+  "Title": "The Two Popes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80174451"
+    }
+  ],
+  "in_theaters": false
+}

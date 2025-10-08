@@ -1,0 +1,19 @@
+{
+  "Title": "We Own This City",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f43fc1a6-edfb-4027-af0c-fe21d09941ef/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/acaeeec8-e8f5-4198-85e2-192f8b79bdff"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "Joker",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4b6ca92-491f-bc5b-9da4-30916bb6e8a0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/e37195fe-c232-4ba0-bb9e-c4004279b6fa"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1480861897"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07XJD5BBX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

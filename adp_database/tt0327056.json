@@ -1,0 +1,17 @@
+{
+  "Title": "Mystic River",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id540717367"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Alex Cross",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id578738924"
+    }
+  ],
+  "in_theaters": false
+}

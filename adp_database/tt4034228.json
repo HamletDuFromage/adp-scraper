@@ -1,0 +1,14 @@
+{
+  "Title": "Manchester by the Sea",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ead76ad-34f1-6efc-cb00-5e7ad3d3cd07/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

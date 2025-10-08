@@ -1,0 +1,15 @@
+{
+  "Title": "Monster-in-Law",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ce04c18-31be-492f-b516-8dce81d2a06d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

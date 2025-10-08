@@ -1,0 +1,18 @@
+{
+  "Title": "Bad Monkey",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f82be8d2-07d3-4b3e-816e-0283fab30c92/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2qoep59s6qukjonprttysfs8x"
+    }
+  ],
+  "in_theaters": false
+}

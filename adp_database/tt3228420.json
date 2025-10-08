@@ -1,0 +1,16 @@
+{
+  "Title": "You're the Worst",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/youre-the-worst-b0fede71-622f-42fe-b3e5-1c066540120b"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Marrowbone",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7eb15b8e-eac3-1bc4-1aa0-9e6c1c36e465/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

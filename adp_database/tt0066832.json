@@ -1,0 +1,16 @@
+{
+  "Title": "Billy Jack",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Politics"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.45e068ac-7f5b-456a-b81f-aeb6f215ee7b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

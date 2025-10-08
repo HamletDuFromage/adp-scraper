@@ -1,0 +1,15 @@
+{
+  "Title": "Diary of a Wimpy Kid 2: Rodrick Rules",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-2b1aa72f-116f-4e0b-8e92-1563788e22fd"
+    }
+  ],
+  "in_theaters": false
+}

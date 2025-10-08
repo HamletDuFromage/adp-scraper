@@ -1,0 +1,16 @@
+{
+  "Title": "O'Dessa",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/ea3ee5c6-ee7f-4556-9431-0563b971b8fb"
+    }
+  ],
+  "in_theaters": false
+}

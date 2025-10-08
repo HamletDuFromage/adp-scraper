@@ -1,0 +1,23 @@
+{
+  "Title": "A Hollywood Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7d557d7e-ba7b-4a79-afd5-43d58049587a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f3fcc6df-5bc8-49c1-8a34-e01334b71aa9"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1653941282"
+    }
+  ],
+  "in_theaters": false
+}

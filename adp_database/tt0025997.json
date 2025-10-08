@@ -1,0 +1,18 @@
+{
+  "Title": "The Wise Little Hen",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-wise-little-hen/6bOBmuCnoOoi"
+    }
+  ],
+  "in_theaters": false
+}

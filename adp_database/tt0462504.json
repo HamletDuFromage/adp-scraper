@@ -1,0 +1,16 @@
+{
+  "Title": "Rescue Dawn",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0b53d3d-28d5-86af-0535-bf9994f5a3e7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

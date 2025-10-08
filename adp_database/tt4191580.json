@@ -1,0 +1,14 @@
+{
+  "Title": "Meet the Blacks",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cd4a0895-91ca-42bc-935c-af47a5a3e5bc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

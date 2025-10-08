@@ -1,0 +1,16 @@
+{
+  "Title": "Name That Tune",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Music",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/series/300006283/name-that-tune"
+    }
+  ],
+  "in_theaters": false
+}

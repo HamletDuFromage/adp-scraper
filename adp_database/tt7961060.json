@@ -1,0 +1,16 @@
+{
+  "Title": "Dragon Ball Super: Broly",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bab6fc84-ea9b-bfbb-6f51-f8b841203ecb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

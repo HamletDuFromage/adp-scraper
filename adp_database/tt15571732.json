@@ -1,0 +1,17 @@
+{
+  "Title": "Agatha All Along",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-5e474669-a4a2-4b90-a928-5ae7f845090c"
+    }
+  ],
+  "in_theaters": false
+}

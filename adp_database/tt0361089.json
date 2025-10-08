@@ -1,0 +1,21 @@
+{
+  "Title": "Valiant",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/valiant/1HtO2XMz9hDg"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id187503479"
+    }
+  ],
+  "in_theaters": false
+}

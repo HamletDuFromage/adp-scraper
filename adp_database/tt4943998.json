@@ -1,0 +1,18 @@
+{
+  "Title": "Deadwood: The Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4de62bb7-9e6a-4969-acb8-61a64dc60659/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1e58f764-728c-44b5-b8f1-d299e58af169"
+    }
+  ],
+  "in_theaters": false
+}

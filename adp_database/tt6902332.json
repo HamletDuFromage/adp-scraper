@@ -1,0 +1,22 @@
+{
+  "Title": "The Marksman",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2bc1ee9-9f24-c0f0-ebe8-72efd6b24d81/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1558662694"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08SKG1B83/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Chip and Potato: Chip's Holiday",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81236197"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Mothers of the Revolution",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.33a4482d-7709-4d5c-9a5c-9c7da0e9611d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1587290688"
+    }
+  ],
+  "in_theaters": false
+}

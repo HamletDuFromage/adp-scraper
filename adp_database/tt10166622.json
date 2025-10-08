@@ -1,0 +1,15 @@
+{
+  "Title": "The Dropout",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-dropout-13988f84-f1c8-40dd-a73c-4e71ab4bbe63"
+    }
+  ],
+  "in_theaters": false
+}

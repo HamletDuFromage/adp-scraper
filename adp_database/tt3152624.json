@@ -1,0 +1,25 @@
+{
+  "Title": "Trainwreck",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2a9f734-a1e1-e0b4-961b-86e37deddf1f/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aca9f78f-e458-eff1-49f9-b03728310425/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1012595477"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B011VPI3ZG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

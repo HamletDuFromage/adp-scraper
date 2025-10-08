@@ -1,0 +1,17 @@
+{
+  "Title": "The Peripheral",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.69b95a8c-91d9-40ce-b31f-9e01ec3be253/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

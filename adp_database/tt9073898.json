@@ -1,0 +1,15 @@
+{
+  "Title": "Duncanville",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/duncanville-14b98655-0ac2-45f6-85d7-5a365d76b693"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Kitbull",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/kitbull/48I9ePWUtfW1"
+    }
+  ],
+  "in_theaters": false
+}

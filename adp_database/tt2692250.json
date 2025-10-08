@@ -1,0 +1,23 @@
+{
+  "Title": "Night at the Museum: Secret of the Tomb",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eeb78ff4-4057-3998-a4ea-8f2855c028bd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id945082215"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00SSI2PKO/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

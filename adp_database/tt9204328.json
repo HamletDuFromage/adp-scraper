@@ -1,0 +1,21 @@
+{
+  "Title": "Dark Harvest",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1705054056"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2594890"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64978232-490a-4301-be57-a83a0e544b49/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

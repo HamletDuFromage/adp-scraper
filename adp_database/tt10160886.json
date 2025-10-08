@@ -1,0 +1,17 @@
+{
+  "Title": "Sneakerella",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/sneakerella/3QMLCzsvfIay"
+    }
+  ],
+  "in_theaters": false
+}

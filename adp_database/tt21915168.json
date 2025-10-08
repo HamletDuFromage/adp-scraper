@@ -1,0 +1,18 @@
+{
+  "Title": "Work It Out Wombats!",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2273556"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7bfb6d78-2c44-4cb7-b40e-c001fd28e0ea/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

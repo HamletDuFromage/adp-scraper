@@ -1,0 +1,16 @@
+{
+  "Title": "Big Mouth",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80117038"
+    }
+  ],
+  "in_theaters": false
+}

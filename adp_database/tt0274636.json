@@ -1,0 +1,21 @@
+{
+  "Title": "The Luck of the Irish",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/luck-of-the-irish/71uQo1CB3OAd"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4c51f3bd-db4c-427d-92cc-868acd3c25c5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

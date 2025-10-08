@@ -1,0 +1,30 @@
+{
+  "Title": "Mean Girls",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.816792af-d5fb-4e4e-927e-8220758e8e23/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1721907715"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CS3JK721/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2849939"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/mean-girls-2024"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/EZEf6n5_wHNxKpizziehpPPyWTcK52Ix/"
+    }
+  ],
+  "in_theaters": false
+}

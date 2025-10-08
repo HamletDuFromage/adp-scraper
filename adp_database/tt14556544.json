@@ -1,0 +1,18 @@
+{
+  "Title": "Thomas & Friends: All Engines Go",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81553278"
+    }
+  ],
+  "in_theaters": false
+}

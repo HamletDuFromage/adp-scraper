@@ -1,0 +1,17 @@
+{
+  "Title": "Hobo with a Shotgun",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0fe05b03-73d3-4ebc-8fd5-27a859ff9338/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

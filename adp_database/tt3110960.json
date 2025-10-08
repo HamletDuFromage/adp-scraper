@@ -1,0 +1,14 @@
+{
+  "Title": "Jimmy's Hall",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ca9f7b4-8201-5ccb-6d00-5a24cef3d11f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

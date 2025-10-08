@@ -1,0 +1,21 @@
+{
+  "Title": "Lara Croft: Tomb Raider - The Cradle of Life",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id209129482"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B077Y3QTTW/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/lara-croft-tomb-raider-the-cradle-of-life-2003"
+    }
+  ],
+  "in_theaters": false
+}

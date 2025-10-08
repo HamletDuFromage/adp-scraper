@@ -1,0 +1,18 @@
+{
+  "Title": "Outgrown",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.41e7b5b3-3c30-418b-82bf-f16184f7004a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/52c872a7-8bdc-4dfb-9409-a0a1d21a3205"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Ghost",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id218725367"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B088T2ZZ5T/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

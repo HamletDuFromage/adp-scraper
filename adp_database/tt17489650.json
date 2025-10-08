@@ -1,0 +1,20 @@
+{
+  "Title": "Ash",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c271a01f-948e-4b35-9611-dc52f6d042ce/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1802055068"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F1WJ6ML2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

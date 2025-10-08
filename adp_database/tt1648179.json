@@ -1,0 +1,22 @@
+{
+  "Title": "Here Comes the Boom",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04b528b4-9a05-a346-3b4b-4afe188338a0/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70217915"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id577511131"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Sea Level 3: Dolphin Boy",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c3f723ad-87fc-4204-a336-7a0d33efaaaa/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1760405648"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3245702"
+    }
+  ],
+  "in_theaters": false
+}

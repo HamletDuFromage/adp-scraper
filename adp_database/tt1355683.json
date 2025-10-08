@@ -1,0 +1,22 @@
+{
+  "Title": "Black Mass",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34a9f681-6a0d-1331-c40d-9f7d41afea84/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1037175698"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B015JR14FI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

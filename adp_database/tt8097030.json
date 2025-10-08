@@ -1,0 +1,33 @@
+{
+  "Title": "Turning Red",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Coming of Age",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7010179e-0dec-4109-be20-eea888d5e4c9/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e152e0bb-942f-4990-a6f3-bdc6f61061cd/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/turning-red/4mFPCXJi7N2m"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1615040741"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09V5Q3H5S/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2020911"
+    }
+  ],
+  "in_theaters": false
+}

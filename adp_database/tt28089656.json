@@ -1,0 +1,17 @@
+{
+  "Title": "Disney Junior Wonderful World of Songs",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Music",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/disney-junior-wonderful-world-of-songs/6eyXIF0TZpHY"
+    }
+  ],
+  "in_theaters": false
+}

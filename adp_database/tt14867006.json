@@ -1,0 +1,16 @@
+{
+  "Title": "V/H/S/94",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5dcf3aff-f851-4d06-9ece-95b7c2da6eac/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

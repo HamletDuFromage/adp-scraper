@@ -1,0 +1,19 @@
+{
+  "Title": "Tyler Perry's Acrimony",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cb1fcdb-0260-15b2-df92-3911804bc4c5/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07BZC8B6J/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

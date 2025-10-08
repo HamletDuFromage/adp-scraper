@@ -1,0 +1,23 @@
+{
+  "Title": "Lone Survivor",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.05c2f5ea-e48f-4d73-bbbd-953ee2659452/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id773233393"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00HEPE6MM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

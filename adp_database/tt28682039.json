@@ -1,0 +1,17 @@
+{
+  "Title": "Vindicta",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4608b56f-7246-4f68-8996-8e4928650ce9/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/RHppzfbm8JaF89_b6irE_mToeUmJPyyl/"
+    }
+  ],
+  "in_theaters": false
+}

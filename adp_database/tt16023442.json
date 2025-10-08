@@ -1,0 +1,16 @@
+{
+  "Title": "World's Best",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Coming of Age",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/worlds-best/5ZsG9Cuz0x0B"
+    }
+  ],
+  "in_theaters": false
+}

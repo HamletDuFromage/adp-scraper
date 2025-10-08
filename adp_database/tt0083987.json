@@ -1,0 +1,16 @@
+{
+  "Title": "Gandhi",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70a9f781-55f8-c155-8b1e-bc2fee9a5409/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

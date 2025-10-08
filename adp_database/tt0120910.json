@@ -1,0 +1,17 @@
+{
+  "Title": "Fantasia 2000",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Music",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/fantasia-2000/5DG1yXGiy3m5"
+    }
+  ],
+  "in_theaters": false
+}

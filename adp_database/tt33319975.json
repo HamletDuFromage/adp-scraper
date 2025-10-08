@@ -1,0 +1,18 @@
+{
+  "Title": "Colin Jost & Michael Che Present: New York After Dark",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/colin-jost-and-michael-che-present-new-york-after-dark/fb0e96f4-05ae-3b95-bc99-c51eec948a26"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4380dcf1-4c20-495a-99f0-666ffdc3a91f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Butch Cassidy and the Wild Bunch",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/100000629/butch-cassidy-and-the-wild-bunch"
+    }
+  ],
+  "in_theaters": false
+}

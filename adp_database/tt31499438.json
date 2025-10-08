@@ -1,0 +1,16 @@
+{
+  "Title": "Thomas & Friends: The Christmas Letter Express",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81728272"
+    }
+  ],
+  "in_theaters": false
+}

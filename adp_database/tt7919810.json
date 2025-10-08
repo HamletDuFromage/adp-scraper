@@ -1,0 +1,14 @@
+{
+  "Title": "The Turkey Bowl",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9762849c-8194-4011-923c-26768ab69436/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

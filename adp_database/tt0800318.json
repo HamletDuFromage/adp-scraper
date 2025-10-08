@@ -1,0 +1,17 @@
+{
+  "Title": "The Cheetah Girls 2",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-cheetah-girls-2/5BrPVAvvpPIs"
+    }
+  ],
+  "in_theaters": false
+}

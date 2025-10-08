@@ -1,0 +1,16 @@
+{
+  "Title": "Disaster Movie",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.daa9f6fc-a132-cb88-f8bd-fa91a128ac3b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

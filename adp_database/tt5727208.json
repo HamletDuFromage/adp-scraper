@@ -1,0 +1,22 @@
+{
+  "Title": "Uncut Gems",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ab77800-63cc-60ab-e3b2-034d1312d554/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1488851266"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/aea3e927-289d-4444-a01a-c6366e78953c"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Hubie Halloween",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80245104"
+    }
+  ],
+  "in_theaters": false
+}

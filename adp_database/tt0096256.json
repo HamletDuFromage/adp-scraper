@@ -1,0 +1,17 @@
+{
+  "Title": "They Live",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92a9f7a8-e122-3b6c-6e21-6072a8f1a35c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

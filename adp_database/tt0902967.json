@@ -1,0 +1,19 @@
+{
+  "Title": "Disneynature: The Crimson Wing - Mystery of the Flamingos",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneynature-crimson-wing/SAockM9AKlQI"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id348674193"
+    }
+  ],
+  "in_theaters": false
+}

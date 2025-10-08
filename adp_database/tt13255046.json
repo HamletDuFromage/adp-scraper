@@ -1,0 +1,18 @@
+{
+  "Title": "The Power of We: A Sesame Street Special",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3c06fb3e-48f8-4319-9b55-89c01573e16b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/71dd7d10-8f0e-48ff-8db7-5d5dba0feb3e"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Lockwood & Co.",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81116060"
+    }
+  ],
+  "in_theaters": false
+}

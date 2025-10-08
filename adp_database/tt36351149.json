@@ -1,0 +1,15 @@
+{
+  "Title": "Oklahoma City Bombing: American Terror",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81704384"
+    }
+  ],
+  "in_theaters": false
+}

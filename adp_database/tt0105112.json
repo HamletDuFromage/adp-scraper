@@ -1,0 +1,21 @@
+{
+  "Title": "Patriot Games",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ca9f744-3f3d-e05e-33d4-704cc5a76545/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id211216774"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/67s1eQf84cHd_bSF11kiVBN9Rl0tBcMg/"
+    }
+  ],
+  "in_theaters": false
+}

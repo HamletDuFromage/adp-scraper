@@ -1,0 +1,21 @@
+{
+  "Title": "The Machine",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.be4dce59-9a23-466e-be68-fbf3f8b1b76e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1689512351"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C5F5GY84/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

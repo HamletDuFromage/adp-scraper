@@ -1,0 +1,19 @@
+{
+  "Title": "George of the Jungle 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/george-of-the-jungle-2/6JT1KATzUJdQ"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id296820657"
+    }
+  ],
+  "in_theaters": false
+}

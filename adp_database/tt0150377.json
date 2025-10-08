@@ -1,0 +1,23 @@
+{
+  "Title": "Double Jeopardy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5eb868b1-9fd7-5173-c134-0015586430f0/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BJTLBD3P/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/WFlB05_TzyUbE_oKMAub5rcm0ajFZYv4/"
+    }
+  ],
+  "in_theaters": false
+}

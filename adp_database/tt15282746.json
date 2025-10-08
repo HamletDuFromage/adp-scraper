@@ -1,0 +1,17 @@
+{
+  "Title": "Drops of God",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3970fd5c-34bd-4ece-bc0f-5e5ecbe030c0/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.497ttx33nudgzywis3i2bnvuk"
+    }
+  ],
+  "in_theaters": false
+}

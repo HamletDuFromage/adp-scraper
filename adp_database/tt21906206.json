@@ -1,0 +1,16 @@
+{
+  "Title": "Hotel for the Holidays",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.479636cd-7bed-43fd-835a-2209a8e8dae0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

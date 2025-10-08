@@ -1,0 +1,15 @@
+{
+  "Title": "A Deadly American Marriage",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81588273"
+    }
+  ],
+  "in_theaters": false
+}

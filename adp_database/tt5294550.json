@@ -1,0 +1,19 @@
+{
+  "Title": "All the Money in the World",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0eb03d3e-ad3a-b744-e69b-b35df0b2d748/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0788YKWR1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

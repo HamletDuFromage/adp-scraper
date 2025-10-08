@@ -1,0 +1,22 @@
+{
+  "Title": "A Star is Born",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74ba6528-8bcd-3fb0-3235-a0f9088211b1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1437031362"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07JYQN7J6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

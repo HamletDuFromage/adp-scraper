@@ -1,0 +1,19 @@
+{
+  "Title": "Inherit the Wind",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/inherit-the-wind-1960"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f358c256-3c90-4652-9220-b78ebeedc70f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

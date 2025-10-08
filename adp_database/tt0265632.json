@@ -1,0 +1,20 @@
+{
+  "Title": "Recess: School's Out",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/recess-schools-out/6XMSvba0mQaj"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id309684116"
+    }
+  ],
+  "in_theaters": false
+}

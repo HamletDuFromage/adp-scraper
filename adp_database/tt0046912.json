@@ -1,0 +1,18 @@
+{
+  "Title": "Dial M for Murder",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id271878319"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/10102"
+    }
+  ],
+  "in_theaters": false
+}

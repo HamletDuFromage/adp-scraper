@@ -1,0 +1,22 @@
+{
+  "Title": "The Bronze",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58aa69fd-6cf0-211c-a885-257d04af770e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1100481970"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01FEQ9JWO/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

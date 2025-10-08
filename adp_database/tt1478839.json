@@ -1,0 +1,23 @@
+{
+  "Title": "The Art of Racing in the Rain",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4b63567-3312-6d49-3088-1b83337849e2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1474313154"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TJKBNPQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

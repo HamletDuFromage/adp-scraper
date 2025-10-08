@@ -1,0 +1,19 @@
+{
+  "Title": "Collide",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1783176272"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06XPRLS7L/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

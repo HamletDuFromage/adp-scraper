@@ -1,0 +1,25 @@
+{
+  "Title": "Sweet Dreams",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5a6adc0b-a674-4439-b068-afb2fac2fc7b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1730449608"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2542588"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/ddt9yOVFteLCp4m3NZrA9BvCauZWpbky/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The $100,000 Pyramid",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-100000-pyramid-c7fec70f-bcb1-401f-bd86-917f250bf355"
+    }
+  ],
+  "in_theaters": false
+}

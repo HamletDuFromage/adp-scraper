@@ -1,0 +1,21 @@
+{
+  "Title": "Equity",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3eabfb72-59a9-8e89-83b0-aa09c0b3fbab/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1142063817"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LZIKKPK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

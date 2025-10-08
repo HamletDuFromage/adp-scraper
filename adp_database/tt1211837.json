@@ -1,0 +1,24 @@
+{
+  "Title": "Doctor Strange",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4abfbde-f2ce-c858-be9c-4ecc5612558c/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-doctor-strange/4GgMJ1aHKHA2"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1164294784"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01M5EKXCA/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

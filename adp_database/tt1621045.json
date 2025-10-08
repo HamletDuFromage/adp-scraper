@@ -1,0 +1,18 @@
+{
+  "Title": "Think Like a Man",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96a9f686-aa83-ae55-2aa3-25f8b34a85d2/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIH86/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "The Secret Life of Walter Mitty",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id772093232"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00H7KJRVY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

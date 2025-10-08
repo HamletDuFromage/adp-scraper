@@ -1,0 +1,17 @@
+{
+  "Title": "The Mustang",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80203749"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72b4af56-abf3-a071-50e0-6c2d06bf327c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

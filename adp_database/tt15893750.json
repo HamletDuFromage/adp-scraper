@@ -1,0 +1,17 @@
+{
+  "Title": "Rye Lane",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Black Stories",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/e3240081-68ec-4d08-aae9-db1d9f44ccc5"
+    }
+  ],
+  "in_theaters": false
+}

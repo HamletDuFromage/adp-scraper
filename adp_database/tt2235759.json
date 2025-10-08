@@ -1,0 +1,22 @@
+{
+  "Title": "The Great",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.137d249c-8862-4b04-9ac3-d56baa1f84e6/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/the-great-238db0d4-c476-47ed-9bee-d326fd302f7d"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2454610"
+    }
+  ],
+  "in_theaters": false
+}

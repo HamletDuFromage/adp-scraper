@@ -1,0 +1,29 @@
+{
+  "Title": "Jungle Cruise",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7a9016f8-c50f-4c02-b4c8-9b6fd9b5c310/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d5ac64e7-14c7-4260-b381-85029c20370a/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/jungle-cruise/73QMeTY6Dray"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1579524747"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09H37YC1F/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

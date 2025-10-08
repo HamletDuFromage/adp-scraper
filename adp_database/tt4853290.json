@@ -1,0 +1,21 @@
+{
+  "Title": "Out Come the Wolves",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6c0b10e-f5a2-4f6a-927b-8e57d1cc8e1c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1760574153"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DJC2HH51/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

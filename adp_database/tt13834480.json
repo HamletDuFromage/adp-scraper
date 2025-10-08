@@ -1,0 +1,17 @@
+{
+  "Title": "Diary of a Wimpy Kid",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/diary-of-a-wimpy-kid/3W4BZbeErSgN"
+    }
+  ],
+  "in_theaters": false
+}

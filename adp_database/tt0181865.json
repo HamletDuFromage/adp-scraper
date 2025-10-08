@@ -1,0 +1,19 @@
+{
+  "Title": "Traffic",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aa9f7b4-0a84-923c-7b17-eb1a5abb0e0f/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60003243"
+    }
+  ],
+  "in_theaters": false
+}

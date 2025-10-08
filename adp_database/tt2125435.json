@@ -1,0 +1,19 @@
+{
+  "Title": "Beasts of the Southern Wild",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0b87330f-c473-4bb7-8ba6-8eb430c7fd54/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B008220AGC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

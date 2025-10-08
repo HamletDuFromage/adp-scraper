@@ -1,0 +1,15 @@
+{
+  "Title": "Mr. Bean's Holiday",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6a9f67e-f5e7-3f6a-92f1-a7fa436bc0e8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Davy Crockett: King of the Wild Frontier",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/davy-crockett-king-of-the-wild-frontier/3vun9tRZkpPV"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id439395040"
+    }
+  ],
+  "in_theaters": false
+}

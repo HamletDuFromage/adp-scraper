@@ -1,0 +1,15 @@
+{
+  "Title": "Steal This House",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/9546cc0e-3581-4d46-8024-4864b502c3dd"
+    }
+  ],
+  "in_theaters": false
+}

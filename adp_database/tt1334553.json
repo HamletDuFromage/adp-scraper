@@ -1,0 +1,16 @@
+{
+  "Title": "The Perfect Host",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8a47df2f-e339-4b4a-8efb-5c2b9b0e9235/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

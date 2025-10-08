@@ -1,0 +1,19 @@
+{
+  "Title": "Flight of the Conchords",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Music",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1636d75e-7c47-43d8-8de4-25d0316ce8a7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/5f5ba394-4784-4edf-9008-af49e3503c28"
+    }
+  ],
+  "in_theaters": false
+}

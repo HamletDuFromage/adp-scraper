@@ -1,0 +1,23 @@
+{
+  "Title": "For the Birds",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.66a9f74d-3c39-23b2-1e34-4f2eadd15066/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/for-the-birds/39fBQBkmwdji"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id885283705"
+    }
+  ],
+  "in_theaters": false
+}

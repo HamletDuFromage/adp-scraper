@@ -1,0 +1,20 @@
+{
+  "Title": "Halloweentown",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cea9f782-8ab1-af8a-3ccf-4aee7630f74e/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/halloweentown/kn5updFQLqbG"
+    }
+  ],
+  "in_theaters": false
+}

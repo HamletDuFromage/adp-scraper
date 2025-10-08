@@ -1,0 +1,18 @@
+{
+  "Title": "Pulisic",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2792a49d-007d-45a1-bf38-3380bfdf4b2c/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/pulisic/"
+    }
+  ],
+  "in_theaters": false
+}

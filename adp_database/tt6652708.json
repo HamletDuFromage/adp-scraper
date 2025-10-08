@@ -1,0 +1,17 @@
+{
+  "Title": "God's Not Dead: A Light in Darkness",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3cb252be-4412-64ff-497c-66c1986fc19c/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07C8FCLTM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Rising Phoenix",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Disability",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81122408"
+    }
+  ],
+  "in_theaters": false
+}

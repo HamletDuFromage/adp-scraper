@@ -1,0 +1,26 @@
+{
+  "Title": "Death of a Unicorn",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.21c4e6a6-5554-4f23-ab30-5222a46b19fb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1802009406"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4044698"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/356da4a1-da4e-4a8c-81a3-7593e53e4e4f"
+    }
+  ],
+  "in_theaters": false
+}

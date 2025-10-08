@@ -1,0 +1,18 @@
+{
+  "Title": "Lizzo: Live in Concert",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Concert",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.835fc4f0-bcaa-42a6-8bdc-bd7bddd168c8/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/64a3b3ce-946b-4eb6-bdac-b7124e94e3e9"
+    }
+  ],
+  "in_theaters": false
+}

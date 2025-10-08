@@ -1,0 +1,15 @@
+{
+  "Title": "Adventure of the Ring",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/96702e44-d49b-439e-b84e-4d3dd6fdd2dc"
+    }
+  ],
+  "in_theaters": false
+}

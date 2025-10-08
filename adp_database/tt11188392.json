@@ -1,0 +1,18 @@
+{
+  "Title": "Expecting Amy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bec97cb7-3118-4912-b1d1-2acbc75ba11e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/65d99954-16a6-4e12-b0c1-3ef2d5740182"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Cars 3",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/cars-3/2uwOWguXyJe4"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1242569993"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B071VL8G58/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

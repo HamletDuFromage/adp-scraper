@@ -1,0 +1,16 @@
+{
+  "Title": "To All the Boys: P.S. I Still Love You",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81030842"
+    }
+  ],
+  "in_theaters": false
+}

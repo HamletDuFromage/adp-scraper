@@ -1,0 +1,17 @@
+{
+  "Title": "The Karate Kid",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id270980948"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Friday the 13th",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.296e95c7-28f5-4749-b1be-aa9d39a00ad2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

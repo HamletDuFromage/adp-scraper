@@ -1,0 +1,19 @@
+{
+  "Title": "Victoria & Abdul",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80af81d5-eb0d-369e-36c9-092bd322b1bd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1288360133"
+    }
+  ],
+  "in_theaters": false
+}

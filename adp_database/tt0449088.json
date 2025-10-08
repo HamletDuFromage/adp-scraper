@@ -1,0 +1,18 @@
+{
+  "Title": "Pirates of the Caribbean: At World's End",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/pirates-of-the-caribbean-at-worlds-end/2zELYZFiqI4C"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id266229473"
+    }
+  ],
+  "in_theaters": false
+}

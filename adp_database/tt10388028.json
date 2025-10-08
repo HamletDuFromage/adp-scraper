@@ -1,0 +1,17 @@
+{
+  "Title": "Enemies of the State",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8365e497-3a95-4b93-a204-b82c5785a22e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1574385092"
+    }
+  ],
+  "in_theaters": false
+}

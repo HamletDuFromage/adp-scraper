@@ -1,0 +1,18 @@
+{
+  "Title": "Legacy of Lies",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/579292/legacy-of-lies"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.376e03cc-547f-47fa-b247-012077e77aab/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

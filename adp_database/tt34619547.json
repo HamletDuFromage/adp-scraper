@@ -1,0 +1,15 @@
+{
+  "Title": "Avicii - My Last Show",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Music",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81931120"
+    }
+  ],
+  "in_theaters": false
+}

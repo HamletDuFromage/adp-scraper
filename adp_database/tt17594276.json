@@ -1,0 +1,16 @@
+{
+  "Title": "4Ever",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Buddy",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/4ever/5qalHg4aPKpv"
+    }
+  ],
+  "in_theaters": false
+}

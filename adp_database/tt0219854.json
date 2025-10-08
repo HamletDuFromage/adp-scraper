@@ -1,0 +1,19 @@
+{
+  "Title": "The Kid",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneys-the-kid/1QWLFAKZsy9O"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188702471"
+    }
+  ],
+  "in_theaters": false
+}

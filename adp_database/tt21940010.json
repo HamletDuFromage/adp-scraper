@@ -1,0 +1,15 @@
+{
+  "Title": "A Million Miles Away",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20a64ffb-a216-40ac-9294-8cc16f209dfc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

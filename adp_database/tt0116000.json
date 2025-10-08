@@ -1,0 +1,19 @@
+{
+  "Title": "D3: The Mighty Ducks",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/d3-the-mighty-ducks/60MKBZyPVXSC"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id309983935"
+    }
+  ],
+  "in_theaters": false
+}

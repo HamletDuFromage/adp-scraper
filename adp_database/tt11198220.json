@@ -1,0 +1,18 @@
+{
+  "Title": "Jellystone!",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/c86fa040-2491-479c-9ab4-462afce6832f"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Central Intelligence: Extended Edition",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48a490ab-6eb0-4c33-8f46-da5daa70a434/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1c2830cb-32dc-4355-834f-62a52b1022be"
+    }
+  ],
+  "in_theaters": false
+}

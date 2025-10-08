@@ -1,0 +1,16 @@
+{
+  "Title": "The Painted Bird",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-painted-bird-c82d7619-4bfe-4864-93b0-0fa364d0c7b5"
+    }
+  ],
+  "in_theaters": false
+}

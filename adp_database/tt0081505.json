@@ -1,0 +1,15 @@
+{
+  "Title": "The Shining",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c7f0ed7a-2486-4013-a07d-c614a3622632/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

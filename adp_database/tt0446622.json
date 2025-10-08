@@ -1,0 +1,18 @@
+{
+  "Title": "Hard Knocks: Training Camp With the Dallas Cowboys",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/12ab813b-14e2-4ffb-b3e5-ad1a6447f444"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46ac81a0-f2ee-4f7c-a7ae-6442ec2173d6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

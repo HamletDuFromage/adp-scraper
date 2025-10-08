@@ -1,0 +1,15 @@
+{
+  "Title": "A Tale of Two Kitchens",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80244680"
+    }
+  ],
+  "in_theaters": false
+}

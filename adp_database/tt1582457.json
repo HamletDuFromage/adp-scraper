@@ -1,0 +1,17 @@
+{
+  "Title": "The Borgias",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-borgias/"
+    }
+  ],
+  "in_theaters": false
+}

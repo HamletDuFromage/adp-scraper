@@ -1,0 +1,18 @@
+{
+  "Title": "Lend a Paw",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lend-a-paw/5tUuqmgqJfR5"
+    }
+  ],
+  "in_theaters": false
+}

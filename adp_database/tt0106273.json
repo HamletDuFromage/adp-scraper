@@ -1,0 +1,20 @@
+{
+  "Title": "And the Band Played On",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "History",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/c42cfc42-8b03-47bd-aab4-04ce437c4e3c"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bf031dd5-93a9-4ba3-8c81-dc932566e44c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

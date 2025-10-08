@@ -1,0 +1,18 @@
+{
+  "Title": "Pretty Woman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id492172140"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/12954"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "MouseHunt",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ea9f6c1-7660-f045-0d12-bf0575c2bd0e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id286305697"
+    }
+  ],
+  "in_theaters": false
+}

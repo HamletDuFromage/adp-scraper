@@ -1,0 +1,17 @@
+{
+  "Title": "Mandela: Long Walk to Freedom",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bea9f796-7934-e507-dbc4-b9075df3e628/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

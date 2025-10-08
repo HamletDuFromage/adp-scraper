@@ -1,0 +1,27 @@
+{
+  "Title": "Titanic",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cbaf9d4c-26e4-44a7-ae75-3196aff48b45/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id545892907"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B007SPPANM/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/14430"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/titanic-1997"
+    }
+  ],
+  "in_theaters": false
+}

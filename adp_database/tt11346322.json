@@ -1,0 +1,14 @@
+{
+  "Title": "Gossip",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f59fc37e-bf94-4a55-a58a-2b4ca5659d94/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

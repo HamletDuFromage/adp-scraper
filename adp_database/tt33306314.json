@@ -1,0 +1,18 @@
+{
+  "Title": "The Surreal Life",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.65d1364f-c042-4308-97a6-cb32a6a39c72/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-surreal-life-2022/"
+    }
+  ],
+  "in_theaters": false
+}

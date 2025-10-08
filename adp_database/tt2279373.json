@@ -1,0 +1,27 @@
+{
+  "Title": "The SpongeBob Movie: Sponge Out of Water",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ca9f6d2-c032-87b4-e23b-1a7c9e858d51/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id958319506"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00TA8DKW8/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/sAZCTsPjbneY7yFs7uO8IAsUBDbGLxVU/"
+    }
+  ],
+  "in_theaters": false
+}

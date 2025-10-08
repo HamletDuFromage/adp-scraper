@@ -1,0 +1,15 @@
+{
+  "Title": "Tyler Perry's Madea's Big Happy Family",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cea9f77d-b951-08a1-85af-c899921ec8d1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

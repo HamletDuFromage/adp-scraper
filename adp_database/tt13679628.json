@@ -1,0 +1,16 @@
+{
+  "Title": "McCartney 3, 2, 1",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/mccartney-3-2-1-e168480d-849e-4f2d-aaf2-a5276723d68d"
+    }
+  ],
+  "in_theaters": false
+}

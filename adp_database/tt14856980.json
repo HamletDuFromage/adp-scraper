@@ -1,0 +1,14 @@
+{
+  "Title": "Atlas",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81012048"
+    }
+  ],
+  "in_theaters": false
+}

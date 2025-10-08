@@ -1,0 +1,14 @@
+{
+  "Title": "Beverly Hills Cop II",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/60010140"
+    }
+  ],
+  "in_theaters": false
+}

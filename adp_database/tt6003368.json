@@ -1,0 +1,25 @@
+{
+  "Title": "Diary of a Wimpy Kid: The Long Haul",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.baae202d-c3c5-054d-eff1-df670b5ea9f3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1231038654"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0721685FN/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/5cea84a2-04fc-48fb-b774-425360bc6b6c"
+    }
+  ],
+  "in_theaters": false
+}

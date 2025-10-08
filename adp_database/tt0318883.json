@@ -1,0 +1,14 @@
+{
+  "Title": "Everwood",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ac2c491-e6da-41f7-929e-a16f4162de8a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

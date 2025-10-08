@@ -1,0 +1,16 @@
+{
+  "Title": "Death and Other Details",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/1493a676-9e14-4e6a-ace8-914b39269f56"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Saturday Morning All Star Hits!",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81103133"
+    }
+  ],
+  "in_theaters": false
+}

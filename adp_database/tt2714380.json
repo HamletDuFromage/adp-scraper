@@ -1,0 +1,16 @@
+{
+  "Title": "The Remaining",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ea9f65c-b1fb-96f3-1145-d2caeaaba41f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

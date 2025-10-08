@@ -1,0 +1,23 @@
+{
+  "Title": "Operation Dumbo Drop",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Comedy",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44a9f77c-87c0-a109-1f99-d30b2978b983/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/operation-dumbo-drop/UXLibzxZujdd"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id444880842"
+    }
+  ],
+  "in_theaters": false
+}

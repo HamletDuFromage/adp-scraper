@@ -1,0 +1,19 @@
+{
+  "Title": "Case 39",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B004B3PBFQ/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/case-39/8wNczrLXI0tYRlDP9r0DQRlq6COJxGOW/"
+    }
+  ],
+  "in_theaters": false
+}

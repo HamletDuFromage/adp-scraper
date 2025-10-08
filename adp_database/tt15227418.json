@@ -1,0 +1,17 @@
+{
+  "Title": "A Murder at the End of the World",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/aa1adbb2-bfd6-4d88-b709-5455bf953f9e"
+    }
+  ],
+  "in_theaters": false
+}

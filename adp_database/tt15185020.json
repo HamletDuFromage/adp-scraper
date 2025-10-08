@@ -1,0 +1,15 @@
+{
+  "Title": "What Happens in Hollywood",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/a2eb6985e1f3508c9658f15de1c0e5a0/what-happens-in-hollywood"
+    }
+  ],
+  "in_theaters": false
+}

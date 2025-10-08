@@ -1,0 +1,16 @@
+{
+  "Title": "Dumplin'",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80201490"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Lou",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/lou/4jytoH03NnCy"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1294042948"
+    }
+  ],
+  "in_theaters": false
+}

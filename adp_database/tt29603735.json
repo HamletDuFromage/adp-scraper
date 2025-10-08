@@ -1,0 +1,15 @@
+{
+  "Title": "Verified Stand-Up",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81691506"
+    }
+  ],
+  "in_theaters": false
+}

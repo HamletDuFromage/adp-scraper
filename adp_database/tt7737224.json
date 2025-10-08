@@ -1,0 +1,18 @@
+{
+  "Title": "Turtles All the Way Down",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06f150f0-e7b4-4c4b-b2c7-00fb7c7f5a3a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a12bf2db-1be0-4300-8933-3f042708ce28"
+    }
+  ],
+  "in_theaters": false
+}

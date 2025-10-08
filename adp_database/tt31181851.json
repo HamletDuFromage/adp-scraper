@@ -1,0 +1,14 @@
+{
+  "Title": "Building the Eiffel Tower",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4d9c686-edd9-4d14-850b-43733e0e5660/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

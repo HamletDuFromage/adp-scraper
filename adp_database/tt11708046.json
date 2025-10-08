@@ -1,0 +1,18 @@
+{
+  "Title": "Secrets of the Zoo: Tampa",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f6ca567c-0942-4c7b-b3f7-eb7a465ce32d/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/secrets-of-the-zoo-tampa/5nmSNpaEebhx"
+    }
+  ],
+  "in_theaters": false
+}

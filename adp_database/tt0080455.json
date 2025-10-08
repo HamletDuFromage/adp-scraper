@@ -1,0 +1,17 @@
+{
+  "Title": "The Blues Brothers - Unrated",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ca9f700-6428-bb28-c711-7c046f0c899e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

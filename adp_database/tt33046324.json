@@ -1,0 +1,18 @@
+{
+  "Title": "K-Pop Idols",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d3c84baa-5e80-417e-937a-d2a5b5037ff9/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.j0nrrycfzizv3g28dhz2bks"
+    }
+  ],
+  "in_theaters": false
+}

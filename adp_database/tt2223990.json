@@ -1,0 +1,18 @@
+{
+  "Title": "Draft Day",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id882409355"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8bee31db-e94f-4d39-981e-9a04b67221d0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "DuckTales the Movie: Treasure of the Lost Lamp",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/ducktales-the-movie-treasure-of-the-lost-lamp/7loUkd1trYEj"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id354865584"
+    }
+  ],
+  "in_theaters": false
+}

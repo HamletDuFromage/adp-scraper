@@ -1,0 +1,29 @@
+{
+  "Title": "The Black Phone",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d190260a-1d92-4ce8-a04c-a94c6af52817/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/the-black-phone/2283623c-0e7c-380c-ab6d-109580fe3a8d"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1632577333"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B48QJ71T/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2040357"
+    }
+  ],
+  "in_theaters": false
+}

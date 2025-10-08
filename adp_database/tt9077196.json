@@ -1,0 +1,15 @@
+{
+  "Title": "The Degenerates",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80987753"
+    }
+  ],
+  "in_theaters": false
+}

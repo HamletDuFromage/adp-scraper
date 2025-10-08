@@ -1,0 +1,29 @@
+{
+  "Title": "Murder on the Orient Express",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1298073618"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/42321"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/54d2gzapr8y7C8BZbJUAaz9wIlHiOuhu/"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/murder-on-the-orient-express-1974"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2a189f5b-4117-4398-8eba-839069242dc5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

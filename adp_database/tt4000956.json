@@ -1,0 +1,17 @@
+{
+  "Title": "Brother Nature",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dcb92993-d362-65dd-db4d-fc60947f5799/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01M4FO94K/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

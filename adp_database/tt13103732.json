@@ -1,0 +1,20 @@
+{
+  "Title": "The Offering",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-offering-69f22d27-3abf-482c-b728-746e13aabac7"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1655170086"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2184086"
+    }
+  ],
+  "in_theaters": false
+}

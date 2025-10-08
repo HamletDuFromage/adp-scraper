@@ -1,0 +1,29 @@
+{
+  "Title": "Big Hero 6",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ea9f78d-fe7b-a79e-94c2-c9f748f28c7f/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f750-92c6-2124-efe1-1617ad303990/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/big-hero-6/4AozFbXy3sPw"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id929423754"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00QUG7R9A/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

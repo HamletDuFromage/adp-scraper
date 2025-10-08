@@ -1,0 +1,14 @@
+{
+  "Title": "Las Vegas",
+  "Media Type": "Series",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4cb7bc1c-31b9-4d38-8d0f-6a042fcc2338/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

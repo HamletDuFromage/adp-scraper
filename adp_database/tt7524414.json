@@ -1,0 +1,17 @@
+{
+  "Title": "Beats",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80216302"
+    }
+  ],
+  "in_theaters": false
+}

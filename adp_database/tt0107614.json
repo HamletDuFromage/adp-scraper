@@ -1,0 +1,18 @@
+{
+  "Title": "Mrs. Doubtfire",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mrs-doubtfire/RpQjgk9ZcSih"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id434021427"
+    }
+  ],
+  "in_theaters": false
+}

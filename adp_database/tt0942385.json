@@ -1,0 +1,22 @@
+{
+  "Title": "Tropic Thunder",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/142276"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/tropic-thunder/26DFYvRxPukwiQsNS596_MwDDvPnYWyw/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f610c9eb-b781-4501-bc3b-0e5615b57c87/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

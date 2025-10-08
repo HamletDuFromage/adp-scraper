@@ -1,0 +1,16 @@
+{
+  "Title": "Quiz Show",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id442087681"
+    }
+  ],
+  "in_theaters": false
+}

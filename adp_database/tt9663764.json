@@ -1,0 +1,30 @@
+{
+  "Title": "Aquaman and the Lost Kingdom",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.014f54b0-7c21-4c86-87cb-f322c5e3d385/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.872d439e-9323-4aa6-9e6f-fd35dbbc68db/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/024657af-9462-478a-a043-92e00a4b1952"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1719360469"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CQPJSTWB/audiodescriin-20"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d7770b2594b2b001e74fb7e&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    }
+  ],
+  "in_theaters": false
+}

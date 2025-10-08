@@ -1,0 +1,22 @@
+{
+  "Title": "Won't You Be My Neighbor?",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0b23ff9-4dfd-37a3-134a-5236034b28f2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1388366357"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07D591ST1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

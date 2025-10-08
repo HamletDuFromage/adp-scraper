@@ -1,0 +1,16 @@
+{
+  "Title": "Blade: Trinity",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0ac5b7c-daf2-048e-f3d6-eab12ca5f22f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

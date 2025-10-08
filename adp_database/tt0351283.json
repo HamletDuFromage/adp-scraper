@@ -1,0 +1,16 @@
+{
+  "Title": "Madagascar",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a9f6d7-0fe4-d16b-9452-752dfb36af8d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

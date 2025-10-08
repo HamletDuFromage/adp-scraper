@@ -1,0 +1,30 @@
+{
+  "Title": "Raya and the Last Dragon",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02bc0f3a-696b-713f-5b15-f5410e28fcd6/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52bc16cd-286c-146f-1af2-8aaea5ff3cfc/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/raya-and-the-last-dragon/6dyengbx3iYK"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1557711427"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B092X7BHJ2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

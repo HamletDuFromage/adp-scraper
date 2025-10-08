@@ -1,0 +1,15 @@
+{
+  "Title": "St. Denis Medical",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Medical"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/st.-denis-medical/5915734159508728112"
+    }
+  ],
+  "in_theaters": false
+}

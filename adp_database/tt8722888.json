@@ -1,0 +1,19 @@
+{
+  "Title": "DC's Stargirl",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/4641f249-fa6d-4d5b-9202-1743464376b7"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9b38bbe1-25e4-4ac6-be22-b4c11c793152/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

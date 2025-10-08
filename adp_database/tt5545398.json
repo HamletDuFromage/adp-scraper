@@ -1,0 +1,20 @@
+{
+  "Title": "George & Tammy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3305f652-7cf5-4d95-a759-967aeb16cff4/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/george-and-tammy/"
+    }
+  ],
+  "in_theaters": false
+}

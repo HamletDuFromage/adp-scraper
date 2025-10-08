@@ -1,0 +1,21 @@
+{
+  "Title": "Dìdi",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4db3adf-bbca-4eea-be4b-2f75ab26b537/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1760433447"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3438384"
+    }
+  ],
+  "in_theaters": false
+}

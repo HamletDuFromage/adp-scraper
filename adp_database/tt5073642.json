@@ -1,0 +1,16 @@
+{
+  "Title": "Color Out of Space",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22826ff4-cca8-4f0f-94ae-69d730c5becb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

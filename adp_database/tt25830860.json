@@ -1,0 +1,15 @@
+{
+  "Title": "A Sunday Affair",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81462490"
+    }
+  ],
+  "in_theaters": false
+}

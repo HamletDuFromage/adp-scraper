@@ -1,0 +1,14 @@
+{
+  "Title": "Broken",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81002391"
+    }
+  ],
+  "in_theaters": false
+}

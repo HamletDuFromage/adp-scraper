@@ -1,0 +1,18 @@
+{
+  "Title": "The Guilt Trip",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0087ITBPC/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.55cd74ec-b3b6-454f-b472-de620b4e05a7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

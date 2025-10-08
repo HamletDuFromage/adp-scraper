@@ -1,0 +1,21 @@
+{
+  "Title": "Friends with Benefits",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id463104305"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004EPZ0BG/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70167075"
+    }
+  ],
+  "in_theaters": false
+}

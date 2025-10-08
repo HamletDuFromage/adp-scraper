@@ -1,0 +1,17 @@
+{
+  "Title": "House of Ho",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2e5554f9-9f77-4c04-b6b8-f61db5354d7b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ae1ceff1-2efd-4de2-9d6c-be80ee90cde1"
+    }
+  ],
+  "in_theaters": false
+}

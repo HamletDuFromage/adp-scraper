@@ -1,0 +1,18 @@
+{
+  "Title": "Animal Crackers",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81191856"
+    }
+  ],
+  "in_theaters": false
+}

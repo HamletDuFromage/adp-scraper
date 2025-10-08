@@ -1,0 +1,19 @@
+{
+  "Title": "Splash",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/splash/5tXDQPs8hDbl"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id623429482"
+    }
+  ],
+  "in_theaters": false
+}

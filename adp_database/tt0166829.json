@@ -1,0 +1,16 @@
+{
+  "Title": "Sultan and the Rock Star",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/sultan-and-the-rock-star/2r04cOsBrL14"
+    }
+  ],
+  "in_theaters": false
+}

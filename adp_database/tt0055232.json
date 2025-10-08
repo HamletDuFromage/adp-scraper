@@ -1,0 +1,16 @@
+{
+  "Title": "Nikki, Wild Dog of the North",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id492155002"
+    }
+  ],
+  "in_theaters": false
+}

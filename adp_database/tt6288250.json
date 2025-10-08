@@ -1,0 +1,18 @@
+{
+  "Title": "Patti Cake$",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.acb9c8d4-02ba-1644-6417-0ee4a9d45053/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1273050137"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "The Banker",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Black Stories",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.2f8qhsa039voq5x0iwn1eixj1"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4395041"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1806262098"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.531f620f-880b-4380-b2a0-c88734b05f36/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

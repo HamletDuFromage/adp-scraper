@@ -1,0 +1,18 @@
+{
+  "Title": "Get Smart",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38a9f7b7-9348-f48f-6b3f-a6f28ee808aa/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id665677670"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The Big Day",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81161576"
+    }
+  ],
+  "in_theaters": false
+}

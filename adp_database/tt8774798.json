@@ -1,0 +1,18 @@
+{
+  "Title": "100% Wolf",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32493e60-c187-44cd-a55d-b2423deb52ac/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

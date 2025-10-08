@@ -1,0 +1,20 @@
+{
+  "Title": "Snow Dogs",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/snow-dogs/3NB69uJRfTil"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id205702567"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Hard Hat Riot",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea291b3-39a7-4594-a7af-6b5fdea7c588/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

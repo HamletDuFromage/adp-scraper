@@ -1,0 +1,17 @@
+{
+  "Title": "Arkansas",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ea7fe525-ced3-4929-a825-da0079da31a1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

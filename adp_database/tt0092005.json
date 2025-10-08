@@ -1,0 +1,17 @@
+{
+  "Title": "Stand by Me",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Coming of Age",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32a9f752-b22b-d2a4-f293-220cb45ce811/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

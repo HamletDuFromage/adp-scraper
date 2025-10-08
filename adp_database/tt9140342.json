@@ -1,0 +1,20 @@
+{
+  "Title": "It's a Sin",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "History",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0b44704-c285-4290-9bd4-0f4c29ecc345/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/9125253d-be57-424f-a6fa-3b4de49cfd10"
+    }
+  ],
+  "in_theaters": false
+}

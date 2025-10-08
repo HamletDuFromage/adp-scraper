@@ -1,0 +1,17 @@
+{
+  "Title": "RuPaul's Drag Race All Stars",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/rupauls-drag-race-all-stars/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.41da2c41-b126-4514-8283-6d9749905c71/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

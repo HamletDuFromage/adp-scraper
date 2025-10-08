@@ -1,0 +1,21 @@
+{
+  "Title": "Shape Island",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52ac5844-bcc4-45bc-9433-605ed381fcc1/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.40xdlw2jijoj95c3a6y2m3738"
+    }
+  ],
+  "in_theaters": false
+}

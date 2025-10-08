@@ -1,0 +1,17 @@
+{
+  "Title": "Tinker Bell and the Lost Treasure",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tinker-bell-and-the-lost-treasure/30nLKMf5u48q"
+    }
+  ],
+  "in_theaters": false
+}

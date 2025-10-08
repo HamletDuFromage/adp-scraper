@@ -1,0 +1,21 @@
+{
+  "Title": "The Underdoggs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1808104341"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f12df200-0eb7-4fe7-9844-6eb3979e0fdb/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4219264"
+    }
+  ],
+  "in_theaters": false
+}

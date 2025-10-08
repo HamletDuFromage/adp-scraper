@@ -1,0 +1,17 @@
+{
+  "Title": "October Kiss",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.32b1ce12-62bb-4839-a889-830ed379b90f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

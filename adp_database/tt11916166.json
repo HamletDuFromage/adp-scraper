@@ -1,0 +1,18 @@
+{
+  "Title": "Baby God",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fedffdc5-5039-4b5a-ad14-80572c3e087b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/c5d08099-2d53-43a0-9b0e-1f858ee3976f"
+    }
+  ],
+  "in_theaters": false
+}

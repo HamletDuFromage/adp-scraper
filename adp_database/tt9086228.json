@@ -1,0 +1,23 @@
+{
+  "Title": "Gretel & Hansel",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eab7f803-a723-f638-1fca-287450e495ca/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1493598894"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0851LZYMS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

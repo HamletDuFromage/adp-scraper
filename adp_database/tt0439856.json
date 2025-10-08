@@ -1,0 +1,15 @@
+{
+  "Title": "Trailer Park Boys: Xmas Special",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70143440"
+    }
+  ],
+  "in_theaters": false
+}

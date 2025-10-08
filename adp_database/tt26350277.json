@@ -1,0 +1,15 @@
+{
+  "Title": "Ballerina",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81572011"
+    }
+  ],
+  "in_theaters": false
+}

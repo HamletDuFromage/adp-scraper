@@ -1,0 +1,16 @@
+{
+  "Title": "Cellular",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4b65d45-868b-4d73-6e09-81825f15155c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

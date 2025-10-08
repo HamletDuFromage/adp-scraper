@@ -1,0 +1,15 @@
+{
+  "Title": "BLACKPINK: Light Up the Sky",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81106901"
+    }
+  ],
+  "in_theaters": false
+}

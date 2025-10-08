@@ -1,0 +1,18 @@
+{
+  "Title": "Mother Undercover",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/gods-country-f5b3594b-cd2c-4b3c-8da9-89633d953c65"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-4913ff96-2237-4200-a899-94dc494691a4"
+    }
+  ],
+  "in_theaters": false
+}

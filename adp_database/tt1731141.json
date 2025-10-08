@@ -1,0 +1,21 @@
+{
+  "Title": "Ender's Game",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ea9f7b1-5fc9-4023-1958-b66366fea524/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id723143800"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B008JFUNHI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

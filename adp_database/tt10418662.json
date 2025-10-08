@@ -1,0 +1,15 @@
+{
+  "Title": "Awake",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81040362"
+    }
+  ],
+  "in_theaters": false
+}

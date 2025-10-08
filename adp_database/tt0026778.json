@@ -1,0 +1,15 @@
+{
+  "Title": "A Night at the Opera",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id318536456"
+    }
+  ],
+  "in_theaters": false
+}

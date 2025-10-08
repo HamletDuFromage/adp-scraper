@@ -1,0 +1,15 @@
+{
+  "Title": "Rebel Royals: An Unlikely Love Story",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81763742"
+    }
+  ],
+  "in_theaters": false
+}

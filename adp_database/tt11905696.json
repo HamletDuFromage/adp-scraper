@@ -1,0 +1,14 @@
+{
+  "Title": "Stockton on My Mind",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/bad9ba2b-3b78-49ab-9c25-1ec26796884d"
+    }
+  ],
+  "in_theaters": false
+}

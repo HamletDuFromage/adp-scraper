@@ -1,0 +1,17 @@
+{
+  "Title": "Fatal Affair",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81068703"
+    }
+  ],
+  "in_theaters": false
+}

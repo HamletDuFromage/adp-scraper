@@ -1,0 +1,18 @@
+{
+  "Title": "School of Rock",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6abf43a-eb9d-39a5-dff1-d07ccecadd51/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/2P0sLpEvGbIaEZtzSFd_x6LkR6QG5uU9/"
+    }
+  ],
+  "in_theaters": false
+}

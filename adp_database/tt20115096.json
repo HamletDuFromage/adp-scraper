@@ -1,0 +1,16 @@
+{
+  "Title": "A Tourist's Guide to Love",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81424906"
+    }
+  ],
+  "in_theaters": false
+}

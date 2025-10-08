@@ -1,0 +1,15 @@
+{
+  "Title": "The Duchess",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80223040"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "That's My Boy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id563564510"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B008RNYMG0/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70220030"
+    }
+  ],
+  "in_theaters": false
+}

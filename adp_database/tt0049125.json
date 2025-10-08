@@ -1,0 +1,19 @@
+{
+  "Title": "Davy Crockett and the River Pirates",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/davy-crockett-and-the-river-pirates/2KTX3AWZUVIW"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id439494483"
+    }
+  ],
+  "in_theaters": false
+}

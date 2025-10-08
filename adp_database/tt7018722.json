@@ -1,0 +1,18 @@
+{
+  "Title": "A StoryBots Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80158854"
+    }
+  ],
+  "in_theaters": false
+}

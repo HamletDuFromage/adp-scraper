@@ -1,0 +1,15 @@
+{
+  "Title": "Black Earth Rising",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80145141"
+    }
+  ],
+  "in_theaters": false
+}

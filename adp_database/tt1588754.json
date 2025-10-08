@@ -1,0 +1,17 @@
+{
+  "Title": "RuPaul's Drag Race: Untucked",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4dd50cf7-8579-4b89-ad6a-ce002d7c98d1/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/untucked-rupauls-drag-race/"
+    }
+  ],
+  "in_theaters": false
+}

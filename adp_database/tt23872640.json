@@ -1,0 +1,22 @@
+{
+  "Title": "Dirty Angels",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8d67a1b2-4d6c-4821-aafb-fbd3c20a8daa/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1783261554"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3594695"
+    }
+  ],
+  "in_theaters": false
+}

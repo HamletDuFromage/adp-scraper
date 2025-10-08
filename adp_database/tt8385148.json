@@ -1,0 +1,24 @@
+{
+  "Title": "Hitman's Wife's Bodyguard",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.134062a5-90d7-4427-a7ae-ce967e2d448e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1570744430"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B096CX8717/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

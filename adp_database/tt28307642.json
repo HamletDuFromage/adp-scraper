@@ -1,0 +1,14 @@
+{
+  "Title": "Milk Street's Cooking School",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/85b15c5290d804decd9bdd3bf0712299/milk-streets-cooking-school"
+    }
+  ],
+  "in_theaters": false
+}

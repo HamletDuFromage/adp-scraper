@@ -1,0 +1,18 @@
+{
+  "Title": "Water for Elephants",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38b90e6a-b751-f0f2-8b89-1aedd49b8082/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id437452755"
+    }
+  ],
+  "in_theaters": false
+}

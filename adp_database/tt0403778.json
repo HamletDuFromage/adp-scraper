@@ -1,0 +1,18 @@
+{
+  "Title": "Long Way Round",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Travel"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6b53a17-4055-7c67-4666-7f690110246a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.13c4zk3hpybm6u0cfk1x0vyi"
+    }
+  ],
+  "in_theaters": false
+}

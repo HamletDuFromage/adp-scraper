@@ -1,0 +1,21 @@
+{
+  "Title": "Ready, Jet, Go! Space Camp: The Movie",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a9593acb-742c-4c58-b504-348f705ff4e3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1697052855"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2511443"
+    }
+  ],
+  "in_theaters": false
+}

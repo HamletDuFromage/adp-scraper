@@ -1,0 +1,22 @@
+{
+  "Title": "Searching",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ceb2bec7-af67-1716-88ad-2d6d39a2edb7/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07G1YPK53/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/NbHsFH2UfRwgWchlr1Ahu7zQkCQyrAfN/"
+    }
+  ],
+  "in_theaters": false
+}

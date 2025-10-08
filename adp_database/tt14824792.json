@@ -1,0 +1,17 @@
+{
+  "Title": "ted",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/ted/9037041665927255112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.552f4c5a-7837-4b68-9fea-63db0b36ab1d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

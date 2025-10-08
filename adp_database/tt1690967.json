@@ -1,0 +1,15 @@
+{
+  "Title": "Come Sunday",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80152625"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Clown in a Cornfield",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1811454250"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f18c8f6f-7840-42dd-a0b6-6b86859cdc69/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F7TZ35MD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

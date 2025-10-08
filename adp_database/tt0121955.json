@@ -1,0 +1,18 @@
+{
+  "Title": "South Park",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4cba35a-ad8b-4563-a5b5-10005c66d0f4/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/south-park/"
+    }
+  ],
+  "in_theaters": false
+}

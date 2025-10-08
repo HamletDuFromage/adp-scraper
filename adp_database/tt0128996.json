@@ -1,0 +1,18 @@
+{
+  "Title": "Rodgers & Hammerstein's Cinderella",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/rodgers-hammersteins-cinderella/1CZ6Np5CEIAY"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Benefits with Friends",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-59565a16-d61f-49d1-85d7-1f0f87712748"
+    }
+  ],
+  "in_theaters": false
+}

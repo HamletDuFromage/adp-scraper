@@ -1,0 +1,16 @@
+{
+  "Title": "Bedknobs and Broomsticks",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/bedknobs-and-broomsticks/1g2R5E8uFZqt"
+    }
+  ],
+  "in_theaters": false
+}

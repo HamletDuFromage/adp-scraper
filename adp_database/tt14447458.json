@@ -1,0 +1,19 @@
+{
+  "Title": "Louis Armstrong's Black & Blues",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.93183466-7136-4d33-81a8-cad29751c79c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.fj66nlndoybhmetv2a0dcarj"
+    }
+  ],
+  "in_theaters": false
+}

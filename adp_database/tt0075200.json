@@ -1,0 +1,19 @@
+{
+  "Title": "The Shaggy D.A.",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-shaggy-da/3V9pwazuj0x3"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id281818989"
+    }
+  ],
+  "in_theaters": false
+}

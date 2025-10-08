@@ -1,0 +1,14 @@
+{
+  "Title": "Gas Pump Girls",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8a9f66d-a241-b327-7685-9680e2cd1f20/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

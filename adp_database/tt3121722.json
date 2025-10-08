@@ -1,0 +1,23 @@
+{
+  "Title": "PAW Patrol",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54aa78c7-d796-9614-0c8e-3ad9895360c9/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9f2d5ee7-570c-4c45-924a-36d60db2e801/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/paw-patrol/"
+    }
+  ],
+  "in_theaters": false
+}

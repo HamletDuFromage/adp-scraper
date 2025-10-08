@@ -1,0 +1,25 @@
+{
+  "Title": "Thor",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2a9f74f-07e2-9ffc-7512-42533b3474b3/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-thor/1p4vdKzTuhzr"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id689209608"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0034G4P80/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

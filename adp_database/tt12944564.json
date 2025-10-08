@@ -1,0 +1,17 @@
+{
+  "Title": "The Soul of America",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.93fce172-dfda-4a94-958b-ab60abbae8f7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6c139ee0-e6be-45e5-985f-85444beb52d5"
+    }
+  ],
+  "in_theaters": false
+}

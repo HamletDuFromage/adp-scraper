@@ -1,0 +1,15 @@
+{
+  "Title": "Everly",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80b89bf3-97fd-6089-0b0d-eb8586df40c1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

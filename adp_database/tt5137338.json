@@ -1,0 +1,16 @@
+{
+  "Title": "Victoria",
+  "Media Type": "Series",
+  "Rating": "13+",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9caccd00-7d1a-e427-c40f-cd0708215ae5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

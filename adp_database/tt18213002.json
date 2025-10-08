@@ -1,0 +1,16 @@
+{
+  "Title": "A Home Away",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/a6744fed-05f1-4ead-b23e-fc013a0b73af"
+    }
+  ],
+  "in_theaters": false
+}

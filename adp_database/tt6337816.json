@@ -1,0 +1,18 @@
+{
+  "Title": "Monica",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1b155be1-b838-4767-bcbc-17649cabfcdc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1685329747"
+    }
+  ],
+  "in_theaters": false
+}

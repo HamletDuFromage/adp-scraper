@@ -1,0 +1,28 @@
+{
+  "Title": "The Hunger Games: Mockingjay - Part 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eeb9e173-d3b7-0a87-96e5-f768e9ec9d10/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f66f-8731-da6d-c288-9d5e5982de1f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1055440915"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0189HKD70/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a5d65c8e-ecc5-442f-a589-53c456eb1dd4"
+    }
+  ],
+  "in_theaters": false
+}

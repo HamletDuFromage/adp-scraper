@@ -1,0 +1,28 @@
+{
+  "Title": "Bros",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dc13c87a-c6e6-45ca-8972-25f28cf9faf4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1648438839"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BG49GJC7/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2128608"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/bros/1c52c850-3c42-3c9b-ba87-cc050a2db0fa"
+    }
+  ],
+  "in_theaters": false
+}

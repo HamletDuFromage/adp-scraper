@@ -1,0 +1,14 @@
+{
+  "Title": "Flaws",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7e4825a2-1fe3-4bdc-9e01-c332baea4ec9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

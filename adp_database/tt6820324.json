@@ -1,0 +1,23 @@
+{
+  "Title": "Timmy Failure: Mistakes Were Made",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.886a14e1-48dc-4de1-8e2e-c12048bc6d1a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1710343965"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2629312"
+    }
+  ],
+  "in_theaters": false
+}

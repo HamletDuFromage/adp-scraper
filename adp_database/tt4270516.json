@@ -1,0 +1,21 @@
+{
+  "Title": "Grandma",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0a9f718-cce8-353c-fa19-7b595f808d18/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1067480523"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B019C6X02M/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

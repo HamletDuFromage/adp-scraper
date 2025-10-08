@@ -1,0 +1,21 @@
+{
+  "Title": "The Last Cowboy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.07b2e084-acb6-4e6a-8969-a5c7b9b72525/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3620671"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-last-cowboy/"
+    }
+  ],
+  "in_theaters": false
+}

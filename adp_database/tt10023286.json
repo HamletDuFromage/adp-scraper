@@ -1,0 +1,26 @@
+{
+  "Title": "The Humans",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aeb02442-22a0-4729-8d99-b5b185c497e6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1606899780"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09RGWH1B6/audiodescriin-20"
+    },
+    {
+      "Plex": "https://watch.plex.tv/movie/the-humans-2021"
+    },
+    {
+      "Tubi": "https://tubitv.com/movies/100003028/the-humans"
+    }
+  ],
+  "in_theaters": false
+}

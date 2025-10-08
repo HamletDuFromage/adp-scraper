@@ -1,0 +1,18 @@
+{
+  "Title": "The Simpsons",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/the-simpsons/3ZoBZ52QHb4x"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52ca8347-662e-4381-8fbe-b5735c98ba5d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

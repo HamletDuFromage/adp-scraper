@@ -1,0 +1,22 @@
+{
+  "Title": "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/alexander-and-the-terrible-horrible-no-good-very-bad-day/2tJmgaOdzQ1Z"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id921038048"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00O4ZC5A0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

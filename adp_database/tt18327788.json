@@ -1,0 +1,18 @@
+{
+  "Title": "Superpower",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0f707942-8b70-484a-a559-c29a78665ba2/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/r9RrHcRx6057EITLAw8UZSVHwLznY3Od/"
+    }
+  ],
+  "in_theaters": false
+}

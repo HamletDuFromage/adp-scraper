@@ -1,0 +1,19 @@
+{
+  "Title": "Straight Outta Compton",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eea9f691-ebf5-c26d-2af3-6a4e74d4ef8b/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013P0X1HK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

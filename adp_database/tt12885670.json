@@ -1,0 +1,17 @@
+{
+  "Title": "The Last Bus",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81037539"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Happy Feet",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7a05a43c-d80b-4138-8ef7-dd248bb1c6c7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

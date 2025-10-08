@@ -1,0 +1,20 @@
+{
+  "Title": "Ice Age: Dawn of the Dinosaurs",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14b86a7e-1d63-3a74-16b5-fa9e8f5049b9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id323073156"
+    }
+  ],
+  "in_theaters": false
+}

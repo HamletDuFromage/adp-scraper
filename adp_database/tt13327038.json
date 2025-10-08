@@ -1,0 +1,16 @@
+{
+  "Title": "Do Revenge",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81127150"
+    }
+  ],
+  "in_theaters": false
+}

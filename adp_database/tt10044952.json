@@ -1,0 +1,16 @@
+{
+  "Title": "You vs. Wild",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81977118"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Hello Tomorrow!",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eda03b3c-5e2b-4275-b8d7-42c1668ac7f2/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6lknbhv5dcfx8lfe8ghqmy4ma"
+    }
+  ],
+  "in_theaters": false
+}

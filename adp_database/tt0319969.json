@@ -1,0 +1,19 @@
+{
+  "Title": "Carnivale",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64b7dda4-892e-46cf-afe1-7cb6e55bfa84/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/170e5f1a-52be-4ef2-9ef6-c6e4ee4f3b49"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Mary and the Witch's Flower",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4b08fb2-d090-89ce-77fa-9de8f8bd883d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

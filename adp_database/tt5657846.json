@@ -1,0 +1,23 @@
+{
+  "Title": "Daddy's Home 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5eb0121d-6d0a-9c70-3722-8bd44e04a675/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B076ZSYXPD/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/P75JzjumeZ610cRyQrnskZT_npCinjgi/"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80186979"
+    }
+  ],
+  "in_theaters": false
+}

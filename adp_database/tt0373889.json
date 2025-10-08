@@ -1,0 +1,32 @@
+{
+  "Title": "Harry Potter and the Order of the Phoenix",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f6939807-3adb-4204-bbd5-1ed6d7956cb1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/25768909-39b8-4cb2-a39f-e059460f7add"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/sci-fi-and-fantasy/harry-potter-and-the-order-of-the-phoenix/b3353e01-824d-331c-93da-432638787f84"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id273696792"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01N9VNHH4/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/129092"
+    }
+  ],
+  "in_theaters": false
+}

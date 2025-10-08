@@ -1,0 +1,27 @@
+{
+  "Title": "The Beta Test",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f12f2ebc-97d9-49ba-bd90-664e8fcacccf/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/the-beta-test-f587eb1d-3cab-4f27-97e9-5a788fe4bb71"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1588205003"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09TL9Z6B7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Banacek",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80ba16cd-d826-a543-1124-1f6d51911eb4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Social Studies",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/15eb2330-d2d6-49a0-a38b-11bc25c10130"
+    }
+  ],
+  "in_theaters": false
+}

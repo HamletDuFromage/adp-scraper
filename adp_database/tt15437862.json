@@ -1,0 +1,18 @@
+{
+  "Title": "SkyMed",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Medical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12ffeaea-b820-4227-aaae-83c006278610/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/skymed/"
+    }
+  ],
+  "in_theaters": false
+}

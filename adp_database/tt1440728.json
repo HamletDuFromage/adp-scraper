@@ -1,0 +1,20 @@
+{
+  "Title": "The American",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eaa9f77b-e378-13f7-dfb9-d284beb423bb/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002ZG993Q/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

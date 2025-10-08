@@ -1,0 +1,16 @@
+{
+  "Title": "Dom Hemingway",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00MMXQH14/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

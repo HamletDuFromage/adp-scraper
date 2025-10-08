@@ -1,0 +1,18 @@
+{
+  "Title": "Darkest Hour",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98b059b3-fbea-d071-d563-e62534b35aa1/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B078952HSB/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

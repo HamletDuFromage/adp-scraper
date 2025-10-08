@@ -1,0 +1,16 @@
+{
+  "Title": "Blackbeard's Ghost",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/blackbeards-ghost/1jsRy2jlLTTH"
+    }
+  ],
+  "in_theaters": false
+}

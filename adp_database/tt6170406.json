@@ -1,0 +1,19 @@
+{
+  "Title": "Dionne Warwick: Don't Make Me Over",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3be18184-ef3b-4819-bed1-c8f1198bd229/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/8b1e3c8b-f38d-46ae-bfc9-7cdab90b262a"
+    }
+  ],
+  "in_theaters": false
+}

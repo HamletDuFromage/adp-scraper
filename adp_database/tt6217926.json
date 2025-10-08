@@ -1,0 +1,14 @@
+{
+  "Title": "Annette",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.93f32b3b-3e55-4f34-b1ad-a1c80d1d326e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

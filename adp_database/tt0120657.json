@@ -1,0 +1,21 @@
+{
+  "Title": "The 13th Warrior",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id203525220"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/15226"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4a9f66a-407a-dc3c-43f4-59616d5eacec/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

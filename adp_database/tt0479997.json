@@ -1,0 +1,15 @@
+{
+  "Title": "Season of the Witch",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8a9f7b1-6ce5-4c6b-e1d0-13ae85134b82/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

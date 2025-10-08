@@ -1,0 +1,27 @@
+{
+  "Title": "Kinds of Kindness",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8c465174-522b-4063-a36b-1751bff8bc58/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/fc712742-5dd0-4f3d-92ce-6b64edc836f7"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1760515793"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DCK3BP5G/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3426154"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Blink",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-4cb1318d-081e-448a-ad6f-81c7f1d7f429"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/f086a5b4-3f5c-4930-93fb-349391626950"
+    }
+  ],
+  "in_theaters": false
+}

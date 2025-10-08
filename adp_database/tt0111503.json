@@ -1,0 +1,22 @@
+{
+  "Title": "True Lies",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.71ba56cd-4851-41f4-b961-206bda7d3df5/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CSZD4N61/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/7686"
+    }
+  ],
+  "in_theaters": false
+}

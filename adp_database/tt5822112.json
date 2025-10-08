@@ -1,0 +1,19 @@
+{
+  "Title": "Rabbit Hole",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c05808b0-5543-440d-9242-5d43fdf3d088/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/rabbit-hole/"
+    }
+  ],
+  "in_theaters": false
+}

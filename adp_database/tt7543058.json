@@ -1,0 +1,22 @@
+{
+  "Title": "Best Summer Ever",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Disability",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/best-summer-ever-e4c333a7-8c3e-4c50-b19a-e147e1ddc67a"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1559343304"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B093YTSP2G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

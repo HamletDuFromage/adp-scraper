@@ -1,0 +1,23 @@
+{
+  "Title": "Tom & Jerry",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9325ca13-3c55-425b-9f5e-b851ad279181/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1553452603"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0922V1WG2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

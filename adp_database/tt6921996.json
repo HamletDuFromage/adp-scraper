@@ -1,0 +1,21 @@
+{
+  "Title": "Johnny English Strikes Again",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54b34eae-8cfe-45d8-3196-f492e2ccc5da/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1438893527"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07JJ64GJ2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

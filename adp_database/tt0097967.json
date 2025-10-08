@@ -1,0 +1,17 @@
+{
+  "Title": "Next of Kin",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52a9f771-1814-a6fc-9b5f-e574827cf1ad/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

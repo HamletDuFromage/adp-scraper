@@ -1,0 +1,15 @@
+{
+  "Title": "Canadian Bacon",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cb48c58-3884-2b48-7ef2-7aa019fc783c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Jane Austen Wrecked My Life",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4348186"
+    }
+  ],
+  "in_theaters": false
+}

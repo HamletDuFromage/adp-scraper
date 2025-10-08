@@ -1,0 +1,20 @@
+{
+  "Title": "The Rocky Horror Picture Show",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9aa9f7a7-b1a1-8e98-3a22-509fb0c22b86/audiodescriin-20"
+    },
+    {
+      "BroadwayHD": "https://www.broadwayhd.com/interstitial/800673"
+    }
+  ],
+  "in_theaters": false
+}

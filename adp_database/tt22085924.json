@@ -1,0 +1,18 @@
+{
+  "Title": "Reindeer in Here",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/reindeer-in-here/"
+    }
+  ],
+  "in_theaters": false
+}

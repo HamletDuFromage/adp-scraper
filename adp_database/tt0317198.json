@@ -1,0 +1,16 @@
+{
+  "Title": "Bridget Jones: The Edge Of Reason",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eaa9f73f-b253-e5bc-6c20-8b3f5098906f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

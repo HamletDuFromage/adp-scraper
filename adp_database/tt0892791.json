@@ -1,0 +1,18 @@
+{
+  "Title": "Shrek Forever After",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B002ZG9904/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "A United Kingdom",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1207660950"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06Y4N4K1D/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

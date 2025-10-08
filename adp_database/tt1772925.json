@@ -1,0 +1,14 @@
+{
+  "Title": "Jiro Dreams of Sushi",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20a9f6fd-678e-e8c4-80f6-01585ebeb769/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

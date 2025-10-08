@@ -1,0 +1,15 @@
+{
+  "Title": "Freddy vs. Jason",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50a9f725-2fea-afcf-716f-0542ccdcc0dc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

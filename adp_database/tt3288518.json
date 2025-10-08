@@ -1,0 +1,15 @@
+{
+  "Title": "Younger",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80031533"
+    }
+  ],
+  "in_theaters": false
+}

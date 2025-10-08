@@ -1,0 +1,17 @@
+{
+  "Title": "The Halloween Tree",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c2a9f789-f4f6-e142-0498-b68e167cbb46/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Top Gun",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0a63345-8bb2-4cc7-8e0a-fb6a43449bc8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id291577463"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/OZkLn_xRuFBy_B3dQnzkewP0hw99lxaZ/"
+    }
+  ],
+  "in_theaters": false
+}

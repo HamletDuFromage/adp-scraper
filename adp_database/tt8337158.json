@@ -1,0 +1,27 @@
+{
+  "Title": "Rumble",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4937d44-9ef7-489f-bd6d-0b5fd7d01747/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1599243768"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B7QLGBYC/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2042753"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The Apparition",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34a9f75d-e2de-daa7-0037-d80b4ab30153/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

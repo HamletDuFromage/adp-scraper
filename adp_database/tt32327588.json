@@ -1,0 +1,17 @@
+{
+  "Title": "Rage (Furia)",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.167935fe-1aef-486b-bd2f-79871ef85eff/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/72591c0a-2fad-43e4-863c-c53090c4269e"
+    }
+  ],
+  "in_theaters": false
+}

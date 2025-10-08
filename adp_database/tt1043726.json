@@ -1,0 +1,18 @@
+{
+  "Title": "The Legend of Hercules",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2a9f72b-bfcc-fe10-b1b7-dfd245fd0fc6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id829446080"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Brewster's Millions",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fea9f796-9fd4-75a4-1bdf-e67baef43ea2/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9c178c39-8c53-41a2-aa18-5e26261a1936/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

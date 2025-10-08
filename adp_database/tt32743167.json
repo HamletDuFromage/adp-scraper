@@ -1,0 +1,15 @@
+{
+  "Title": "Carved",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/7f0f8506-ce5c-476d-b7e3-9addcf48c885"
+    }
+  ],
+  "in_theaters": false
+}

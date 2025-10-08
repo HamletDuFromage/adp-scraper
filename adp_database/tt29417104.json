@@ -1,0 +1,18 @@
+{
+  "Title": "Stand Up & Shout: Songs from a Philly High School",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4dbb618e-8e9d-42e2-942f-e93228b9f372/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1931e4d7-06ec-45f3-8671-c29b905cde6e"
+    }
+  ],
+  "in_theaters": false
+}

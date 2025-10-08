@@ -1,0 +1,17 @@
+{
+  "Title": "Night is Not Eternal",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ac729d03-5424-4a5e-b73b-215c3a142e8c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d90b6fc9-fb9b-4932-90ba-379e49fdd7f5"
+    }
+  ],
+  "in_theaters": false
+}

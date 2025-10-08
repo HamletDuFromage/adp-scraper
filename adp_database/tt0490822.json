@@ -1,0 +1,15 @@
+{
+  "Title": "Bring It On: All or Nothing",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.84a9f716-74ad-bffd-af2f-91ee9451b717/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

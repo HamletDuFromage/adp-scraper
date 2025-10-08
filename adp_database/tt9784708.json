@@ -1,0 +1,16 @@
+{
+  "Title": "Rise of the Teenage Mutant Ninja Turtles: The Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81068803"
+    }
+  ],
+  "in_theaters": false
+}

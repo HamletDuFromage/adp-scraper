@@ -1,0 +1,22 @@
+{
+  "Title": "Resident Evil: The Final Chapter",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c2acc835-bcd2-9eb2-dace-cf39124147b7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1189683750"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI22SE/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

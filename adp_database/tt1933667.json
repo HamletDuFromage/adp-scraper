@@ -1,0 +1,19 @@
+{
+  "Title": "The Wizard of Lies",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82ef06b6-2cfa-4d5e-bbf6-9d9fda281786/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/13efb2b7-0ac9-446b-8416-02c229969f10"
+    }
+  ],
+  "in_theaters": false
+}

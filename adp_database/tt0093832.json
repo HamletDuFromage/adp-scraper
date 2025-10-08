@@ -1,0 +1,17 @@
+{
+  "Title": "Red's Dream",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/reds-dream/5MhIZy9bazx1"
+    }
+  ],
+  "in_theaters": false
+}

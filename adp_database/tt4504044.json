@@ -1,0 +1,16 @@
+{
+  "Title": "The Prodigy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07N3PVHB8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

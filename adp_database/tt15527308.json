@@ -1,0 +1,16 @@
+{
+  "Title": "Action Pack",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80993597"
+    }
+  ],
+  "in_theaters": false
+}

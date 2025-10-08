@@ -1,0 +1,15 @@
+{
+  "Title": "Interior Chinatown",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/52c074a7-5680-4f60-9b7e-a6008238207d"
+    }
+  ],
+  "in_theaters": false
+}

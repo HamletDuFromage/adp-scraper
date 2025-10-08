@@ -1,0 +1,14 @@
+{
+  "Title": "TMZ No BS: Jennifer Lopez",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/694379/tmz-no-bs-jennifer-lopez"
+    }
+  ],
+  "in_theaters": false
+}

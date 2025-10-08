@@ -1,0 +1,27 @@
+{
+  "Title": "Kung Fu Panda 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4ba6579-5d5f-935a-6972-e02d1792022a/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d969d019-5a84-400c-99ca-c449b15acc2a/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B001HN6918/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/0d054460-73d1-4c10-99d9-57b9438e1dfb"
+    }
+  ],
+  "in_theaters": false
+}

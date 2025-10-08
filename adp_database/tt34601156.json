@@ -1,0 +1,17 @@
+{
+  "Title": "Girl in the Garage: The Laura Cowan Story",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2ebd1c7-2b04-4d2c-aad1-cc89ab96faed/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

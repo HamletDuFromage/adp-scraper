@@ -1,0 +1,15 @@
+{
+  "Title": "Cake Toppers",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/216c5b95-bee9-4857-aec1-eafe5be3fb8d"
+    }
+  ],
+  "in_theaters": false
+}

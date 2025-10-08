@@ -1,0 +1,17 @@
+{
+  "Title": "Arctic",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2b44247-9a73-d5a6-3409-4ff9985f4fae/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07N3P5CCX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

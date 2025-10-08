@@ -1,0 +1,20 @@
+{
+  "Title": "Franklin",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b7fc6ba7-4566-47ed-a6f3-4c350e014b45/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6etw1ja7p37ygnpdttyy4nryc"
+    }
+  ],
+  "in_theaters": false
+}

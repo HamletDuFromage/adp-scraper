@@ -1,0 +1,15 @@
+{
+  "Title": "Star Wars Biomes",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-biomes/K3aBbextOLZC"
+    }
+  ],
+  "in_theaters": false
+}

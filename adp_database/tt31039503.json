@@ -1,0 +1,17 @@
+{
+  "Title": "Ramy Youssef: More Feelings",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56b0d389-3c18-4a2f-a35d-f2840a4c2b7f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f1d3f21c-9900-4d06-83aa-10611d0d4ba2"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "How It Ends",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1572547328"
+    }
+  ],
+  "in_theaters": false
+}

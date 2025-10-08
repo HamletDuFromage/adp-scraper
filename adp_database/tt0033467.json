@@ -1,0 +1,15 @@
+{
+  "Title": "Citizen Kane",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e3dc18cf-ff16-410e-a0d1-e8c2791fe6f4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Saturday Night Live",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/saturday-night-live/8885992813767211112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0d75ffe-2188-41aa-ae4f-758f538d893d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

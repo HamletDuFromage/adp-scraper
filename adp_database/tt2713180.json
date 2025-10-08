@@ -1,0 +1,22 @@
+{
+  "Title": "Fury",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id922628991"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00OMC2LH2/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2a9f6df-a172-36d3-1d3b-9c5e49addfb2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

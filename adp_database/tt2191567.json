@@ -1,0 +1,15 @@
+{
+  "Title": "Wicked Tuna",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/wicked-tuna-e75b5222-82d7-445a-9a06-9d85d3eec6bf"
+    }
+  ],
+  "in_theaters": false
+}

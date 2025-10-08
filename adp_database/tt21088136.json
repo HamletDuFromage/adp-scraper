@@ -1,0 +1,19 @@
+{
+  "Title": "Criminal Record",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2da89c6-d386-4995-bcd3-23b5b4f5f06c/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1sbjeoma6tvxgda6l0h4bb0x3"
+    }
+  ],
+  "in_theaters": false
+}

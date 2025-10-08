@@ -1,0 +1,19 @@
+{
+  "Title": "The Ministry of Ungentlemanly Warfare",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1740609448"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D15LWCH1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

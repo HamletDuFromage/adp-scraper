@@ -1,0 +1,16 @@
+{
+  "Title": "Love, Classified",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b430f225-5e99-4e90-9afe-9d0786a8cab9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

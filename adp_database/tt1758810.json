@@ -1,0 +1,26 @@
+{
+  "Title": "The Snowman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80185764"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54af939c-0539-cff2-3aca-0c468be3652b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1291118913"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B076LD8XJC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Promising Young Woman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36bb69eb-46ce-9668-1b99-4d2f401a735e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1547448710"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08QWBXYW8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

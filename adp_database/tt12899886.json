@@ -1,0 +1,19 @@
+{
+  "Title": "George Carlin's American Dream",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f393e759-c6e3-4a98-a813-17b1ab85b26b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/27d647c7-85c0-461b-827f-23715dd77f32"
+    }
+  ],
+  "in_theaters": false
+}

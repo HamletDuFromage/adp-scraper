@@ -1,0 +1,19 @@
+{
+  "Title": "iCarly",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/icarly-2021/"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fffa63a2-2de7-45bd-ac77-c352aa30db15/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

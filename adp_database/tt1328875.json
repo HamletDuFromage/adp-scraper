@@ -1,0 +1,21 @@
+{
+  "Title": "Santa Buddies: The Legend of Santa Paws",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/santa-buddies-the-legend-of-santa-paws/ytX5zWMOCCR5"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id333007004"
+    }
+  ],
+  "in_theaters": false
+}

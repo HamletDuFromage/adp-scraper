@@ -1,0 +1,27 @@
+{
+  "Title": "Kick-Ass 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f666-0bca-4834-6bb8-5b6a07f1d13c/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34a9f762-da41-323f-562f-38069dc6e137/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00BEIYH1A/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70264802"
+    }
+  ],
+  "in_theaters": false
+}

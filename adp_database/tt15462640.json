@@ -1,0 +1,18 @@
+{
+  "Title": "Icahn: The Restless Billionaire",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/7c5e9465-6610-4353-9511-b5b083a7a5d9"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.41f1b7e0-a9eb-4297-89ca-185c88d6d010/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

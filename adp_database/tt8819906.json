@@ -1,0 +1,24 @@
+{
+  "Title": "Love Island",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.560f7526-6524-48cd-af51-8bbe12d51867/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44805eb0-d689-48c4-b25b-30fba3f25830/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/love-island/7128307173688504112"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/love-island/"
+    }
+  ],
+  "in_theaters": false
+}

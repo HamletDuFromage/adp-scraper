@@ -1,0 +1,27 @@
+{
+  "Title": "The American Society of Magical Negroes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92efc632-48f9-473d-974d-116e1da31bac/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1734536252"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CX6RFP5P/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3041647"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/the-american-society-of-magical-negroes/4af205a5-a86e-3f31-a685-6609ee2529be"
+    }
+  ],
+  "in_theaters": false
+}

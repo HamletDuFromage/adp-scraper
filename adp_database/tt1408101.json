@@ -1,0 +1,24 @@
+{
+  "Title": "Star Trek Into Darkness",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18ab8529-253e-a0fd-afc8-d85a338916d1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id643978126"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00AZMFJYA/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/star-trek-into-darkness/f9_5tSlLxQrgUdfrJekgeJdNnJLZBpuD/"
+    }
+  ],
+  "in_theaters": false
+}

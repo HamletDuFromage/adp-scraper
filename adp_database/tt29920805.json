@@ -1,0 +1,15 @@
+{
+  "Title": "Fight Inc: Inside the UFC",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/27e3d5508332a45d1f1fa71dab2f1e60/fight-inc-inside-the-ufc"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Force of Nature",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6b92d01-4b9f-9154-1093-c090973262d7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Cowboys & Aliens",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8a9f711-2355-50b7-c735-cd0eb9f45611/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004EPYZSK/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70153714"
+    }
+  ],
+  "in_theaters": false
+}

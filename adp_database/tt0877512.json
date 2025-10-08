@@ -1,0 +1,17 @@
+{
+  "Title": "Yo Gabba Gabba!",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2wsvpzg4a3atiedlysr6zrfrv"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4e873d33-8d2d-45f4-8f13-d1b6a43df32a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

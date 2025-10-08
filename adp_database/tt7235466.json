@@ -1,0 +1,17 @@
+{
+  "Title": "9-1-1",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Medical",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/9-1-1-b3519825-4053-4065-b3a6-e93125fb7d54"
+    }
+  ],
+  "in_theaters": false
+}

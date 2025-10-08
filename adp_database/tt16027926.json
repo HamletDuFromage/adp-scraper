@@ -1,0 +1,14 @@
+{
+  "Title": "Crime Scene: The Times Square Killer",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81405883"
+    }
+  ],
+  "in_theaters": false
+}

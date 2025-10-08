@@ -1,0 +1,15 @@
+{
+  "Title": "No Demo Reno",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/d8dd1013-a4de-4f7a-b5c6-3380714ef1cf"
+    }
+  ],
+  "in_theaters": false
+}

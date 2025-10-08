@@ -1,0 +1,17 @@
+{
+  "Title": "Good Ol' Freda",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8aa9f7c7-6703-a9f3-ec2e-1a7a2c71e074/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Zombies 2",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/z-o-m-b-i-e-s-2/1VoXIs0cRPgU"
+    }
+  ],
+  "in_theaters": false
+}

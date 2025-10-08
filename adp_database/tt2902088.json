@@ -1,0 +1,18 @@
+{
+  "Title": "Flip or Flop",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7843280e-b71f-42c1-acad-60c0a40a35bc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/35e8d718-c614-4484-bc71-43af2c330c0f"
+    }
+  ],
+  "in_theaters": false
+}

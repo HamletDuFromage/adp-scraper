@@ -1,0 +1,17 @@
+{
+  "Title": "Fatman",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccbedcb7-fe15-4c46-9e31-ecd0b32da028/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

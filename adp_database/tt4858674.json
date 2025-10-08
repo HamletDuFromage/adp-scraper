@@ -1,0 +1,23 @@
+{
+  "Title": "Stargirl",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e29bb3cb-871b-4fc7-9cfe-260394b27221/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1710708552"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2629309"
+    }
+  ],
+  "in_theaters": false
+}

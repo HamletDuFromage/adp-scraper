@@ -1,0 +1,16 @@
+{
+  "Title": "Fear and Loathing in Las Vegas",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aa9f733-19fe-4653-2512-1c136c47cbc4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

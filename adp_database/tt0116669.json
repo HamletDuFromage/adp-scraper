@@ -1,0 +1,19 @@
+{
+  "Title": "Jack",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/jack/1Lcq9O5Ogchs"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id735814806"
+    }
+  ],
+  "in_theaters": false
+}

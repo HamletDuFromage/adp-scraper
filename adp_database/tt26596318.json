@@ -1,0 +1,18 @@
+{
+  "Title": "The Family Stallone",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Reality TV",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7dfb2ffb-1452-4687-a34a-3d8b5914944c/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-family-stallone/"
+    }
+  ],
+  "in_theaters": false
+}

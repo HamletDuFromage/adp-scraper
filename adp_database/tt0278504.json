@@ -1,0 +1,16 @@
+{
+  "Title": "Insomnia",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4a9f7ba-7eab-21f5-a182-22bcc0149311/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

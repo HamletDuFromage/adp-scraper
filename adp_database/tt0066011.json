@@ -1,0 +1,18 @@
+{
+  "Title": "Love Story",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id211292219"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/love-story-1970"
+    }
+  ],
+  "in_theaters": false
+}

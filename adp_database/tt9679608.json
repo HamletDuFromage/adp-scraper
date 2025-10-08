@@ -1,0 +1,16 @@
+{
+  "Title": "Mystery 101: Pilot",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5070f688-6a16-486f-82a8-27debaa112ae/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

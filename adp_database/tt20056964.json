@@ -1,0 +1,18 @@
+{
+  "Title": "Barmageddon",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/barmageddon/7141284745560689112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c1b57422-9976-4af4-bbbf-c4353d8210bb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "The Tragedy of Macbeth",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.4wpfk1xmi22h3zyv4a10lj1tw"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4416548"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1806159317"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c8d9f59a-d065-488e-bb21-5c928c81923d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

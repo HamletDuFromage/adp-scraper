@@ -1,0 +1,17 @@
+{
+  "Title": "Spontaneous",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28ba4710-d733-1db8-9e50-9e2fe7027c16/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

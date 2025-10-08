@@ -1,0 +1,22 @@
+{
+  "Title": "Truth",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fca9f797-4141-f473-c522-7bb66e84fd0a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1068019942"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0192PEPKO/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,26 @@
+{
+  "Title": "Toy Story",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86a9f71e-0ee3-bc34-a3db-6b9346935ae4/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/toy-story/1Ye1nzUgtF7d"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188703840"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0030IIZ4M/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

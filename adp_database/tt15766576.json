@@ -1,0 +1,16 @@
+{
+  "Title": "A Man Named Scott",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0128cebc-c0c0-43f9-9886-1e9824e9d91d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

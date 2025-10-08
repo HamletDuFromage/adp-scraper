@@ -1,0 +1,17 @@
+{
+  "Title": "Sex Education",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Disability",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80197526"
+    }
+  ],
+  "in_theaters": false
+}

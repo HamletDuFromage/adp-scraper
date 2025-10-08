@@ -1,0 +1,17 @@
+{
+  "Title": "La Maison",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ace9437d-e658-4c4d-844d-a32667fe9ee0/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.gs1b84yx68istiomnshllt1i"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Happy Anniversary",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80143362"
+    }
+  ],
+  "in_theaters": false
+}

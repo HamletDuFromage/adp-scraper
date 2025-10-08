@@ -1,0 +1,27 @@
+{
+  "Title": "Horizon: An American Saga Chapter 1",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.085d9810-7462-4504-a1f0-7ab8c1e6f48b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2be40a82-a619-42f7-b9ff-0e876b038d59"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1752266257"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D4WJCYL6/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3324612"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Three Stooges",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82a9f752-2581-8168-f2aa-a96ddc697e4f/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005S9EL08/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Hoosiers",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72b56442-d169-69ac-ed8f-2c9bfb8d38b9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

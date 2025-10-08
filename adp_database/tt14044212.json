@@ -1,0 +1,14 @@
+{
+  "Title": "Mr. & Mrs. Smith",
+  "Media Type": "Series",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.162cbf12-a59d-47ab-bdd5-acd2995bdd26/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

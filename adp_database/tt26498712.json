@@ -1,0 +1,15 @@
+{
+  "Title": "Supervillains, the Investigation",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/23be3fa9-b879-40b2-bd0e-af46ee71d51a"
+    }
+  ],
+  "in_theaters": false
+}

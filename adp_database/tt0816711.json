@@ -1,0 +1,28 @@
+{
+  "Title": "World War Z",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.26a9f6b4-4cf6-7580-6b57-2fafcf968422/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id677107005"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B005LAIIMG/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/world-war-z/_wM9Mx1bWsmci_iqbUDP_by_i3PyadU2/"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/world-war-z-2013"
+    }
+  ],
+  "in_theaters": false
+}

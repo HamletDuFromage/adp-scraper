@@ -1,0 +1,22 @@
+{
+  "Title": "Barbie (with ASL)",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a66aaf16-fe41-45a9-86b7-ae64e2ba87be/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.321370cf-03ef-4ba7-91ff-90d877935ca9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/8f264e31-0dbe-4f05-a144-03c83021d831"
+    }
+  ],
+  "in_theaters": false
+}

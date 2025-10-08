@@ -1,0 +1,18 @@
+{
+  "Title": "The Jungle Book 2",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-jungle-book-2/JjJPVYKgcLwr"
+    }
+  ],
+  "in_theaters": false
+}

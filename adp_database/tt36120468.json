@@ -1,0 +1,15 @@
+{
+  "Title": "Pets",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-ce077b91-08cd-46e5-a6e6-0728046282ce"
+    }
+  ],
+  "in_theaters": false
+}

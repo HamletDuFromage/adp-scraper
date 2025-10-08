@@ -1,0 +1,23 @@
+{
+  "Title": "Mean Girls",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42a9f6ce-e845-a1ac-c9ec-94e484886edb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id208511170"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/42441"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/ByNkdBddTskWvnIGJKisrBPNlxpqRKJI/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The Rookie: Feds",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-rookie-feds-725c02ad-268f-425a-9ef7-326cb1c5a6c6"
+    }
+  ],
+  "in_theaters": false
+}

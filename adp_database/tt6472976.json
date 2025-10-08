@@ -1,0 +1,22 @@
+{
+  "Title": "Five Feet Apart",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.239be4d7-18de-4299-98a8-fcfe2996ba7b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1457096468"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07QXMPMLS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Fractured",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80223997"
+    }
+  ],
+  "in_theaters": false
+}

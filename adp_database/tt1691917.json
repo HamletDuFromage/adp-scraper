@@ -1,0 +1,24 @@
+{
+  "Title": "Planes",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/planes/2qCIiDOo9ZHy"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id680962253"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00F522C7C/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

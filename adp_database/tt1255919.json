@@ -1,0 +1,22 @@
+{
+  "Title": "Holmes and Watson",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94b3e27d-336f-265c-1804-385c72ee34a4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1444816549"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317632529/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

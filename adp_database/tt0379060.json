@@ -1,0 +1,18 @@
+{
+  "Title": "Zenon: Z3",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Coming of Age",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/zenon-z3/78gubSqJPeeG"
+    }
+  ],
+  "in_theaters": false
+}

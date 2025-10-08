@@ -1,0 +1,15 @@
+{
+  "Title": "A Futile and Stupid Gesture",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80107084"
+    }
+  ],
+  "in_theaters": false
+}

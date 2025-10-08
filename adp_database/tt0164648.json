@@ -1,0 +1,16 @@
+{
+  "Title": "A Holiday to Remember",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ff32ff1-65bb-41bf-a088-f3b779fab293/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

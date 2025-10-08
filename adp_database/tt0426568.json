@@ -1,0 +1,17 @@
+{
+  "Title": "Now You See It...",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/now-you-see-it/6VJfUwlcJ8la"
+    }
+  ],
+  "in_theaters": false
+}

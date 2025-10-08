@@ -1,0 +1,14 @@
+{
+  "Title": "As Goes Janesville",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00CFQY4QS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

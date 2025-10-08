@@ -1,0 +1,17 @@
+{
+  "Title": "Arthur's Law",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.744a8881-b57d-4641-815b-988760961ea4/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/b7299dd6-ae4c-44c5-b1d3-952e635e85db"
+    }
+  ],
+  "in_theaters": false
+}

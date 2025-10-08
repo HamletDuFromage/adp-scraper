@@ -1,0 +1,18 @@
+{
+  "Title": "Dear...",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a58fc950-71e0-4859-bbe8-dbad50fdb7f4/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.3bcp1uw2craeu8lbc53h7i205"
+    }
+  ],
+  "in_theaters": false
+}

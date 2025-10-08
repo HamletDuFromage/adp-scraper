@@ -1,0 +1,16 @@
+{
+  "Title": "Barbie Dreamhouse Adventures",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80192734"
+    }
+  ],
+  "in_theaters": false
+}

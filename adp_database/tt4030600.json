@@ -1,0 +1,18 @@
+{
+  "Title": "The Bye Bye Man",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI21ZS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

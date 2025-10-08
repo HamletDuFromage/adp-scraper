@@ -1,0 +1,17 @@
+{
+  "Title": "The Princess Switch",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80242926"
+    }
+  ],
+  "in_theaters": false
+}

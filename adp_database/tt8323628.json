@@ -1,0 +1,15 @@
+{
+  "Title": "My Life with the Walter Boys",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81426967"
+    }
+  ],
+  "in_theaters": false
+}

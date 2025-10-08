@@ -1,0 +1,15 @@
+{
+  "Title": "Wedding Crashers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2a9f760-e310-50d1-1bc5-15695b0b7c80/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

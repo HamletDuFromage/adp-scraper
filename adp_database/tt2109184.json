@@ -1,0 +1,27 @@
+{
+  "Title": "Paranormal Activity 4",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74a9f728-2b15-47ba-3480-f3c9d4e5f50e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id583545023"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B009AMALGM/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/401263"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/G6x4GRgxxKilJv0gCPJMGfudKvgj1v59/"
+    }
+  ],
+  "in_theaters": false
+}

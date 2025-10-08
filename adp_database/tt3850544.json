@@ -1,0 +1,19 @@
+{
+  "Title": "Hillsong: Let Hope Rise",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Documentary",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78ab92a2-ce28-3c91-d3ea-4d807ea2318f/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHLG4G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

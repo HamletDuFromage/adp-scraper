@@ -1,0 +1,17 @@
+{
+  "Title": "Night Teeth",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81043660"
+    }
+  ],
+  "in_theaters": false
+}

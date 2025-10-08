@@ -1,0 +1,17 @@
+{
+  "Title": "My Dog, the Thief",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/my-dog-the-thief/2XNweceTSMlY"
+    }
+  ],
+  "in_theaters": false
+}

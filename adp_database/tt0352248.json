@@ -1,0 +1,19 @@
+{
+  "Title": "Cinderella Man",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82a9f762-8377-87f3-399d-2d880b1f7dec/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B000ARTN3I/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

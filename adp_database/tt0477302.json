@@ -1,0 +1,16 @@
+{
+  "Title": "Extremely Loud & Incredibly Close",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4a9f71a-f9ce-2b86-44e8-f3c98a9a4cee/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

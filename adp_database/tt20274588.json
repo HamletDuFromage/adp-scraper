@@ -1,0 +1,18 @@
+{
+  "Title": "Albert Brooks: Defending My Life",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e3b0984f-171a-4200-abf0-680dbfa70570/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/5e30e0aa-9c86-4fd8-a3c4-0e4ab0c60212"
+    }
+  ],
+  "in_theaters": false
+}

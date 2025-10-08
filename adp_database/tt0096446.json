@@ -1,0 +1,26 @@
+{
+  "Title": "Willow",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.33b825bb-2680-4f8b-b81f-29e99f6c445c/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/willow/6HPlwZfF5agA"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1445914814"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1031592"
+    }
+  ],
+  "in_theaters": false
+}

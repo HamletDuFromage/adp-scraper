@@ -1,0 +1,17 @@
+{
+  "Title": "A Revolution on Canvas",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2a90d999-b95f-49dd-85ef-9e00bb163466/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/af87d292-1a23-45c6-b7da-e48beb6afea1"
+    }
+  ],
+  "in_theaters": false
+}

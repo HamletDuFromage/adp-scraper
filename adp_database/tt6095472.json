@@ -1,0 +1,23 @@
+{
+  "Title": "The Angry Birds Movie 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96b627b4-b938-38cd-d08a-0e6e59e58d0a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1474288328"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TNVX8LL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

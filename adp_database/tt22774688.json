@@ -1,0 +1,16 @@
+{
+  "Title": "The Soccer Football Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80228012"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Oscar's Handmade Halloween",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e046d05e-aed7-4b1c-8a04-876024927451/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/9e73a929-5164-41ea-bc41-211ee367703a"
+    }
+  ],
+  "in_theaters": false
+}

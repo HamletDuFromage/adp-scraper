@@ -1,0 +1,14 @@
+{
+  "Title": "Sensitive: The Untold Story",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "MagellanTV": "https://www.magellantv.com/video/sensitive-the-untold-story"
+    }
+  ],
+  "in_theaters": false
+}

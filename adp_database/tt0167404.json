@@ -1,0 +1,28 @@
+{
+  "Title": "The Sixth Sense",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fecf8794-9b3f-4549-a5b2-0e2c7e93833c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store1": "https://itunes.apple.com/us/movie/id792925493"
+    },
+    {
+      "Apple TV Store2": "https://itunes.apple.com/us/movie/id188765165"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/15533"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/4e551093-5ee6-415e-afdb-71c0217e1e39"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Christmas is Canceled",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ff4138e-f1fa-4803-aef4-123d3606fbd6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

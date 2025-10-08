@@ -1,0 +1,18 @@
+{
+  "Title": "Luxe for Less",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/7978ccf5-3a00-4fcd-9866-946e19b1e399"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6a988038-1114-459e-9fd9-45519665de22/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

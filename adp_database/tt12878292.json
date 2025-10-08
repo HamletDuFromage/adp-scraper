@@ -1,0 +1,15 @@
+{
+  "Title": "Mambo Dreams",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c22ab119-fc37-4ee7-8450-be2e769cb974/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

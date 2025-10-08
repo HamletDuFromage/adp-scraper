@@ -1,0 +1,17 @@
+{
+  "Title": "The Prom",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81079914"
+    }
+  ],
+  "in_theaters": false
+}

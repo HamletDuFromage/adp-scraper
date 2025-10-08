@@ -1,0 +1,22 @@
+{
+  "Title": "The Amateur",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4259007"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1814002881"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0FC7117HG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

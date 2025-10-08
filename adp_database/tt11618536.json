@@ -1,0 +1,22 @@
+{
+  "Title": "Sh*thouse",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ebbc219-23dd-6cf8-363a-6f7b3e511b9a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1531851894"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08WZGS219/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Dino Dana the Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6b9e039-f883-3b2d-7844-6e57bcbcedf9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

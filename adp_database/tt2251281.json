@@ -1,0 +1,17 @@
+{
+  "Title": "Dark Was the Night",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4b4e1a3-9a5c-b5f8-5507-a92d0898ee57/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

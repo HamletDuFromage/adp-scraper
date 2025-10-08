@@ -1,0 +1,24 @@
+{
+  "Title": "The New Mutants",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-new-mutants/5aewWrD6YRoO"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1503451893"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08JDTPBKB/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Queer Planet",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/queer-planet/1d8875f1-9842-3a54-8f31-57d5582c051f"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5645bebe-0958-4382-a5cb-4d6de9f6f11a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

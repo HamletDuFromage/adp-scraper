@@ -1,0 +1,19 @@
+{
+  "Title": "The Princess Diaries 2: Royal Engagement",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-princess-diaries-2-royal-engagement/1QSMvAfkfO9z"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id188703151"
+    }
+  ],
+  "in_theaters": false
+}

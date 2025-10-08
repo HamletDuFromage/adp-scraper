@@ -1,0 +1,18 @@
+{
+  "Title": "Beach Cottage Chronicles",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.451fc7e5-d01f-454f-9678-f8e6bfad0741/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c9d17bba-f8e3-4833-94ed-ef07e426e1f0"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Away",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80214512"
+    }
+  ],
+  "in_theaters": false
+}

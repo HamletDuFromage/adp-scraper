@@ -1,0 +1,18 @@
+{
+  "Title": "Jerrod Carmichael: Rothaniel",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "LGBTQ",
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c7097b2a-9a18-4ce1-a2da-fa2089f2b222/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6ad205c6-3c53-4c2b-8c9d-8d939cd30b60"
+    }
+  ],
+  "in_theaters": false
+}

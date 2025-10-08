@@ -1,0 +1,16 @@
+{
+  "Title": "Last Week Tonight with John Oliver",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "News",
+    "Talk Show"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/f7ebcd02-6641-4ec5-a392-07e58196808f"
+    }
+  ],
+  "in_theaters": false
+}

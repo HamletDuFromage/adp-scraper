@@ -1,0 +1,25 @@
+{
+  "Title": "Deepwater Horizon",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eabbd4c0-054d-7c24-d27b-a60397c4f053/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/e8435b8c-2bb6-45a0-8960-3c8fa7777406"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1155356317"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHWXXY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

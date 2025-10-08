@@ -1,0 +1,17 @@
+{
+  "Title": "I Know This Much is True",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/2544fa80-f0c8-4cd2-942e-95c98e8b5cfa"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0b900c5-804e-58ff-1830-1df9f43a0459/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

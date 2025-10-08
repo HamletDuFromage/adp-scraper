@@ -1,0 +1,16 @@
+{
+  "Title": "Hot Summer Nights",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9af2b7a6-8fca-4dc5-8efc-12b78498d689/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

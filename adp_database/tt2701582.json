@@ -1,0 +1,16 @@
+{
+  "Title": "Endeavour",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9cbb21b8-87a3-a806-2f5f-5951fad54cd3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

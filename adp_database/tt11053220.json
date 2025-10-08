@@ -1,0 +1,14 @@
+{
+  "Title": "We Are the Wave",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80218819"
+    }
+  ],
+  "in_theaters": false
+}

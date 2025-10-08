@@ -1,0 +1,22 @@
+{
+  "Title": "Maze Runner: The Death Cure",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8cb865c3-141c-27d5-e5e8-5dd5874af805/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1335000773"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07985BXGP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

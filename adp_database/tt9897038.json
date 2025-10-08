@@ -1,0 +1,18 @@
+{
+  "Title": "Chip and Potato",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80213643"
+    }
+  ],
+  "in_theaters": false
+}

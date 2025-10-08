@@ -1,0 +1,25 @@
+{
+  "Title": "Miracles from Heaven",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2a9f79a-360b-3833-4c19-b5a10127b283/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1086269768"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01D1U6U6S/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80081151"
+    }
+  ],
+  "in_theaters": false
+}

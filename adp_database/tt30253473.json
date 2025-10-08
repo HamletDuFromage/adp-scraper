@@ -1,0 +1,21 @@
+{
+  "Title": "Materialists",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1818648770"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1b43f1d6-26cd-4ace-875b-9aeb68e718d6/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4278305"
+    }
+  ],
+  "in_theaters": false
+}

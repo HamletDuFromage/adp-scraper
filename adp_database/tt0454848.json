@@ -1,0 +1,23 @@
+{
+  "Title": "Inside Man",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10a9f744-d4e7-17f4-9ae0-17de9e5c236e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B000GFLKF8/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70044379"
+    }
+  ],
+  "in_theaters": false
+}

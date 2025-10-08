@@ -1,0 +1,15 @@
+{
+  "Title": "The White Buffalo",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4cb4bc75-b1b6-2fdc-8b39-2ae77b39052d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

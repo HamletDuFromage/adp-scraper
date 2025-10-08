@@ -1,0 +1,17 @@
+{
+  "Title": "The Pixar Story",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-pixar-story/5aLi1N5xRzf1"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id297213335"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "WeCrashed",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8d19f58-1bb4-4012-ba5b-747aa4083f2d/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6qw605uv2rwbzutk2p2fsgvq9"
+    }
+  ],
+  "in_theaters": false
+}

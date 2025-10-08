@@ -1,0 +1,16 @@
+{
+  "Title": "Mr Inbetween",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/mr-inbetween-0c198187-f948-4ccd-b2b4-f5930ca4ac2f"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Devs",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/devs-fd2f6cc3-dafc-4741-ae2e-d86494f3ca51"
+    }
+  ],
+  "in_theaters": false
+}

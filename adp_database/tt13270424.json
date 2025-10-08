@@ -1,0 +1,25 @@
+{
+  "Title": "Brian and Charles",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.95be1729-67fe-450e-8f89-092a66e839ba/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/brian-and-charles/59728ff1-eea7-35e6-adff-e891f96b4ccd"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1631490139"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2040364"
+    }
+  ],
+  "in_theaters": false
+}

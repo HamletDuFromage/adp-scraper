@@ -1,0 +1,14 @@
+{
+  "Title": "Crazy on the Outside",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98a9f72a-2776-2d4c-e937-32c612014cb6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

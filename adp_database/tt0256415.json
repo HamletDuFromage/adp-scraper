@@ -1,0 +1,15 @@
+{
+  "Title": "Sweet Home Alabama",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/60023652"
+    }
+  ],
+  "in_theaters": false
+}

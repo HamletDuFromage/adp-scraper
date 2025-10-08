@@ -1,0 +1,20 @@
+{
+  "Title": "Snoopy in Space: The Search for Life",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2270b24-24a9-4c05-9e7c-cd718b31d12a/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.12l86ri6vfjlimw2m8b8dzszs"
+    }
+  ],
+  "in_theaters": false
+}

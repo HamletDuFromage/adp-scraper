@@ -1,0 +1,17 @@
+{
+  "Title": "Indian Matchmaking",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Kids & Family",
+    "News",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80244565"
+    }
+  ],
+  "in_theaters": false
+}

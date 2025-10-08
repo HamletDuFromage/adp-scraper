@@ -1,0 +1,22 @@
+{
+  "Title": "The Stepford Wives",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36a9f67e-25de-9782-1736-68f5758e8462/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/oz_dhNq_DOHIUzJDBnO0bNsxTi0bDDEC/"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/the-stepford-wives-2004"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Once Upon a Time in the West",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0b6c56f-c2ee-eb8f-5c5a-06bd98ae3596/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/35550"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/once-upon-a-time-in-the-west-1969"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Music Box: Juice WRLD: Into the Abyss",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6629d83c-8be7-488c-91c4-e6002725b50e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/68504bcf-7160-429f-bbff-3dda7c2356ba"
+    }
+  ],
+  "in_theaters": false
+}

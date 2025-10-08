@@ -1,0 +1,15 @@
+{
+  "Title": "John Tucker Must Die",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2ca9f6c8-2517-3b31-1ba3-4e694f351b8f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

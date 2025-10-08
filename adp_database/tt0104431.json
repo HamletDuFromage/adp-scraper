@@ -1,0 +1,21 @@
+{
+  "Title": "Home Alone 2: Lost in New York",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/home-alone-2-lost-in-new-york/3gjRdWD3Yks3"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id581019360"
+    }
+  ],
+  "in_theaters": false
+}

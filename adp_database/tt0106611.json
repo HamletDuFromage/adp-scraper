@@ -1,0 +1,19 @@
+{
+  "Title": "Cool Runnings",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/cool-runnings/1zyvW8wIgqET"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id351314818"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Tuca & Bertie",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80198137"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Nailed It!",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80179138"
+    }
+  ],
+  "in_theaters": false
+}

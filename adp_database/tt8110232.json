@@ -1,0 +1,21 @@
+{
+  "Title": "The Many Saints of Newark",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aedbdbc2-0c3f-4b48-88c8-8b90ae918c5a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1586695766"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09KVF6RX9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

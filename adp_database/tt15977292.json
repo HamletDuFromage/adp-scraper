@@ -1,0 +1,20 @@
+{
+  "Title": "Happy Face",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ced6af39-d8cd-4d84-b597-b6472a07b7a7/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/happy-face/"
+    }
+  ],
+  "in_theaters": false
+}

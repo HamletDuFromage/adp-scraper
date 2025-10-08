@@ -1,0 +1,19 @@
+{
+  "Title": "Coyotl, Hero and Beast",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/812e5466-becc-4b1e-87f4-c9e39a301586"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f87c3da0-efd0-4631-b926-62d9831b0ad5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

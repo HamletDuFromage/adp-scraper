@@ -1,0 +1,24 @@
+{
+  "Title": "Isle of Dogs",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/isle-of-dogs/3Ypmb1WnRXCH"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1363298490"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07BF25T17/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

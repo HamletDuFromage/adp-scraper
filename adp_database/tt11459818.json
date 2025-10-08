@@ -1,0 +1,16 @@
+{
+  "Title": "John Early: Now More Than Ever",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Documentary",
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/56bdebc6-3ee6-48ee-ab9f-a3cd789eddd7"
+    }
+  ],
+  "in_theaters": false
+}

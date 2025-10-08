@@ -1,0 +1,19 @@
+{
+  "Title": "Losing Alice",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.57eaaefd-ff74-467a-8b7c-b3399cbcc847/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.1h3msl5cfif0fz9my2kgvtk36"
+    }
+  ],
+  "in_theaters": false
+}

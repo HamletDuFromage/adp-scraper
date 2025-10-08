@@ -1,0 +1,20 @@
+{
+  "Title": "Shimmer and Shine",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e56027d4-99b0-4b5b-b339-6d5a3e84faf8/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/shimmer-and-shine/"
+    }
+  ],
+  "in_theaters": false
+}

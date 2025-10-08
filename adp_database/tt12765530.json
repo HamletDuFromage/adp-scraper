@@ -1,0 +1,16 @@
+{
+  "Title": "Alien TV",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81003682"
+    }
+  ],
+  "in_theaters": false
+}

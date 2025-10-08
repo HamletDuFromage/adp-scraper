@@ -1,0 +1,25 @@
+{
+  "Title": "Operation Fortune: Ruse de Guerre",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.93a38dc0-7df3-4060-a339-82a9ddb7c0c4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1674303888"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BWBJ6FWP/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2009607"
+    }
+  ],
+  "in_theaters": false
+}

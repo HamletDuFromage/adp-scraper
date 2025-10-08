@@ -1,0 +1,20 @@
+{
+  "Title": "A Shaun the Sheep Movie: Farmageddon",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80242602"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B7QFVSKK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

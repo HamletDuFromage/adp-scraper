@@ -1,0 +1,19 @@
+{
+  "Title": "The Book of Henry",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94ae7571-dbc2-055b-57de-4206f444da6c/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B073GQZQ94/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

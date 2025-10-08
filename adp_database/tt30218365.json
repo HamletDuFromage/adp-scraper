@@ -1,0 +1,17 @@
+{
+  "Title": "Gary Gulman: Born on 3rd Base",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ca1066d2-bba5-4a7f-872f-a3d581375038/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/3c80efb5-7891-463e-87b9-9e8ca7d8e6c7"
+    }
+  ],
+  "in_theaters": false
+}

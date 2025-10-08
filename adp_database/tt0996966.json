@@ -1,0 +1,15 @@
+{
+  "Title": "Not Quite Hollywood",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f708-7303-8e6f-dccc-e89bcac00ac2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

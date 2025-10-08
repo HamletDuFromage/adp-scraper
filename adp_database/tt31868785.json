@@ -1,0 +1,17 @@
+{
+  "Title": "An American Bombing: The Road to April 19th",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12abd818-caa6-476a-b7c9-4509dbf1be3e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/ffec6d49-3168-4f86-a202-72322fde1ccc"
+    }
+  ],
+  "in_theaters": false
+}

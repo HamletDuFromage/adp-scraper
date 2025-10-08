@@ -1,0 +1,15 @@
+{
+  "Title": "A December Bride",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6fab057-c3d0-4cee-b1f3-fbf200eb89eb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

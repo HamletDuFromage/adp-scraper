@@ -1,0 +1,17 @@
+{
+  "Title": "Silverado",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4e5323cc-5ca4-4b13-83b3-1b963bf5b8c0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

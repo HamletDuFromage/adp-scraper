@@ -1,0 +1,14 @@
+{
+  "Title": "Lift Me Up",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2260f8d6-3672-45fc-b888-76739e23042e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Bad Thoughts",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81740857"
+    }
+  ],
+  "in_theaters": false
+}

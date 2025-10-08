@@ -1,0 +1,15 @@
+{
+  "Title": "Good Luck to You Leo Grande",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/good-luck-to-you-leo-grande-b0243a6c-8add-4d53-a234-05a255c8989f"
+    }
+  ],
+  "in_theaters": false
+}

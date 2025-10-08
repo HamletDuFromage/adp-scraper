@@ -1,0 +1,21 @@
+{
+  "Title": "The Wedding Ringer",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2a9f72e-86b5-2fdc-1472-975f9456fdfb/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id955674850"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00SADQOEU/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

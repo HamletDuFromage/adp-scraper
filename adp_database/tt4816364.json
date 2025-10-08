@@ -1,0 +1,20 @@
+{
+  "Title": "BattleBots",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Game Show",
+    "Reality TV",
+    "Science & Nature"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2bc1351-b5ef-da79-66cf-24421120b4be/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/79ad906a-05ef-43fb-a566-479dd1232d44"
+    }
+  ],
+  "in_theaters": false
+}

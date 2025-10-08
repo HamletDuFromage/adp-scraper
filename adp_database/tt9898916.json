@@ -1,0 +1,14 @@
+{
+  "Title": "Castle & Castle",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81164084"
+    }
+  ],
+  "in_theaters": false
+}

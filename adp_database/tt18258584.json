@@ -1,0 +1,25 @@
+{
+  "Title": "Jackass 4.5",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81404276"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ef77141-5c92-42d6-8dcc-cad5d1ee2843/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1707802744"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2542595"
+    }
+  ],
+  "in_theaters": false
+}

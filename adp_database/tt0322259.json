@@ -1,0 +1,19 @@
+{
+  "Title": "2 Fast 2 Furious",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cb40ed5-dce6-5ec9-77fe-175dd3dd8f1c/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/60027713"
+    }
+  ],
+  "in_theaters": false
+}

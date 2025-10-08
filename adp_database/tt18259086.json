@@ -1,0 +1,29 @@
+{
+  "Title": "Sonic the Hedgehog 3",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3bbdfc33-385a-440b-9901-75bc162192e6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1783340584"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DQLVS23W/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3780139"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/Wc3u2NPls8H1cOHeS4EBFJ4P66uc86E7/"
+    }
+  ],
+  "in_theaters": false
+}

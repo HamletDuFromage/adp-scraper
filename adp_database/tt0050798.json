@@ -1,0 +1,20 @@
+{
+  "Title": "Old Yeller",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/old-yeller/6DBzZulIFTKC"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id280101698"
+    }
+  ],
+  "in_theaters": false
+}

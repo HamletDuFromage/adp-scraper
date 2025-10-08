@@ -1,0 +1,26 @@
+{
+  "Title": "Golda",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fabbf30f-9eec-4a27-9794-417fa5b71d73/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1698744432"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CCK1W1ZV/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2542503"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Celebrity Watch Party",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/series/300006119/celebrity-watch-party"
+    }
+  ],
+  "in_theaters": false
+}

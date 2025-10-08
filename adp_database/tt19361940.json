@@ -1,0 +1,17 @@
+{
+  "Title": "The Boss Baby: Back in the Crib",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81500342"
+    }
+  ],
+  "in_theaters": false
+}

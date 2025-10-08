@@ -1,0 +1,16 @@
+{
+  "Title": "Assault on Precinct 13",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8a9f6ff-a04e-2af2-f0e3-b5f2fbf117a0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Ghost",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Coming of Age",
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-ghost/3gDotOIuaDg4"
+    }
+  ],
+  "in_theaters": false
+}

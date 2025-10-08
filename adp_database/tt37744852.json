@@ -1,0 +1,19 @@
+{
+  "Title": "Stand Up to Cancer 2025",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Music",
+    "TV Variety"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/85a6ab3e-37fc-457d-9e75-50d401446905"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86b4db7e-a6f7-41c5-88b6-22a9e4dfee72/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

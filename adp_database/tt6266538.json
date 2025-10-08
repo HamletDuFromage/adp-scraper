@@ -1,0 +1,17 @@
+{
+  "Title": "Vice",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07LD4R4WT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

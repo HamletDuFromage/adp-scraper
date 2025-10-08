@@ -1,0 +1,24 @@
+{
+  "Title": "Friendship",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2f1b22c6-ab36-4c41-bb99-660ee2c955a7/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4192804"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1813520475"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/39929a14-0270-4ef7-b1cb-73b44c585e5e"
+    }
+  ],
+  "in_theaters": false
+}

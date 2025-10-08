@@ -1,0 +1,15 @@
+{
+  "Title": "I Feel Pretty",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07C5NSSVF/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

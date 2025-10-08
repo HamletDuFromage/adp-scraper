@@ -1,0 +1,14 @@
+{
+  "Title": "Star Trek II: The Wrath of Khan",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2a9f56b-13e5-e272-ac73-bf9b5c1d7196/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

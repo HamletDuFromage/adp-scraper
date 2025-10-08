@@ -1,0 +1,18 @@
+{
+  "Title": "The Hardy Boys",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-hardy-boys-5b8279f9-40eb-49e3-a42e-d80ce343e658"
+    }
+  ],
+  "in_theaters": false
+}

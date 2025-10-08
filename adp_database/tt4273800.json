@@ -1,0 +1,16 @@
+{
+  "Title": "The Good Nurse",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81260083"
+    }
+  ],
+  "in_theaters": false
+}

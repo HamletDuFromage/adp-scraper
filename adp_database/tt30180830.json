@@ -1,0 +1,24 @@
+{
+  "Title": "Sasquatch Sunset",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.43b09782-7c2b-47b5-afe2-52baf9d3f901/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1734514234"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CWC75LJJ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3101073"
+    }
+  ],
+  "in_theaters": false
+}

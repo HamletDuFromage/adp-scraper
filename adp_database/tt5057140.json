@@ -1,0 +1,17 @@
+{
+  "Title": "Hold the Dark",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80157072"
+    }
+  ],
+  "in_theaters": false
+}

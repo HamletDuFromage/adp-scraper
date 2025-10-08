@@ -1,0 +1,17 @@
+{
+  "Title": "Surveilled",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2f7859d-1db4-4fb0-bcb6-7703d447d0a5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/9c9f9b63-930d-4044-92b0-43939808b9c3"
+    }
+  ],
+  "in_theaters": false
+}

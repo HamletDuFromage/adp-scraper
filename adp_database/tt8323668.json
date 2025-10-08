@@ -1,0 +1,27 @@
+{
+  "Title": "Jerry and Marge Go Large",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.075856f7-8136-42e5-b46e-bc7be7a014db/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1637866108"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BG2TSVXS/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2125987"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/xFhbsLzCN6JwZu8pVOsavUuRzNmWKoTh/"
+    }
+  ],
+  "in_theaters": false
+}

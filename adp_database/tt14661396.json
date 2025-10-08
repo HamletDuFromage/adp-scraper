@@ -1,0 +1,16 @@
+{
+  "Title": "Queen Charlotte: A Bridgerton Story",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81476183"
+    }
+  ],
+  "in_theaters": false
+}

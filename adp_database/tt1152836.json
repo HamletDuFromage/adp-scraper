@@ -1,0 +1,22 @@
+{
+  "Title": "Public Enemies",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B002QEHPQU/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/411d8ffe-9d8a-4f97-8374-88d23b349f1b"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8a9f765-768e-b4a8-2009-4a893d16ed1d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

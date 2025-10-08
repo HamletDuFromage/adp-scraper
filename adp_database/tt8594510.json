@@ -1,0 +1,15 @@
+{
+  "Title": "Back to Life",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.629bf9c4-3692-4968-9d7c-cbf7e546c1fc/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Kicking & Screaming",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.90a9f755-6a95-1048-c720-32a6ef6c846c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

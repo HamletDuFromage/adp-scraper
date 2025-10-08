@@ -1,0 +1,24 @@
+{
+  "Title": "Batwheels",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81687176"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0a11e0b-d1e2-4f96-a0a4-f06e9d231e9c/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/452d85bb-bb46-4f16-bc58-26e5391d200d"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3727702"
+    }
+  ],
+  "in_theaters": false
+}

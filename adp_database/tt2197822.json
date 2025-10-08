@@ -1,0 +1,21 @@
+{
+  "Title": "Frog and Toad",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4b22d0a3-e067-4a51-a712-5fcc9c602e81/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.xvcgt6ied9s3atejpk92tv1h"
+    }
+  ],
+  "in_theaters": false
+}

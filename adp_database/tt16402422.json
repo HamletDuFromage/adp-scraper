@@ -1,0 +1,15 @@
+{
+  "Title": "Wellmania",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81406669"
+    }
+  ],
+  "in_theaters": false
+}

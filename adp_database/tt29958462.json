@@ -1,0 +1,18 @@
+{
+  "Title": "Back to the Frontier",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a09a9ca3-f4ae-4a45-a9fc-de8bfd566dc6/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a1f100fb-5491-46bb-b90b-f2958dc6bd09"
+    }
+  ],
+  "in_theaters": false
+}

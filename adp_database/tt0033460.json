@@ -1,0 +1,16 @@
+{
+  "Title": "Chef Donald",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/chef-donald/2R5OYLx02mIl"
+    }
+  ],
+  "in_theaters": false
+}

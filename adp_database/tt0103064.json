@@ -1,0 +1,21 @@
+{
+  "Title": "Terminator 2: Judgment Day",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id214818692"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/3dV6QPYFsD3D1QNlc9P_e25rR9Z54bVC/"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/0784010188/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

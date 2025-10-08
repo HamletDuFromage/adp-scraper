@@ -1,0 +1,17 @@
+{
+  "Title": "Tell Them You Love Me",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81783064"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1748922087"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Puppy Bowl",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animals & Nature",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e25b7ff3-3b63-4a41-a185-14fc3d4b08de/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/b3659197-4073-4240-bf6c-4531d2b359cc"
+    }
+  ],
+  "in_theaters": false
+}

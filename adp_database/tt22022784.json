@@ -1,0 +1,25 @@
+{
+  "Title": "My Dead Friend Zoe",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c94bb919-2dca-4d61-979e-439c0cef5a69/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1797659566"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4060276"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DXQG1T5B/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

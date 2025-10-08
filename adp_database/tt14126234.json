@@ -1,0 +1,18 @@
+{
+  "Title": "100 Foot Wave",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b80921f0-2718-48a1-a2ce-7bc26be4bd63/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/34e489ad-2eca-4078-adb6-6d2b521b407e"
+    }
+  ],
+  "in_theaters": false
+}

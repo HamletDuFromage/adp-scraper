@@ -1,0 +1,17 @@
+{
+  "Title": "Summer of Sam",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id309150148"
+    }
+  ],
+  "in_theaters": false
+}

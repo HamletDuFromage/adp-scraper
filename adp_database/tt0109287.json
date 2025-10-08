@@ -1,0 +1,19 @@
+{
+  "Title": "Blank Check",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/blank-check/6mjKrJdkGnzf"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id492397076"
+    }
+  ],
+  "in_theaters": false
+}

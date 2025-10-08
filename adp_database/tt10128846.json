@@ -1,0 +1,15 @@
+{
+  "Title": "Megalopolis",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3638437"
+    }
+  ],
+  "in_theaters": false
+}

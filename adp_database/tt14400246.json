@@ -1,0 +1,17 @@
+{
+  "Title": "Bird Box Barcelona",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81404810"
+    }
+  ],
+  "in_theaters": false
+}

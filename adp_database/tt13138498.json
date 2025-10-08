@@ -1,0 +1,19 @@
+{
+  "Title": "Queer You Are",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.37b9600c-e2d5-48ab-95bf-806de4f806f5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/15e371b1-d58c-4b4f-832b-6e021e63a47e"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "White Mile",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Sports",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b37cf2f5-9128-4707-ab8c-a99bbebee808/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/363d299c-7dc2-4c97-b903-b8a18748f184"
+    }
+  ],
+  "in_theaters": false
+}

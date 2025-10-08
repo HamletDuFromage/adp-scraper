@@ -1,0 +1,18 @@
+{
+  "Title": "The Lion King: The Walt Disney Signature Collection (Theatrical Version)",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64b83522-1af1-6a2f-732f-04e2df1b2fac/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

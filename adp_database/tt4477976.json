@@ -1,0 +1,17 @@
+{
+  "Title": "Superstore",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/superstore/9011948124334119112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30ad121c-31aa-4552-b20c-8cdc16063b00/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

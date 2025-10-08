@@ -1,0 +1,15 @@
+{
+  "Title": "Simple Plan: The Kids in the Crowd",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b6b4b048-a049-4cb2-b9c6-c1f82bb560ad/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

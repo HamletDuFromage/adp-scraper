@@ -1,0 +1,40 @@
+{
+  "Title": "A Minecraft Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1800192092"
+    },
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ab26df03-24e1-46df-b684-4cf75df740a1/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.13aed7d7-53f9-435a-be7b-42131f118960/audiodescriin-20"
+    },
+    {
+      "Prime Video3": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f939f84b-b792-4f6f-82ea-7432a332c90a/audiodescriin-20"
+    },
+    {
+      "Prime Video4": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7c6ec39c-488d-4bc0-862f-4885663a04dc/audiodescriin-20"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d776b32594b2b001e6d2947&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    },
+    {
+      "HBO Max1": "https://play.max.com/movie/05eee581-3112-4515-b17f-219ff6265ef8"
+    },
+    {
+      "HBO Max2": "https://play.max.com/movie/931163ce-bfbc-4bc5-b487-eea2ecf9ccd4"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F22GMVDL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

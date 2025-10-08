@@ -1,0 +1,16 @@
+{
+  "Title": "Limitless",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.287642c3-67dc-4932-8b6b-1189fe8b8552/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

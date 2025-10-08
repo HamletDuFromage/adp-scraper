@@ -1,0 +1,22 @@
+{
+  "Title": "Downsizing",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36b33dde-b32b-b5a6-c679-c67eca6b1c4e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1318364079"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B077ZCWFJD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

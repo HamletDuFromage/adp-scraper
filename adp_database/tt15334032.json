@@ -1,0 +1,18 @@
+{
+  "Title": "Raymond & Ray",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.11d4dbe6-dbc3-4df7-8cce-2c8904466bee/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.3mkaxf4ege0ytr5ycan41jzjb"
+    }
+  ],
+  "in_theaters": false
+}

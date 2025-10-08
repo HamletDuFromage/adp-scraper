@@ -1,0 +1,27 @@
+{
+  "Title": "Sleeping Beauty",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9e611a10-e0cd-474e-843a-221f8cae6a38/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/sleeping-beauty/1rc2EavpNV7U"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1476783892"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TPYX9DG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Take Note",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/take-note/7234313155041659112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cdbf72d4-ed57-4b30-b430-6ace5ff97840/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

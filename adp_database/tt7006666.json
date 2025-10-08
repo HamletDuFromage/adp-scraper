@@ -1,0 +1,19 @@
+{
+  "Title": "Pinkalicious & Peterrific",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2135425"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fd62c414-d63a-43eb-8f5a-213cd7ab96be/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

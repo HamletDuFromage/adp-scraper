@@ -1,0 +1,16 @@
+{
+  "Title": "Scooby-Doo and the Ghoul School",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.44a9f722-bc23-e43f-5574-4dd2bf670c84/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

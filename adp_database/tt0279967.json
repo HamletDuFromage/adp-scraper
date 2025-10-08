@@ -1,0 +1,21 @@
+{
+  "Title": "Mulan II",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mulan-ii/1qBBloz67gau"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id441737494"
+    }
+  ],
+  "in_theaters": false
+}

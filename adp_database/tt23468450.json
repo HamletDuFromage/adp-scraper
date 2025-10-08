@@ -1,0 +1,28 @@
+{
+  "Title": "Longlegs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.98ccdbec-ddbc-489e-8777-dfbb7386b8c9/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/5630ae80-4166-40cf-945b-09fc55616156"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1757148627"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D7TV5WSH/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3327437"
+    }
+  ],
+  "in_theaters": false
+}

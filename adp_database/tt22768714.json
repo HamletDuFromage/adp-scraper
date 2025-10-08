@@ -1,0 +1,14 @@
+{
+  "Title": "Gunther's Millions",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81507808"
+    }
+  ],
+  "in_theaters": false
+}

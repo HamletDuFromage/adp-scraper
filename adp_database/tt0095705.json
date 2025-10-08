@@ -1,0 +1,21 @@
+{
+  "Title": "The Naked Gun: From the Files of Police Squad!",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id285691451"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/16338"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/naked-gun-from-the-files-of-police-squad/NFKyxdxFNXKdQJp4xa1_IyjKCoa2k4hV/"
+    }
+  ],
+  "in_theaters": false
+}

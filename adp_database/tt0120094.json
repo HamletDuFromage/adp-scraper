@@ -1,0 +1,16 @@
+{
+  "Title": "Selena",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62a9f79b-224d-596e-40b7-92e91b40b0ed/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

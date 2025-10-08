@@ -1,0 +1,23 @@
+{
+  "Title": "Stillwater",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38122291-d80e-4c98-a2b9-7b0a35121b77/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1580186137"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B099VMRXNB/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

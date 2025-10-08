@@ -1,0 +1,17 @@
+{
+  "Title": "The I-Land",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80993062"
+    }
+  ],
+  "in_theaters": false
+}

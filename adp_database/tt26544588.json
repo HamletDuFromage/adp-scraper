@@ -1,0 +1,15 @@
+{
+  "Title": "Motel Rescue",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/aa0bb70f-e4c0-4dc2-b2e5-bb1acda454d8"
+    }
+  ],
+  "in_theaters": false
+}

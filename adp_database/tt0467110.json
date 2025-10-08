@@ -1,0 +1,18 @@
+{
+  "Title": "Underdog",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/underdog/7TRHBiSGnszx"
+    }
+  ],
+  "in_theaters": false
+}

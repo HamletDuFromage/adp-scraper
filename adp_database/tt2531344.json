@@ -1,0 +1,21 @@
+{
+  "Title": "Blockers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eeb1444f-fc5f-d3f6-d91d-2f138d7aa41e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1361705379"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07BX9HC4N/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Playing for Keeps",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00A2H9UG6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

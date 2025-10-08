@@ -1,0 +1,15 @@
+{
+  "Title": "Below Deck",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Travel"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a1571a6c-d34b-412a-bc40-6e03e416d64e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Treehouse Detectives",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Mystery",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80147923"
+    }
+  ],
+  "in_theaters": false
+}

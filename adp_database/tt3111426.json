@@ -1,0 +1,16 @@
+{
+  "Title": "Lost Girls",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80223927"
+    }
+  ],
+  "in_theaters": false
+}

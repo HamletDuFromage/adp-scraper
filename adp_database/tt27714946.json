@@ -1,0 +1,27 @@
+{
+  "Title": "The Monkey",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c012efaf-0f9d-4af0-8590-ea70b34ea3c8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1793826606"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4044694"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DYHMNVPN/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/a215dd37-6c40-4462-aef8-d9d273bef4fb"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "The Santa Clause 2",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-santa-clause-2/6wF7rjLypc61"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id205702273"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Da 5 Bloods",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81045635"
+    }
+  ],
+  "in_theaters": false
+}

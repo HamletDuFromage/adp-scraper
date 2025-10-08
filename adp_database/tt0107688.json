@@ -1,0 +1,27 @@
+{
+  "Title": "The Nightmare Before Christmas",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/tim-burtons-the-nightmare-before-christmas/5GjwOj5Rkpz2"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id281660706"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07CPDKQ28/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/12582"
+    }
+  ],
+  "in_theaters": false
+}

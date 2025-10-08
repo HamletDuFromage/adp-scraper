@@ -1,0 +1,27 @@
+{
+  "Title": "Fire of Love",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.93c3e589-d6af-4f59-847b-191fcf74c633/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/fire-of-love-f31479e8-210c-4416-af92-e7590114f56a"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/fire-of-love/1hC7erRfsl3B"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1672151749"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2288802"
+    }
+  ],
+  "in_theaters": false
+}

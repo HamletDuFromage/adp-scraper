@@ -1,0 +1,25 @@
+{
+  "Title": "RoboCop",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20a9f6db-c978-0383-4ab8-5f1f8a3a1d61/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id820509463"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00JL6L4UY/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/robocop-2014"
+    }
+  ],
+  "in_theaters": false
+}

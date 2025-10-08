@@ -1,0 +1,18 @@
+{
+  "Title": "Romeo & Juliet Killers",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/652649/romeo-juliet-killers"
+    }
+  ],
+  "in_theaters": false
+}

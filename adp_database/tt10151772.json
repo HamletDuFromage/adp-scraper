@@ -1,0 +1,14 @@
+{
+  "Title": "Sneakerheads",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81249713"
+    }
+  ],
+  "in_theaters": false
+}

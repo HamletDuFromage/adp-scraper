@@ -1,0 +1,17 @@
+{
+  "Title": "Me",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8dfb1c2-182e-4aa9-9e6a-055de45f6262/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.3d79cajjwbx5wsylkce31zrcz"
+    }
+  ],
+  "in_theaters": false
+}

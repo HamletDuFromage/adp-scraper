@@ -1,0 +1,18 @@
+{
+  "Title": "Rick and Morty: The Anime",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Anime",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3446422"
+    }
+  ],
+  "in_theaters": false
+}

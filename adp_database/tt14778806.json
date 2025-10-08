@@ -1,0 +1,16 @@
+{
+  "Title": "Baker's Dozen",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Food & Home",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/bakers-dozen-86e9eb70-0a7e-4686-b9d4-81735bd600c6"
+    }
+  ],
+  "in_theaters": false
+}

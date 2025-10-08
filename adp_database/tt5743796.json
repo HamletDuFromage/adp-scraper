@@ -1,0 +1,25 @@
+{
+  "Title": "Warrior",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80177331"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ad068768-0f4e-4f32-9596-b5d98e751c05/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/da36cb5e-3528-4354-a31c-c84610de672b"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2613773"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Mama's Boy",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.87653531-bbc6-4ac6-b145-4930ff490c80/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/5d95e8c6-9447-43ac-951b-57088edf5179"
+    }
+  ],
+  "in_theaters": false
+}

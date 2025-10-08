@@ -1,0 +1,17 @@
+{
+  "Title": "Amazonia",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Special Interest"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8b69685-4e4d-35c9-363d-a3dcf47311c6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Joe vs Carole",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/joe-vs.-carole/6531723906742538112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6935f534-8376-419a-bee0-20643aae1f0e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

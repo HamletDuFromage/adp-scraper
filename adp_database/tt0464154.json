@@ -1,0 +1,15 @@
+{
+  "Title": "Piranha 3D",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c2b7faed-56a8-bfc3-7265-38dbbd88f1c9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

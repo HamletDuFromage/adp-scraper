@@ -1,0 +1,18 @@
+{
+  "Title": "Mysteries of the Deep",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Science & Nature"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/1279c893-049c-4755-b1df-f69edb295a59"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0b95efb-be7a-c6db-c848-045053a55622/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

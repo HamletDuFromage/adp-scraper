@@ -1,0 +1,20 @@
+{
+  "Title": "Beachfront Bargain Hunt",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home",
+    "Kids & Family",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2bc10ac-7f7f-478a-c8a2-4355dd63a6c9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/98876c2d-425b-4e74-972b-c03050dae328"
+    }
+  ],
+  "in_theaters": false
+}

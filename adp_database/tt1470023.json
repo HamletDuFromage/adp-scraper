@@ -1,0 +1,18 @@
+{
+  "Title": "MacGruber",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1aa9f762-a543-48ac-5800-df4dc205bed5/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002ZG98B4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

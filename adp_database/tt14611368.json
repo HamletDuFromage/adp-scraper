@@ -1,0 +1,15 @@
+{
+  "Title": "Trippin' with the Kandasamys",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81307032"
+    }
+  ],
+  "in_theaters": false
+}

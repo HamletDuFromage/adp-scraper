@@ -1,0 +1,21 @@
+{
+  "Title": "Nocturnal Animals",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8ac6994-46e8-bcf7-6649-57f8e8d17c5b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1178216312"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI084O/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

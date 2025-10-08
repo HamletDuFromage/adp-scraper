@@ -1,0 +1,16 @@
+{
+  "Title": "The Guernsey Literary and Potato Peel Pie Society",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80223371"
+    }
+  ],
+  "in_theaters": false
+}

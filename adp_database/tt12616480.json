@@ -1,0 +1,24 @@
+{
+  "Title": "Slingshot",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4c2908f8-ba10-48e9-97d0-689a33bdb2b8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1762011769"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D9WLFK4H/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3438188"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "Alvin and the Chipmunks: Chipwrecked",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6a9f707-8452-460b-a6aa-6f18152630f3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id491629330"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004EPZ034/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

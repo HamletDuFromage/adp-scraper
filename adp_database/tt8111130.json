@@ -1,0 +1,16 @@
+{
+  "Title": "The Weekend",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88203400-7e8d-46bf-9b81-8caae9851be6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

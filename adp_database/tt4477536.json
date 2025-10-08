@@ -1,0 +1,26 @@
+{
+  "Title": "Fifty Shades Freed",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76b0b909-8342-b843-ac97-b85580348123/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1340577415"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B079FLRBVH/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80200957"
+    }
+  ],
+  "in_theaters": false
+}

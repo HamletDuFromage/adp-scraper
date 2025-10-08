@@ -1,0 +1,23 @@
+{
+  "Title": "I Saw the Light",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music",
+    "Special Interest"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4aa6a1f-15b2-380f-26a3-cbbfa080aed5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1103068405"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01FEO9ZKM/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

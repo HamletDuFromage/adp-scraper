@@ -1,0 +1,15 @@
+{
+  "Title": "BASEketball",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62a9f77f-462f-99b5-5bd3-2b8bba050f55/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

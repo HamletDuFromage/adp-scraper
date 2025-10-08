@@ -1,0 +1,20 @@
+{
+  "Title": "Road Trip",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48a9f762-273e-68ab-43f3-50505d6dc3c4/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id298259826"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/19825"
+    }
+  ],
+  "in_theaters": false
+}

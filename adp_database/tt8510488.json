@@ -1,0 +1,17 @@
+{
+  "Title": "Holiday in the Wild",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80231468"
+    }
+  ],
+  "in_theaters": false
+}

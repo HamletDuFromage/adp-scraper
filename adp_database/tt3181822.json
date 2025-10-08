@@ -1,0 +1,20 @@
+{
+  "Title": "The Boy Next Door",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6a9f7bc-2a74-1993-dbad-6e27adfad651/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00SS94J5C/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80013272"
+    }
+  ],
+  "in_theaters": false
+}

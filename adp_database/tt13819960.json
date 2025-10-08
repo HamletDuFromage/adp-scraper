@@ -1,0 +1,19 @@
+{
+  "Title": "And Just Like That...",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bec5be62-a1db-467d-a1c9-892fdaf3c3e0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/b9c27771-247a-459d-b751-85460d3fd5a2"
+    }
+  ],
+  "in_theaters": false
+}

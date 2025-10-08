@@ -1,0 +1,27 @@
+{
+  "Title": "The Equalizer",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4436391-9c48-4dec-9197-edd560d9d357/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1939266"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-equalizer/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/60bfa0485306710007ed4055"
+    }
+  ],
+  "in_theaters": false
+}

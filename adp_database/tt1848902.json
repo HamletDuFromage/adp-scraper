@@ -1,0 +1,19 @@
+{
+  "Title": "Game Change",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2b1ddfa-220d-4d8b-8580-388cee54f6de/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2a1b557f-f646-403b-9e55-c2c6f36159e4"
+    }
+  ],
+  "in_theaters": false
+}

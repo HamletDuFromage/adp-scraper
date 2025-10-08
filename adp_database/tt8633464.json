@@ -1,0 +1,22 @@
+{
+  "Title": "After Yang",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52d6e94e-9b31-47e1-b20d-018d5adec4f3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1624819813"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2021745"
+    }
+  ],
+  "in_theaters": false
+}

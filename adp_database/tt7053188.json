@@ -1,0 +1,18 @@
+{
+  "Title": "Station 19",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "LGBTQ",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/station-19-a7ef7150-7892-4c4e-830b-775f98094436"
+    }
+  ],
+  "in_theaters": false
+}

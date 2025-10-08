@@ -1,0 +1,15 @@
+{
+  "Title": "Necaxa",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/744f294b-0ae5-4a48-8eb5-f317c575810d"
+    }
+  ],
+  "in_theaters": false
+}

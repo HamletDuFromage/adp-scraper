@@ -1,0 +1,20 @@
+{
+  "Title": "Suburbicon",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5eafa82c-5794-129d-e34d-369be2e4a1f5/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B076W613BN/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

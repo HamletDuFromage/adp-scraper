@@ -1,0 +1,19 @@
+{
+  "Title": "American Sniper",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fca9f794-0b76-b9e0-8b26-04d9b120bc6e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00RGZ94SG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

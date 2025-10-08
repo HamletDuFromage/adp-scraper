@@ -1,0 +1,16 @@
+{
+  "Title": "Fight Like a Girl",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV",
+    "Short",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/32ba8ed6383de864244a75974fdd63b5/fight-like-a-girl"
+    }
+  ],
+  "in_theaters": false
+}

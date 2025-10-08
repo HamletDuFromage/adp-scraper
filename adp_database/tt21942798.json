@@ -1,0 +1,17 @@
+{
+  "Title": "Interrupting Chicken",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.01dc8ed9-9446-4292-99eb-67314546bf70/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.18gr0rhyi18lt79vgtw794wcw"
+    }
+  ],
+  "in_theaters": false
+}

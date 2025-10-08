@@ -1,0 +1,18 @@
+{
+  "Title": "Nature of the Crime",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4eafeb1e-277f-4fd1-939f-07255fcf21cf/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a83494c0-f7f4-4f85-8ca9-975e9acdb47e"
+    }
+  ],
+  "in_theaters": false
+}

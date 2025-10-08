@@ -1,0 +1,17 @@
+{
+  "Title": "Quantico",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/quantico-7f4d3dc6-dd6f-4fd8-9cad-5c0f93ec19b3"
+    }
+  ],
+  "in_theaters": false
+}

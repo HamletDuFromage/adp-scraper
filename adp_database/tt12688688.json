@@ -1,0 +1,19 @@
+{
+  "Title": "Tiger",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.034e10fd-0f51-4868-9900-a47a18b4d6ce/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3bf8042a-c876-4bde-90ca-00918fbe31d1"
+    }
+  ],
+  "in_theaters": false
+}

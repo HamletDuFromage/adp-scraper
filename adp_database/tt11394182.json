@@ -1,0 +1,15 @@
+{
+  "Title": "Feels Good Man",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24b9e27b-ad25-f035-69b0-fd0bb64ba966/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

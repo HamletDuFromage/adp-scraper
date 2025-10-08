@@ -1,0 +1,16 @@
+{
+  "Title": "Aloha with Love",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.00fc511f-7f29-4f8b-94a9-3928b3aa0d16/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

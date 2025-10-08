@@ -1,0 +1,17 @@
+{
+  "Title": "Charlie's Colorforms City",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80189632"
+    }
+  ],
+  "in_theaters": false
+}

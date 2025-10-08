@@ -1,0 +1,15 @@
+{
+  "Title": "'76",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81412227"
+    }
+  ],
+  "in_theaters": false
+}

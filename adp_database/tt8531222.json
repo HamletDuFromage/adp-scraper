@@ -1,0 +1,15 @@
+{
+  "Title": "DAVE",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/dave-ac3a96f0-9614-46af-b524-f59c7d281946"
+    }
+  ],
+  "in_theaters": false
+}

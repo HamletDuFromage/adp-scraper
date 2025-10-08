@@ -1,0 +1,19 @@
+{
+  "Title": "A Nightmare on Elm Street",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ca9f759-56ca-df4c-fecc-ef203fc02d7d/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/92831851-9152-485c-9fad-83ed09894f7f"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "The Eagle",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0034G4P58/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

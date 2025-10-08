@@ -1,0 +1,22 @@
+{
+  "Title": "Percy Jackson & the Olympians: The Lightning Thief",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.82b863be-1811-c3e5-c199-1fbaeb3984ae/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id359010946"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003HARV3Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

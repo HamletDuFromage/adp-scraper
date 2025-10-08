@@ -1,0 +1,18 @@
+{
+  "Title": "Star Trek: Strange New Worlds",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.da3d76b6-f02d-4136-a883-8da6fe7ae41a/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/star-trek-strange-new-worlds/?intcid=PPI-16-10aaj5c"
+    }
+  ],
+  "in_theaters": false
+}

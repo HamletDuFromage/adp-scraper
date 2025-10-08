@@ -1,0 +1,15 @@
+{
+  "Title": "Long Story Short",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81686879"
+    }
+  ],
+  "in_theaters": false
+}

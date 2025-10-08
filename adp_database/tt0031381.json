@@ -1,0 +1,22 @@
+{
+  "Title": "Gone with the Wind",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ca9f759-8f92-f165-aa65-bee72c1debd7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6b43ae80-28c8-4257-988e-e0a9d591cf47"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id324708730"
+    }
+  ],
+  "in_theaters": false
+}

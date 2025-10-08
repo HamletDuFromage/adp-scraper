@@ -1,0 +1,19 @@
+{
+  "Title": "It's the Great Pumpkin, Charlie Brown",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20f11f89-30ed-4414-869e-0327975c3cdc/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.1c5nvp802hos5t3u0umlukkwh"
+    }
+  ],
+  "in_theaters": false
+}

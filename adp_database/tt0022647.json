@@ -1,0 +1,17 @@
+{
+  "Title": "Babes in the Woods",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/babes-in-the-woods/1lRQoCOzgl1l"
+    }
+  ],
+  "in_theaters": false
+}

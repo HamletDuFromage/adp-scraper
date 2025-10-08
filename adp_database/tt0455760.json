@@ -1,0 +1,16 @@
+{
+  "Title": "Dead Silence",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68a9f73b-f28c-966e-4519-58e899f267d9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

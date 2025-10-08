@@ -1,0 +1,16 @@
+{
+  "Title": "Bodyguard",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80235864"
+    }
+  ],
+  "in_theaters": false
+}

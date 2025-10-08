@@ -1,0 +1,17 @@
+{
+  "Title": "Christmas Inheritance",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80177441"
+    }
+  ],
+  "in_theaters": false
+}

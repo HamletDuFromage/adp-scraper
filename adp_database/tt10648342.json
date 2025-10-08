@@ -1,0 +1,32 @@
+{
+  "Title": "Thor: Love and Thunder",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fb409d8a-9758-4125-92df-77c9f542411c/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8c7e7169-da44-4779-ada3-aeb801006c52/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/thor-love-and-thunder/3htR8mRAZMoT"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1639684732"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B92L86B3/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2060766"
+    }
+  ],
+  "in_theaters": false
+}

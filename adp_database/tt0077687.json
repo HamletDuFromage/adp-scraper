@@ -1,0 +1,17 @@
+{
+  "Title": "The Hobbit",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6aa7898-b71c-12e5-1c8b-34edff8c0c2e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

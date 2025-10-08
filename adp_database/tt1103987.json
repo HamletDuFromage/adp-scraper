@@ -1,0 +1,16 @@
+{
+  "Title": "Leverage",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40a9f7a7-3efa-b1f7-470a-3170de62b3cb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

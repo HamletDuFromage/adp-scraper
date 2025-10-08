@@ -1,0 +1,15 @@
+{
+  "Title": "Locked In",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81500381"
+    }
+  ],
+  "in_theaters": false
+}

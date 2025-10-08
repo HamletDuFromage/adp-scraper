@@ -1,0 +1,20 @@
+{
+  "Title": "Cars Toon: Mater's Tall Tales",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id394696666"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003Z6YMAA/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

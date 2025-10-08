@@ -1,0 +1,16 @@
+{
+  "Title": "I Kill Giants",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fcb0d86b-45ac-6006-e83d-28d55eb64164/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

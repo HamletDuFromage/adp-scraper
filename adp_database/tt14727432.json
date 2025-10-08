@@ -1,0 +1,15 @@
+{
+  "Title": "Battle on the Beach",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/4cacbef3-e064-41b6-bb60-307701da22d2"
+    }
+  ],
+  "in_theaters": false
+}

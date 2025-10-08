@@ -1,0 +1,22 @@
+{
+  "Title": "Breaking News in Yuba County",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bc2e0485-8dcc-4a69-b091-99dbe24e31df/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1545277475"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08W7R1FGL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

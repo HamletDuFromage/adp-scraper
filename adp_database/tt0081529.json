@@ -1,0 +1,15 @@
+{
+  "Title": "Smokey and the Bandit II",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0a9f77d-ea77-da26-19fe-781749f8d3a9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

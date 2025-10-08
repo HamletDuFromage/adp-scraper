@@ -1,0 +1,16 @@
+{
+  "Title": "Mr. Harrigan's Phone",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81288353"
+    }
+  ],
+  "in_theaters": false
+}

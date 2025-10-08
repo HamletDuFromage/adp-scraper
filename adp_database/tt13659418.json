@@ -1,0 +1,17 @@
+{
+  "Title": "Pam & Tommy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/pam-tommy-78839250-a41a-4899-b8da-500ca59a4196"
+    }
+  ],
+  "in_theaters": false
+}

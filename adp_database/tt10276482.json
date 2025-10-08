@@ -1,0 +1,16 @@
+{
+  "Title": "Love Again",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ff30af8-074e-43ed-8f75-d570f8785392/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

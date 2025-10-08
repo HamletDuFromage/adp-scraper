@@ -1,0 +1,15 @@
+{
+  "Title": "I'm Dying Up Here",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/im-dying-up-here/"
+    }
+  ],
+  "in_theaters": false
+}

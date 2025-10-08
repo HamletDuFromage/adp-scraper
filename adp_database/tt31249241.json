@@ -1,0 +1,15 @@
+{
+  "Title": "The Golden Bachelorette",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/c8838707-278b-4365-b377-7e24372c3f94"
+    }
+  ],
+  "in_theaters": false
+}

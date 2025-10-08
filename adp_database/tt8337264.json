@@ -1,0 +1,17 @@
+{
+  "Title": "Chicken Run: Dawn of the Nugget",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81223025"
+    }
+  ],
+  "in_theaters": false
+}

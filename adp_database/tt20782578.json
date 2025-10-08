@@ -1,0 +1,20 @@
+{
+  "Title": "Mind Over Murder",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a7a8d718-a265-4675-bf29-a1ec0c5feb4a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e698d8bb-9e3a-4d7c-b4cb-148dfecc5edc"
+    }
+  ],
+  "in_theaters": false
+}

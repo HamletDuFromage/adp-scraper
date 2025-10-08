@@ -1,0 +1,15 @@
+{
+  "Title": "French Exit",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0939M9NSB/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

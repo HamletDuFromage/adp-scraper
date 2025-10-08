@@ -1,0 +1,16 @@
+{
+  "Title": "The King's Speech",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22a9f669-a8c7-939c-bab3-c4eacb654c0b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

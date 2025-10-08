@@ -1,0 +1,21 @@
+{
+  "Title": "Tiny Toons Looniversity",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Music",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3cbb6b94-4164-45b9-bef0-b78091dea3ec/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/d73b7037-4155-40bc-8db5-74fb42bebb3a"
+    }
+  ],
+  "in_theaters": false
+}

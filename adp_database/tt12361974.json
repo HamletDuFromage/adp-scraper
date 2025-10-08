@@ -1,0 +1,25 @@
+{
+  "Title": "Zack Snyder's Justice League",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8bc14e4-a5f7-1061-7f38-2c97334c9f22/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d34191ed-48d8-417f-bd98-87d803c0b44f"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1557575456"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B097SNC3NN/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

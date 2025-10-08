@@ -1,0 +1,15 @@
+{
+  "Title": "Code Name Banshee",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8cc12ff-4181-4c1b-9840-2cbddc675e97/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "My Little Pony: Equestria Girls - Rainbow Rocks",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36a9f758-ad72-4a91-156c-4021f5f8e4d3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

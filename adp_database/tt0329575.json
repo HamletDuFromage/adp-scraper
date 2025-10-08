@@ -1,0 +1,17 @@
+{
+  "Title": "Seabiscuit",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c0bb6d30-6736-6159-4e64-05ff16ef34bb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

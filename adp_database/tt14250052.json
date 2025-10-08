@@ -1,0 +1,16 @@
+{
+  "Title": "The Celebrity Dating Game",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-celebrity-dating-game-78bb4e8e-aa1f-4a7e-93e6-fe787cab7ca0"
+    }
+  ],
+  "in_theaters": false
+}

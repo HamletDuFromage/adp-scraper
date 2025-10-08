@@ -1,0 +1,20 @@
+{
+  "Title": "Solar Opposites",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/solar-opposites-f089664b-1a87-433b-86a5-24e7da5a246a"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/80240068"
+    }
+  ],
+  "in_theaters": false
+}

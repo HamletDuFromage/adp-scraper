@@ -1,0 +1,19 @@
+{
+  "Title": "Weird: The Al Yankovic Story",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/066097da82ed5762966888a59b151058/weird-the-al-yankovic-story"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.788909d4-e56b-47e5-8194-ccb5d86775f2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

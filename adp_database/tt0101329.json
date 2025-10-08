@@ -1,0 +1,16 @@
+{
+  "Title": "An American Tail: Fievel Goes West",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7aa9f702-2cf7-1a7a-4e8d-163b6c2f22f7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

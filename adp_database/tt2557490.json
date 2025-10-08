@@ -1,0 +1,18 @@
+{
+  "Title": "A Million Ways to Die in the West",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92e98659-4fdd-4669-9b3c-5436426f02f9/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00KM9LY3Q/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Role Models",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ca9f724-3b5d-bc45-0d91-83e080789734/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4aa9f785-e3a9-a3d7-8143-c82a7401db52/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

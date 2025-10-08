@@ -1,0 +1,15 @@
+{
+  "Title": "Dance Monsters",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81094767"
+    }
+  ],
+  "in_theaters": false
+}

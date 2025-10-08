@@ -1,0 +1,19 @@
+{
+  "Title": "Jackass: The Movie",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.324d4a8f-79a0-479f-98a1-feaa19312f1b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id292781997"
+    }
+  ],
+  "in_theaters": false
+}

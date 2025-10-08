@@ -1,0 +1,19 @@
+{
+  "Title": "Here and Now",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4b33e16-6afe-85f8-a2a3-6f769cce7773/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07KZ365MW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

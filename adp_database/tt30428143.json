@@ -1,0 +1,16 @@
+{
+  "Title": "Apple Cider Vinegar",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81637595"
+    }
+  ],
+  "in_theaters": false
+}

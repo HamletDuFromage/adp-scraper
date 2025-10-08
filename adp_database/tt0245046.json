@@ -1,0 +1,16 @@
+{
+  "Title": "Charlotte Gray",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4a9f7a1-2506-3b1c-361c-6771df73d2d5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

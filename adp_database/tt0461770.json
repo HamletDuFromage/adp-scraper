@@ -1,0 +1,20 @@
+{
+  "Title": "Enchanted",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/enchanted/1JjwR3lbxGMC"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id273811355"
+    }
+  ],
+  "in_theaters": false
+}

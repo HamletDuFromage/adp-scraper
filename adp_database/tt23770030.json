@@ -1,0 +1,22 @@
+{
+  "Title": "Memoir of a Snail",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1f1377b5-dd57-4fe5-9932-86b023e63752/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1774863483"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0DSLXLJQ9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

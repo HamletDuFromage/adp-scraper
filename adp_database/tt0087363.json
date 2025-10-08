@@ -1,0 +1,17 @@
+{
+  "Title": "Gremlins",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f6fb-e392-2e07-39ec-2d8a35e8aa84/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

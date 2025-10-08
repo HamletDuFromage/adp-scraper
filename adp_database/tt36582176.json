@@ -1,0 +1,18 @@
+{
+  "Title": "Winx Club - The Magic is Back",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81902051"
+    }
+  ],
+  "in_theaters": false
+}

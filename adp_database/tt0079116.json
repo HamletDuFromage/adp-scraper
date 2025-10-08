@@ -1,0 +1,23 @@
+{
+  "Title": "Escape from Alcatraz",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id270092210"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/13856"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/escape-from-alcatraz-1979"
+    }
+  ],
+  "in_theaters": false
+}

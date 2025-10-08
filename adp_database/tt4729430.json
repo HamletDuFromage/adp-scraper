@@ -1,0 +1,18 @@
+{
+  "Title": "Klaus",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80183187"
+    }
+  ],
+  "in_theaters": false
+}

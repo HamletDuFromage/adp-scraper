@@ -1,0 +1,14 @@
+{
+  "Title": "Mr. Crocket",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/c8bde9de-d937-4fca-b56c-50ba25be5c53"
+    }
+  ],
+  "in_theaters": false
+}

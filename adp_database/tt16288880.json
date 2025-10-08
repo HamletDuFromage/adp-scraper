@@ -1,0 +1,17 @@
+{
+  "Title": "Reopening Night",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f7dbfea4-392c-4fe1-966a-92fc33126c25/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/271e9bdb-45b1-4cdb-9469-85fa3684fddd"
+    }
+  ],
+  "in_theaters": false
+}

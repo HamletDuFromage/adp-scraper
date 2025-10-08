@@ -1,0 +1,21 @@
+{
+  "Title": "Winnie the Pooh: Springtime with Roo",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/winnie-the-pooh-springtime-with-roo/2Aqm3rkSoYKV"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id427710998"
+    }
+  ],
+  "in_theaters": false
+}

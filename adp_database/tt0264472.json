@@ -1,0 +1,17 @@
+{
+  "Title": "Changing Lanes",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5eb7e305-a86c-84a5-f2fb-b4274e26b21b/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/nS4oVcTMKezJBauQKqdh5CASz69oNy03/"
+    }
+  ],
+  "in_theaters": false
+}

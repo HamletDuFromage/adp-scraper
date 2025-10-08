@@ -1,0 +1,20 @@
+{
+  "Title": "Father of the Bride",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/father-of-the-bride/4EWJUXcJGKyE"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id590380158"
+    }
+  ],
+  "in_theaters": false
+}

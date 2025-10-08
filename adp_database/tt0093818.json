@@ -1,0 +1,17 @@
+{
+  "Title": "Radio Days",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/movie/radio-days"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fe62e5c8-a4f8-4718-b07e-fe01c8817b00/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

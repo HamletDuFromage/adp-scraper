@@ -1,0 +1,22 @@
+{
+  "Title": "Arrival",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04ac0f55-4b27-ec29-6c9b-eb6613f3b074/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1166395905"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHYE04/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

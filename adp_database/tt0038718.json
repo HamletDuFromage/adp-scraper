@@ -1,0 +1,21 @@
+{
+  "Title": "Make Mine Music",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2cbace46-29be-4902-5458-83bb70d41516/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2696252"
+    }
+  ],
+  "in_theaters": false
+}

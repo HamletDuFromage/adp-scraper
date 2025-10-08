@@ -1,0 +1,18 @@
+{
+  "Title": "Hello, Jack! The Kindness Show",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b3ca5fe-f356-44a1-b3ca-37b8751d2e60/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.67f7csjyodc41iybksdv6s0pt"
+    }
+  ],
+  "in_theaters": false
+}

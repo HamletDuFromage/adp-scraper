@@ -1,0 +1,23 @@
+{
+  "Title": "House of the Dragon",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/c68e69d7-9317-428a-a615-cdf8fe5a2e06"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3422426"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ac541637-f9fc-4f20-8f5a-3975d473fa0e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

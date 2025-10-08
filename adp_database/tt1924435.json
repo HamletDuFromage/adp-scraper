@@ -1,0 +1,22 @@
+{
+  "Title": "Let's Be Cops",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8eb92bbd-06da-2e82-c6cd-cc9e95354d80/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id900234686"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00NQGRJFY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

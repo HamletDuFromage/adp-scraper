@@ -1,0 +1,14 @@
+{
+  "Title": "The Host",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.922a78a2-d8e2-44d4-b58c-1082ff720dcf/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

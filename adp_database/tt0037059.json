@@ -1,0 +1,16 @@
+{
+  "Title": "Meet Me in St. Louis",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2aa9f6fa-b3ad-d5a3-56fa-a4e01cc5895a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

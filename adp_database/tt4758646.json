@@ -1,0 +1,16 @@
+{
+  "Title": "War Machine",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80068327"
+    }
+  ],
+  "in_theaters": false
+}

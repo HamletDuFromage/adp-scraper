@@ -1,0 +1,16 @@
+{
+  "Title": "The Twin",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.004adc21-1a5f-4393-a06d-6fa22feca236/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Landscape with Invisible Hand",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8f734e3c-9d30-46ee-9cf9-2da12c302681/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1694571554"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2512180"
+    }
+  ],
+  "in_theaters": false
+}

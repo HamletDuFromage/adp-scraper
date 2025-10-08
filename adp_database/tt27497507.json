@@ -1,0 +1,18 @@
+{
+  "Title": "Love & Translation",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/62c6a5c6-114f-4b8a-8083-aec09dc32641"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ef5644c-9cea-4e78-bdb9-e281e65aac17/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

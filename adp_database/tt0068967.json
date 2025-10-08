@@ -1,0 +1,16 @@
+{
+  "Title": "Moon of the Wolf",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aca9f73c-cc47-2d4e-66cf-23dffed00999/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

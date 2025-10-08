@@ -1,0 +1,22 @@
+{
+  "Title": "The Garfield Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81762622"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D3G2Y1WY/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3143875"
+    }
+  ],
+  "in_theaters": false
+}

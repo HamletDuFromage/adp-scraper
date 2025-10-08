@@ -1,0 +1,25 @@
+{
+  "Title": "The Boys in the Boat",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a2acd664-99cb-423a-af39-587c4b60b743/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1718627081"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D2658CQW/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2844008"
+    }
+  ],
+  "in_theaters": false
+}

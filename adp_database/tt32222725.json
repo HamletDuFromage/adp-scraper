@@ -1,0 +1,19 @@
+{
+  "Title": "Caillou: Caillou's Perfect Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/caillou-caillous-perfect-christmas/226b56d0-ea06-369d-a465-6dee2ff970e3"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.792c3e06-602a-40ba-8f68-a6dc0a3f9ce8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Olympic Dreams",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52b7dac7-4d65-1ece-4cd1-d1fcecffd6a7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1496340885"
+    }
+  ],
+  "in_theaters": false
+}

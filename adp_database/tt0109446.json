@@ -1,0 +1,17 @@
+{
+  "Title": "The Client",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id279395504"
+    }
+  ],
+  "in_theaters": false
+}

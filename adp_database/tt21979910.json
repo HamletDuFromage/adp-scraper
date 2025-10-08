@@ -1,0 +1,18 @@
+{
+  "Title": "The Passenger",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.69425abc-d4bc-44e0-aa6e-19cfee33db97/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2434507"
+    }
+  ],
+  "in_theaters": false
+}

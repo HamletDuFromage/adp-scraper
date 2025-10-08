@@ -1,0 +1,14 @@
+{
+  "Title": "A Father's Love",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.abbd8bd5-d14b-43be-a69a-7a14c5474d3f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

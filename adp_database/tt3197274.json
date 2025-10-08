@@ -1,0 +1,17 @@
+{
+  "Title": "Showbiz Kids",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.47928fb7-fc0c-4bc2-8bf4-edb95ad9cb68/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/78be4b97-bc95-4226-bdc4-0d27d38314a7"
+    }
+  ],
+  "in_theaters": false
+}

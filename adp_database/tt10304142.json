@@ -1,0 +1,27 @@
+{
+  "Title": "Amsterdam",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.586730d1-de0b-4250-9bcb-c67ea33fd9e3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1652061117"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BJ7Z5MWZ/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2158084"
+    }
+  ],
+  "in_theaters": false
+}

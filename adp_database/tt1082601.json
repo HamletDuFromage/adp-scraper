@@ -1,0 +1,16 @@
+{
+  "Title": "Fighting",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f32d9a13-0d70-423a-a41d-6aad3946ba42/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Criminal: France",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81020513"
+    }
+  ],
+  "in_theaters": false
+}

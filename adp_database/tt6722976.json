@@ -1,0 +1,18 @@
+{
+  "Title": "The Elephant Queen",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20e51efe-99de-4042-bc78-e0a16ffd63ef/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.1ybrwww83rknjtwiuuemjfbvq"
+    }
+  ],
+  "in_theaters": false
+}

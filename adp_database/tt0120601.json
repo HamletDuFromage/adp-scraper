@@ -1,0 +1,16 @@
+{
+  "Title": "Being John Malkovich",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fea9f785-d89c-0199-ffa4-25e8e123b9e9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "WWE Evil",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Sports",
+    "WWE"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/sports/wwe-evil/6523791498377396112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.af97ff68-fff3-4472-bba2-708d97d3d576/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

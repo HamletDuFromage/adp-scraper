@@ -1,0 +1,26 @@
+{
+  "Title": "The Lion King",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.49be8582-f58d-471b-8a4a-56d732f3b6ae/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-lion-king/gDBvSe4GpZPD"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1471367629"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TMRSSK9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

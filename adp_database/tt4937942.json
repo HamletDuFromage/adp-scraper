@@ -1,0 +1,17 @@
+{
+  "Title": "Bordertown",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/bordertown-903319be-f2f1-4b4d-9b98-560e9a20d3c5"
+    }
+  ],
+  "in_theaters": false
+}

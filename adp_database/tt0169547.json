@@ -1,0 +1,14 @@
+{
+  "Title": "American Beauty",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id286334988"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "One Perfect Shot",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a78933e4-ca24-4534-997f-f1bf781deb6a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3e1689d4-81b5-4110-86c0-e053c5fb66d7"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Girl from Plainville",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-girl-from-plainville-b23dbb07-5a56-4918-8a17-a0cbe18d7884"
+    }
+  ],
+  "in_theaters": false
+}

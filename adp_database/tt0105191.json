@@ -1,0 +1,17 @@
+{
+  "Title": "Pure Country",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52a9f741-e318-9878-a26d-94eaa96e2911/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

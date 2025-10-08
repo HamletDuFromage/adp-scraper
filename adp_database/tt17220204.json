@@ -1,0 +1,19 @@
+{
+  "Title": "Everything's Gonna Be All White",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Black Stories",
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.08243bc5-f5ed-4704-a556-6276350353fe/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/everythings-gonna-be-all-white/"
+    }
+  ],
+  "in_theaters": false
+}

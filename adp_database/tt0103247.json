@@ -1,0 +1,19 @@
+{
+  "Title": "White Fang",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/white-fang/6gKgTmmSk7Bn"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id297281912"
+    }
+  ],
+  "in_theaters": false
+}

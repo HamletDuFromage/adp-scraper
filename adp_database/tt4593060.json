@@ -1,0 +1,18 @@
+{
+  "Title": "Pinocchio",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/pinocchio/5fzcpc295rQn"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Renovation Impossible",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/fd86d2df-f868-4934-b52c-5cb91b48940b"
+    }
+  ],
+  "in_theaters": false
+}

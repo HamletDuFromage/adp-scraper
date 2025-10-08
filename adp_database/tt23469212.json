@@ -1,0 +1,14 @@
+{
+  "Title": "Dead Man's Hand",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Western"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0C552QBK1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

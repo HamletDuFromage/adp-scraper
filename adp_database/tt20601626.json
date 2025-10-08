@@ -1,0 +1,15 @@
+{
+  "Title": "PCC, Secret Power",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/b0b726af-5825-4352-9fc6-3459e5d7bb69"
+    }
+  ],
+  "in_theaters": false
+}

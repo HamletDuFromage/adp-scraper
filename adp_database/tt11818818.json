@@ -1,0 +1,21 @@
+{
+  "Title": "God's Country",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b9e34af2-2cf2-4dd2-828a-3bd68f2451c7/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/gods-country-f5b3594b-cd2c-4b3c-8da9-89633d953c65"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BN2DGLPS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

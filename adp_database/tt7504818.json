@@ -1,0 +1,27 @@
+{
+  "Title": "Ron's Gone Wrong",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.772cfc5f-0e17-409b-b785-3e7ad30fe1d7/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.71f9e88c-8dd1-4352-a2f1-f6f781fd394e/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/rons-gone-wrong/6YEcF0iATBg0"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09LDDZZJ5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Death of a Nation",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16b29a4f-7044-c789-2f0d-5c9e865f927e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

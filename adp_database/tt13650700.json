@@ -1,0 +1,16 @@
+{
+  "Title": "A Big Bold Beautiful Journey",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1837842289"
+    }
+  ],
+  "in_theaters": false
+}

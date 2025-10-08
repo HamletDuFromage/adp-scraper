@@ -1,0 +1,17 @@
+{
+  "Title": "The Santa Clauses",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/the-santa-clauses/6ggA9rAPkovW"
+    }
+  ],
+  "in_theaters": false
+}

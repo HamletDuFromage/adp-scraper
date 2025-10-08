@@ -1,0 +1,19 @@
+{
+  "Title": "Brave New World",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/brave-new-world/8207689649148835112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34b26a75-d8a8-4e4c-8df5-9992b928b428/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

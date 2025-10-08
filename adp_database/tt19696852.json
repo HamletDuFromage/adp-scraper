@@ -1,0 +1,17 @@
+{
+  "Title": "When Billie Met Lisa",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Music",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/when-billie-met-lisa/1iNsziHZMWKm"
+    }
+  ],
+  "in_theaters": false
+}

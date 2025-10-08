@@ -1,0 +1,23 @@
+{
+  "Title": "The Muppets",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-muppets/pBEV9Y7KrRg7"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id493429494"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004EPZ03O/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

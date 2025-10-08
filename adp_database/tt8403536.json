@@ -1,0 +1,14 @@
+{
+  "Title": "Mr. Iglesias",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80209013"
+    }
+  ],
+  "in_theaters": false
+}

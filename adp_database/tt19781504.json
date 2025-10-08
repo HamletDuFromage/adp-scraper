@@ -1,0 +1,19 @@
+{
+  "Title": "American Pain",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "History",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d86df6a2-3863-479f-b205-284d09406b8e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/3d510db4-d741-417d-9f7d-c79d2294e118"
+    }
+  ],
+  "in_theaters": false
+}

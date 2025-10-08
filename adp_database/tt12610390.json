@@ -1,0 +1,14 @@
+{
+  "Title": "The Union",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81282732"
+    }
+  ],
+  "in_theaters": false
+}

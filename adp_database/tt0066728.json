@@ -1,0 +1,19 @@
+{
+  "Title": "The Million Dollar Duck",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-million-dollar-duck/6YnTOE6vjfZR"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id280053046"
+    }
+  ],
+  "in_theaters": false
+}

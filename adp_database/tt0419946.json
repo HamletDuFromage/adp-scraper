@@ -1,0 +1,16 @@
+{
+  "Title": "The Marine",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04ba8f69-88e6-2a4c-e92d-fba1f31be294/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "America's National Parks",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/americas-national-parks-02c9b66f-0260-4e34-8408-bb66957f7dc5"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/americas-national-parks/J91rVknBNBIG"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Far from Home",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81282563"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Fatima",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cba0118-9a82-88f0-c1ef-a95c399f568e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

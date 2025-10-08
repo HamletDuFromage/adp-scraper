@@ -1,0 +1,21 @@
+{
+  "Title": "Ratchet & Clank",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6aa6a33-70e5-512c-ad90-478676bc8371/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01EYWI56U/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

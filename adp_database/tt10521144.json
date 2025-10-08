@@ -1,0 +1,16 @@
+{
+  "Title": "Nightbooks",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Horror",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81002270"
+    }
+  ],
+  "in_theaters": false
+}

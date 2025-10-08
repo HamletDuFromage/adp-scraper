@@ -1,0 +1,17 @@
+{
+  "Title": "Seth Meyers: Dad Man Walking",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dfc8472a-f8b9-4a92-ad67-0236637e4adc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/785e5ee6-cf73-4187-a0c8-afc3889437cd"
+    }
+  ],
+  "in_theaters": false
+}

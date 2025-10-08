@@ -1,0 +1,16 @@
+{
+  "Title": "Attenborough's Life Journey",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Kids & Family",
+    "Science & Nature"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1b34a2e8-6b90-49e7-b0ca-f3809b9f8e96/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

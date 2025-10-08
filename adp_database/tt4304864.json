@@ -1,0 +1,18 @@
+{
+  "Title": "Divorce",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ce7ed841-898c-4287-8c7c-92751870aada/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/9f8195aa-cc8c-45a4-83e0-a1f4aa5d6afb"
+    }
+  ],
+  "in_theaters": false
+}

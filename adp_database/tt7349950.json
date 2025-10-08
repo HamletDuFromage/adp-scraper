@@ -1,0 +1,16 @@
+{
+  "Title": "It: Chapter Two",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.23841b88-b1cc-4bdf-894e-41325647d09f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

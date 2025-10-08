@@ -1,0 +1,25 @@
+{
+  "Title": "McFarland, USA",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eea9f739-a3a7-3740-eb9d-aa126e861c35/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mcfarland-usa/pR0ZImKoD6kr"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id965531794"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00UI5CU6Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

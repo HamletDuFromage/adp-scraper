@@ -1,0 +1,15 @@
+{
+  "Title": "The Last House on the Left",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f6a9f70e-9942-65a0-14a0-779588e44583/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

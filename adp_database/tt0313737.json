@@ -1,0 +1,15 @@
+{
+  "Title": "Two Weeks Notice",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id557880277"
+    }
+  ],
+  "in_theaters": false
+}

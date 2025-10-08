@@ -1,0 +1,14 @@
+{
+  "Title": "Babysitter",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.daaa69f5-e826-27cd-cfbc-c1e64f4b99a4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

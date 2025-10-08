@@ -1,0 +1,21 @@
+{
+  "Title": "War for the Planet of the Apes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1250267769"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0721QYGSQ/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f57bebe5-5766-4c17-a972-85f26604530c"
+    }
+  ],
+  "in_theaters": false
+}

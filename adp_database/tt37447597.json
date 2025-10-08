@@ -1,0 +1,15 @@
+{
+  "Title": "Countdown: Taylor vs. Serrano",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/82048533"
+    }
+  ],
+  "in_theaters": false
+}

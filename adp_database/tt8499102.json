@@ -1,0 +1,14 @@
+{
+  "Title": "Jawline",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/jawline-97faaa95-943e-4258-9573-bac4790d5f42"
+    }
+  ],
+  "in_theaters": false
+}

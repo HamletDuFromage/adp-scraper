@@ -1,0 +1,18 @@
+{
+  "Title": "Bird",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Independent"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1784437053"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3867439"
+    }
+  ],
+  "in_theaters": false
+}

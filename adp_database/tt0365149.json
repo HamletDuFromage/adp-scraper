@@ -1,0 +1,16 @@
+{
+  "Title": "Eddie's Million Dollar Cook-off",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/eddies-million-dollar-cook-off/1bqZiqV9FkpO"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Ed Wood",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ebad60d-e241-5fb9-0682-ade8714d0228/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id206329523"
+    }
+  ],
+  "in_theaters": false
+}

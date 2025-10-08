@@ -1,0 +1,19 @@
+{
+  "Title": "Expedition Unknown",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Adventure & Survival",
+    "Mystery",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/6ec0072b-aaad-4a3d-a003-7ff8bb5e417e"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a97702a9-2ab0-40f5-bbad-1ae65cc0a99b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

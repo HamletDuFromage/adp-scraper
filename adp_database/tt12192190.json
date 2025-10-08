@@ -1,0 +1,17 @@
+{
+  "Title": "One Night in Bangkok",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cea3ed00-a4df-49c3-84a3-9e0fa90e7e58/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

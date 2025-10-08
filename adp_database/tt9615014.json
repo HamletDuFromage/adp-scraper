@@ -1,0 +1,15 @@
+{
+  "Title": "LEGO Masters",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/series/300005214/lego-masters"
+    }
+  ],
+  "in_theaters": false
+}

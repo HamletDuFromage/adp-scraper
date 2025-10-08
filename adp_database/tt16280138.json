@@ -1,0 +1,27 @@
+{
+  "Title": "Magic Mike's Last Dance",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.032922b8-8ae8-48e5-9435-3cbdfffaf5bd/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/486843c3-f307-4af0-b946-f2f1469514dc"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1665426436"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BTRVX733/audiodescriin-20"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F61a7791592093601e7fa5abd&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    }
+  ],
+  "in_theaters": false
+}

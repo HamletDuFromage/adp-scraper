@@ -1,0 +1,18 @@
+{
+  "Title": "Unveiled: Surviving La Luz Del Mundo",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52a647da-fe3a-4499-a460-113b7c2901cb/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/3d446f26-6f99-453f-a635-a1a41160c512"
+    }
+  ],
+  "in_theaters": false
+}

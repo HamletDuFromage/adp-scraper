@@ -1,0 +1,16 @@
+{
+  "Title": "Chefs vs. Wild",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Food & Home",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/chefs-vs-wild-e2528c2e-ae34-4ee1-b81b-7ff3262a14c3"
+    }
+  ],
+  "in_theaters": false
+}

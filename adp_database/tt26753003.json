@@ -1,0 +1,29 @@
+{
+  "Title": "Trap",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.315ef3ec-ada9-4123-bf8a-8e2e3a03de80/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/7ac12c19-31f0-4865-90af-e1a789dafb01"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1753448636"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D9MG3PPN/audiodescriin-20"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F63f2ee40e3211559a531578d&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    }
+  ],
+  "in_theaters": false
+}

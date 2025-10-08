@@ -1,0 +1,30 @@
+{
+  "Title": "Halloween Ends",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d9ed21df-bcde-4656-b12c-a56fed65a2ef/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/halloween-ends/a0511b2c-6f33-3817-897c-f11d0145634a"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1648449159"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BGZ9723Z/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2126190"
+    }
+  ],
+  "in_theaters": false
+}

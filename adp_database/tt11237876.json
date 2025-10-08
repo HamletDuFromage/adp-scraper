@@ -1,0 +1,21 @@
+{
+  "Title": "Supernatural Academy",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/supernatural-academy/9204574821467398112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e3636e52-f398-4a56-a7a2-4cfd66eb48ca/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

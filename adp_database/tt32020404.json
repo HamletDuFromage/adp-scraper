@@ -1,0 +1,19 @@
+{
+  "Title": "The Commandant's Shadow",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/20d4eb0c-99d8-42d3-b9ce-e191626f6981"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.27bd2abc-ebee-416d-b054-0cf7fe280913/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

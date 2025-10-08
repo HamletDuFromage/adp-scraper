@@ -1,0 +1,20 @@
+{
+  "Title": "White Noise",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bea9f776-393c-c468-98f7-f7d76879c45f/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70018717"
+    }
+  ],
+  "in_theaters": false
+}

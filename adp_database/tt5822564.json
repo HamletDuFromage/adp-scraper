@@ -1,0 +1,22 @@
+{
+  "Title": "The Kitchen",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0b63948-96a8-cb08-6383-2e781f66b98a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1473456539"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07TJKBNS6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

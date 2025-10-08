@@ -1,0 +1,19 @@
+{
+  "Title": "Back to the Future",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30a9f73b-becf-e11e-b945-01fc05bd6430/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id380239015"
+    }
+  ],
+  "in_theaters": false
+}

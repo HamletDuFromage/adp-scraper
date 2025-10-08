@@ -1,0 +1,15 @@
+{
+  "Title": "Trainspotting",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/12657"
+    }
+  ],
+  "in_theaters": false
+}

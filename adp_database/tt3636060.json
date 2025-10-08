@@ -1,0 +1,15 @@
+{
+  "Title": "Poldark",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aca9f7a7-96b6-dfc3-03b1-e91b0b61eaf7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

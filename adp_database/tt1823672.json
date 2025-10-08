@@ -1,0 +1,20 @@
+{
+  "Title": "Chappie",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.26a9f726-6bd3-f2cd-c227-81e51987d7db/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00UC9TLWC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

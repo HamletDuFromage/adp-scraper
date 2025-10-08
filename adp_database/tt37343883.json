@@ -1,0 +1,15 @@
+{
+  "Title": "Going, Going, Gone: The Magic of the Home Run",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/eb9088a8b24ef3cd30a55a25a81e0c43/going-going-gone-the-magic-of-the-home-run"
+    }
+  ],
+  "in_theaters": false
+}

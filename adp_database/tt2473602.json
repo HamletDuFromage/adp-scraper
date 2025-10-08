@@ -1,0 +1,19 @@
+{
+  "Title": "Get on Up",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86a9f7c3-1f9e-4cc4-1ea7-071b67696d3a/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00MBNRPT8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

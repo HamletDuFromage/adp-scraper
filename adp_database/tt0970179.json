@@ -1,0 +1,21 @@
+{
+  "Title": "Hugo",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1e843b41-309f-4593-9c69-f7bcc89d9f52/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003Y5H5H4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

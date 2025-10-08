@@ -1,0 +1,15 @@
+{
+  "Title": "Sarah's Bind",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7e26b337-34ed-4af9-867e-fd051d2e7846/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

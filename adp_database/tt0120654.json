@@ -1,0 +1,14 @@
+{
+  "Title": "Dirty Work",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cb645e1-20db-b317-a02b-630f2e6b027f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

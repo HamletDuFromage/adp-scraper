@@ -1,0 +1,14 @@
+{
+  "Title": "Quiz Lady",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/7eddb1d7-1ff3-474a-9db7-8d708fc1308a"
+    }
+  ],
+  "in_theaters": false
+}

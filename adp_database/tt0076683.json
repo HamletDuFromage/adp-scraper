@@ -1,0 +1,14 @@
+{
+  "Title": "The Sentinel",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70000813"
+    }
+  ],
+  "in_theaters": false
+}

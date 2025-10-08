@@ -1,0 +1,26 @@
+{
+  "Title": "Despicable Me 4",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81776693"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1752238388"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D7CMV316/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3144070"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,29 @@
+{
+  "Title": "Slice",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9a1dbfc7-1bef-4544-8066-b30e7cd40561/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1425554551"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317592799/audiodescriin-20"
+    },
+    {
+      "Plex": "https://watch.plex.tv/movie/slice-2018"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/movies/631bb155aa755300076d0e5e"
+    }
+  ],
+  "in_theaters": false
+}

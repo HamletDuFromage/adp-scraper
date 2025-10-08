@@ -1,0 +1,20 @@
+{
+  "Title": "Cinderella III: A Twist in Time",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/cinderella-iii-a-twist-in-time/6ePDdHBbOrGF"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id493145199"
+    }
+  ],
+  "in_theaters": false
+}

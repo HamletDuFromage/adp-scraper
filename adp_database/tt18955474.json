@@ -1,0 +1,14 @@
+{
+  "Title": "David Spade: Nothing Personal",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81464179"
+    }
+  ],
+  "in_theaters": false
+}

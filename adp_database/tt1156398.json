@@ -1,0 +1,22 @@
+{
+  "Title": "Zombieland",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id336702170"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002WY65VU/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22a9f792-9559-22ef-2c52-7670edf7ad7b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

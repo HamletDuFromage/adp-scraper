@@ -1,0 +1,18 @@
+{
+  "Title": "Toy Story Toons: Partysaurus Rex",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/toy-story-toons-partysaurus-rex/zvtcNx6hBVrz"
+    }
+  ],
+  "in_theaters": false
+}

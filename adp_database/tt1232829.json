@@ -1,0 +1,19 @@
+{
+  "Title": "21 Jump Street",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id518877094"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003Y5H5B0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

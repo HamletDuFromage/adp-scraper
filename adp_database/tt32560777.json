@@ -1,0 +1,18 @@
+{
+  "Title": "Plankton: The Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81221337"
+    }
+  ],
+  "in_theaters": false
+}

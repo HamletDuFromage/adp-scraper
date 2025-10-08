@@ -1,0 +1,21 @@
+{
+  "Title": "The Aeronauts",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ab95088-a5e1-a5a8-1295-2c2f76d3be7c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1671000658"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2284364"
+    }
+  ],
+  "in_theaters": false
+}

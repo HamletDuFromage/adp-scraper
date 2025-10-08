@@ -1,0 +1,14 @@
+{
+  "Title": "Cedar Rapids",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.46a9f71b-aaf0-2e5a-2e64-f4ee3988853c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

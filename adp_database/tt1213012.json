@@ -1,0 +1,16 @@
+{
+  "Title": "Alpha and Omega",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/movies/5e1e0510d65e92e03ffbeca3"
+    }
+  ],
+  "in_theaters": false
+}

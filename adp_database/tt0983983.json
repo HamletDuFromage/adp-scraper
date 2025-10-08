@@ -1,0 +1,17 @@
+{
+  "Title": "Shaun the Sheep",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.42a9f702-1089-589c-2ac5-b6bd773174b8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

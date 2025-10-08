@@ -1,0 +1,19 @@
+{
+  "Title": "Becoming Cousteau",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/becoming-cousteau-47068778-bfee-4714-923f-8c754e14196e"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/becoming-cousteau/6j89SraMsSxO"
+    }
+  ],
+  "in_theaters": false
+}

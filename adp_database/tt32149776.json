@@ -1,0 +1,17 @@
+{
+  "Title": "Slave Play. Not a Movie. A Play.",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.40f795a1-ad9d-4039-91eb-acf69abf3c55/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2cb2cfd2-b03b-47ba-8620-cb7ef04be0d9"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Running with the Beest",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e888126c-979c-47fb-90ba-e07189c02001/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Cheaper by the Dozen",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92e9f3e7-7d94-485b-8168-630095cecee3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1708185043"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2627025"
+    }
+  ],
+  "in_theaters": false
+}

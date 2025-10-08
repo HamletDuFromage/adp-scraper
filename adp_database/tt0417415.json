@@ -1,0 +1,15 @@
+{
+  "Title": "Aliens of the Deep",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/aliens-of-the-deep/7ZpeJZobeyiw"
+    }
+  ],
+  "in_theaters": false
+}

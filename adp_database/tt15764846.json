@@ -1,0 +1,18 @@
+{
+  "Title": "Poor Devil",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/36cbdf0e-441f-4751-a5cd-a9eb64d838ef"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56bad526-d973-462c-be37-b1f5027b23e2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

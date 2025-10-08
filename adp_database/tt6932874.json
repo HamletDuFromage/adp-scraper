@@ -1,0 +1,25 @@
+{
+  "Title": "The Boss Baby: Family Business",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.822b9167-33eb-4820-9b85-c1553591dddf/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1573325150"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B098582NYH/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/kids/the-boss-baby-family-business/cdf4f590-a16d-3f81-9875-e69532a5bbe2"
+    }
+  ],
+  "in_theaters": false
+}

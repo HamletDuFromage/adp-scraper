@@ -1,0 +1,17 @@
+{
+  "Title": "Raise Your Voice",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Kids & Family",
+    "Music",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0a9f787-285f-ccf3-7fc2-3d3d00dce3bb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

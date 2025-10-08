@@ -1,0 +1,22 @@
+{
+  "Title": "Big Freaking Rat",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3993273"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1803211685"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.21210a57-fa83-4e62-903d-e8d7b75581bd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

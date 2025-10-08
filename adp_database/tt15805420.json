@@ -1,0 +1,16 @@
+{
+  "Title": "American Meltdown",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68e7a768-8ff0-40ea-a3f0-cc02efc4fc9d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Battle of the Bling",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Game Show"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/57267506-4685-4c78-8a9a-40d3dc41e88a"
+    }
+  ],
+  "in_theaters": false
+}

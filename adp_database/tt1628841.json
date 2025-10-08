@@ -1,0 +1,21 @@
+{
+  "Title": "Independence Day: Resurgence",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52aaed8f-4ab9-a793-ca16-2351502d22f2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1121888040"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01HC386YY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

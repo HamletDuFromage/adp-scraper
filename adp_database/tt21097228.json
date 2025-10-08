@@ -1,0 +1,25 @@
+{
+  "Title": "A Different Man",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.940e401c-1d7c-4d76-9141-d44552e9348e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/ff57c8fe-56e1-4933-afa8-a552ee335c70"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1769710637"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3466785"
+    }
+  ],
+  "in_theaters": false
+}

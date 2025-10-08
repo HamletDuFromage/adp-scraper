@@ -1,0 +1,15 @@
+{
+  "Title": "EXmas",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.70362ec2-d4f7-43fc-bb8e-9f99c8d79af7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

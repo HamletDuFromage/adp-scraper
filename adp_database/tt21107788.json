@@ -1,0 +1,14 @@
+{
+  "Title": "Instant Dream Home",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81032737"
+    }
+  ],
+  "in_theaters": false
+}

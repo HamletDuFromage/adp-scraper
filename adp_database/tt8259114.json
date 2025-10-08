@@ -1,0 +1,19 @@
+{
+  "Title": "I'll Be Gone in the Dark",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0479dd30-c1ce-469f-a084-33f1d70f46da/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a823014d-fa0b-4bbe-ab98-14ea00e551bb"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "Forrest Gump",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4a9f7ae-8751-637f-45fe-baf203e8df44/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id314029341"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07P5P7W82/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

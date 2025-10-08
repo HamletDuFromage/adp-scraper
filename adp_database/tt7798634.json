@@ -1,0 +1,21 @@
+{
+  "Title": "Ready or Not",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1475821755"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07VHY8QLR/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

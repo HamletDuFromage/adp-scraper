@@ -1,0 +1,18 @@
+{
+  "Title": "Run & Gun",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a447d7d2-0d4a-47e5-8eb9-bfab39003389/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1593857909"
+    }
+  ],
+  "in_theaters": false
+}

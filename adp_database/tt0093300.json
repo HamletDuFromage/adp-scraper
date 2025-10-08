@@ -1,0 +1,20 @@
+{
+  "Title": "Jaws: The Revenge",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ea9f700-df0f-ee78-e2b9-8f6f6ee44141/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id549804025"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "The Conjuring: The Devil Made Me Do It",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/5ed8a825-101d-4438-8153-f6d5c9b405f9"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1567320221"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B098GT2XRV/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.728e505b-3a98-44c0-8ee5-858f2c94e283/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

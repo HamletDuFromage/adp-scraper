@@ -1,0 +1,14 @@
+{
+  "Title": "Gangs of Lagos",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8741670a-a454-4b17-b63a-84f2971bc814/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "The Gambler",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4a9f6db-d5a6-3f24-46ed-73d2a9cc52df/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id945107340"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00R8ODWHO/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

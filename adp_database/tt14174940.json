@@ -1,0 +1,15 @@
+{
+  "Title": "Interceptor",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81388316"
+    }
+  ],
+  "in_theaters": false
+}

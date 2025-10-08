@@ -1,0 +1,23 @@
+{
+  "Title": "Relic",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.30ba98c4-2196-b093-4e23-4512c1a98b50/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1517349918"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08F6R3RLK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

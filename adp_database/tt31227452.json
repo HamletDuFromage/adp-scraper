@@ -1,0 +1,17 @@
+{
+  "Title": "Ayla and the Mirrors",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Coming of Age",
+    "Dance",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-c68dd746-29d8-4cf3-8e01-912a9074386c"
+    }
+  ],
+  "in_theaters": false
+}

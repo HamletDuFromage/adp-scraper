@@ -1,0 +1,18 @@
+{
+  "Title": "Far from the Tree",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/far-from-the-tree/4LKsV18kWS9G"
+    }
+  ],
+  "in_theaters": false
+}

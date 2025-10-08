@@ -1,0 +1,18 @@
+{
+  "Title": "Olivia Rodrigo: driving home 2 u (a SOUR film)",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/olivia-rodrigo-driving-home-2-u-a-sour-film-1e9d3351-b9c3-4b5d-8acd-29bbf5fcaa86"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/olivia-rodrigo-driving-home-2-u/3k7b1AOoJznb"
+    }
+  ],
+  "in_theaters": false
+}

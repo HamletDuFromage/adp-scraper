@@ -1,0 +1,17 @@
+{
+  "Title": "Laetitia",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/917b4a95-a90a-409c-bb02-8cc698c13769"
+    }
+  ],
+  "in_theaters": false
+}

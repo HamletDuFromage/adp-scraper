@@ -1,0 +1,22 @@
+{
+  "Title": "Grease 2",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3115fadf-12ca-4336-b41c-5eb34ff4716f/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/33224"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/CCJl0vJ9BkEt6a7GTFWdL8_GWtGiFaWZ/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Creative Galaxy",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80aaa1d2-74ac-0e6d-6988-f1aa55f8e68d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

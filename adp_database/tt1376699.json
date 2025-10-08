@@ -1,0 +1,17 @@
+{
+  "Title": "Den Brother",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/den-brother/4Y7iCBaFeYlu"
+    }
+  ],
+  "in_theaters": false
+}

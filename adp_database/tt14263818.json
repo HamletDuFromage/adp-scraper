@@ -1,0 +1,18 @@
+{
+  "Title": "Surviving Ohio State",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/cd882f9c-d2d5-46a8-9078-3d5027bbf661"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8b511d0-701a-4c4e-b41b-b7247601676f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

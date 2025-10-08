@@ -1,0 +1,14 @@
+{
+  "Title": "Kevin Hart's Guide to Black History",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80231156"
+    }
+  ],
+  "in_theaters": false
+}

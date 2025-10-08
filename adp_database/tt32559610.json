@@ -1,0 +1,17 @@
+{
+  "Title": "Countdown",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.05455c28-f928-41fa-b3f4-4988d92c68b4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

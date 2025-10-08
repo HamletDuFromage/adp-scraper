@@ -1,0 +1,16 @@
+{
+  "Title": "Magic Camp",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86845ee3-58e4-4a82-bf49-f694162c0df7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

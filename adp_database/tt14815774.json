@@ -1,0 +1,17 @@
+{
+  "Title": "Hotel Portofino",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b26ae52a-d6ca-4235-b51d-3221d0d5fd64/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2677254"
+    }
+  ],
+  "in_theaters": false
+}

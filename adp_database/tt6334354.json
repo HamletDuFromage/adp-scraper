@@ -1,0 +1,24 @@
+{
+  "Title": "The Suicide Squad",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bea1a212-e906-4112-a920-00c2ff185c7f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/186afae3-df20-41bc-86c9-70a39a955c63"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1577436703"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09FCCCGWC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

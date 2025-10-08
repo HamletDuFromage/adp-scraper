@@ -1,0 +1,18 @@
+{
+  "Title": "All Creatures Great and Small",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88bb161b-9718-758b-ad02-0a1dc145d076/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2908460"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Dadnapped",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dadnapped/2hRChN8VIRtf"
+    }
+  ],
+  "in_theaters": false
+}

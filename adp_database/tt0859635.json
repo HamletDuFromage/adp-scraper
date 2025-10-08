@@ -1,0 +1,20 @@
+{
+  "Title": "Super Troopers 2",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1364181992"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07CBLRX7S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

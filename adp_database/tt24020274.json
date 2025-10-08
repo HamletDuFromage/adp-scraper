@@ -1,0 +1,19 @@
+{
+  "Title": "Sesame Street's The Nutcracker",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Holiday",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5c6cd7f9-2ca8-4747-bc57-e9fd9e5e21f3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/099443d9-4c48-4e78-b5a6-d9274f1c4aa9"
+    }
+  ],
+  "in_theaters": false
+}

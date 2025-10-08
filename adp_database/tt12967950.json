@@ -1,0 +1,18 @@
+{
+  "Title": "Agents of Chaos",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/b00dd1da-dbdc-4e9d-b95c-c72cf00d4410"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3eba5aca-1304-6de0-15ee-054e56c6d1b1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Sheryl",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0fb751e-3b4b-40d6-bb94-0316eb416b44/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

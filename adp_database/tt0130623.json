@@ -1,0 +1,22 @@
+{
+  "Title": "Dinosaur",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dinosaur/4Y8JDyEGYTkL"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id296353403"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00003CXHS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

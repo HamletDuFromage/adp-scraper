@@ -1,0 +1,16 @@
+{
+  "Title": "Dream House",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0068RHSCW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "La Maquina",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "International",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/65b49602-6992-4e5a-ad0f-66098ba9fca2"
+    }
+  ],
+  "in_theaters": false
+}

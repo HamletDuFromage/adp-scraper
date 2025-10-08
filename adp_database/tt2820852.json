@@ -1,0 +1,25 @@
+{
+  "Title": "Furious 7",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6a9f7a8-6dfb-7b51-af73-509363ce7f23/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8a9f6c2-ee64-57e0-3072-2e69cd5cbb13/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id972784695"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00HLTD8RA/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

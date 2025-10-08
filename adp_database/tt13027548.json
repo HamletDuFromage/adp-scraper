@@ -1,0 +1,17 @@
+{
+  "Title": "The Bridge",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c09a9e14-c337-44ed-a47e-11f331ae88f9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/af1e8156-affc-477c-bede-79677de393de"
+    }
+  ],
+  "in_theaters": false
+}

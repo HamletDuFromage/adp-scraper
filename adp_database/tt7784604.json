@@ -1,0 +1,23 @@
+{
+  "Title": "Hereditary",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ecbb454c-eee6-2742-f252-8fe5272adf84/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1382447562"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/d8971a4f-7353-488a-9740-3f0d89057081"
+    }
+  ],
+  "in_theaters": false
+}

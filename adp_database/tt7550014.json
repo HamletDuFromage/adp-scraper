@@ -1,0 +1,17 @@
+{
+  "Title": "No Exit",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/no-exit-4800d468-b587-44de-bad8-2646588bfa6b"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Chambers",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80210361"
+    }
+  ],
+  "in_theaters": false
+}

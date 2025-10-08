@@ -1,0 +1,16 @@
+{
+  "Title": "Flyways",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.65ae56a9-64a5-45dd-8306-0785e8c26f1e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

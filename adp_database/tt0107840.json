@@ -1,0 +1,15 @@
+{
+  "Title": "Poetic Justice",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22a9f71c-cd36-5476-9c73-c0593e143ab5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

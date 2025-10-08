@@ -1,0 +1,24 @@
+{
+  "Title": "Captain Underpants: The First Epic Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80160689"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8b0a846-c139-8fea-c1c1-975422cd12ac/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1331619820"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B072LXFR8C/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

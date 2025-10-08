@@ -1,0 +1,16 @@
+{
+  "Title": "Before I Wake",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80002667"
+    }
+  ],
+  "in_theaters": false
+}

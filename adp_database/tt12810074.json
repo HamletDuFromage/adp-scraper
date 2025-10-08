@@ -1,0 +1,15 @@
+{
+  "Title": "Nightbitch",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/db1d84bb-1922-4769-910a-2b61d81a9dd3"
+    }
+  ],
+  "in_theaters": false
+}

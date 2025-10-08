@@ -1,0 +1,15 @@
+{
+  "Title": "It's Bruno!",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80999455"
+    }
+  ],
+  "in_theaters": false
+}

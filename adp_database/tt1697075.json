@@ -1,0 +1,17 @@
+{
+  "Title": "Super Eruption",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.26d760b9-5826-4007-acc1-549a61018a3f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

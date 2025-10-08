@@ -1,0 +1,27 @@
+{
+  "Title": "Maleficent: Mistress of Evil",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18b6e609-2734-70bb-7a76-c6f82f08d2cc/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/maleficent-mistress-of-evil/5qvekLRRLhIl"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1482218974"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07ZWBD2VD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

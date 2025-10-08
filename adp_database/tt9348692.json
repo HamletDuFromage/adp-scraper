@@ -1,0 +1,17 @@
+{
+  "Title": "Criminal: UK",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80216172"
+    }
+  ],
+  "in_theaters": false
+}

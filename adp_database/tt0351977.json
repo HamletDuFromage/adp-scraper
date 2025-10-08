@@ -1,0 +1,15 @@
+{
+  "Title": "Walking Tall",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48b56442-cc80-2821-633c-7bbc5f017880/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

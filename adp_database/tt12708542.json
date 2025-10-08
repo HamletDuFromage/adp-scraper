@@ -1,0 +1,17 @@
+{
+  "Title": "Star Wars: The Bad Batch",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/the-bad-batch/4gMliqFxxqXC"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Hollywood Stargirl",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.85ab8729-5491-48e2-8348-d617aa7335b7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1710365780"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2629306"
+    }
+  ],
+  "in_theaters": false
+}

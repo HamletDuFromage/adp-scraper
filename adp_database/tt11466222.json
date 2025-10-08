@@ -1,0 +1,28 @@
+{
+  "Title": "Jackass Forever",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ae675071-b781-4dca-a84f-b32442498e48/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1605742184"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09PW2CLT2/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1980607"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/jackass-forever/jrB1R7geuFK6LEGRIkJzuwqqFMcem3si/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Primeval",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Horror",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id253288463"
+    }
+  ],
+  "in_theaters": false
+}

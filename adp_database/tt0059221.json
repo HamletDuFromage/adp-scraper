@@ -1,0 +1,16 @@
+{
+  "Title": "The Ghost and Mr. Chicken",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6a9f76a-b833-d6c3-ddcc-2f00865bf1af/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

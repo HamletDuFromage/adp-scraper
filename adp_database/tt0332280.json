@@ -1,0 +1,15 @@
+{
+  "Title": "The Notebook",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8ba6da7-bca9-bf94-4020-3061f9e1f5e3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

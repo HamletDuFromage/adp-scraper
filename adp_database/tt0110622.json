@@ -1,0 +1,24 @@
+{
+  "Title": "Naked Gun 33-1/3: The Final Insult",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68b7e771-df6c-563d-5b35-c494dc98b47a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id272772995"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/16340"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/naked-gun-33-1-3-the-final-insult/b5f1xVYW3hfbsKgTJaxD1Bu_Y_7ZMpc0/"
+    }
+  ],
+  "in_theaters": false
+}

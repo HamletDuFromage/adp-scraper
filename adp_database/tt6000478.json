@@ -1,0 +1,22 @@
+{
+  "Title": "Roman J. Israel, Esq.",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cb08036-9708-177d-a922-efc96cb604cd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1309438073"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B077H8V6R9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

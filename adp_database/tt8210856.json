@@ -1,0 +1,16 @@
+{
+  "Title": "Cursed",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80199393"
+    }
+  ],
+  "in_theaters": false
+}

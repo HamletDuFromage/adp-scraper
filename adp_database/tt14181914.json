@@ -1,0 +1,18 @@
+{
+  "Title": "Mike",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Black Stories",
+    "Documentary",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/mike-287e77d7-7178-4685-8322-745c7006248a"
+    }
+  ],
+  "in_theaters": false
+}

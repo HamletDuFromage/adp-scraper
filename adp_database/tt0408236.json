@@ -1,0 +1,26 @@
+{
+  "Title": "Sweeney Todd: The Demon Barber of Fleet Street",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Musical",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aab9172b-efa1-95a2-00e8-26ff0a461b2a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id277540517"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D5RDF5RX/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/132110"
+    }
+  ],
+  "in_theaters": false
+}

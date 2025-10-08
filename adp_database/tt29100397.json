@@ -1,0 +1,15 @@
+{
+  "Title": "It's All Country",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/01438b30-e74e-47cb-b338-9497adebd430"
+    }
+  ],
+  "in_theaters": false
+}

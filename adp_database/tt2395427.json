@@ -1,0 +1,27 @@
+{
+  "Title": "Avengers: Age of Ultron",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b2a9f76b-345b-4e43-cf0b-6d059bd6c389/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f797-79b6-892f-c4f6-6ee0eff39f43/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-avengers-age-of-ultron/76IUxY0rNHzt"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id983441161"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00WAJ8QCS/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

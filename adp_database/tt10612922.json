@@ -1,0 +1,17 @@
+{
+  "Title": "One Night in Miami...",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8badd0e-9d87-114a-934b-54a31210c34f/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09GCJQRDY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

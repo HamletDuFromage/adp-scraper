@@ -1,0 +1,17 @@
+{
+  "Title": "The Craft: Legacy",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cbabbf7-686b-cbfa-4db8-730384336544/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "MLK/FBI",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "History",
+    "Special Interest"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ebbeb30-6d3b-1115-9351-622a1fbca2d5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1544068758"
+    }
+  ],
+  "in_theaters": false
+}

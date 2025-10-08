@@ -1,0 +1,15 @@
+{
+  "Title": "How High",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0a9f708-7273-4e15-79c3-0824a46340d8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

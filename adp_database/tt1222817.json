@@ -1,0 +1,19 @@
+{
+  "Title": "Zookeeper",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B005F3XV62/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9b45131c-e3d6-4967-ab72-6c44e325a79a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

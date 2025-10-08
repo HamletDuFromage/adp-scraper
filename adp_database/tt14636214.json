@@ -1,0 +1,17 @@
+{
+  "Title": "Sweethearts",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.15cadf0a-bf45-467a-8491-880c5c41238e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a559eeba-532e-4e10-a030-17ce7cac4017"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "A Loud House Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.af81af61-574a-48e2-b96b-b056086c32a5/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/a-loud-house-christmas/VZoOesWDjeDqkYY25GjHToFoAbazv7sM/"
+    }
+  ],
+  "in_theaters": false
+}

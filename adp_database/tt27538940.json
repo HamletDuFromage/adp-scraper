@@ -1,0 +1,18 @@
+{
+  "Title": "Match Me Abroad",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/626c94cc-b71a-4285-b304-9eeab8eadc81"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6ea3d6b-9b33-4a67-85bc-c252e404a03f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

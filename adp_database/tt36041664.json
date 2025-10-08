@@ -1,0 +1,18 @@
+{
+  "Title": "Hollywood Demons",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/79fd8d91-fc47-40c5-b59b-ec0f050be469"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18473f98-5620-4340-b361-6cbb7b0235d7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

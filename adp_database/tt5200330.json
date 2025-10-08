@@ -1,0 +1,16 @@
+{
+  "Title": "Dino Dana",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50b33c9f-7b46-fb4f-198d-a3684a37234e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Titletown High",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81396409"
+    }
+  ],
+  "in_theaters": false
+}

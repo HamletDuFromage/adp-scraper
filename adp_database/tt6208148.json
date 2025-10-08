@@ -1,0 +1,23 @@
+{
+  "Title": "Snow White",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4181095"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1807744983"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bc1e6fbd-1641-4c29-9664-7e24bd1c0fd7/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F7X44PTD/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "To Catch a Smuggler",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/to-catch-a-smuggler/4iaSMSbeYZis"
+    }
+  ],
+  "in_theaters": false
+}

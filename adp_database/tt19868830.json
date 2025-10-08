@@ -1,0 +1,18 @@
+{
+  "Title": "Pupstruction",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/pupstruction/4TfiqR5o0wOx"
+    }
+  ],
+  "in_theaters": false
+}

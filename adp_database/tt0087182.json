@@ -1,0 +1,14 @@
+{
+  "Title": "Dune",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a7a11335-4d79-4bee-8e91-a1b00fde05fb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

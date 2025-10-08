@@ -1,0 +1,18 @@
+{
+  "Title": "Where's Wanda?",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bce96c3c-06ab-4b22-8742-35c9da8e6417/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.k92ure4ft8lmbfhynpk3xpb4"
+    }
+  ],
+  "in_theaters": false
+}

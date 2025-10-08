@@ -1,0 +1,19 @@
+{
+  "Title": "Jerrod Carmichael Reality Show",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Documentary",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bb1ccbcf-687e-406a-bbf1-faf14faf1518/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/11b5ec86-3e42-4485-be70-d26b7a9a30fc"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,29 @@
+{
+  "Title": "Super 8",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f4a9f6bc-dacf-8b6a-0a21-ce70dffa481f/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id452178136"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004EPYZPS/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/super-8-2011"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/wlwFgdxhPdZTpw2xkqMaVRExIcUqluyq/"
+    }
+  ],
+  "in_theaters": false
+}

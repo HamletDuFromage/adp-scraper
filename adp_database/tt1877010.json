@@ -1,0 +1,18 @@
+{
+  "Title": "Alaska: The Last Frontier",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Adventure & Survival",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aebc34eb-bd7a-0598-f10c-0c6bf4233222/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/2835ba48-02d8-4ef0-b3a3-830fc8efba7f"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Sea Beast",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81018682"
+    }
+  ],
+  "in_theaters": false
+}

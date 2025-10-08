@@ -1,0 +1,15 @@
+{
+  "Title": "Dino Birds",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.190c288b-1fe6-458d-97c6-2ed696e76b8e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

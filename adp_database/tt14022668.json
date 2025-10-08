@@ -1,0 +1,20 @@
+{
+  "Title": "Lady in the Lake",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.608cb49d-822a-4a46-96d4-338ffe11cbdb/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2j4grqjj59olekp9vdrmjtodq"
+    }
+  ],
+  "in_theaters": false
+}

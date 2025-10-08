@@ -1,0 +1,21 @@
+{
+  "Title": "Billy the Kid",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "Romance",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "MGM+": "https://www.mgmplus.com/series/billy-the-kid"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c6ab6a46-a505-4010-b6aa-e366f4dfffd3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Top Chef",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/top-chef/5172289448907967112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.328396ee-8a10-4b79-aaa9-32ee98795bc5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

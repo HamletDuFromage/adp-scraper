@@ -1,0 +1,19 @@
+{
+  "Title": "Swiping America",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9dabf27e-3c19-459c-8995-01b7d2437663/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/1c0b5c47-cfa3-49c3-a0bf-56734ca47ce4"
+    }
+  ],
+  "in_theaters": false
+}

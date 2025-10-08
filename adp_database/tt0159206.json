@@ -1,0 +1,22 @@
+{
+  "Title": "Sex and the City",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/70136137"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b68991ee-76ba-4495-b503-03b46be7a553/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/2641fd06-387f-4d92-a322-accb8e180713"
+    }
+  ],
+  "in_theaters": false
+}

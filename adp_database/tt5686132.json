@@ -1,0 +1,21 @@
+{
+  "Title": "The Immortal Life of Henrietta Lacks",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Biography",
+    "Drama",
+    "History",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cbdd64c-6964-45a8-aeef-d24526654ca4/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a018d9c5-88db-435e-8987-456b6fd334f6"
+    }
+  ],
+  "in_theaters": false
+}

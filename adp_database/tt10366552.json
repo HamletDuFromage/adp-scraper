@@ -1,0 +1,18 @@
+{
+  "Title": "Boom! Boom! The World vs. Boris Becker",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76292e1c-bb29-4b4a-b119-353c402aab94/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.nrpql3y16pqdot7foyan3z52"
+    }
+  ],
+  "in_theaters": false
+}

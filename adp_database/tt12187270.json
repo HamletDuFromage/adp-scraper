@@ -1,0 +1,19 @@
+{
+  "Title": "Fraggle Rock: Rock On!",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9d4741a1-6a11-480d-b47c-667df7089390/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/us/show/fraggle-rock-rock-on/umc.cmc.6d0biwqzy6ykvxf36eb9wm3gl?l=en"
+    }
+  ],
+  "in_theaters": false
+}

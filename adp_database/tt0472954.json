@@ -1,0 +1,14 @@
+{
+  "Title": "It's Always Sunny in Philadelphia",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/its-always-sunny-in-philadelphia-2171423f-3326-4dfa-b193-b40494e60109"
+    }
+  ],
+  "in_theaters": false
+}

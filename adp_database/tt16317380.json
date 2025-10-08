@@ -1,0 +1,17 @@
+{
+  "Title": "Nothing Lasts Forever",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a1c643bc-c005-4d00-9be8-8af8574c9dae/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2280606"
+    }
+  ],
+  "in_theaters": false
+}

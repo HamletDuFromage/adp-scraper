@@ -1,0 +1,19 @@
+{
+  "Title": "The Greatest Showman",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1324419603"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B077R2WHSB/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

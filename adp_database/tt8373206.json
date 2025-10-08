@@ -1,0 +1,17 @@
+{
+  "Title": "About My Father",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0C5G6MKW6/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81651281"
+    }
+  ],
+  "in_theaters": false
+}

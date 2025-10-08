@@ -1,0 +1,19 @@
+{
+  "Title": "Premature",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5bc54094-5dce-4b96-b10d-29b5250aaeda/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1496712052"
+    }
+  ],
+  "in_theaters": false
+}

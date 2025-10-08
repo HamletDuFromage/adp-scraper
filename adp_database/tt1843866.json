@@ -1,0 +1,27 @@
+{
+  "Title": "Captain America: The Winter Soldier",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94ba2a94-5239-67ef-fcfd-970babc1fdbf/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cca9f752-dc98-cdcd-1b67-25ee9bfabe99/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/marvel-studios-captain-america-the-winter-soldier/TVme5whcowSy"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id844668915"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0090SI3EI/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

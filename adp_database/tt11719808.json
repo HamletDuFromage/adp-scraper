@@ -1,0 +1,20 @@
+{
+  "Title": "Smother",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/smother/6170383170985281112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5769c176-8402-44bf-a758-d54a21a2d3e8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "3 Generations",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54b49bb4-d5ff-6a1a-616e-4704086e8735/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

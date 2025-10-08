@@ -1,0 +1,17 @@
+{
+  "Title": "Dear John",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0021L8V3Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

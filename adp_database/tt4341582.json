@@ -1,0 +1,25 @@
+{
+  "Title": "Queen of Katwe",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/queen-of-katwe/6FtfjP77HPmS"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1156290116"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01KUGYRGG/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7272cebc-28b5-46ee-911c-1db26d2bdee1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

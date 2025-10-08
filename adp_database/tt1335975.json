@@ -1,0 +1,25 @@
+{
+  "Title": "47 Ronin",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.29702fd6-b5d6-4cb7-a807-2127ee7f0c4e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id773254054"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00HEPDGKA/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70208107"
+    }
+  ],
+  "in_theaters": false
+}

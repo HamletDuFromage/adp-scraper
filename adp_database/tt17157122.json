@@ -1,0 +1,14 @@
+{
+  "Title": "Hell of a Cruise",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/movies/hell-of-a-cruise/ab05ae30-4a07-3e9b-a03f-6b72aad1cede"
+    }
+  ],
+  "in_theaters": false
+}

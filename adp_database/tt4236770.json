@@ -1,0 +1,24 @@
+{
+  "Title": "Yellowstone",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.95fb6ffd-2eed-4587-a66f-f2ee07736600/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bd3a7607-a748-4928-beb2-07642cc994da/audiodescriin-20"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/yellowstone/7034893369976297112"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3759128"
+    }
+  ],
+  "in_theaters": false
+}

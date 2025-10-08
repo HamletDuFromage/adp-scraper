@@ -1,0 +1,23 @@
+{
+  "Title": "Spector",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2d30c100-d4c8-4924-bdac-70bfe4c1c34d/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2203515"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/spector/"
+    }
+  ],
+  "in_theaters": false
+}

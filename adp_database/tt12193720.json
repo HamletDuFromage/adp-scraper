@@ -1,0 +1,14 @@
+{
+  "Title": "This Joka",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/7d9ba19cedd437dcd54b8306fc106879/this-joka"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,21 @@
+{
+  "Title": "Love & Death",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4923a46-8198-45da-b94f-d39b6d6d7d09/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f7b16534-5a7b-4e0e-906f-406d25e6b7af"
+    }
+  ],
+  "in_theaters": false
+}

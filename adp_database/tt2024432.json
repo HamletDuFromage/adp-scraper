@@ -1,0 +1,19 @@
+{
+  "Title": "Identity Thief",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.69f27954-edbd-444d-b703-de9541b17b33/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00BNWWYE4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

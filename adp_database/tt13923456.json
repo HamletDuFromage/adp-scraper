@@ -1,0 +1,22 @@
+{
+  "Title": "Mafia Mamma",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1676683255"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2321116"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/cab26987-1f3e-4734-8ac7-010b813c0132"
+    }
+  ],
+  "in_theaters": false
+}

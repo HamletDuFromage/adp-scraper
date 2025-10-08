@@ -1,0 +1,21 @@
+{
+  "Title": "All Up in the Biz",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5b07ca0f-4117-47eb-ade9-da8696e1e669/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2561097"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/r66Otz2NaU84GMxG4cgPeDhA9ZbG6WYi/"
+    }
+  ],
+  "in_theaters": false
+}

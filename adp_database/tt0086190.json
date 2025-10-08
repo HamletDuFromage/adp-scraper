@@ -1,0 +1,28 @@
+{
+  "Title": "Star Wars: Episode VI - Return of the Jedi",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.baa9f703-27af-581a-784b-fe6403714c88/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4b082d7-7d96-185f-efe5-b94c0780fd30/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-return-of-the-jedi/6QGKo5mjDBS8"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id976965981"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013JAFXYA/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

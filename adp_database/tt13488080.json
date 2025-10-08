@@ -1,0 +1,18 @@
+{
+  "Title": "Rainbow High",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81397437"
+    }
+  ],
+  "in_theaters": false
+}

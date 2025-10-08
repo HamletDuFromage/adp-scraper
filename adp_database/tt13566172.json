@@ -1,0 +1,22 @@
+{
+  "Title": "The Dive",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c3a90fcd-fc31-40ab-a7b4-0ea5064e6edc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1698169847"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CCK4VCJP/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

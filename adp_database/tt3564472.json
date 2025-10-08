@@ -1,0 +1,19 @@
+{
+  "Title": "Girls Trip",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e2ae97c2-439c-393d-d1c5-5ba041679bc7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1257271045"
+    }
+  ],
+  "in_theaters": false
+}

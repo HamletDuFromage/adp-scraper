@@ -1,0 +1,15 @@
+{
+  "Title": "Bang the Drum Slowly",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72bbdb3b-b9ef-501d-acd3-514a0b890b18/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

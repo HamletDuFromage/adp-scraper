@@ -1,0 +1,14 @@
+{
+  "Title": "The Week Of",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80183328"
+    }
+  ],
+  "in_theaters": false
+}

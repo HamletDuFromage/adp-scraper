@@ -1,0 +1,23 @@
+{
+  "Title": "The Meg",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56b68101-4e83-e6e1-f0fa-de8d7ee43be3/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1417714264"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07D512BDG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

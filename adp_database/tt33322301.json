@@ -1,0 +1,19 @@
+{
+  "Title": "Marlee Matlin: Not Alone Anymore",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Biography",
+    "Disability",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1818156405"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4307046"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,23 @@
+{
+  "Title": "The Wizard of Oz",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0b87b0d-11a1-b68c-f4b9-41dfbe0ca3bc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/18a7f5a2-3f3a-4a62-a257-29136ac68dff"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id320384447"
+    }
+  ],
+  "in_theaters": false
+}

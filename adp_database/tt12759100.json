@@ -1,0 +1,18 @@
+{
+  "Title": "Somebody Somewhere",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.91419ea4-b77c-4280-9fb3-3a087949fd39/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f1e64d9c-cd12-4254-b980-7442ab8d82d3"
+    }
+  ],
+  "in_theaters": false
+}

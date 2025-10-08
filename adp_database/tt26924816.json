@@ -1,0 +1,18 @@
+{
+  "Title": "Real Madrid: Until the End",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.620589aa-cb9c-43ce-a024-8ed41921b5cb/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.39sq1w84s2idx8xyyrpxrl89a"
+    }
+  ],
+  "in_theaters": false
+}

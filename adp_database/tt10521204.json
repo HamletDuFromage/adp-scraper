@@ -1,0 +1,16 @@
+{
+  "Title": "Punk'd",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Reality TV",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/23f67847c6b759839f27451ce877501f/punkd"
+    }
+  ],
+  "in_theaters": false
+}

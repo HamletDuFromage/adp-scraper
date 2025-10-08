@@ -1,0 +1,18 @@
+{
+  "Title": "Chicago Med",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Medical"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/chicago-med/8533169522880832112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.982c9e40-cf95-4528-81c8-5f9c8305d0b6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

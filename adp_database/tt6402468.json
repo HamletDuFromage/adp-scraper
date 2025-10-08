@@ -1,0 +1,16 @@
+{
+  "Title": "Blood Red Sky",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80198645"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Last Light",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Disability",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/last-light/8090615062683664112"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2183739"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1b2c6965-9590-4473-84b3-dd0df4008a3d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

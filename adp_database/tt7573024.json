@@ -1,0 +1,16 @@
+{
+  "Title": "Creeped Out",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80214792"
+    }
+  ],
+  "in_theaters": false
+}

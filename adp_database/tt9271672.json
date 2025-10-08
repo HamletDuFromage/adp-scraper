@@ -1,0 +1,22 @@
+{
+  "Title": "Prey for the Devil",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1650329328"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09V39ZTSM/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2bd54a8e-1c81-4eb7-961d-2722baf39ffb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

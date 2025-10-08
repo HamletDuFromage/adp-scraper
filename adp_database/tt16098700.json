@@ -1,0 +1,23 @@
+{
+  "Title": "Fire Country",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81640603"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7040cc75-48b9-482c-8961-d75bc6630f35/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/fire-country/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/6344850153321600133947e8"
+    }
+  ],
+  "in_theaters": false
+}

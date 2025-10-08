@@ -1,0 +1,23 @@
+{
+  "Title": "A Good Person",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6841e29c-5228-48ba-89ce-6e72cc85368e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1673616222"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BZ6Y25TW/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2308569"
+    }
+  ],
+  "in_theaters": false
+}

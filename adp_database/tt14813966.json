@@ -1,0 +1,16 @@
+{
+  "Title": "Tyler Perry's A Madea Homecoming",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81510180"
+    }
+  ],
+  "in_theaters": false
+}

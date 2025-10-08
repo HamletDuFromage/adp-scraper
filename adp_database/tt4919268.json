@@ -1,0 +1,29 @@
+{
+  "Title": "Bad Boys: Ride or Die",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81762792"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1749182340"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0D5J84G8D/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3144016"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cf6dea40-84ed-4e87-b13e-90d605045340/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

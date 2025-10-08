@@ -1,0 +1,18 @@
+{
+  "Title": "The Convict",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9fb0ca03-d739-4718-bd7e-db6813319dd5/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/efd5609e-9c6b-4c76-915b-f89debda0849"
+    }
+  ],
+  "in_theaters": false
+}

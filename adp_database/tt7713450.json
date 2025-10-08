@@ -1,0 +1,22 @@
+{
+  "Title": "Craig of the Creek",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.292240ed-0149-4976-9c48-daf19bdf05be/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c706d141-342d-4fe5-8d60-638e42a908fa"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4004826"
+    }
+  ],
+  "in_theaters": false
+}

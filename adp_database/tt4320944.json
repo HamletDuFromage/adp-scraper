@@ -1,0 +1,15 @@
+{
+  "Title": "Red Rock",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.beb0900c-4365-2853-70fd-ab7994bcc9f9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

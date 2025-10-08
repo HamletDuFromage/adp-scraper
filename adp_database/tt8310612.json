@@ -1,0 +1,17 @@
+{
+  "Title": "The Other Two",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ad31b972-800c-4882-bcc1-c67edc502502/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/f88636df-65d2-4cf4-94d0-3c098b971a16"
+    }
+  ],
+  "in_theaters": false
+}

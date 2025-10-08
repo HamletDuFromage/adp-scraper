@@ -1,0 +1,14 @@
+{
+  "Title": "Different Strokes",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b0697457-08b0-4890-9c50-e059c1238ea3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

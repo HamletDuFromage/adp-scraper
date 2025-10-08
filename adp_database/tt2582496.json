@@ -1,0 +1,19 @@
+{
+  "Title": "Me and Earl and the Dying Girl",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Independent"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id997193474"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B014662FQ0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Animaniacs",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/animaniacs-b072680d-5485-4adf-87ac-4805c0e96bee"
+    }
+  ],
+  "in_theaters": false
+}

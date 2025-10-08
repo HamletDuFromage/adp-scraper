@@ -1,0 +1,23 @@
+{
+  "Title": "The Walking Dead: Dead City",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81713653"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4162932"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ca9d223-4bbe-409a-9ff6-b4fda1cb1a19/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

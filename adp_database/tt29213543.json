@@ -1,0 +1,15 @@
+{
+  "Title": "A Match in Manhattan",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cfe7002e-2977-45dc-99d7-5bebee5d5993/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

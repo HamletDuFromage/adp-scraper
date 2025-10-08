@@ -1,0 +1,14 @@
+{
+  "Title": "Giannis: The Marvelous Journey",
+  "Media Type": "Movie",
+  "Rating": "16+",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.820266a2-a174-4d1b-bc00-934048d19912/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

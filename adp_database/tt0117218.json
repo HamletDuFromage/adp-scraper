@@ -1,0 +1,19 @@
+{
+  "Title": "The Nutty Professor",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id300914224"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/the-nutty-professor-1963"
+    }
+  ],
+  "in_theaters": false
+}

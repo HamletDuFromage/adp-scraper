@@ -1,0 +1,19 @@
+{
+  "Title": "Fun Size",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c2a9f729-91ec-7a05-794e-252be81d5b04/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B009AMAM0M/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

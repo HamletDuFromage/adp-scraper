@@ -1,0 +1,21 @@
+{
+  "Title": "Dear Evan Hansen",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b089198f-2034-4a9b-9420-c92bc1503b35/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1588512819"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09FGBXPP1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

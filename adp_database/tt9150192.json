@@ -1,0 +1,27 @@
+{
+  "Title": "A Working Man",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1799293897"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4097439"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f7e230c1-ad18-408f-8f2a-402b9f996a19/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0F1ZFK1MB/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/a-working-man-2025"
+    }
+  ],
+  "in_theaters": false
+}

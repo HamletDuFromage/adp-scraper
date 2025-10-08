@@ -1,0 +1,18 @@
+{
+  "Title": "Puppy Place",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cabd1ad0-b28e-40a6-af71-ef10ca579f3f/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6u8ovjqp61j46lx5cznidchhx"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Hyperdrive",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80189648"
+    }
+  ],
+  "in_theaters": false
+}

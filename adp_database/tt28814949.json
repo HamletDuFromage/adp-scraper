@@ -1,0 +1,16 @@
+{
+  "Title": "Taylor Swift | the Eras Tour",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Concert",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-48f31304-ed30-47af-8c7e-83f825129b10"
+    }
+  ],
+  "in_theaters": false
+}

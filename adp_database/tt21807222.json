@@ -1,0 +1,28 @@
+{
+  "Title": "Saw X",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1707214788"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CH3Y9S8M/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2596557"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F630007c10a962d8cfc0d37ba&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7e678776-7429-4169-818c-ed9e741081dd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

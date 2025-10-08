@@ -1,0 +1,16 @@
+{
+  "Title": "Traitor",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ea9f693-39e1-43fd-857c-78679a5e8df2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

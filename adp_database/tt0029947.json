@@ -1,0 +1,14 @@
+{
+  "Title": "Bringing Up Baby",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id278417005"
+    }
+  ],
+  "in_theaters": false
+}

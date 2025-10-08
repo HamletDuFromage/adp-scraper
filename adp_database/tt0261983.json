@@ -1,0 +1,16 @@
+{
+  "Title": "Session 9",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ca9f761-c6e7-1cca-2780-2dc44dc6ea92/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

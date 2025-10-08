@@ -1,0 +1,19 @@
+{
+  "Title": "The Fourth Kind",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f78a-d54e-cab3-edb3-f739094b9d5c/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B003102JDC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

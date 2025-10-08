@@ -1,0 +1,20 @@
+{
+  "Title": "Shantaram",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.atxsrive40xli3zh3uxjimut"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d429801e-036b-4323-8739-8d16636a0599/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

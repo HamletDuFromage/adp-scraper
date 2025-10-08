@@ -1,0 +1,19 @@
+{
+  "Title": "Million Dollar Arm",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00KYYFHGO/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60a9f678-abf0-7935-251d-99f81fa057fd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

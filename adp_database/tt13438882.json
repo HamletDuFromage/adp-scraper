@@ -1,0 +1,15 @@
+{
+  "Title": "Celebrity Wheel of Fortune",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Game Show",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/celebrity-wheel-of-fortune-bbb7138c-b0e8-46ae-b966-489eaf3326c4"
+    }
+  ],
+  "in_theaters": false
+}

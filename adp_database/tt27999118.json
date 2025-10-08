@@ -1,0 +1,15 @@
+{
+  "Title": "Vanderpump Villa",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/bf42f6f5-db26-4429-85e0-17e86d161c98"
+    }
+  ],
+  "in_theaters": false
+}

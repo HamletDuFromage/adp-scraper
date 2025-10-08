@@ -1,0 +1,21 @@
+{
+  "Title": "High School Musical",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Kids & Family",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/high-school-musical/1Wh1xI8luhe4"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.52a9f71c-253d-4f2c-e70f-2ec64ac84e8d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

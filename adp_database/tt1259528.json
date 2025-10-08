@@ -1,0 +1,16 @@
+{
+  "Title": "Den of Thieves",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80196448"
+    }
+  ],
+  "in_theaters": false
+}

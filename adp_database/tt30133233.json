@@ -1,0 +1,14 @@
+{
+  "Title": "The World According to Football",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/the-world-according-to-football/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "A Song for Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fe05909b-3e64-4c57-9516-acb83010305c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Resort",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-resort/9134762941287131112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cf78155b-3a39-43b3-a16b-80748d9d08d7/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

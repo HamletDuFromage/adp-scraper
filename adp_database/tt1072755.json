@@ -1,0 +1,21 @@
+{
+  "Title": "Minutemen",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/minutemen/58GuXHkTufCC"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4187337"
+    }
+  ],
+  "in_theaters": false
+}

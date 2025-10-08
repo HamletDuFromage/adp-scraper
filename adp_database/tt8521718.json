@@ -1,0 +1,15 @@
+{
+  "Title": "The United States vs. Billie Holiday",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/the-united-states-vs-billie-holiday-6f7be3b0-69c5-49ab-8472-2b5b1dabcfe8"
+    }
+  ],
+  "in_theaters": false
+}

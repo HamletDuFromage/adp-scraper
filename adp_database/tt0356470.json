@@ -1,0 +1,19 @@
+{
+  "Title": "A Cinderella Story",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.24a9f7ad-2fb2-e3c3-4da1-a990118555e2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id271328451"
+    }
+  ],
+  "in_theaters": false
+}

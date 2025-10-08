@@ -1,0 +1,19 @@
+{
+  "Title": "Duplicity",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64a9f7aa-0de4-2634-70ab-4b14c01126c2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/c153f5a5-dc09-4025-9b66-b90c9bbf2975"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,30 @@
+{
+  "Title": "Doctor Strange in the Multiverse of Madness",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.880d707f-22e0-4fb1-8ba2-4cf1fd7dcee4/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0e58461a-3cc1-4702-b4d1-59a5fe7644f7/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/doctor-strange-in-the-multiverse-of-madness/27EiqSW4jIyH"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1626264500"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B2WLWVWM/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2028166"
+    }
+  ],
+  "in_theaters": false
+}

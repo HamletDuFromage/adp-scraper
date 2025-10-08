@@ -1,0 +1,20 @@
+{
+  "Title": "Bugs Bunny Builders",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c9a67073-c39a-41fc-af85-7ba7befc51b1/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/06c52914-458f-44b6-8436-c790a9ad6761"
+    }
+  ],
+  "in_theaters": false
+}

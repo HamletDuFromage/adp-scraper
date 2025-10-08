@@ -1,0 +1,27 @@
+{
+  "Title": "1917",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81140931"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4b77af3-b88f-1d33-46a2-671197806e21/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1490807532"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B082PQH2P7/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1281701"
+    }
+  ],
+  "in_theaters": false
+}

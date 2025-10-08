@@ -1,0 +1,28 @@
+{
+  "Title": "Get Out",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34ad9d89-2a6b-11a1-c5c3-27569d5ee969/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.28e420d2-8d4a-4d7d-8f99-6bace3d257e5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1202441786"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06WWK4PT2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/b1772951-17b7-4037-826c-4afc1a30b275"
+    }
+  ],
+  "in_theaters": false
+}

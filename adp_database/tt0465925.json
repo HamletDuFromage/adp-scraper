@@ -1,0 +1,19 @@
+{
+  "Title": "Brother Bear 2",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/brother-bear-2/3aRi2Elfcl2U"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id187696289"
+    }
+  ],
+  "in_theaters": false
+}

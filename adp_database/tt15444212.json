@@ -1,0 +1,15 @@
+{
+  "Title": "Rap Battlefield",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/cf8f8750-78f5-4cb8-9428-ae3e5b48e598"
+    }
+  ],
+  "in_theaters": false
+}

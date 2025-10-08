@@ -1,0 +1,14 @@
+{
+  "Title": "A Forbidden Orange",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/be4756ab-e20f-411a-ba95-c1f4b66c5686"
+    }
+  ],
+  "in_theaters": false
+}

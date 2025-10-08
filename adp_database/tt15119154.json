@@ -1,0 +1,19 @@
+{
+  "Title": "Life of Crime, 1984-2020",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.336d2e53-e175-4de7-81dd-cff7e16830cf/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f2bf6187-6ce3-44ba-a899-c3ccaca45d5f"
+    }
+  ],
+  "in_theaters": false
+}

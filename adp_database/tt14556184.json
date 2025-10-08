@@ -1,0 +1,16 @@
+{
+  "Title": "American Refugee",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.091a73d8-f847-422f-9efb-87e07488621c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

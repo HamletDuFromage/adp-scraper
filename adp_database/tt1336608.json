@@ -1,0 +1,16 @@
+{
+  "Title": "Rock of Ages",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ea9f794-22ed-258e-ec6b-aa1b669ef9a3/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

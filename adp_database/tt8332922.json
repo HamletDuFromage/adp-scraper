@@ -1,0 +1,27 @@
+{
+  "Title": "A Quiet Place Part II",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Disability",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6887a486-e4b2-4ed0-80f4-ea6873e8335e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1500086963"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0858T5RFZ/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/a-quiet-place-part-ii/BcTZQV_RJe6L3UVVY9PTN4rHb6_wKquY/"
+    }
+  ],
+  "in_theaters": false
+}

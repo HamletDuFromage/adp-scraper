@@ -1,0 +1,19 @@
+{
+  "Title": "It's the Easter Beagle, Charlie Brown!",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0fdd53ac-6fe2-4efc-83f3-cbef339cc423/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.17y48i5ko6gft5ieh148nzqzn"
+    }
+  ],
+  "in_theaters": false
+}

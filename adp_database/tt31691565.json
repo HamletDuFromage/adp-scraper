@@ -1,0 +1,16 @@
+{
+  "Title": "Good Cop/Bad Cop",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/f20821acf2c652198c6720dcddbdc3bd/good-cop-bad-cop"
+    }
+  ],
+  "in_theaters": false
+}

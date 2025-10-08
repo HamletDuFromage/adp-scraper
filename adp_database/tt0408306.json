@@ -1,0 +1,19 @@
+{
+  "Title": "Munich",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78a9f793-6f77-164c-d279-7b2e98806862/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B000F1IQN2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

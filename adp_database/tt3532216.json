@@ -1,0 +1,23 @@
+{
+  "Title": "American Made",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b4bc1ac8-53b9-0814-f397-b6f2e085f7fd/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1282787960"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07615P1WX/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

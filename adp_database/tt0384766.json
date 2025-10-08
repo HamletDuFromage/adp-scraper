@@ -1,0 +1,20 @@
+{
+  "Title": "Rome",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dc1c8dae-5851-4767-8d58-3dfc8363bac3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/16ffed0e-6650-4d35-8c35-96c5b42863cc"
+    }
+  ],
+  "in_theaters": false
+}

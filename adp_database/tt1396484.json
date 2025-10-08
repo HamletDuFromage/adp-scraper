@@ -1,0 +1,23 @@
+{
+  "Title": "It",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/movie/1fef0800-258f-49f5-84a5-6a1f88173769"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1275323693"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B078JW28JC/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62af1664-3079-0727-4e69-e328de055f13/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

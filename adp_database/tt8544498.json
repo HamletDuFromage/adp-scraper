@@ -1,0 +1,21 @@
+{
+  "Title": "The Way Back",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14b99189-5f35-90aa-d981-6423b500b6e9/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1498657864"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0851LLGSW/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

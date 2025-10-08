@@ -1,0 +1,17 @@
+{
+  "Title": "The New Look",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0e19f21e-27e6-4c71-929f-a939ca5677fe/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6m0i5dcn60uzl206qq6ibomeh"
+    }
+  ],
+  "in_theaters": false
+}

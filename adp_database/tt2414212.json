@@ -1,0 +1,21 @@
+{
+  "Title": "Santa Paws 2: The Santa Pups",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Holiday",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/santa-paws-2-the-santa-pups/4z3iItrX0Hog"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id570595966"
+    }
+  ],
+  "in_theaters": false
+}

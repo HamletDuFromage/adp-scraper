@@ -1,0 +1,17 @@
+{
+  "Title": "Minari",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccbba128-8c1d-7a0a-10e6-89781f5dba41/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1549611916"
+    }
+  ],
+  "in_theaters": false
+}

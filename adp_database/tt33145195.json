@@ -1,0 +1,17 @@
+{
+  "Title": "Margarita",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3920018e-075e-41d1-ba28-e6174138556a/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/43b9e63c-702e-467d-b131-e62864432e22"
+    }
+  ],
+  "in_theaters": false
+}

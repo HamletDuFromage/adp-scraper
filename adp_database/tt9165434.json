@@ -1,0 +1,17 @@
+{
+  "Title": "Rhyme Time Town",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80226787"
+    }
+  ],
+  "in_theaters": false
+}

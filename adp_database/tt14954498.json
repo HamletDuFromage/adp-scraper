@@ -1,0 +1,16 @@
+{
+  "Title": "Echoes",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81045829"
+    }
+  ],
+  "in_theaters": false
+}

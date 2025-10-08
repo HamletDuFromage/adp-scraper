@@ -1,0 +1,16 @@
+{
+  "Title": "Garage Sale Mysteries: The Deadly Room",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78ba77d8-af0a-933a-73aa-0cbb74681ce2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Bad Influence",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81688846"
+    }
+  ],
+  "in_theaters": false
+}

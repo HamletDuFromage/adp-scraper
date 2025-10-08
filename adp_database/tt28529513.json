@@ -1,0 +1,17 @@
+{
+  "Title": "Berlin ER",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74b96f1d-8cb1-4d40-b1d2-3d2ac6f1527b/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.24ebs6sf9yyg4e5tpdwoywkzt"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,28 @@
+{
+  "Title": "Star Wars: Episode I - The Phantom Menace",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1aa9f758-e2af-1e1f-3347-09c3d630331b/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7cb07e38-275d-dddf-2fda-d2b50333891e/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/star-wars-the-phantom-menace/2ezYynkgW1AH"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id975080816"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B013JAFTS0/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

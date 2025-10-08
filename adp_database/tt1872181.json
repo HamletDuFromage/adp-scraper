@@ -1,0 +1,27 @@
+{
+  "Title": "The Amazing Spider-Man 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f774-1745-1035-3a21-2564dfd57ba3/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-amazing-spider-man-2/4h3EaB5DYH6g"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id854943940"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00JPS7HOA/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70293702"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Elle",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.18acc318-84ae-6735-a278-9e68cbfd7d6e/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01MQ4SMP5/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

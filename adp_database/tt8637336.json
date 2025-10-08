@@ -1,0 +1,20 @@
+{
+  "Title": "Burden of Proof",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7ae09283-158c-497a-ae28-1b163f7de45e/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/c42a5ab6-6627-45bb-b1b4-90bf9514040f"
+    }
+  ],
+  "in_theaters": false
+}

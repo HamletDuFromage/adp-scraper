@@ -1,0 +1,18 @@
+{
+  "Title": "Animals",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.68334258-1da1-41ef-9ab4-c136a1ef6f41/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/98ac02a6-2148-46d9-92ec-893a6dffe6f1"
+    }
+  ],
+  "in_theaters": false
+}

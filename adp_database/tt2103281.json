@@ -1,0 +1,18 @@
+{
+  "Title": "Dawn of the Planet of the Apes",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id888194597"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00MH8DB68/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

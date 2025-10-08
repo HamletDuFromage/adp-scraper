@@ -1,0 +1,14 @@
+{
+  "Title": "Wild Wild Country",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80145240"
+    }
+  ],
+  "in_theaters": false
+}

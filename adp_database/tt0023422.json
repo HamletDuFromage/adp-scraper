@@ -1,0 +1,17 @@
+{
+  "Title": "Santa's Workshop",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Holiday",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/santas-workshop/4aRJhiatm0Ht"
+    }
+  ],
+  "in_theaters": false
+}

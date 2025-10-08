@@ -1,0 +1,15 @@
+{
+  "Title": "Virgin River",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80240027"
+    }
+  ],
+  "in_theaters": false
+}

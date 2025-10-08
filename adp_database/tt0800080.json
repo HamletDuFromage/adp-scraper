@@ -1,0 +1,25 @@
+{
+  "Title": "The Incredible Hulk",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2a9f697-0c0b-5bcd-0b3c-e9bd1d12389c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1729330436"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B001DHXT20/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/140473"
+    }
+  ],
+  "in_theaters": false
+}

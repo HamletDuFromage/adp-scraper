@@ -1,0 +1,16 @@
+{
+  "Title": "Chasing Mavericks",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00AAQHP66/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

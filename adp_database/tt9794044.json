@@ -1,0 +1,16 @@
+{
+  "Title": "Citadel",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5aca0b0e-f88a-483f-894e-4091e6f74740/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

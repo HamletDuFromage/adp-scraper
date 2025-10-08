@@ -1,0 +1,15 @@
+{
+  "Title": "Small Town Potential",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/15daaf9c-4c5f-44c4-8f7a-99a128e7a096"
+    }
+  ],
+  "in_theaters": false
+}

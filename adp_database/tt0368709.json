@@ -1,0 +1,22 @@
+{
+  "Title": "Elizabethtown",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6b4cd87-d395-3d01-a379-8da74cfc1bac/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id218721156"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08NVVW9H6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Walking Dead: Daryl Dixon",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81696964"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b09f2cbc-dcb8-413e-b55d-78fa4e4fa903/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

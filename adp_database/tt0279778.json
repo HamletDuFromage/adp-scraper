@@ -1,0 +1,18 @@
+{
+  "Title": "Divine Secrets of the Ya-Ya Sisterhood",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62a9f782-6279-5668-57bc-76237530fe6c/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id271437590"
+    }
+  ],
+  "in_theaters": false
+}

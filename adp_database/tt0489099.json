@@ -1,0 +1,20 @@
+{
+  "Title": "Jumper",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Superhero",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02a9f6f4-c1f4-43fb-5ead-996d581a22fa/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id276580756"
+    }
+  ],
+  "in_theaters": false
+}

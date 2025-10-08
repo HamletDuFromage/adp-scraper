@@ -1,0 +1,18 @@
+{
+  "Title": "Lady Bird",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b62da38f-3f8d-4fac-b7c0-63c9e3254769/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1304010798"
+    }
+  ],
+  "in_theaters": false
+}

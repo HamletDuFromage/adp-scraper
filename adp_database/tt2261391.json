@@ -1,0 +1,21 @@
+{
+  "Title": "Chicago Fire",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/chicago-fire/5531888790362115112"
+    },
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.025ab52a-7891-4420-9204-3bcba073413f/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6eaacaa6-552a-46f2-94b8-359d52488308/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

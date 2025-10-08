@@ -1,0 +1,17 @@
+{
+  "Title": "The Killer",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80234448"
+    }
+  ],
+  "in_theaters": false
+}

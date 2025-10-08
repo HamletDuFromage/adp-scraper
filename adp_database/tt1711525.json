@@ -1,0 +1,21 @@
+{
+  "Title": "Office Christmas Party",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4cb751d2-c4d9-9aa0-2810-6b14d672bb3e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1178255852"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHZX6S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

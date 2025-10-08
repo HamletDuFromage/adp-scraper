@@ -1,0 +1,16 @@
+{
+  "Title": "Every Day",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B07C5LQ7LL/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

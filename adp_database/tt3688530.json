@@ -1,0 +1,17 @@
+{
+  "Title": "Chrisley Knows Best",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/chrisley-knows-best/4945670182243826112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b5542a42-0d80-40e4-89fc-20bc2d633f1f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

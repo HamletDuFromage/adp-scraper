@@ -1,0 +1,20 @@
+{
+  "Title": "Herbie Rides Again",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/herbie-rides-again/4yE8zH6J2AjH"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id354107745"
+    }
+  ],
+  "in_theaters": false
+}

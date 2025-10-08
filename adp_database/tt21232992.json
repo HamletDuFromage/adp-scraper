@@ -1,0 +1,23 @@
+{
+  "Title": "Theater Camp",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c03dfdde-b3b8-417f-8ee6-ffbba0159da2/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c595f4bf-d486-4fd8-8682-7c02c88e97fc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1703697825"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2584131"
+    }
+  ],
+  "in_theaters": false
+}

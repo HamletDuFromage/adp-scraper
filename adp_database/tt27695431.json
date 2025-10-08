@@ -1,0 +1,15 @@
+{
+  "Title": "Me and Mr. Christmas",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Holiday",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.08d6b84d-4c27-4753-8cf2-fd9f77980ce4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

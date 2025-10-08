@@ -1,0 +1,19 @@
+{
+  "Title": "P.S. I Love You",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f7be-0b6c-ea2f-89b3-46de7b4db766/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id277695195"
+    }
+  ],
+  "in_theaters": false
+}

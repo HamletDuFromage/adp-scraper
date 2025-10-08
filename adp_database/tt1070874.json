@@ -1,0 +1,16 @@
+{
+  "Title": "The Trial of the Chicago 7",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81043755"
+    }
+  ],
+  "in_theaters": false
+}

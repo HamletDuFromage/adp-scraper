@@ -1,0 +1,17 @@
+{
+  "Title": "Crush",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5cba954c-5c16-4078-9d33-a51e0e2ee0fd/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/crush/"
+    }
+  ],
+  "in_theaters": false
+}

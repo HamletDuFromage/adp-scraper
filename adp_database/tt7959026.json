@@ -1,0 +1,22 @@
+{
+  "Title": "The Mule",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6b58cf0-54c6-9c92-d1bc-b45b2bb656fa/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1445079491"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07KZGS6J9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

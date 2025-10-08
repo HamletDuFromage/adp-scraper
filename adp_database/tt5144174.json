@@ -1,0 +1,20 @@
+{
+  "Title": "The Dry",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a6bc7316-c30c-9e2e-35b8-5589e05089a1/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1564234837"
+    }
+  ],
+  "in_theaters": false
+}

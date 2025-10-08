@@ -1,0 +1,20 @@
+{
+  "Title": "Happy Death Day",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.10af8459-06bd-3a97-2ea1-7d3f135cd911/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1288841123"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Starstruck",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/starstruck/2zPr0E89IW5I"
+    }
+  ],
+  "in_theaters": false
+}

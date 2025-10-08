@@ -1,0 +1,19 @@
+{
+  "Title": "Love, Lizzo",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.efa4d292-8f30-475c-8eae-8acbd064c2b9/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f0a1fbca-bb32-4a4e-bfbd-beb1db38ce4e"
+    }
+  ],
+  "in_theaters": false
+}

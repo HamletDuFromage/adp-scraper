@@ -1,0 +1,22 @@
+{
+  "Title": "Dangerous Game: The Legacy Murders",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1647132437"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2143264"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.159531b0-901d-4b52-9c3b-cb9c132c564d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

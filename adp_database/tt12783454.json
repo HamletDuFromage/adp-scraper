@@ -1,0 +1,15 @@
+{
+  "Title": "The Kissing Booth 3",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81026819"
+    }
+  ],
+  "in_theaters": false
+}

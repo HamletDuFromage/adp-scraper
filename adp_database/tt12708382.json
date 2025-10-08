@@ -1,0 +1,16 @@
+{
+  "Title": "A Violent Man",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/673406/a-violent-man"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Bluey",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/bluey/1xy9TAOQ0M3r"
+    }
+  ],
+  "in_theaters": false
+}

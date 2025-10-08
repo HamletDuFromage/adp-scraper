@@ -1,0 +1,18 @@
+{
+  "Title": "Little Italy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/569765/little-italy"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.77c2c747-b006-4819-a647-76d3ab6d390a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

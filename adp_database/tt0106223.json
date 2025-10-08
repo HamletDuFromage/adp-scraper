@@ -1,0 +1,17 @@
+{
+  "Title": "The Adventures of Huck Finn",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-adventures-of-huck-finn/sXnx1K0BLUy9"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Treasure Island",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/treasure-island/2V9mJK9eysTB"
+    }
+  ],
+  "in_theaters": false
+}

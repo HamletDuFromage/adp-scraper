@@ -1,0 +1,17 @@
+{
+  "Title": "Man on Fire",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cd19bc76-891b-407b-9ba6-689278085bab/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

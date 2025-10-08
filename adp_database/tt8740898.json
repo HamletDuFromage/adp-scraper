@@ -1,0 +1,18 @@
+{
+  "Title": "The Space Between",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3fa6b81a-d021-4e1e-874d-ba2137cbc9a7/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1563971590"
+    }
+  ],
+  "in_theaters": false
+}

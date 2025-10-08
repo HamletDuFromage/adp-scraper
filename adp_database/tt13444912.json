@@ -1,0 +1,16 @@
+{
+  "Title": "The Midnight Club",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81112336"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "Brave",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cb73519-209b-29bd-ea25-1077b06bc636/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/brave/ovUp92sPbaSW"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id544101708"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B008YWY0HK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

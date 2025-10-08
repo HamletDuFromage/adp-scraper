@@ -1,0 +1,19 @@
+{
+  "Title": "The Haunting of Bly Manor",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81237854"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B099TPFT21/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

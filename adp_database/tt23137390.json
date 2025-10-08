@@ -1,0 +1,27 @@
+{
+  "Title": "Immaculate",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80a9ef7e-d833-4570-9ae2-767a522af54d/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/b74151e6-2a49-43d9-ae0a-49a2d8fa543f"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1738761168"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CYVRLZL2/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3020997"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,22 @@
+{
+  "Title": "All Eyez on Me",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1243268780"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16ae593a-a68c-ad8a-1f34-7bfdbdc88f8f/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/07eff167-9eac-4fc2-ab14-b2f594fa0e27"
+    }
+  ],
+  "in_theaters": false
+}

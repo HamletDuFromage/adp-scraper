@@ -1,0 +1,18 @@
+{
+  "Title": "House Hunters",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d718110e-26f9-44ea-8b13-797bc6bd42f5/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1e598288-ed4d-45af-94b7-3e4d2d69885c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

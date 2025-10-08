@@ -1,0 +1,16 @@
+{
+  "Title": "Free Birds",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.43aeae36-791f-44ea-a8f6-f0a2e23acc6c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

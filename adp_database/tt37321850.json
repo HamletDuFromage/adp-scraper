@@ -1,0 +1,16 @@
+{
+  "Title": "Girl in the Attic",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9cf2ccf1-93d2-474b-b952-dcd08cefea5f/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Just, Go!",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Crime",
+    "Disability",
+    "Drama",
+    "Romance",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "ReelAbilities": "https://reelabilities.org/stream/product/just-go/"
+    }
+  ],
+  "in_theaters": false
+}

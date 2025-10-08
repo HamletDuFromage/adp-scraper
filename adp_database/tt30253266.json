@@ -1,0 +1,24 @@
+{
+  "Title": "The Painter",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9c4e1135-c308-4d95-86cc-5b8eda2c7d42/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1712842036"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2750703"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/ZC5GgQcsYXa3PcYbqxWBEdzHJ_HOBrRx/"
+    }
+  ],
+  "in_theaters": false
+}

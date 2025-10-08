@@ -1,0 +1,27 @@
+{
+  "Title": "FBI: Most Wanted",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/fbi-most-wanted/6832074673384744112"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/fbi-most-wanted/"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/60c8dca7c778280013e697c4"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ad129bb0-8abb-4a25-8b98-364e34061bfa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

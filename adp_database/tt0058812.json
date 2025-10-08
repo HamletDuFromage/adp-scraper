@@ -1,0 +1,16 @@
+{
+  "Title": "Hogan's Heroes",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5e4d6504-e805-4b88-b0b5-be7f91c233be/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

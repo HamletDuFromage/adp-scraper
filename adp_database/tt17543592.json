@@ -1,0 +1,18 @@
+{
+  "Title": "Will Trent",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64c9be27-f6e7-4e84-9df1-ebca1490402b/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/series/will-trent-a6fcfa83-580b-4c82-9362-75a4e97eb665"
+    }
+  ],
+  "in_theaters": false
+}

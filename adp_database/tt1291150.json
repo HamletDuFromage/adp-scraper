@@ -1,0 +1,27 @@
+{
+  "Title": "Teenage Mutant Ninja Turtles",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7698bcd0-0b82-42a9-9796-4f0e0b1e5f86/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id904534727"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00MI25Z8A/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/552496"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/teenage-mutant-ninja-turtles/D4XOZAPW9HS8Fb8Uo4yMzETZeDujwWUo/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Spin",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/spin/3EG30C3aTdgK"
+    }
+  ],
+  "in_theaters": false
+}

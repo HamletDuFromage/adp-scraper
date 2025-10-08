@@ -1,0 +1,18 @@
+{
+  "Title": "Purl",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/purl/3FTOSVXXf7tl"
+    }
+  ],
+  "in_theaters": false
+}

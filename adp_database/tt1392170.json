@@ -1,0 +1,22 @@
+{
+  "Title": "The Hunger Games",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ebbd4b3-5921-b021-2f14-b7a7246c3d89/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id521035514"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/c63819d8-de84-4e74-bd59-29948bc673e3"
+    }
+  ],
+  "in_theaters": false
+}

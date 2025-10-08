@@ -1,0 +1,16 @@
+{
+  "Title": "Summer of 84",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cbe4ed63-afe4-4062-8386-5cf9a73d81ce/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

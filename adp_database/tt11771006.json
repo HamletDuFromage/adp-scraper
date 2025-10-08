@@ -1,0 +1,14 @@
+{
+  "Title": "Birds of Paradise",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f624e928-aa2f-48e7-9859-5131db6c03aa/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

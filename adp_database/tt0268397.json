@@ -1,0 +1,18 @@
+{
+  "Title": "Jimmy Neutron: Boy Genius",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.80a9f6db-489b-2f20-e561-29afbe6d74a1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

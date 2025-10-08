@@ -1,0 +1,16 @@
+{
+  "Title": "Rocko's Modern Life: Static Cling",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81091977"
+    }
+  ],
+  "in_theaters": false
+}

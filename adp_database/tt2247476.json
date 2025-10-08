@@ -1,0 +1,19 @@
+{
+  "Title": "When the Game Stands Tall",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74a9f794-5535-e88d-f53c-feebda9bcd0c/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00MAMZ17S/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Amy",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/amy/2YziXd5Rya2g"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id434805631"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Cop Car",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0ea9f784-89bb-27f7-d576-2c88fe6c4e63/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

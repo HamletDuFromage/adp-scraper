@@ -1,0 +1,19 @@
+{
+  "Title": "Let's Go Bananas",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.869ae94e-fb2d-4618-ad41-c6b37dc98cbf/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/028b02c0-390c-4c60-a58d-e30c528b8ee1"
+    }
+  ],
+  "in_theaters": false
+}

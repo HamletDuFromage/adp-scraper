@@ -1,0 +1,19 @@
+{
+  "Title": "A Monster Calls",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6aaca6cf-f3d6-3a10-d908-e3a83a7090f7/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI21Z8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

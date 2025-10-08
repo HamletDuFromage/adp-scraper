@@ -1,0 +1,15 @@
+{
+  "Title": "Prisoner of Love",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/705436/prisoner-of-love"
+    }
+  ],
+  "in_theaters": false
+}

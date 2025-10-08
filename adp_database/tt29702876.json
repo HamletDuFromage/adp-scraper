@@ -1,0 +1,18 @@
+{
+  "Title": "JFK: What the Doctors Saw",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3c98f1d3-7313-4c6b-aa19-7cb0304ff64e/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/doxrtMleUunO9_I87rGW_oDERuAcb6xU/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "Here After",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.63e26f37-c294-4886-a16e-9233c435d956/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1757780268"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3385454"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/here-after-2024"
+    }
+  ],
+  "in_theaters": false
+}

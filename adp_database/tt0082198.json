@@ -1,0 +1,15 @@
+{
+  "Title": "Conan the Barbarian",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aaa9f718-f8f9-2416-af39-2a238d52f7a6/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

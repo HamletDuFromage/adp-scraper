@@ -1,0 +1,20 @@
+{
+  "Title": "Surface",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.dzqzvmbvizbedk91cvrq5pvw"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4aa1b0b4-928e-4720-a9b1-217cad9c74eb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

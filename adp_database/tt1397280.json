@@ -1,0 +1,22 @@
+{
+  "Title": "Taken 2",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0b528b3-e617-f7ce-5b73-ffdecd9d6c59/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id575094255"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0067EKYAY/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

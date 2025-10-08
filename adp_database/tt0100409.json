@@ -1,0 +1,18 @@
+{
+  "Title": "The Prince and the Pauper",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-prince-and-the-pauper-1990/AoDZ7v6aNSsK"
+    }
+  ],
+  "in_theaters": false
+}

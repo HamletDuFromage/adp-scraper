@@ -1,0 +1,22 @@
+{
+  "Title": "Disneynature: Born in China",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/disneynature-born-in-china/3ZU2YkxWlq90"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1225410920"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06XWBNBL9/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

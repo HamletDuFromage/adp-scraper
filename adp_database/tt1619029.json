@@ -1,0 +1,24 @@
+{
+  "Title": "Jackie",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.60ac6e99-b4fd-2ae3-9cca-0e47feaf1904/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/f71966b1-8529-498b-bf47-e5fe54667c1a"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1181282965"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTI1L9U/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

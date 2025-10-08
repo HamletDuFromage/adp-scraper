@@ -1,0 +1,17 @@
+{
+  "Title": "On the Record",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d48c9194-58a6-4756-bed0-f638776c06da/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/33bfd7d9-c660-4302-9f1e-6ddd9c91e86f"
+    }
+  ],
+  "in_theaters": false
+}

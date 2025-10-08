@@ -1,0 +1,15 @@
+{
+  "Title": "She's Gotta Have It",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80117554"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "The Sex Lives of College Girls",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/b1113b51-d27b-4941-a0d4-bc2826158464"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1dfadfef-2210-4f42-9c12-2f012551333d/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "Sputnik",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.56bb1fd0-0043-88b8-14a3-155c080c4541/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/sputnik-55f4b031-e419-4078-b475-4d114a4ac7db"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08MND3WYH/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

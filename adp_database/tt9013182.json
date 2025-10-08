@@ -1,0 +1,16 @@
+{
+  "Title": "I Am All Girls",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81393386"
+    }
+  ],
+  "in_theaters": false
+}

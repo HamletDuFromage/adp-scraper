@@ -1,0 +1,15 @@
+{
+  "Title": "Shot in the Dark",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80171561"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Country Queen",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81465056"
+    }
+  ],
+  "in_theaters": false
+}

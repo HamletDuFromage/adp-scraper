@@ -1,0 +1,22 @@
+{
+  "Title": "Disquiet",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.df84d42e-66d7-4a29-bf8b-510c5e815a5e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1663201473"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2267298"
+    }
+  ],
+  "in_theaters": false
+}

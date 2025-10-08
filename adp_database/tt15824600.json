@@ -1,0 +1,19 @@
+{
+  "Title": "The Big Brunch",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Food & Home",
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6235bf54-2352-442d-9bb8-5ae4e93560a3/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e1e5de19-4f87-47c2-b97e-dd3350f1b129"
+    }
+  ],
+  "in_theaters": false
+}

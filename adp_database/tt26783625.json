@@ -1,0 +1,15 @@
+{
+  "Title": "Bone Lake",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1838550805"
+    }
+  ],
+  "in_theaters": true
+}

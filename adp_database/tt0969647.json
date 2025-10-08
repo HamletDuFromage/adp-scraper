@@ -1,0 +1,21 @@
+{
+  "Title": "The Little Mermaid: Ariel's Beginning",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-little-mermaid-ariels-beginning/bhyGppmki2LX"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id685017160"
+    }
+  ],
+  "in_theaters": false
+}

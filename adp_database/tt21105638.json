@@ -1,0 +1,18 @@
+{
+  "Title": "Spellbound",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Kids & Family",
+    "Music",
+    "Sci-Fi & Fantasy",
+    "Teen"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/spellbound-e4c77dc7-8d4a-4041-afaf-2b8599fffb1e"
+    }
+  ],
+  "in_theaters": false
+}

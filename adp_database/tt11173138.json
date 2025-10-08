@@ -1,0 +1,18 @@
+{
+  "Title": "Equal",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aa9d0df9-0389-4a5e-a58d-6b1887bdbfe2/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/895c0dfb-b6d2-473d-907f-7300dc911eb3"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "Olaf's Frozen Adventure",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/olafs-frozen-adventure/5zrFDkAANpLi"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "Jackass 2.5",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34b8a8ce-e430-035a-4981-f63e983a60a3/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/130314"
+    }
+  ],
+  "in_theaters": false
+}

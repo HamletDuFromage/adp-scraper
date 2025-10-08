@@ -1,0 +1,29 @@
+{
+  "Title": "10 Cloverfield Lane",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.02a9f77d-0b88-b8ea-b14a-d6e4a5fdb983/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22a9f69c-7eb9-38ab-67de-6b70cadb58bc/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1085930296"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01BMFX1D4/audiodescriin-20"
+    },
+    {
+      "MGM+": "https://www.mgmplus.com/movie/10-cloverfield-lane-2016"
+    }
+  ],
+  "in_theaters": false
+}

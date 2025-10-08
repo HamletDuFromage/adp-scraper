@@ -1,0 +1,22 @@
+{
+  "Title": "Table 19",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1209681677"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06XYS1XHS/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6eb8cca2-6770-68c6-8c8f-34cb0b25e443/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Jojo Rabbit",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1482852559"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B081WRZNG8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

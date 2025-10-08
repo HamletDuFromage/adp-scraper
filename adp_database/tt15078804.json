@@ -1,0 +1,23 @@
+{
+  "Title": "Problemista",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f5003509-c725-4c99-89ef-1ba44372f4a0/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/b28b9876-ca04-4836-8e07-5e6776f87fa6"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1734765516"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2455147"
+    }
+  ],
+  "in_theaters": false
+}

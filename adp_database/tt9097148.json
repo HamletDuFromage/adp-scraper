@@ -1,0 +1,16 @@
+{
+  "Title": "All in My Family",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "Kids & Family",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80208662"
+    }
+  ],
+  "in_theaters": false
+}

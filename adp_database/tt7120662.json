@@ -1,0 +1,14 @@
+{
+  "Title": "Derry Girls",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80238565"
+    }
+  ],
+  "in_theaters": false
+}

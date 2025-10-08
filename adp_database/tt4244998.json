@@ -1,0 +1,21 @@
+{
+  "Title": "Alpha",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22b2a1ff-cc9d-e283-d151-ece31a9be229/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1420240763"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07HGQ4NGJ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

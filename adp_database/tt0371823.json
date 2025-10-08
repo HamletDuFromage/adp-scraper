@@ -1,0 +1,18 @@
+{
+  "Title": "Mickey, Donald, Goofy: The Three Musketeers",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mickey-donald-goofy-the-three-musketeers/63Rf2h1fwlIO"
+    }
+  ],
+  "in_theaters": false
+}

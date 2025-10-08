@@ -1,0 +1,17 @@
+{
+  "Title": "Under the Boardwalk",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22bdbc8b-eca8-430a-8b76-1ed97ba8017a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

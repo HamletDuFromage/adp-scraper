@@ -1,0 +1,17 @@
+{
+  "Title": "Christmas Cupid",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Holiday",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12513f3e-d2a3-414f-80ba-7c09f8d6eae2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

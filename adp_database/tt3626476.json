@@ -1,0 +1,15 @@
+{
+  "Title": "Vacation Friends",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/vacation-friends-c5fec97e-4c47-4b46-b19f-c246d461f6d0"
+    }
+  ],
+  "in_theaters": false
+}

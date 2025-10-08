@@ -1,0 +1,17 @@
+{
+  "Title": "Parks and Recreation",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/parks-and-recreation/5883799404534408112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0aa9f720-a608-d3d1-9725-3a35fd46ef08/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

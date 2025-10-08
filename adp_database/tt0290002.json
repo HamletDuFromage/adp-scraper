@@ -1,0 +1,15 @@
+{
+  "Title": "Meet the Fockers",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50a9f496-ccae-0571-4e8f-7e88975cc55a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "The Mighty Ones",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-mighty-ones-7b34470f-f28a-4740-8840-82a7355ce2ac"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-mighty-ones/8501865675229905112"
+    }
+  ],
+  "in_theaters": false
+}

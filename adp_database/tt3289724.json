@@ -1,0 +1,25 @@
+{
+  "Title": "Welcome to Marwen",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80999013"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0cb3dea0-70e9-344a-c88e-e5334fab66aa/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1446038145"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317651264/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

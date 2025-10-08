@@ -1,0 +1,17 @@
+{
+  "Title": "Sand Land: The Series",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/ede9d04a-8330-4524-8976-40b1520d4633"
+    }
+  ],
+  "in_theaters": false
+}

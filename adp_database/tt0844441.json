@@ -1,0 +1,21 @@
+{
+  "Title": "True Blood",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.553e22f7-81fa-4875-a196-36bf35c52ed7/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/826ee336-0f56-410a-9345-20b866f13a24"
+    }
+  ],
+  "in_theaters": false
+}

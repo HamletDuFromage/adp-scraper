@@ -1,0 +1,22 @@
+{
+  "Title": "2073",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.09e57fa2-104d-4066-8ff6-3100dc8bd50e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1780881309"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3852970"
+    }
+  ],
+  "in_theaters": false
+}

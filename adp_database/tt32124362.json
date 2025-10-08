@@ -1,0 +1,18 @@
+{
+  "Title": "The Anonymous",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Game Show",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/the-anonymous/8931107737567148112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0968b8e0-d099-4ed1-a9ae-641262d12e32/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

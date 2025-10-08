@@ -1,0 +1,22 @@
+{
+  "Title": "Girls5eva",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "LGBTQ",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81630704"
+    },
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/girls5eva/8730283206775450112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.41815f64-05b6-4384-8d7f-22978e75173c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

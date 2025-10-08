@@ -1,0 +1,18 @@
+{
+  "Title": "Vacation House Rules",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cc47a7e8-0f46-49ff-8a06-130f628826cc/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/e921ef41-ce5d-41ae-a2b8-d337d3eec499"
+    }
+  ],
+  "in_theaters": false
+}

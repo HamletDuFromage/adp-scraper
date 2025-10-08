@@ -1,0 +1,18 @@
+{
+  "Title": "Bobbleheads: The Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.4ebad835-8eda-1173-5f92-0317e3288cec/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1539988785"
+    }
+  ],
+  "in_theaters": false
+}

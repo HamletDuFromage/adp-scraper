@@ -1,0 +1,18 @@
+{
+  "Title": "Fix My Frankenhouse",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1b412a64-01b4-472f-9523-5c7fdf6353cf/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/bd34cbb4-011a-47c7-a5d3-b02d62afaa6d"
+    }
+  ],
+  "in_theaters": false
+}

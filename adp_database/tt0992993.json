@@ -1,0 +1,20 @@
+{
+  "Title": "Into the Storm",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6ea9f73f-f93d-119a-53ad-f3f20e6e26da/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6ba575d1-a0b6-4ccb-b076-9d4f8d14527b"
+    }
+  ],
+  "in_theaters": false
+}

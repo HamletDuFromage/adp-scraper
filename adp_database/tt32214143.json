@@ -1,0 +1,18 @@
+{
+  "Title": "Gabby's Dollhouse: The Movie",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1839109614"
+    }
+  ],
+  "in_theaters": false
+}

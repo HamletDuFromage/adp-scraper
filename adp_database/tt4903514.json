@@ -1,0 +1,15 @@
+{
+  "Title": "Inside the Factory",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/inside-the-factory/"
+    }
+  ],
+  "in_theaters": false
+}

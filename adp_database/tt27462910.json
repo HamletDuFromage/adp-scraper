@@ -1,0 +1,18 @@
+{
+  "Title": "Naked and Afraid: Last One Standing",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Adventure & Survival",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.06934e00-ec17-414a-814d-daa0335fd784/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/8f8cfe8d-ec80-4f27-b075-c84fe9593d31"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Strawberry Shortcake's Perfect Holiday",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81611033"
+    }
+  ],
+  "in_theaters": false
+}

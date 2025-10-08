@@ -1,0 +1,15 @@
+{
+  "Title": "The Boatniks",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id352162528"
+    }
+  ],
+  "in_theaters": false
+}

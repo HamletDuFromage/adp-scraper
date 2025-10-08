@@ -1,0 +1,14 @@
+{
+  "Title": "Toast of Tinseltown",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Roku Channel": "https://therokuchannel.roku.com/details/3fe6b75889b85658ae26207fbb39c5bc/toast-of-tinseltown"
+    }
+  ],
+  "in_theaters": false
+}

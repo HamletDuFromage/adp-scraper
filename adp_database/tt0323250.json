@@ -1,0 +1,17 @@
+{
+  "Title": "Mike's New Car",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mikes-new-car/5mdLwH2UKiZH"
+    }
+  ],
+  "in_theaters": false
+}

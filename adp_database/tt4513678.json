@@ -1,0 +1,19 @@
+{
+  "Title": "Ghostbusters: Afterlife",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1594936778"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B09LGTTH3G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

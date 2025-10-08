@@ -1,0 +1,15 @@
+{
+  "Title": "Devious Nanny",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.beb2a4ca-1b89-ae05-e697-6e3826c249ec/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "The African Lion",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-african-lion/2f81f0huwkyv"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id435276902"
+    }
+  ],
+  "in_theaters": false
+}

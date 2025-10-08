@@ -1,0 +1,15 @@
+{
+  "Title": "The Bear",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f"
+    }
+  ],
+  "in_theaters": false
+}

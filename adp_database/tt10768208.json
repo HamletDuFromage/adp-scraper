@@ -1,0 +1,17 @@
+{
+  "Title": "A Christmas Duet",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Holiday",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dc6a3e67-7160-4395-a271-0557d07ac981/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

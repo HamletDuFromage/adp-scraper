@@ -1,0 +1,15 @@
+{
+  "Title": "Mistletoe Mixup",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6960cd11-59e3-4bd9-a2bd-661c4f55f84e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

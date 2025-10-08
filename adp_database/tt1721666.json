@@ -1,0 +1,18 @@
+{
+  "Title": "Sister Wives",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Lifestyle & Culture",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/43f6f82c-ab45-4184-9cd8-ee7b08ef172d"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.78ab9487-7637-40e4-925f-dada779501da/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

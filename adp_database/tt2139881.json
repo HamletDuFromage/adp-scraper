@@ -1,0 +1,24 @@
+{
+  "Title": "Long Shot",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20b71465-bbd3-d1da-bf27-cf4e20faf58b/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1460439616"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07QRN3W78/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/81192826"
+    }
+  ],
+  "in_theaters": false
+}

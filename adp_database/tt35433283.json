@@ -1,0 +1,16 @@
+{
+  "Title": "90 Minutes",
+  "Media Type": "Series",
+  "Rating": "18+",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d113dda7-76a9-42f9-8682-3a550d764cb4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

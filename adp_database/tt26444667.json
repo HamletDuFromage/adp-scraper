@@ -1,0 +1,17 @@
+{
+  "Title": "In the Making",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "History",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72efeaeb-0747-4492-897d-f8b324631e94/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

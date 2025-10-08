@@ -1,0 +1,25 @@
+{
+  "Title": "Jurassic World Dominion",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b1aa6ca0-d1b3-4c05-9ab0-0748ce7ac780/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1632691660"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B2Y8CDZL/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2029022"
+    }
+  ],
+  "in_theaters": false
+}

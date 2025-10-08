@@ -1,0 +1,22 @@
+{
+  "Title": "A Bigger Splash",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94aa892b-e86e-85e3-461f-e9c80b42cb4d/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1114210920"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01I0TU3TK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

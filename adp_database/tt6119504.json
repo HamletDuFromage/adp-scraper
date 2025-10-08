@@ -1,0 +1,16 @@
+{
+  "Title": "#realityhigh",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80125979"
+    }
+  ],
+  "in_theaters": false
+}

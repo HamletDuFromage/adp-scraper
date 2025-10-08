@@ -1,0 +1,15 @@
+{
+  "Title": "The Watcher",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.deae8cc2-f1ac-a330-402e-569246e3f904/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

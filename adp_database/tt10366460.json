@@ -1,0 +1,26 @@
+{
+  "Title": "CODA",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Disability",
+    "Drama",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4f00c81-ba1d-4ee1-97ee-cb0bc72556e2/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.3eh9r5iz32ggdm4ccvw5igiir"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4436459"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1806204768"
+    }
+  ],
+  "in_theaters": false
+}

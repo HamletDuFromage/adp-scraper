@@ -1,0 +1,21 @@
+{
+  "Title": "Henry Danger: The Movie",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.da2b3b17-eacd-47b7-9f66-34ce9375bb8c/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/2RP3WmuOOPEwQh__I7jn7Ew1EpAqouWj/"
+    }
+  ],
+  "in_theaters": false
+}

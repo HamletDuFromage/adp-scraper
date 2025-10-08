@@ -1,0 +1,16 @@
+{
+  "Title": "Don't Look Under the Bed",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Horror",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/dont-look-under-the-bed/3goYjMmTNBI9"
+    }
+  ],
+  "in_theaters": false
+}

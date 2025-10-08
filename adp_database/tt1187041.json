@@ -1,0 +1,15 @@
+{
+  "Title": "The Answer Man",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e4add9ff-f30e-4345-9438-c8bd0262dea1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

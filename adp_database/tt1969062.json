@@ -1,0 +1,19 @@
+{
+  "Title": "Infinitely Polar Bear",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1060345605"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B016UTP1MQ/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

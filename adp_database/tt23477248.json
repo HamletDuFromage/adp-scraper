@@ -1,0 +1,15 @@
+{
+  "Title": "Neon",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81450712"
+    }
+  ],
+  "in_theaters": false
+}

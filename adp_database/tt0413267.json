@@ -1,0 +1,24 @@
+{
+  "Title": "Shrek the Third",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B0054JELUC/audiodescriin-20"
+    },
+    {
+      "Netflix": "https://www.netflix.com/title/70047102"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.96b0a842-31ac-eedd-78ab-546a83157070/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

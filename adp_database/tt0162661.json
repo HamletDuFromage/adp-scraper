@@ -1,0 +1,22 @@
+{
+  "Title": "Sleepy Hollow",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.88b7ea7a-5731-8640-8784-c49583bc84d7/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/15959"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/GIKBHx0A3dOdXLojUmhuki0Uls1bP4p0/"
+    }
+  ],
+  "in_theaters": false
+}

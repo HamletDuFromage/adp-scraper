@@ -1,0 +1,24 @@
+{
+  "Title": "The Front Room",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.31647ae1-99c4-412e-b82b-0ff3a122f476/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/0bda4384-0848-4ce4-bcf9-a6db572b83f9"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1764401636"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/3455031"
+    }
+  ],
+  "in_theaters": false
+}

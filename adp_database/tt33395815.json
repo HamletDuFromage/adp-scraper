@@ -1,0 +1,18 @@
+{
+  "Title": "An Almost Christmas Story",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Holiday",
+    "Kids & Family",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/browse/entity-8af23dbf-6585-4251-bb35-c81b811e3743"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Gutsy",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f2ee7a8b-ea60-48c6-af2e-1551d6fb8200/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.6pt51gvtzprx3h060b7944s3k"
+    }
+  ],
+  "in_theaters": false
+}

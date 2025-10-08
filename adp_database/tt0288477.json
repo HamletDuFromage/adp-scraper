@@ -1,0 +1,16 @@
+{
+  "Title": "Ghost Ship",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14a9f76b-b3b8-8cc9-10c9-c00fb1468b9b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

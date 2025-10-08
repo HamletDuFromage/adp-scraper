@@ -1,0 +1,20 @@
+{
+  "Title": "Easy A",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Teen"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id403818939"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0036TGSIK/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

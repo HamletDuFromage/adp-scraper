@@ -1,0 +1,17 @@
+{
+  "Title": "Meteor",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dc576f5d-6fb4-41fd-b0a3-3cad8938c1ae/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

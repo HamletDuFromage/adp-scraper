@@ -1,0 +1,16 @@
+{
+  "Title": "Mrs. America",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/mrs-america-96f330fe-878d-412e-949f-fd8b69b3adf2"
+    }
+  ],
+  "in_theaters": false
+}

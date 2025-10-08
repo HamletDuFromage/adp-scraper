@@ -1,0 +1,20 @@
+{
+  "Title": "Trigger Point",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Peacock": "https://www.peacocktv.com/watch/asset/tv/trigger-point/9076852427265926112"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2579f2b3-6458-4dd8-b3cd-62db64e6cd22/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

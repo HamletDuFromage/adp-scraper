@@ -1,0 +1,16 @@
+{
+  "Title": "Buried in Barstow",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f8bb6758-cf82-4da6-be75-ed9b0a22eb8c/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

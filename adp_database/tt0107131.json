@@ -1,0 +1,20 @@
+{
+  "Title": "Homeward Bound: The Incredible Journey",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/homeward-bound-the-incredible-journey/7EGMAeLJ7VBL"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id203292924"
+    }
+  ],
+  "in_theaters": false
+}

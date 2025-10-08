@@ -1,0 +1,23 @@
+{
+  "Title": "Morgan",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48ab5b21-9c4c-ab33-24a1-874d2bd562f5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1146706324"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LTHNA7M/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

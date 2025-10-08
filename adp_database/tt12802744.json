@@ -1,0 +1,15 @@
+{
+  "Title": "The Greatest @Home Videos",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "TV Variety"
+  ],
+  "Providers": [
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/6126e820a1920d001365b4aa"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Alarmed",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Tubi": "https://tubitv.com/movies/713119/alarmed"
+    }
+  ],
+  "in_theaters": false
+}

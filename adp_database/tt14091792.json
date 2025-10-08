@@ -1,0 +1,18 @@
+{
+  "Title": "Lucy the Human Chimp",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Animals & Nature",
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f7bd25f8-ba83-4b50-87f0-869ae7d23e3b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a3a428ec-409b-456c-bf21-b511c33b89fa"
+    }
+  ],
+  "in_theaters": false
+}

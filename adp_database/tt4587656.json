@@ -1,0 +1,26 @@
+{
+  "Title": "The Star",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80121841"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aeafe0ba-ea03-eff3-dfe0-721a13670869/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1306358635"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B077HB8C8Y/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

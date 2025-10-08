@@ -1,0 +1,15 @@
+{
+  "Title": "Pet Stars",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Kids & Family",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81002465"
+    }
+  ],
+  "in_theaters": false
+}

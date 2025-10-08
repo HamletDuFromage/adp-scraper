@@ -1,0 +1,17 @@
+{
+  "Title": "Code 8 Part II",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81480320"
+    }
+  ],
+  "in_theaters": false
+}

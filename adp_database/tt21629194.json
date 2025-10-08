@@ -1,0 +1,17 @@
+{
+  "Title": "STEVE! (martin) a documentary in 2 pieces",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d3a4378f-c81f-4d93-90d7-2ca692f4e196/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.7kkgskd7j0lomjoqdo97l80ql"
+    }
+  ],
+  "in_theaters": false
+}

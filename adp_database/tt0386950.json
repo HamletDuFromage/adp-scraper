@@ -1,0 +1,16 @@
+{
+  "Title": "Air Crash Investigation",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Documentary",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.94b49ab4-1c4b-b2f1-06c5-3cea045c9f04/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

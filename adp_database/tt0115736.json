@@ -1,0 +1,16 @@
+{
+  "Title": "Bound",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/1425287"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Call Me Miss Cleo",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e6a9e63d-5d69-4f57-add5-8f404e45e0ed/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/6787ca62-6745-4129-a46a-afbb30812115"
+    }
+  ],
+  "in_theaters": false
+}

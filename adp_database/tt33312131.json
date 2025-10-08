@@ -1,0 +1,15 @@
+{
+  "Title": "Mantis",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81771384"
+    }
+  ],
+  "in_theaters": false
+}

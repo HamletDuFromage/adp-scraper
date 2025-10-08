@@ -1,0 +1,14 @@
+{
+  "Title": "The Winter Palace",
+  "Media Type": "Movie",
+  "Rating": "7+",
+  "Genre": [
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dcfb6a47-96cf-4c05-8d25-6a6685b6100e/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

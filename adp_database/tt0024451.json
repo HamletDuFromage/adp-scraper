@@ -1,0 +1,18 @@
+{
+  "Title": "The Pied Piper",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Animation",
+    "Kids & Family",
+    "Musical",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-pied-piper/3jNWdoBHVXMm"
+    }
+  ],
+  "in_theaters": false
+}

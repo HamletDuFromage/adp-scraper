@@ -1,0 +1,19 @@
+{
+  "Title": "Percy Jackson and the Olympians",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/03c0df8e-7f5a-4f8b-8b4d-2c163d12659c"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/series/percy-jackson-and-the-olympians/ql33aq42HBdr"
+    }
+  ],
+  "in_theaters": false
+}

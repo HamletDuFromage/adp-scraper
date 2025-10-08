@@ -1,0 +1,19 @@
+{
+  "Title": "GARCIA!",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.756f8446-6deb-472c-9336-89a1ba3ebf88/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/ecfd3ec0-245d-4e33-98d2-d0e1987e4545"
+    }
+  ],
+  "in_theaters": false
+}

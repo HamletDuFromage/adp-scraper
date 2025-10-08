@@ -1,0 +1,20 @@
+{
+  "Title": "The Adventures of Bullwhip Griffin",
+  "Media Type": "Movie",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Romance",
+    "Western"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-adventures-of-bullwhip-griffin/6YRafeLLX4AV"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id296008166"
+    }
+  ],
+  "in_theaters": false
+}

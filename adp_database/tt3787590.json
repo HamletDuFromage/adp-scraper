@@ -1,0 +1,22 @@
+{
+  "Title": "We Are Your Friends",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54b942c0-c388-f98d-0d9d-1b936c0574b2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1030625056"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B014LQWRB8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

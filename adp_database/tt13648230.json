@@ -1,0 +1,17 @@
+{
+  "Title": "In the Same Breath",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f0444b6d-3aed-4279-ac4d-48bf2291c5fd/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1c20b2a1-f483-40a3-9a3a-c7b14452ea07"
+    }
+  ],
+  "in_theaters": false
+}

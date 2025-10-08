@@ -1,0 +1,16 @@
+{
+  "Title": "Power Rangers Cosmic Fury",
+  "Media Type": "Series",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81586549"
+    }
+  ],
+  "in_theaters": false
+}

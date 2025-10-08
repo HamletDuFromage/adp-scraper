@@ -1,0 +1,25 @@
+{
+  "Title": "Thank You for Your Service",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80150503"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2cafc1f5-3e58-8047-75ec-fe39b38c8b81/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1292979341"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B076ZYJFZG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

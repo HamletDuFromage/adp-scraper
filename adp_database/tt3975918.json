@@ -1,0 +1,17 @@
+{
+  "Title": "13: The Musical",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Comedy",
+    "Disability",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80222822"
+    }
+  ],
+  "in_theaters": false
+}

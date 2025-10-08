@@ -1,0 +1,19 @@
+{
+  "Title": "NCIS: Origins",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dcac6c9b-e6b5-4c10-95ba-3795a4b089ed/audiodescriin-20"
+    },
+    {
+      "Pluto": "https://pluto.tv/us/on-demand/series/6712f0e6b99f85001303cd68"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,25 @@
+{
+  "Title": "On the Basis of Sex",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80998984"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.38b3e687-caef-bbf3-9450-9bc9624257f2/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1445769090"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317659303/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

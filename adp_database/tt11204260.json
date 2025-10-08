@@ -1,0 +1,17 @@
+{
+  "Title": "I May Destroy You",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7c90f88b-7f6a-4e28-a29b-e2993f7da748/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/a15b4064-4899-4381-bdf1-676986137ee1"
+    }
+  ],
+  "in_theaters": false
+}

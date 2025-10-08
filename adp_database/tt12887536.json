@@ -1,0 +1,19 @@
+{
+  "Title": "CSI: Vegas",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.45123b3a-7e1f-48c2-a395-5bfb1ff1de6a/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/shows/csi-vegas/"
+    }
+  ],
+  "in_theaters": false
+}

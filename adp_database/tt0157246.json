@@ -1,0 +1,15 @@
+{
+  "Title": "Will & Grace",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4aee9bf-f982-00b1-34cf-7439c11089eb/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

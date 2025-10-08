@@ -1,0 +1,17 @@
+{
+  "Title": "Smallville",
+  "Media Type": "Series",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50a9f70d-d452-0309-c0a3-678180c56071/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

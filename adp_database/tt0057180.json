@@ -1,0 +1,17 @@
+{
+  "Title": "The Incredible Journey",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Action & Adventure",
+    "Animals & Nature",
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/the-incredible-journey/3S1C6RCy1uCh"
+    }
+  ],
+  "in_theaters": false
+}

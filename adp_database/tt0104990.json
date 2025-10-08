@@ -1,0 +1,20 @@
+{
+  "Title": "Newsies",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Drama",
+    "History",
+    "Kids & Family",
+    "Musical"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/newsies/19ME71cBll8M"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id442083338"
+    }
+  ],
+  "in_theaters": false
+}

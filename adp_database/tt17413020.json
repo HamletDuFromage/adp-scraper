@@ -1,0 +1,20 @@
+{
+  "Title": "Explorer",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d4bf0825-e56d-4ebd-b1d1-325a83848a81/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1638489472"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2080816"
+    }
+  ],
+  "in_theaters": false
+}

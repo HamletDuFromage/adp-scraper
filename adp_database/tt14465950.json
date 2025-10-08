@@ -1,0 +1,15 @@
+{
+  "Title": "How We Roll",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Comedy",
+    "Sports"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2014359"
+    }
+  ],
+  "in_theaters": false
+}

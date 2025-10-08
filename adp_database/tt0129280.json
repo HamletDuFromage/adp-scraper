@@ -1,0 +1,14 @@
+{
+  "Title": "The Out-of-Towners",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/129204"
+    }
+  ],
+  "in_theaters": false
+}

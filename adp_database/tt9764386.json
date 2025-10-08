@@ -1,0 +1,21 @@
+{
+  "Title": "30 Coins",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8a6aebd9-47b1-461c-8ef7-00ce4276f715/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/104eacfa-719d-489f-8b41-1882ba4d9be3"
+    }
+  ],
+  "in_theaters": false
+}

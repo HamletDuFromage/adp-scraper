@@ -1,0 +1,22 @@
+{
+  "Title": "Kajillionaire",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7eba820e-836a-bbdc-d490-8ed9eb97aa39/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1534805923"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08JDYXR4T/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,17 @@
+{
+  "Title": "Grantchester",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "LGBTQ",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50ba873c-5766-26c5-9866-7cb80252f4fe/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

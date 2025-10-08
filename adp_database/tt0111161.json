@@ -1,0 +1,17 @@
+{
+  "Title": "The Shawshank Redemption",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.20b4c3cf-b703-aebb-41bd-0dc683f8c0c8/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id282875479"
+    }
+  ],
+  "in_theaters": false
+}

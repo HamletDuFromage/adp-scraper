@@ -1,0 +1,17 @@
+{
+  "Title": "Bill Maher: #Adulting",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Stand-up"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.848d67ae-4eee-4bdc-adf3-a23ab07d4195/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/2b41b6ba-dc8c-4d05-acaa-8ba320852ee6"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Cedar Cove",
+  "Media Type": "Series",
+  "Rating": "TV-PG",
+  "Genre": [
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5aa9f7a7-02f0-ad62-b35c-732857e9d33b/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

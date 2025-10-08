@@ -1,0 +1,17 @@
+{
+  "Title": "The Purge: Anarchy",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Horror",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16a9f7b1-6e15-d012-fc40-f62bb679ed03/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

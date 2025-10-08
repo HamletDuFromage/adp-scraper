@@ -1,0 +1,22 @@
+{
+  "Title": "Hail, Caesar!",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9ea9f681-a3c9-54a7-803b-5510ac98e113/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1076005986"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01B88371Q/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

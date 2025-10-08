@@ -1,0 +1,15 @@
+{
+  "Title": "Rear Window",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.b8a9f7ac-59e0-e025-f524-31e01cfd0cb1/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

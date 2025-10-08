@@ -1,0 +1,16 @@
+{
+  "Title": "Kim Possible",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/kim-possible/3CxfM28hhtHJ"
+    }
+  ],
+  "in_theaters": false
+}

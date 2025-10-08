@@ -1,0 +1,16 @@
+{
+  "Title": "Devil's Due",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B00IJS2OR2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

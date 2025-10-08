@@ -1,0 +1,20 @@
+{
+  "Title": "Pinecone & Pony",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.74f6c125-8172-4953-8f6c-e204a5ab5a88/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.2jwlalsi34m25fcfljpvk990r"
+    }
+  ],
+  "in_theaters": false
+}

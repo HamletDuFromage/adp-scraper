@@ -1,0 +1,23 @@
+{
+  "Title": "Hunter Hunter",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72bc0f68-5d31-1872-3004-bed87c8b9529/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1540044744"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B08YDS2DDT/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

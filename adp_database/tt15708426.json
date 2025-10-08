@@ -1,0 +1,18 @@
+{
+  "Title": "Mickey and Minnie Wish Upon a Christmas",
+  "Media Type": "Movie",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/mickey-and-minnie-wish-upon-a-christmas/7AufPrX0B3Di"
+    }
+  ],
+  "in_theaters": false
+}

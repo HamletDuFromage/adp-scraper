@@ -1,0 +1,17 @@
+{
+  "Title": "How It Ends",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80167481"
+    }
+  ],
+  "in_theaters": false
+}

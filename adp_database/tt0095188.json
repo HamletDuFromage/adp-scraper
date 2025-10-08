@@ -1,0 +1,14 @@
+{
+  "Title": "Funny Farm",
+  "Media Type": "Movie",
+  "Rating": "13+",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a0a9f703-2baa-4aef-486e-301675df7848/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

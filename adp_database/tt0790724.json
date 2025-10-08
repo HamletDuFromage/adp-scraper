@@ -1,0 +1,22 @@
+{
+  "Title": "Jack Reacher",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id607990004"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00AS1Q93S/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/jack-reacher/xzUce3_6ljEEGyIu9rCpndUPhDgfZF1X/"
+    }
+  ],
+  "in_theaters": false
+}

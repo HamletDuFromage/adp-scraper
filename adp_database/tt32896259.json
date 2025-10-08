@@ -1,0 +1,15 @@
+{
+  "Title": "Breaking New Ground",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Food & Home",
+    "Reality TV"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/e2183039-be2a-4a50-bceb-435abf4e7b13"
+    }
+  ],
+  "in_theaters": false
+}

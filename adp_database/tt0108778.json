@@ -1,0 +1,18 @@
+{
+  "Title": "Friends",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/52dae4c7-2ab1-4bb9-ab1c-8100fd54e2f9"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2a9f6d8-b202-1a75-2275-6ddb853795c4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

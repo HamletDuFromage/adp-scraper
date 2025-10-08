@@ -1,0 +1,19 @@
+{
+  "Title": "Echo 3",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e97cc8e3-b6ce-41f4-91d7-b366eaffeb2f/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/show/umc.cmc.mzqa5sj4m2i80g51cgu04i3j"
+    }
+  ],
+  "in_theaters": false
+}

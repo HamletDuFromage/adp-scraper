@@ -1,0 +1,17 @@
+{
+  "Title": "Detroit",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "DVD": "https://www.amazon.com/dp/B076V8P45L/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

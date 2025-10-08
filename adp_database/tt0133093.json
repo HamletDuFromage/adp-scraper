@@ -1,0 +1,18 @@
+{
+  "Title": "The Matrix",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.dea9f6b7-e0a0-38c9-7467-d6079c6fb4f0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id271469518"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,18 @@
+{
+  "Title": "High Maintenance",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2c8466ff-4aa1-414c-b2de-1c9e5e78dc1b/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/6b2c6f64-13ff-43a5-a9eb-8b87fdf62599"
+    }
+  ],
+  "in_theaters": false
+}

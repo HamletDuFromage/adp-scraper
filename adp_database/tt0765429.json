@@ -1,0 +1,19 @@
+{
+  "Title": "American Gangster",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a4a9f715-bbb1-4517-505a-4040dc37cf20/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id276580832"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Reign of Fire",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id350098681"
+    }
+  ],
+  "in_theaters": false
+}

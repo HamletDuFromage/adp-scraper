@@ -1,0 +1,23 @@
+{
+  "Title": "Pan",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.baa9f707-ad47-dc6a-eaa0-7b434d710e84/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1039749965"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B016LEIAIC/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,19 @@
+{
+  "Title": "The Bloody Hundredth",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fba64f6a-b565-430a-8b3a-f3f7f8bbf2bf/audiodescriin-20"
+    },
+    {
+      "Apple TV+": "https://tv.apple.com/movie/umc.cmc.17tiu47xvxo1p9k0tqfvhf29r"
+    }
+  ],
+  "in_theaters": false
+}

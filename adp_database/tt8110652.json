@@ -1,0 +1,27 @@
+{
+  "Title": "Bodies Bodies Bodies",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "LGBTQ",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1636708095"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0B75RTY6L/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2072664"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e3356fd1-e462-435c-b315-ec84c8acc24a/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

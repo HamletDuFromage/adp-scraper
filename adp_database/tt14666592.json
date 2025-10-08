@@ -1,0 +1,19 @@
+{
+  "Title": "Milli Vanilli",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.fc05e541-7435-44ec-a739-f5cb76fe05ab/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/RyBU_xBfU0NhkIZRN5y_UMWs1Iu0HDdb/"
+    }
+  ],
+  "in_theaters": false
+}

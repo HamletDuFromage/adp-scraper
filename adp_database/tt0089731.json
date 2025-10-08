@@ -1,0 +1,16 @@
+{
+  "Title": "One Magic Christmas",
+  "Media Type": "Movie",
+  "Rating": "G",
+  "Genre": [
+    "Holiday",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/one-magic-christmas/7Vke521o1o4B"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "The Disappearance",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "HBO Max": "https://play.max.com/show/5ca06336-62dd-4174-ad81-4e01d559bdd1"
+    }
+  ],
+  "in_theaters": false
+}

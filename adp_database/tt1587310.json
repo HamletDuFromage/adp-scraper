@@ -1,0 +1,24 @@
+{
+  "Title": "Maleficent",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Drama",
+    "Kids & Family",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e8a9f763-b91c-a444-e7e8-cc1c4cf99376/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id870999110"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00M4ADWQ8/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

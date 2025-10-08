@@ -1,0 +1,24 @@
+{
+  "Title": "Frankenweenie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/frankenweenie-2012/msxVowQvL18k"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id570830865"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B00A8KJK7G/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

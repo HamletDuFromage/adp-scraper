@@ -1,0 +1,18 @@
+{
+  "Title": "Dylan's Playtime Adventures",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.f5463448-70c0-4054-9484-cda5e070cf38/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/33eb4c74-3fb6-432c-bea3-8fc9508f6e4b"
+    }
+  ],
+  "in_theaters": false
+}

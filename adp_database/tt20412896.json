@@ -1,0 +1,23 @@
+{
+  "Title": "Double Life",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1cf5129a-7f6e-49bf-9d00-7324810bd05a/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1678761713"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2303305"
+    }
+  ],
+  "in_theaters": false
+}

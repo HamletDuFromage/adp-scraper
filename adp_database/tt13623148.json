@@ -1,0 +1,18 @@
+{
+  "Title": "I Am Groot",
+  "Media Type": "Series",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/series/details/3FfVmffm1ijj"
+    }
+  ],
+  "in_theaters": false
+}

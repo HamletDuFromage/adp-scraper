@@ -1,0 +1,27 @@
+{
+  "Title": "The Descendants",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ca9f719-cd2d-098e-122d-e5a075450f13/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.e0a9f69b-4d83-0b93-6129-b8c81c73a31d/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/a69ec1c3-6682-4352-aa43-216396f810cb"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id485148916"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B004UXUX4Q/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

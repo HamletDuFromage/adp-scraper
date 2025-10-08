@@ -1,0 +1,17 @@
+{
+  "Title": "The Titan",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/80148210"
+    }
+  ],
+  "in_theaters": false
+}

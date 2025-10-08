@@ -1,0 +1,27 @@
+{
+  "Title": "Venom",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.5ab322cd-0485-20e4-4b1c-10bba7ef0050/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.48b322cd-050c-ca07-ebb0-ff79f0b11f42/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/venom/1w4uv4K4arER"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1437190744"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07HSK1LX4/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

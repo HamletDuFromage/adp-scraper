@@ -1,0 +1,15 @@
+{
+  "Title": "Horse Sense",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Drama",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/horse-sense/6KPzgva0qB3F"
+    }
+  ],
+  "in_theaters": false
+}

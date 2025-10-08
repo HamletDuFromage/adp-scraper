@@ -1,0 +1,18 @@
+{
+  "Title": "Rap Sh!t",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Music"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea12fc0-6472-4c7e-947b-bf840002d209/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/93a6cac6-af5b-4de1-85ad-2519cfbc0d98"
+    }
+  ],
+  "in_theaters": false
+}

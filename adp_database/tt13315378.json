@@ -1,0 +1,16 @@
+{
+  "Title": "Pikwik Pack",
+  "Media Type": "Series",
+  "Rating": "TV-Y",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/series/pikwik-pack-bd6ebe32-9d29-4d9c-b83d-46ea72b12798"
+    }
+  ],
+  "in_theaters": false
+}

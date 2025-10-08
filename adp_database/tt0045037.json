@@ -1,0 +1,18 @@
+{
+  "Title": "Pluto's Christmas Tree",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Holiday",
+    "Sci-Fi & Fantasy",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/plutos-christmas-tree/2UlV7XWOYvv5"
+    }
+  ],
+  "in_theaters": false
+}

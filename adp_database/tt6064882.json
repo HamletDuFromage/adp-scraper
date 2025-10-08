@@ -1,0 +1,21 @@
+{
+  "Title": "Room 104",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6b23791f-6cde-4df8-9345-bfabbf7c72ef/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/show/4a477be2-efdf-4540-b28c-6cefa24dd330"
+    }
+  ],
+  "in_theaters": false
+}

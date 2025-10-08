@@ -1,0 +1,23 @@
+{
+  "Title": "Grown Ups",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id383209395"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B002ZG97TW/audiodescriin-20"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.58a9f7ab-5e0b-9a97-4c1a-e918e7fe9a75/audiodescriin-20"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/Sc0vft02LpDOvaooaWntH4fbjlOBUCo7/"
+    }
+  ],
+  "in_theaters": false
+}

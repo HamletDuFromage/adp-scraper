@@ -1,0 +1,27 @@
+{
+  "Title": "Ralph Breaks the Internet",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.76b8e8d3-d3f8-ab5f-6362-8481fdb82f79/audiodescriin-20"
+    },
+    {
+      "Disney+": "https://www.disneyplus.com/movies/ralph-breaks-the-internet/33T1xWWWLhFR"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1441465303"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/6317621721/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

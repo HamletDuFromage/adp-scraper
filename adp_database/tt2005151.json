@@ -1,0 +1,21 @@
+{
+  "Title": "War Dogs",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.54ab4848-25cd-3efa-b138-fc93ad0d18a6/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1141492726"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B01LBWHNYG/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

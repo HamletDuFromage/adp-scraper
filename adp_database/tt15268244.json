@@ -1,0 +1,23 @@
+{
+  "Title": "Joy Ride",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1694805879"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0C7YLWPVH/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2466137"
+    },
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6797d8fa-f635-4972-91d2-0ed4cc4708b2/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

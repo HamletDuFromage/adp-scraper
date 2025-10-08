@@ -1,0 +1,30 @@
+{
+  "Title": "A Haunting in Venice",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Crime",
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3ada32b9-d34f-4627-8da6-aea74b530c5c/audiodescriin-20"
+    },
+    {
+      "Hulu": "https://www.hulu.com/movie/5f072dc6-d44e-48e3-be24-b6db3b67df6b"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1711751403"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CLM1TSXV/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2673961"
+    }
+  ],
+  "in_theaters": false
+}

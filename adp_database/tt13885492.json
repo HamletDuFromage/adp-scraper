@@ -1,0 +1,20 @@
+{
+  "Title": "Little Richard: I Am Everything",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Biography",
+    "Documentary",
+    "History",
+    "LGBTQ"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8b2793d3-bd85-42b7-bed9-0191c8b47612/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1f4ad4f5-56d0-4451-8de0-470ce79082d5"
+    }
+  ],
+  "in_theaters": false
+}

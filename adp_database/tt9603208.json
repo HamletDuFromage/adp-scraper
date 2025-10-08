@@ -1,0 +1,21 @@
+{
+  "Title": "Mission: Impossible - The Final Reckoning",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Action & Adventure",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1811802339"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/4224756"
+    },
+    {
+      "Plex": "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d7770b4b2739400200e98ce&context=source%3Ahub.store.descriptiveAudioRentals~12"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,24 @@
+{
+  "Title": "The Addams Family",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Horror",
+    "Kids & Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6b6d85f-c36a-03f7-bd0b-5b9867450b30/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1479901173"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/Ta_UZQHWNZx_ZQwYh9f38W2FPxwQZaOI/"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,20 @@
+{
+  "Title": "Norm of the North",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7e740d01-780f-4823-bbe3-395be7ae29e5/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1069522692"
+    }
+  ],
+  "in_theaters": false
+}

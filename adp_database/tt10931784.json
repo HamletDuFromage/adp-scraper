@@ -1,0 +1,18 @@
+{
+  "Title": "Nanny",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Drama",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.12521a51-5db4-4374-ac1d-e129b2461a4c/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CC6MS11D/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

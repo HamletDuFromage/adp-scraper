@@ -1,0 +1,27 @@
+{
+  "Title": "The LEGO Batman Movie",
+  "Media Type": "Movie",
+  "Rating": "PG",
+  "Genre": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Superhero"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c52cbba3-fd10-4ed8-b565-9f683be19774/audiodescriin-20"
+    },
+    {
+      "HBO Max": "https://play.max.com/movie/1042ce03-1313-4af5-9cea-329e9e0bf579"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1197505667"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B06XJKXY4R/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,14 @@
+{
+  "Title": "Leanne",
+  "Media Type": "Series",
+  "Rating": "TV-14",
+  "Genre": [
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81752004"
+    }
+  ],
+  "in_theaters": false
+}

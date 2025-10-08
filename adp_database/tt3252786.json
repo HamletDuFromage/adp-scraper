@@ -1,0 +1,15 @@
+{
+  "Title": "Cowboys vs. Dinosaurs",
+  "Media Type": "Movie",
+  "Rating": "NR",
+  "Genre": [
+    "Action & Adventure",
+    "Horror"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.3aa9f7c4-4d97-83b8-75c3-3ef48c7d5424/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

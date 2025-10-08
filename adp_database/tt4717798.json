@@ -1,0 +1,18 @@
+{
+  "Title": "Scooby-Doo! and KISS: Rock and Roll Mystery",
+  "Media Type": "Movie",
+  "Rating": "ALL",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Music",
+    "Sci-Fi & Fantasy"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eaa9f731-985f-1a08-ebb1-7f8dfb5ca1dd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

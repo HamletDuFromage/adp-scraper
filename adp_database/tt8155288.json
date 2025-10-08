@@ -1,0 +1,24 @@
+{
+  "Title": "Happy Death Day 2U",
+  "Media Type": "Movie",
+  "Rating": "PG-13",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Mystery",
+    "Sci-Fi & Fantasy",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.6cb4674b-55ac-33cb-f088-67b80ee438d0/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1451069693"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B07NBD2MMF/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

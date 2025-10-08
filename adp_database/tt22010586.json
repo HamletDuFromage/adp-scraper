@@ -1,0 +1,14 @@
+{
+  "Title": "Capturing the Killer Nurse",
+  "Media Type": "Movie",
+  "Rating": "TV-14",
+  "Genre": [
+    "Documentary"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81512108"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,15 @@
+{
+  "Title": "Skin",
+  "Media Type": "Movie",
+  "Rating": "18+",
+  "Genre": [
+    "Documentary",
+    "Drama"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d0b5c7e5-ccfc-1caf-0191-95016bfea5fd/audiodescriin-20"
+    }
+  ],
+  "in_theaters": false
+}

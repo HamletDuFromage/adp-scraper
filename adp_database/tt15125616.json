@@ -1,0 +1,15 @@
+{
+  "Title": "Chicago Party Aunt",
+  "Media Type": "Series",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Animation",
+    "Comedy"
+  ],
+  "Providers": [
+    {
+      "Netflix": "https://www.netflix.com/title/81067223"
+    }
+  ],
+  "in_theaters": false
+}

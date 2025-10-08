@@ -1,0 +1,25 @@
+{
+  "Title": "The Holdovers",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Holiday"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.05419aca-6c4d-4035-a9d6-adf6c9239882/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id1713434224"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0CLQW4FQ2/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2700078"
+    }
+  ],
+  "in_theaters": false
+}

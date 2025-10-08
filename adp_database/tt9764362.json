@@ -1,0 +1,28 @@
+{
+  "Title": "The Menu",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "Providers": [
+    {
+      "Prime Video1": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.92ceda7a-436d-44bd-8653-11d25cad76a9/audiodescriin-20"
+    },
+    {
+      "Prime Video2": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.62a9374d-03ba-4785-8bdb-f62d4a34ccbb/audiodescriin-20"
+    },
+    {
+      "DVD": "https://www.amazon.com/dp/B0BQ7JBRDK/audiodescriin-20"
+    },
+    {
+      "Fandango": "https://www.vudu.com/content/movies/details/title/2195398"
+    },
+    {
+      "Paramount+": "https://www.paramountplus.com/movies/video/_IfBjWX_AkOxUHJMJU0ZTuzmLuqHHcIm/"
+    }
+  ],
+  "in_theaters": false
+}

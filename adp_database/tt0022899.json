@@ -1,0 +1,18 @@
+{
+  "Title": "Flowers and Trees",
+  "Media Type": "Movie",
+  "Rating": "TV-Y7",
+  "Genre": [
+    "Animation",
+    "Comedy",
+    "Kids & Family",
+    "Romance",
+    "Short"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/flowers-and-trees/4ozhrdjQJIZA"
+    }
+  ],
+  "in_theaters": false
+}

@@ -1,0 +1,16 @@
+{
+  "Title": "Crush",
+  "Media Type": "Movie",
+  "Rating": "TV-MA",
+  "Genre": [
+    "Comedy",
+    "LGBTQ",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Hulu": "https://www.hulu.com/movie/crush-fcc4d4d2-7edf-484e-966b-fb50025e430a"
+    }
+  ],
+  "in_theaters": false
+}

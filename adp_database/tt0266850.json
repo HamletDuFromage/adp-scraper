@@ -1,0 +1,17 @@
+{
+  "Title": "Phantom of the Megaplex",
+  "Media Type": "Movie",
+  "Rating": "TV-G",
+  "Genre": [
+    "Action & Adventure",
+    "Comedy",
+    "Kids & Family",
+    "Mystery"
+  ],
+  "Providers": [
+    {
+      "Disney+": "https://www.disneyplus.com/movies/phantom-of-the-megaplex/q32tXxE9gXZL"
+    }
+  ],
+  "in_theaters": false
+}

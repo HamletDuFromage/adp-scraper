@@ -1,0 +1,19 @@
+{
+  "Title": "This is Where I Leave You",
+  "Media Type": "Movie",
+  "Rating": "R",
+  "Genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "Providers": [
+    {
+      "Prime Video": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.aea9f674-c512-da80-a151-996d75f9260e/audiodescriin-20"
+    },
+    {
+      "Apple TV Store": "https://itunes.apple.com/us/movie/id913804943"
+    }
+  ],
+  "in_theaters": false
+}
