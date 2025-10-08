@@ -26,15 +26,10 @@ jobs:
         run: |
           python -m adp_scraper.main
 
-      - name: Configure git
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-
-      - name: Commit and push changes
-        run: |
           git add adp_database/*.json adp.json
           git diff --quiet || git commit -m "Update scraped ADP data"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
