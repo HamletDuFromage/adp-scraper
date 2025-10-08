@@ -48,6 +48,8 @@ def scrape_adp_page(page: int, session: requests.Session = None) ->dict:
                         providers.append({a.get_text(strip=True): a["href"]})
                     row_data[header] = providers
                     row_data["in_theaters"] = "Cinema" in text
+                elif header == "Genre":
+                    row_data[header] = [genre.strip() for genre in text.split(",")]
                 else:
                     row_data[header] = text
 
