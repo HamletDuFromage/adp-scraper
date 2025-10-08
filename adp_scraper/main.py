@@ -91,7 +91,9 @@ def main():
                 break
             page_number += 1
             http_errors = 0
-            break
 
     save_data(data)
     print(f"Found {len(data)} titles")
+
+if __name__ == "__main__": 
+    main()
