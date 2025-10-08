@@ -1,0 +1,41 @@
+name: Scrape ADP and Push
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *' 
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run ADP scraper
+        run: |
+          python -m adp_scraper.main
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add adp_database/*.json adp.json
+          git diff --quiet || git commit -m "Update scraped ADP data"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
